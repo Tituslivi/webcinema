@@ -1,43 +1,38 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T19:15:44Z",
+  "generatedAt": "2026-07-02T21:24:29Z",
   "weekStart": "2026-06-26",
   "weekEnd": "2026-07-02",
   "source": {
     "sessionsPath": "runs\\daily\\2026-07-02\\sessions.json",
-    "recordsTotal": 1144,
+    "recordsTotal": 1093,
     "skippedSources": 0,
-    "latestCapturedAt": "2026-07-02T19:15:06Z"
+    "latestCapturedAt": "2026-07-02T21:23:35Z"
   },
   "summary": {
-    "sessions": 176,
-    "films": 7,
-    "cinemas": 34,
-    "municipis": 23,
+    "sessions": 74,
+    "films": 6,
+    "cinemas": 22,
+    "municipis": 20,
     "topFilms": [
       {
         "slug": "viatge-al-pais-dels-blancs-en-catala",
         "title": "Viatge al país dels blancs",
-        "sessions": 82
-      },
-      {
-        "slug": "viva-en-catala",
-        "title": "Viva",
-        "sessions": 47
-      },
-      {
-        "slug": "toy-story-5-en-catala",
-        "title": "Toy Story 5",
-        "sessions": 23
+        "sessions": 39
       },
       {
         "slug": "minions-monsters-en-catala",
         "title": "Minions & Monsters",
-        "sessions": 16
+        "sessions": 14
       },
       {
-        "slug": "corredora-en-catala",
-        "title": "Corredora",
+        "slug": "viva-en-catala",
+        "title": "Viva",
+        "sessions": 13
+      },
+      {
+        "slug": "toy-story-5-en-catala",
+        "title": "Toy Story 5",
         "sessions": 6
       },
       {
@@ -54,14 +49,6 @@
   },
   "films": [
     {
-      "slug": "corredora-en-catala",
-      "title": "Corredora",
-      "href": "https://webcinema.cat/pellicula/corredora-en-catala",
-      "sessionCount": 6,
-      "cinemaCount": 1,
-      "municipiCount": 1
-    },
-    {
       "slug": "els-perez-osos-en-catala",
       "title": "Els Pérez-Osos",
       "href": "https://webcinema.cat/pellicula/els-perez-osos-en-catala",
@@ -73,33 +60,33 @@
       "slug": "minions-monsters-en-catala",
       "title": "Minions & Monsters",
       "href": "https://webcinema.cat/pellicula/minions-monsters-en-catala",
-      "sessionCount": 16,
-      "cinemaCount": 10,
-      "municipiCount": 10
+      "sessionCount": 14,
+      "cinemaCount": 8,
+      "municipiCount": 8
     },
     {
       "slug": "toy-story-5-en-catala",
       "title": "Toy Story 5",
       "href": "https://webcinema.cat/pellicula/toy-story-5-en-catala",
-      "sessionCount": 23,
-      "cinemaCount": 6,
-      "municipiCount": 6
+      "sessionCount": 6,
+      "cinemaCount": 5,
+      "municipiCount": 5
     },
     {
       "slug": "viatge-al-pais-dels-blancs-en-catala",
       "title": "Viatge al país dels blancs",
       "href": "https://webcinema.cat/pellicula/viatge-al-pais-dels-blancs-en-catala",
-      "sessionCount": 82,
-      "cinemaCount": 24,
-      "municipiCount": 16
+      "sessionCount": 39,
+      "cinemaCount": 16,
+      "municipiCount": 15
     },
     {
       "slug": "viva-en-catala",
       "title": "Viva",
       "href": "https://webcinema.cat/pellicula/viva-en-catala",
-      "sessionCount": 47,
-      "cinemaCount": 13,
-      "municipiCount": 10
+      "sessionCount": 13,
+      "cinemaCount": 8,
+      "municipiCount": 8
     },
     {
       "slug": "viva-voc-versio-original-en-en-catala",
@@ -111,15 +98,6 @@
     }
   ],
   "cinemas": [
-    {
-      "slug": "jca-cinemes-alpicat",
-      "name": "JCA Cinemes Alpicat",
-      "href": "https://webcinema.cat/cinema/jca-cinemes-alpicat",
-      "municipiSlug": "alpicat",
-      "municipiName": "Alpicat",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
     {
       "slug": "amposta-cinemes",
       "name": "Amposta Cinemes",
@@ -148,76 +126,13 @@
       "filmCount": 1
     },
     {
-      "slug": "cinemes-girona",
-      "name": "Cinemes Girona",
-      "href": "https://webcinema.cat/cinema/cinemes-girona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
-      "slug": "cinesa-diagonal",
-      "name": "Cinesa Diagonal",
-      "href": "https://webcinema.cat/cinema/cinesa-diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
-      "slug": "cinesa-diagonal-mar",
-      "name": "Cinesa Diagonal Mar",
-      "href": "https://webcinema.cat/cinema/cinesa-diagonal-mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
-      "slug": "cinesa-som-multiespai",
-      "name": "Cinesa Som Multiespai",
-      "href": "https://webcinema.cat/cinema/cinesa-som-multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
-      "slug": "mooby-balmes",
-      "name": "Mooby Balmes",
-      "href": "https://webcinema.cat/cinema/mooby-balmes",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
-      "slug": "mooby-bosque",
-      "name": "Mooby Bosque",
-      "href": "https://webcinema.cat/cinema/mooby-bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
       "slug": "mooby-gran-sarria",
       "name": "Mooby Gran Sarrià",
       "href": "https://webcinema.cat/cinema/mooby-gran-sarria",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1
-    },
-    {
-      "slug": "renoir-floridablanca",
-      "name": "Renoir Floridablanca",
-      "href": "https://webcinema.cat/cinema/renoir-floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionCount": 8,
-      "filmCount": 2
     },
     {
       "slug": "verdi-barcelona",
@@ -225,8 +140,8 @@
       "href": "https://webcinema.cat/cinema/verdi-barcelona",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 3,
-      "filmCount": 2
+      "sessionCount": 1,
+      "filmCount": 1
     },
     {
       "slug": "zumzeig-cinecooperativa",
@@ -247,15 +162,6 @@
       "filmCount": 2
     },
     {
-      "slug": "cine-yelmo-premium-castelldefels",
-      "name": "Cine Yelmo Premium Castelldefels",
-      "href": "https://webcinema.cat/cinema/cine-yelmo-premium-castelldefels",
-      "municipiSlug": "castelldefels",
-      "municipiName": "Castelldefels",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
       "slug": "ocine-el-vendrell",
       "name": "Ocine El Vendrell",
       "href": "https://webcinema.cat/cinema/ocine-el-vendrell",
@@ -270,7 +176,7 @@
       "href": "https://webcinema.cat/cinema/cat-cines",
       "municipiSlug": "figueres",
       "municipiName": "Figueres",
-      "sessionCount": 3,
+      "sessionCount": 2,
       "filmCount": 2
     },
     {
@@ -299,15 +205,6 @@
       "municipiName": "Lleida",
       "sessionCount": 3,
       "filmCount": 1
-    },
-    {
-      "slug": "screenbox-lleida",
-      "name": "Screenbox Lleida",
-      "href": "https://webcinema.cat/cinema/screenbox-lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionCount": 79,
-      "filmCount": 4
     },
     {
       "slug": "bages-centre",
@@ -346,21 +243,12 @@
       "filmCount": 2
     },
     {
-      "slug": "cine-yelmo-premium-sant-cugat",
-      "name": "Cine Yelmo Premium Sant Cugat",
-      "href": "https://webcinema.cat/cinema/cine-yelmo-premium-sant-cugat",
-      "municipiSlug": "sant-cugat-del-valles",
-      "municipiName": "Sant Cugat del Vallès",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
       "slug": "cinemes-sant-cugat",
       "name": "Cinemes Sant Cugat",
       "href": "https://webcinema.cat/cinema/cinemes-sant-cugat",
       "municipiSlug": "sant-cugat-del-valles",
       "municipiName": "Sant Cugat del Vallès",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -400,15 +288,6 @@
       "filmCount": 2
     },
     {
-      "slug": "cinema-catalunya",
-      "name": "Cinema Catalunya",
-      "href": "https://webcinema.cat/cinema/cinema-catalunya",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
       "slug": "ocine-vila-seca",
       "name": "Ocine Vila-seca",
       "href": "https://webcinema.cat/cinema/ocine-vila-seca",
@@ -419,14 +298,6 @@
     }
   ],
   "municipis": [
-    {
-      "slug": "alpicat",
-      "name": "Alpicat",
-      "href": "https://webcinema.cat/municipi/alpicat/cinema-en-catala",
-      "sessionCount": 1,
-      "filmCount": 1,
-      "cinemaCount": 1
-    },
     {
       "slug": "amposta",
       "name": "Amposta",
@@ -455,9 +326,9 @@
       "slug": "barcelona",
       "name": "Barcelona",
       "href": "https://webcinema.cat/municipi/barcelona/cinema-en-catala",
-      "sessionCount": 20,
-      "filmCount": 3,
-      "cinemaCount": 10
+      "sessionCount": 3,
+      "filmCount": 2,
+      "cinemaCount": 3
     },
     {
       "slug": "castell-daro-platja-daro-i-sagaro",
@@ -465,14 +336,6 @@
       "href": "https://webcinema.cat/municipi/castell-daro-platja-daro-i-sagaro/cinema-en-catala",
       "sessionCount": 3,
       "filmCount": 2,
-      "cinemaCount": 1
-    },
-    {
-      "slug": "castelldefels",
-      "name": "Castelldefels",
-      "href": "https://webcinema.cat/municipi/castelldefels/cinema-en-catala",
-      "sessionCount": 1,
-      "filmCount": 1,
       "cinemaCount": 1
     },
     {
@@ -487,7 +350,7 @@
       "slug": "figueres",
       "name": "Figueres",
       "href": "https://webcinema.cat/municipi/figueres/cinema-en-catala",
-      "sessionCount": 3,
+      "sessionCount": 2,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -511,9 +374,9 @@
       "slug": "lleida",
       "name": "Lleida",
       "href": "https://webcinema.cat/municipi/lleida/cinema-en-catala",
-      "sessionCount": 82,
-      "filmCount": 4,
-      "cinemaCount": 2
+      "sessionCount": 3,
+      "filmCount": 1,
+      "cinemaCount": 1
     },
     {
       "slug": "manresa",
@@ -551,9 +414,9 @@
       "slug": "sant-cugat-del-valles",
       "name": "Sant Cugat del Vallès",
       "href": "https://webcinema.cat/municipi/sant-cugat-del-valles/cinema-en-catala",
-      "sessionCount": 3,
+      "sessionCount": 1,
       "filmCount": 1,
-      "cinemaCount": 2
+      "cinemaCount": 1
     },
     {
       "slug": "sant-feliu-de-llobregat",
@@ -588,14 +451,6 @@
       "cinemaCount": 1
     },
     {
-      "slug": "terrassa",
-      "name": "Terrassa",
-      "href": "https://webcinema.cat/municipi/terrassa/cinema-en-catala",
-      "sessionCount": 1,
-      "filmCount": 1,
-      "cinemaCount": 1
-    },
-    {
       "slug": "vila-seca",
       "name": "Vila-seca",
       "href": "https://webcinema.cat/municipi/vila-seca/cinema-en-catala",
@@ -605,1145 +460,6 @@
     }
   ],
   "sessions": [
-    {
-      "id": "532c42ce87f82e45",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-26",
-      "sessionTime": "10:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86510",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86510",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "7d3accc57765c308",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-26",
-      "sessionTime": "10:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86531",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86531",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "d100fd0b610fd030",
-      "filmSlug": "corredora-en-catala",
-      "filmTitle": "Corredora",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-26",
-      "sessionTime": "13:45",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86742",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86742",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "da898692a382cbb4",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-26",
-      "sessionTime": "15:10",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86527",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86527",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "7a2b0ed661dd9789",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-26",
-      "sessionTime": "15:40",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86501",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86501",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "7c680f4cccbd26a1",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-26",
-      "sessionTime": "16:15",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86582",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86582",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "fbe786858bb03ab6",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-26",
-      "sessionTime": "18:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86589",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86589",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "c7fefee5cd3d3467",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-26",
-      "sessionTime": "18:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86534",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86534",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "90f1bb196c1a16e6",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-26",
-      "sessionTime": "18:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86495",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86495",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "2de7c4a0ef51370a",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-26",
-      "sessionTime": "22:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86511",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86511",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "292d53e05387fafa",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-26",
-      "sessionTime": "22:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86521",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86521",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "c7284b8d57abf645",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "10:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86594",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86594",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "a24b5059875997af",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "10:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86502",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86502",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "fac1db39f7bbe9ae",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "10:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86535",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86535",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "5b07eed57a9733d1",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "15:05",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86528",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86528",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "ed988a36ff836ba1",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "15:10",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86492",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86492",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "5576840d3d7b9906",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "16:15",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86583",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86583",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "cfc46dfa55712cb7",
-      "filmSlug": "corredora-en-catala",
-      "filmTitle": "Corredora",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "17:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86738",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86738",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "c114d0c3273b5306",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "18:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86590",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86590",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "8b79c3eaced5ae70",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "18:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86512",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86512",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "52d3778c4820df46",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "18:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86529",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86529",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "df90fb18d7e9264e",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "20:20",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86513",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86513",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "f9bd9a83b6ea708f",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "22:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86503",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86503",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "c1a0fa1c1f7282c7",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-27",
-      "sessionTime": "22:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86536",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86536",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "1a7c0767c43e2e0a",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-28",
-      "sessionTime": "10:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86522",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86522",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "18b9d3ae2fcaaf75",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-28",
-      "sessionTime": "11:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86493",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86493",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "e55e859150cf0788",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-28",
-      "sessionTime": "15:05",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86496",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86496",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "998c4870bb554205",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-28",
-      "sessionTime": "16:15",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86584",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86584",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "95e228cacc2c144b",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-28",
-      "sessionTime": "18:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86591",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86591",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "2f4b2e72fdf1d5fd",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-28",
-      "sessionTime": "18:40",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86537",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86537",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "057f4e811190af8a",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-28",
-      "sessionTime": "18:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86497",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86497",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "4a2aec4cafb9b454",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-28",
-      "sessionTime": "20:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86538",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86538",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "b498e38694334f06",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-28",
-      "sessionTime": "22:20",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86539",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86539",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "86567189089d5c8d",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-28",
-      "sessionTime": "22:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86504",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86504",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "830eb1e3ffcf2ecc",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-29",
-      "sessionTime": "10:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86540",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86540",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "1487c297077bc55f",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-29",
-      "sessionTime": "11:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86494",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86494",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "b3b1c13c8ad09a28",
-      "filmSlug": "corredora-en-catala",
-      "filmTitle": "Corredora",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-29",
-      "sessionTime": "12:05",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86743",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86743",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "8981e1000431bc98",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-29",
-      "sessionTime": "13:40",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86595",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86595",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "c5b5fba7538a7445",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-29",
-      "sessionTime": "15:05",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86498",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86498",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "97c6c1f42e1edef8",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-29",
-      "sessionTime": "16:10",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86532",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86532",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "6dc0a085f09cead9",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-29",
-      "sessionTime": "18:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86514",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86514",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "8d785393a08eeef0",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-29",
-      "sessionTime": "19:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86585",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86585",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "7a2a1dbe793e0d9c",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-29",
-      "sessionTime": "20:25",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86541",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86541",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "a4905df7a2ffe879",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-29",
-      "sessionTime": "20:45",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86592",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86592",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "e51ea7612f7aa364",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-29",
-      "sessionTime": "22:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86515",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86515",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "53b4a9ccedcaba4d",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-29",
-      "sessionTime": "22:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86523",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86523",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "ceb4a3ba884ba014",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-30",
-      "sessionTime": "10:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86499",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86499",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "9d3fc06c72c0fa5b",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-30",
-      "sessionTime": "10:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86542",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86542",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "cd39a1b18af36161",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-30",
-      "sessionTime": "15:05",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86530",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86530",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "be66f2761e1c1f96",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-30",
-      "sessionTime": "15:25",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86516",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86516",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "8b2f1f8f8411594a",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-30",
-      "sessionTime": "16:15",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86586",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86586",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "7077c91df19d7110",
-      "filmSlug": "corredora-en-catala",
-      "filmTitle": "Corredora",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-30",
-      "sessionTime": "17:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86739",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86739",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "6eaadb6dc64e0ff5",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-30",
-      "sessionTime": "18:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86533",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86533",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "e99ff65622ab6dcf",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-30",
-      "sessionTime": "18:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86500",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86500",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "77d935b5f56b3b71",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-30",
-      "sessionTime": "19:55",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86593",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86593",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "5f2f0864fb7eaec7",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-30",
-      "sessionTime": "22:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86517",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86517",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "2314aeb83e93b830",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-06-30",
-      "sessionTime": "22:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86524",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86524",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "807ed69be5a26c0f",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-01",
-      "sessionTime": "10:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86505",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86505",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "38f1e53e8634a50a",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-01",
-      "sessionTime": "10:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86543",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86543",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "ff018d5f1b5f3552",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-01",
-      "sessionTime": "11:50",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86596",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86596",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "ade7d492f3d641d8",
-      "filmSlug": "corredora-en-catala",
-      "filmTitle": "Corredora",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-01",
-      "sessionTime": "13:55",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86739",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86739",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "3621c6866c913899",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-01",
-      "sessionTime": "15:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86597",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86597",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "2249ae9237200d8d",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-01",
-      "sessionTime": "15:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86544",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86544",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "13870ecd04bf8cfa",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-01",
-      "sessionTime": "17:15",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86598",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86598",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "7de4744fac503052",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-01",
-      "sessionTime": "18:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86518",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86518",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "6e12e28ea619271f",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-01",
-      "sessionTime": "19:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86415",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86415",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "c0c1b1732396b8c1",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-01",
-      "sessionTime": "20:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86506",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86506",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
     {
       "id": "34f860801aa21156",
       "filmSlug": "viva-en-catala",
@@ -1759,92 +475,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/viva/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-07-02T19:15:03Z"
-    },
-    {
-      "id": "b9fba316f7f350a7",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-01",
-      "sessionTime": "22:20",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86507",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86507",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "0f0a8c7f1c3a7c39",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "10:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86508",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86508",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "36aa3e76a555563a",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "10:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86545",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86545",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "e6de74a8a5658f1e",
-      "filmSlug": "corredora-en-catala",
-      "filmTitle": "Corredora",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "13:45",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86741",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86741",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
-    },
-    {
-      "id": "0e766ed149fcaff6",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "15:35",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86509",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86509",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
+      "capturedAt": "2026-07-02T21:23:31Z"
     },
     {
       "id": "b2ec9190dac670e4",
@@ -1861,7 +492,7 @@
       "pickerUrl": "https://www.ocinearenys.es/?option=com_cines&task=peli&iid=10408",
       "sourceUrl": "https://www.ocinearenys.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
+      "capturedAt": "2026-07-02T21:23:19Z"
     },
     {
       "id": "475b6c850704a692",
@@ -1878,7 +509,7 @@
       "pickerUrl": "https://ocineplatjadaro.es/?option=com_cines&task=peli&iid=10338",
       "sourceUrl": "https://ocineplatjadaro.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "1aba518f1d504123",
@@ -1895,24 +526,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10309",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
-    },
-    {
-      "id": "54c6ea5bbb1325fd",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "15:45",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86587",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86587",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
+      "capturedAt": "2026-07-02T21:23:19Z"
     },
     {
       "id": "3383023502bad29b",
@@ -1929,7 +543,7 @@
       "pickerUrl": "https://www.ocinevilaseca.es/?option=com_cines&task=peli&iid=10408",
       "sourceUrl": "https://www.ocinevilaseca.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:21Z"
     },
     {
       "id": "786e99ef1ddd0cc8",
@@ -1946,7 +560,7 @@
       "pickerUrl": "https://www.ocinemagic.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinemagic.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "be27908fc6d201df",
@@ -1963,7 +577,7 @@
       "pickerUrl": "https://ocineplatjadaro.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://ocineplatjadaro.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "4d0f14e279d943da",
@@ -1980,7 +594,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "4149947794a77afe",
@@ -1997,7 +611,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10408",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "65922186dbb22f21",
@@ -2014,7 +628,7 @@
       "pickerUrl": "https://www.ocinepremiumlleida.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinepremiumlleida.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "77aeaaa116d4220e",
@@ -2031,41 +645,7 @@
       "pickerUrl": "https://www.ocinevilaseca.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinevilaseca.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:53Z"
-    },
-    {
-      "id": "c5c7014e792abe54",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "16:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1075640/",
-      "pickerUrl": "https://www.pillalas.com/pase/1075640/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-02",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-02T19:14:55Z"
-    },
-    {
-      "id": "5b81a31b8bf7b6fb",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "16:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1075682/",
-      "pickerUrl": "https://www.pillalas.com/pase/1075682/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-02",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-02T19:14:56Z"
+      "capturedAt": "2026-07-02T21:23:21Z"
     },
     {
       "id": "b271cf6aa70bb4f4",
@@ -2082,7 +662,7 @@
       "pickerUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10472",
       "sourceUrl": "https://ocinegranollers.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "d36f60ec132dfa5e",
@@ -2099,7 +679,7 @@
       "pickerUrl": "https://www.cinesbagescentre.com/?option=com_cines&task=peli&iid=6416",
       "sourceUrl": "https://www.cinesbagescentre.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:40Z"
+      "capturedAt": "2026-07-02T21:23:07Z"
     },
     {
       "id": "cec1185f7b8aa416",
@@ -2116,7 +696,7 @@
       "pickerUrl": "https://www.cinesbagescentre.com/?option=com_cines&task=peli&iid=6430",
       "sourceUrl": "https://www.cinesbagescentre.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:40Z"
+      "capturedAt": "2026-07-02T21:23:07Z"
     },
     {
       "id": "bfb22748a91d61af",
@@ -2133,7 +713,7 @@
       "pickerUrl": "https://www.cinesbagescentre.com/?option=com_cines&task=peli&iid=6420",
       "sourceUrl": "https://www.cinesbagescentre.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:40Z"
+      "capturedAt": "2026-07-02T21:23:07Z"
     },
     {
       "id": "d0735eb133360389",
@@ -2150,7 +730,7 @@
       "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10472",
       "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "a789ec0ab2d33077",
@@ -2167,7 +747,7 @@
       "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10429",
       "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "ce46e5f3b1f2c2dd",
@@ -2184,7 +764,7 @@
       "pickerUrl": "https://www.ocinearenys.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinearenys.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
+      "capturedAt": "2026-07-02T21:23:19Z"
     },
     {
       "id": "5b7e1f8412aa6b0f",
@@ -2201,7 +781,7 @@
       "pickerUrl": "https://www.cinesbagescentre.com/?option=com_cines&task=peli&iid=6410",
       "sourceUrl": "https://www.cinesbagescentre.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:40Z"
+      "capturedAt": "2026-07-02T21:23:07Z"
     },
     {
       "id": "47ebbfe0fe5ce65d",
@@ -2218,7 +798,7 @@
       "pickerUrl": "https://ocineroquetes.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://ocineroquetes.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "c12bf5e43dc19d8c",
@@ -2235,7 +815,7 @@
       "pickerUrl": "https://www.cinesimperial.com/?option=com_cines&task=peli&iid=5905",
       "sourceUrl": "https://www.cinesimperial.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:41Z"
+      "capturedAt": "2026-07-02T21:23:08Z"
     },
     {
       "id": "663f70f4c86f4026",
@@ -2252,24 +832,7 @@
       "pickerUrl": "https://www.cinesimperial.com/?option=com_cines&task=peli&iid=5890",
       "sourceUrl": "https://www.cinesimperial.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:41Z"
-    },
-    {
-      "id": "b92377c82e8c1272",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "16:35",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86546",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86546",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
+      "capturedAt": "2026-07-02T21:23:08Z"
     },
     {
       "id": "d01d2aa8c6e38575",
@@ -2286,7 +849,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10181",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "6619244ccb7d5482",
@@ -2303,7 +866,7 @@
       "pickerUrl": "https://www.compraentradas.com",
       "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16149/minions--monsters",
       "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-07-02T19:14:40Z"
+      "capturedAt": "2026-07-02T21:23:08Z"
     },
     {
       "id": "b5c454776b807bfb",
@@ -2320,7 +883,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10309",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
+      "capturedAt": "2026-07-02T21:23:19Z"
     },
     {
       "id": "b91a9b5b7d27e743",
@@ -2337,24 +900,7 @@
       "pickerUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10309",
       "sourceUrl": "https://ocinegranollers.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
-    },
-    {
-      "id": "8334e89f738636fc",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "17:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86588",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86588",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "52c6780f89e49e8f",
@@ -2371,7 +917,7 @@
       "pickerUrl": "https://www.ocinemagic.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinemagic.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "cf71b80ce4e8ae2c",
@@ -2388,7 +934,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-07-02T19:15:01Z"
+      "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
       "id": "b359ceb2c9ac2201",
@@ -2405,7 +951,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-07-02T19:15:01Z"
+      "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
       "id": "de4915fbdf1533d1",
@@ -2422,41 +968,7 @@
       "pickerUrl": "https://www.ocinevilaseca.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinevilaseca.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:53Z"
-    },
-    {
-      "id": "69cd9732f8fd5fd8",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "18:10",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1075645/",
-      "pickerUrl": "https://www.pillalas.com/pase/1075645/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-02",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-02T19:14:55Z"
-    },
-    {
-      "id": "5d51d79d7a249c4f",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "18:10",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1075683/",
-      "pickerUrl": "https://www.pillalas.com/pase/1075683/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-02",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-02T19:14:56Z"
+      "capturedAt": "2026-07-02T21:23:21Z"
     },
     {
       "id": "77a7dde946cd118d",
@@ -2473,7 +985,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "5c34a581dda074a3",
@@ -2490,7 +1002,7 @@
       "pickerUrl": "https://www.cinesbagescentre.com/?option=com_cines&task=peli&iid=6430",
       "sourceUrl": "https://www.cinesbagescentre.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:40Z"
+      "capturedAt": "2026-07-02T21:23:07Z"
     },
     {
       "id": "b535e9ba80ab469f",
@@ -2507,7 +1019,7 @@
       "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10429",
       "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "150696eed5c3b0ab",
@@ -2524,7 +1036,7 @@
       "pickerUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10472",
       "sourceUrl": "https://ocinegranollers.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "a3665000db596487",
@@ -2541,7 +1053,7 @@
       "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10472",
       "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "ecafacc0ac0e8e4f",
@@ -2558,24 +1070,7 @@
       "pickerUrl": "https://www.ocinearenys.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinearenys.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
-    },
-    {
-      "id": "19d413a9d6972d2d",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "18:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86519",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86519",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
+      "capturedAt": "2026-07-02T21:23:19Z"
     },
     {
       "id": "9d7b0a80a627315a",
@@ -2592,24 +1087,7 @@
       "pickerUrl": "https://www.cinesimperial.com/?option=com_cines&task=peli&iid=5890",
       "sourceUrl": "https://www.cinesimperial.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:41Z"
-    },
-    {
-      "id": "73262357afe4e071",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "cinemes-sant-cugat",
-      "cinemaName": "Cinemes Sant Cugat",
-      "municipiSlug": "sant-cugat-del-valles",
-      "municipiName": "Sant Cugat del Vallès",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "18:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=113481",
-      "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
-      "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:41Z"
+      "capturedAt": "2026-07-02T21:23:08Z"
     },
     {
       "id": "aa77aeedede580bd",
@@ -2626,7 +1104,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-07-02T19:15:01Z"
+      "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
       "id": "0ac4bc833b08e49c",
@@ -2643,24 +1121,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-07-02T19:15:01Z"
-    },
-    {
-      "id": "3fef31d0063c46c7",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "19:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86525",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86525",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
+      "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
       "id": "32f448d60015cf1c",
@@ -2677,7 +1138,7 @@
       "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
       "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
       "extractorType": "cinesolot-html",
-      "capturedAt": "2026-07-02T19:15:00Z"
+      "capturedAt": "2026-07-02T21:23:29Z"
     },
     {
       "id": "498751c7089f0c7e",
@@ -2694,7 +1155,7 @@
       "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4476",
       "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
       "extractorType": "cinesolot-html",
-      "capturedAt": "2026-07-02T19:15:00Z"
+      "capturedAt": "2026-07-02T21:23:29Z"
     },
     {
       "id": "60aa5f0e0146051d",
@@ -2711,7 +1172,7 @@
       "pickerUrl": "https://www.cinesimperial.com/?option=com_cines&task=peli&iid=5905",
       "sourceUrl": "https://www.cinesimperial.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:41Z"
+      "capturedAt": "2026-07-02T21:23:08Z"
     },
     {
       "id": "cd2062c83760ba74",
@@ -2728,24 +1189,7 @@
       "pickerUrl": "https://cinemaprado.es/mapasesion2023.php",
       "sourceUrl": "https://cinemaprado.es",
       "extractorType": "ticketing-taquilla81",
-      "capturedAt": "2026-07-02T19:14:41Z"
-    },
-    {
-      "id": "b71f467877e33d91",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "cat-cines",
-      "cinemaName": "CAT Cines",
-      "municipiSlug": "figueres",
-      "municipiName": "Figueres",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "19:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.catcines.cat//film-4750/p?cat-viatge-al-pais-dels-blanc",
-      "pickerUrl": "https://www.catcines.cat//film-4750/p?cat-viatge-al-pais-dels-blanc",
-      "sourceUrl": "https://www.catcines.cat//film-4750/p?cat-viatge-al-pais-dels-blanc",
-      "extractorType": "catcines-html",
-      "capturedAt": "2026-07-02T19:15:04Z"
+      "capturedAt": "2026-07-02T21:23:08Z"
     },
     {
       "id": "2b6faa1e74152088",
@@ -2762,24 +1206,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-07-02T19:15:01Z"
-    },
-    {
-      "id": "bed1ba0bf27e1127",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "20:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=114858&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-02T19:14:50Z"
+      "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
       "id": "26edbc3d043126f0",
@@ -2796,24 +1223,7 @@
       "pickerUrl": "https://cinemaribes.es/mapasesion2023.php",
       "sourceUrl": "https://cinemaribes.es/",
       "extractorType": "ticketing-taquilla81",
-      "capturedAt": "2026-07-02T19:15:01Z"
-    },
-    {
-      "id": "caaf015b0e26183d",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "20:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/217191/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/217191/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viva",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:56Z"
+      "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
       "id": "ba96b5f672845159",
@@ -2830,7 +1240,7 @@
       "pickerUrl": "https://ocineplatjadaro.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://ocineplatjadaro.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "9d8fca4359eaed20",
@@ -2847,7 +1257,7 @@
       "pickerUrl": "https://ocinevendrell.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://ocinevendrell.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
+      "capturedAt": "2026-07-02T21:23:19Z"
     },
     {
       "id": "c7f7994fffd1d29d",
@@ -2864,7 +1274,7 @@
       "pickerUrl": "https://www.ocinevilaseca.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinevilaseca.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:53Z"
+      "capturedAt": "2026-07-02T21:23:21Z"
     },
     {
       "id": "cb7c48a8c3254f42",
@@ -2881,7 +1291,7 @@
       "pickerUrl": "https://www.ocinemagic.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinemagic.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "60281812bad20529",
@@ -2898,58 +1308,7 @@
       "pickerUrl": "https://www.cinesbagescentre.com/?option=com_cines&task=peli&iid=6420",
       "sourceUrl": "https://www.cinesbagescentre.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:40Z"
-    },
-    {
-      "id": "db64c74af7c45c8b",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "20:20",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1075648/",
-      "pickerUrl": "https://www.pillalas.com/pase/1075648/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-02",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-02T19:14:55Z"
-    },
-    {
-      "id": "cd395db9d56f96da",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "20:20",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1075684/",
-      "pickerUrl": "https://www.pillalas.com/pase/1075684/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-02",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-02T19:14:56Z"
-    },
-    {
-      "id": "d44e33eaa1437718",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "20:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/217198/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/217198/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:56Z"
+      "capturedAt": "2026-07-02T21:23:07Z"
     },
     {
       "id": "90e8fb28756a368e",
@@ -2966,7 +1325,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "0c29cf196f9295c9",
@@ -2983,24 +1342,7 @@
       "pickerUrl": "https://www.cinesbagescentre.com/?option=com_cines&task=peli&iid=6430",
       "sourceUrl": "https://www.cinesbagescentre.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:40Z"
-    },
-    {
-      "id": "f996aaa1c7db1e44",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "cine-yelmo-premium-castelldefels",
-      "cinemaName": "Cine Yelmo Premium Castelldefels",
-      "municipiSlug": "castelldefels",
-      "municipiName": "Castelldefels",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "20:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
-      "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
-      "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-07-02T19:14:40Z"
+      "capturedAt": "2026-07-02T21:23:07Z"
     },
     {
       "id": "8249a1a8697f887e",
@@ -3017,7 +1359,7 @@
       "pickerUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10472",
       "sourceUrl": "https://ocinegranollers.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "934bf308ba3edde7",
@@ -3034,24 +1376,7 @@
       "pickerUrl": "https://www.ocinepremiumlleida.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinepremiumlleida.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
-    },
-    {
-      "id": "513b722b915f2be1",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "cine-yelmo-premium-sant-cugat",
-      "cinemaName": "Cine Yelmo Premium Sant Cugat",
-      "municipiSlug": "sant-cugat-del-valles",
-      "municipiName": "Sant Cugat del Vallès",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "20:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
-      "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
-      "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-07-02T19:14:40Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "0a388485026cc91a",
@@ -3068,58 +1393,7 @@
       "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10472",
       "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
-    },
-    {
-      "id": "1a8727896a668a3e",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "cinemes-girona",
-      "cinemaName": "Cinemes Girona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "21:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40040&language=CAT",
-      "pickerUrl": "https://www.cinemesgirona.cat/viva",
-      "sourceUrl": "https://www.cinemesgirona.cat/viva",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:42Z"
-    },
-    {
-      "id": "2b33666ca32e992a",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "mooby-balmes",
-      "cinemaName": "Mooby Balmes",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "21:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-balmes.admit-one.eu/?p=tickets&perfCode=184321&language=cat&theatre=BAL-BALMES",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-02T19:14:50Z"
-    },
-    {
-      "id": "8a4d08ea9afde000",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "21:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=137766&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-02T19:14:50Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "f1912b52d259f4c8",
@@ -3136,7 +1410,7 @@
       "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
       "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
       "extractorType": "cinesolot-html",
-      "capturedAt": "2026-07-02T19:15:00Z"
+      "capturedAt": "2026-07-02T21:23:29Z"
     },
     {
       "id": "eab2d864ef36cb50",
@@ -3153,7 +1427,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:41Z"
+      "capturedAt": "2026-07-02T21:23:08Z"
     },
     {
       "id": "20cba1b2507bb0a0",
@@ -3170,7 +1444,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-07-02T19:15:01Z"
+      "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
       "id": "2160301252b1bdc8",
@@ -3187,58 +1461,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-07-02T19:15:01Z"
-    },
-    {
-      "id": "572b29cbe82e42a2",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "cinema-catalunya",
-      "cinemaName": "Cinema Catalunya",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "21:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.reservaentradas.com/entrada/barcelona/cinemacatalunya/viva/23603/?step=2",
-      "pickerUrl": "https://www.reservaentradas.com/sesiones/barcelona/cinemacatalunya/viva/923/",
-      "sourceUrl": "https://www.reservaentradas.com/sesiones/barcelona/cinemacatalunya/viva/923/",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:43Z"
-    },
-    {
-      "id": "4a18dc70308a36eb",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaSlug": "jca-cinemes-alpicat",
-      "cinemaName": "JCA Cinemes Alpicat",
-      "municipiSlug": "alpicat",
-      "municipiName": "Alpicat",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "21:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=303930",
-      "pickerUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-07-02T19:14:48Z"
-    },
-    {
-      "id": "4b9358bf546da204",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "21:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
       "id": "698552e220bc20b3",
@@ -3255,7 +1478,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4750/p?cat-viatge-al-pais-dels-blanc",
       "sourceUrl": "https://www.catcines.cat//film-4750/p?cat-viatge-al-pais-dels-blanc",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-07-02T19:15:04Z"
+      "capturedAt": "2026-07-02T21:23:33Z"
     },
     {
       "id": "14ebb2840f73201d",
@@ -3272,24 +1495,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4749/p?cat-viva",
       "sourceUrl": "https://www.catcines.cat//film-4749/p?cat-viva",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-07-02T19:15:06Z"
-    },
-    {
-      "id": "8fbdd806ee16f95a",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "22:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86520",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86520",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
+      "capturedAt": "2026-07-02T21:23:35Z"
     },
     {
       "id": "09b90660f30b4142",
@@ -3306,7 +1512,7 @@
       "pickerUrl": "https://www.cinesimperial.com/?option=com_cines&task=peli&iid=5905",
       "sourceUrl": "https://www.cinesimperial.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:41Z"
+      "capturedAt": "2026-07-02T21:23:08Z"
     },
     {
       "id": "091ada07323977ba",
@@ -3323,7 +1529,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-02T19:14:50Z"
+      "capturedAt": "2026-07-02T21:23:18Z"
     },
     {
       "id": "9037fe21e00e43bc",
@@ -3340,24 +1546,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10408",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
-    },
-    {
-      "id": "9bf98ef0a7e56956",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "22:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-02T19:14:42Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "0412422c7d1d29d7",
@@ -3374,7 +1563,7 @@
       "pickerUrl": "https://www.cinesbagescentre.com/?option=com_cines&task=peli&iid=6420",
       "sourceUrl": "https://www.cinesbagescentre.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:40Z"
+      "capturedAt": "2026-07-02T21:23:07Z"
     },
     {
       "id": "7b64a82012da0ba8",
@@ -3391,41 +1580,7 @@
       "pickerUrl": "https://ocineroquetes.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://ocineroquetes.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
-    },
-    {
-      "id": "74d9dfac1a2c18e7",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "22:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1075829/",
-      "pickerUrl": "https://www.pillalas.com/pase/1075829/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-02",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-02T19:14:55Z"
-    },
-    {
-      "id": "2fab924861b5bcfa",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "22:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1075808/",
-      "pickerUrl": "https://www.pillalas.com/pase/1075808/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-02",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-02T19:14:56Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "360a78b450c2ac59",
@@ -3442,7 +1597,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217201/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:56Z"
+      "capturedAt": "2026-07-02T21:23:25Z"
     },
     {
       "id": "3c52b73a5634d78a",
@@ -3459,7 +1614,7 @@
       "pickerUrl": "https://ocinevendrell.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://ocinevendrell.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
+      "capturedAt": "2026-07-02T21:23:19Z"
     },
     {
       "id": "bf4f067048012c3b",
@@ -3476,24 +1631,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:51Z"
-    },
-    {
-      "id": "32af36131e074939",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "22:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86526",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=86526",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-02T19:15:00Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "3f9fa28faf611487",
@@ -3510,7 +1648,7 @@
       "pickerUrl": "https://www.cinesbagescentre.com/?option=com_cines&task=peli&iid=6430",
       "sourceUrl": "https://www.cinesbagescentre.com/components/com_cines/json/ca_cartellera.json",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-02T19:14:40Z"
+      "capturedAt": "2026-07-02T21:23:07Z"
     },
     {
       "id": "7e1726fa83fd68ed",
@@ -3527,7 +1665,7 @@
       "pickerUrl": "https://www.ocinemagic.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinemagic.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "75e84829742aaf4d",
@@ -3544,7 +1682,7 @@
       "pickerUrl": "https://www.ocinepremiumlleida.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinepremiumlleida.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "1cccfc1a99438995",
@@ -3561,7 +1699,7 @@
       "pickerUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10472",
       "sourceUrl": "https://ocinegranollers.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     },
     {
       "id": "4ec95bd620ce3a84",
@@ -3578,24 +1716,7 @@
       "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10472",
       "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-02T19:14:52Z"
-    },
-    {
-      "id": "3179f7f4068e995b",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-02",
-      "sessionTime": "22:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-02T19:14:48Z"
+      "capturedAt": "2026-07-02T21:23:20Z"
     }
   ],
   "sourceIssues": [],
