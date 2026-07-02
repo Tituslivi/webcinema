@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-02T21:24:29Z",
+  "generatedAt": "2026-07-02T21:43:50Z",
   "weekStart": "2026-07-02",
   "weekEnd": "2026-08-12",
   "source": {
@@ -11,7 +11,7 @@
   },
   "summary": {
     "sessions": 1092,
-    "films": 22,
+    "films": 20,
     "cinemas": 66,
     "municipis": 46,
     "topFilms": [
@@ -26,14 +26,14 @@
         "sessions": 281
       },
       {
+        "slug": "viva-en-catala",
+        "title": "Viva",
+        "sessions": 129
+      },
+      {
         "slug": "toy-story-5-en-catala",
         "title": "Toy Story 5",
         "sessions": 127
-      },
-      {
-        "slug": "viva-en-catala",
-        "title": "Viva",
-        "sessions": 124
       },
       {
         "slug": "lady-nazca-en-catala",
@@ -46,11 +46,6 @@
         "sessions": 18
       },
       {
-        "slug": "viva-voc-versio-original-en-en-catala",
-        "title": "Viva Voc Versio Original En",
-        "sessions": 5
-      },
-      {
         "slug": "corredora-en-catala",
         "title": "Corredora",
         "sessions": 5
@@ -61,8 +56,13 @@
         "sessions": 4
       },
       {
-        "slug": "e-t-l-extraterrestre-en-catala",
-        "title": "E T L Extraterrestre",
+        "slug": "e-t-lextraterrestre-en-catala",
+        "title": "E.T. l'extraterrestre",
+        "sessions": 3
+      },
+      {
+        "slug": "my-girl-en-catala",
+        "title": "My Girl",
         "sessions": 3
       }
     ]
@@ -70,11 +70,11 @@
   "films": [
     {
       "slug": "casa-en-flames-en-catala",
-      "title": "Casa En Flames",
+      "title": "Casa en flames",
       "href": "https://webcinema.cat/pellicula/casa-en-flames-en-catala",
-      "sessionCount": 1,
-      "cinemaCount": 1,
-      "municipiCount": 1
+      "sessionCount": 2,
+      "cinemaCount": 2,
+      "municipiCount": 2
     },
     {
       "slug": "corredora-en-catala",
@@ -101,18 +101,10 @@
       "municipiCount": 1
     },
     {
-      "slug": "e-t-l-extraterrestre-en-catala",
-      "title": "E T L Extraterrestre",
-      "href": "https://webcinema.cat/pellicula/e-t-l-extraterrestre-en-catala",
+      "slug": "e-t-lextraterrestre-en-catala",
+      "title": "E.T. l'extraterrestre",
+      "href": "https://webcinema.cat/pellicula/e-t-lextraterrestre-en-catala",
       "sessionCount": 3,
-      "cinemaCount": 1,
-      "municipiCount": 1
-    },
-    {
-      "slug": "el-tresor-de-barracuda-ocistiu-en-catala",
-      "title": "El Tresor De Barracuda Ocistiu",
-      "href": "https://webcinema.cat/pellicula/el-tresor-de-barracuda-ocistiu-en-catala",
-      "sessionCount": 1,
       "cinemaCount": 1,
       "municipiCount": 1
     },
@@ -134,23 +126,15 @@
     },
     {
       "slug": "jurassic-world-el-reneixer-en-catala",
-      "title": "Jurassic World El Reneixer",
+      "title": "Jurassic World: El renéixer",
       "href": "https://webcinema.cat/pellicula/jurassic-world-el-reneixer-en-catala",
       "sessionCount": 1,
       "cinemaCount": 1,
       "municipiCount": 1
     },
     {
-      "slug": "la-casa-en-flames-en-catala",
-      "title": "La Casa En Flames",
-      "href": "https://webcinema.cat/pellicula/la-casa-en-flames-en-catala",
-      "sessionCount": 1,
-      "cinemaCount": 1,
-      "municipiCount": 1
-    },
-    {
       "slug": "la-copia-perfecta-en-catala",
-      "title": "La Copia Perfecta",
+      "title": "La còpia perfecta",
       "href": "https://webcinema.cat/pellicula/la-copia-perfecta-en-catala",
       "sessionCount": 2,
       "cinemaCount": 1,
@@ -181,6 +165,14 @@
       "municipiCount": 1
     },
     {
+      "slug": "maracuda-en-catala",
+      "title": "Maracuda",
+      "href": "https://webcinema.cat/pellicula/maracuda-en-catala",
+      "sessionCount": 1,
+      "cinemaCount": 1,
+      "municipiCount": 1
+    },
+    {
       "slug": "minions-monsters-en-catala",
       "title": "Minions & Monsters",
       "href": "https://webcinema.cat/pellicula/minions-monsters-en-catala",
@@ -197,9 +189,9 @@
       "municipiCount": 1
     },
     {
-      "slug": "tafiti-i-els-seus-amics-ocistiu-en-catala",
-      "title": "Tafiti I Els Seus Amics Ocistiu",
-      "href": "https://webcinema.cat/pellicula/tafiti-i-els-seus-amics-ocistiu-en-catala",
+      "slug": "tafiti-i-els-seus-amics-en-catala",
+      "title": "Tafiti i els seus amics",
+      "href": "https://webcinema.cat/pellicula/tafiti-i-els-seus-amics-en-catala",
       "sessionCount": 1,
       "cinemaCount": 1,
       "municipiCount": 1
@@ -232,17 +224,9 @@
       "slug": "viva-en-catala",
       "title": "Viva",
       "href": "https://webcinema.cat/pellicula/viva-en-catala",
-      "sessionCount": 124,
-      "cinemaCount": 19,
-      "municipiCount": 11
-    },
-    {
-      "slug": "viva-voc-versio-original-en-en-catala",
-      "title": "Viva Voc Versio Original En",
-      "href": "https://webcinema.cat/pellicula/viva-voc-versio-original-en-en-catala",
-      "sessionCount": 5,
-      "cinemaCount": 1,
-      "municipiCount": 1
+      "sessionCount": 129,
+      "cinemaCount": 20,
+      "municipiCount": 12
     }
   ],
   "cinemas": [
@@ -1910,9 +1894,9 @@
       "capturedAt": "2026-07-02T21:23:08Z"
     },
     {
-      "id": "cd2062c83760ba74",
-      "filmSlug": "viva-voc-versio-original-en-en-catala",
-      "filmTitle": "Viva Voc Versio Original En",
+      "id": "ca791243186f26c9",
+      "filmSlug": "viva-en-catala",
+      "filmTitle": "Viva",
       "cinemaSlug": "cinema-prado",
       "cinemaName": "Cinema Prado",
       "municipiSlug": "sitges",
@@ -4392,9 +4376,9 @@
       "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
-      "id": "43bfb2202e8a5b98",
-      "filmSlug": "viva-voc-versio-original-en-en-catala",
-      "filmTitle": "Viva Voc Versio Original En",
+      "id": "54b23d4a66f53237",
+      "filmSlug": "viva-en-catala",
+      "filmTitle": "Viva",
       "cinemaSlug": "cinema-prado",
       "cinemaName": "Cinema Prado",
       "municipiSlug": "sitges",
@@ -6534,9 +6518,9 @@
       "capturedAt": "2026-07-02T21:23:08Z"
     },
     {
-      "id": "0f8614c79a187b82",
-      "filmSlug": "e-t-l-extraterrestre-en-catala",
-      "filmTitle": "E T L Extraterrestre",
+      "id": "d4b9902e78e78a49",
+      "filmSlug": "e-t-lextraterrestre-en-catala",
+      "filmTitle": "E.T. l'extraterrestre",
       "cinemaSlug": "filmoteca-de-catalunya",
       "cinemaName": "Filmoteca de Catalunya",
       "municipiSlug": "barcelona",
@@ -7027,9 +7011,9 @@
       "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
-      "id": "ea3b0c2e0742cb5f",
-      "filmSlug": "viva-voc-versio-original-en-en-catala",
-      "filmTitle": "Viva Voc Versio Original En",
+      "id": "adcdd34b2124ae15",
+      "filmSlug": "viva-en-catala",
+      "filmTitle": "Viva",
       "cinemaSlug": "cinema-prado",
       "cinemaName": "Cinema Prado",
       "municipiSlug": "sitges",
@@ -13045,9 +13029,9 @@
       "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
-      "id": "476b5338df21aa2f",
-      "filmSlug": "viva-voc-versio-original-en-en-catala",
-      "filmTitle": "Viva Voc Versio Original En",
+      "id": "ba0df15b1ae4afde",
+      "filmSlug": "viva-en-catala",
+      "filmTitle": "Viva",
       "cinemaSlug": "cinema-prado",
       "cinemaName": "Cinema Prado",
       "municipiSlug": "sitges",
@@ -19012,9 +18996,9 @@
       "capturedAt": "2026-07-02T21:23:33Z"
     },
     {
-      "id": "50727f0fac926615",
-      "filmSlug": "viva-voc-versio-original-en-en-catala",
-      "filmTitle": "Viva Voc Versio Original En",
+      "id": "2f13efc0f6c87b46",
+      "filmSlug": "viva-en-catala",
+      "filmTitle": "Viva",
       "cinemaSlug": "cinema-prado",
       "cinemaName": "Cinema Prado",
       "municipiSlug": "sitges",
@@ -19471,9 +19455,9 @@
       "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
-      "id": "0cd53fd9fb41c0c2",
-      "filmSlug": "e-t-l-extraterrestre-en-catala",
-      "filmTitle": "E T L Extraterrestre",
+      "id": "be01db46b116c886",
+      "filmSlug": "e-t-lextraterrestre-en-catala",
+      "filmTitle": "E.T. l'extraterrestre",
       "cinemaSlug": "filmoteca-de-catalunya",
       "cinemaName": "Filmoteca de Catalunya",
       "municipiSlug": "barcelona",
@@ -19524,7 +19508,7 @@
     {
       "id": "2cef476f79955da7",
       "filmSlug": "la-copia-perfecta-en-catala",
-      "filmTitle": "La Copia Perfecta",
+      "filmTitle": "La còpia perfecta",
       "cinemaSlug": "sala-zazie",
       "cinemaName": "Sala Zazie",
       "municipiSlug": "vilafranca-del-penedes",
@@ -19556,9 +19540,9 @@
       "capturedAt": "2026-07-02T21:23:08Z"
     },
     {
-      "id": "9fd45c2fb2027755",
-      "filmSlug": "el-tresor-de-barracuda-ocistiu-en-catala",
-      "filmTitle": "El Tresor De Barracuda Ocistiu",
+      "id": "cd28cbcab207ac35",
+      "filmSlug": "maracuda-en-catala",
+      "filmTitle": "Maracuda",
       "cinemaSlug": "kubrick-cinema",
       "cinemaName": "Kubrick Cinema",
       "municipiSlug": "vilafranca-del-penedes",
@@ -19609,7 +19593,7 @@
     {
       "id": "6eb4d155e16af347",
       "filmSlug": "la-copia-perfecta-en-catala",
-      "filmTitle": "La Copia Perfecta",
+      "filmTitle": "La còpia perfecta",
       "cinemaSlug": "sala-zazie",
       "cinemaName": "Sala Zazie",
       "municipiSlug": "vilafranca-del-penedes",
@@ -19641,9 +19625,9 @@
       "capturedAt": "2026-07-02T21:23:30Z"
     },
     {
-      "id": "b2dcf92be1ff0338",
-      "filmSlug": "e-t-l-extraterrestre-en-catala",
-      "filmTitle": "E T L Extraterrestre",
+      "id": "dda03ecffba92f4e",
+      "filmSlug": "e-t-lextraterrestre-en-catala",
+      "filmTitle": "E.T. l'extraterrestre",
       "cinemaSlug": "filmoteca-de-catalunya",
       "cinemaName": "Filmoteca de Catalunya",
       "municipiSlug": "barcelona",
@@ -19709,9 +19693,9 @@
       "capturedAt": "2026-07-02T21:23:52Z"
     },
     {
-      "id": "066498bdf571d24a",
-      "filmSlug": "tafiti-i-els-seus-amics-ocistiu-en-catala",
-      "filmTitle": "Tafiti I Els Seus Amics Ocistiu",
+      "id": "4d5f36eb35d68a50",
+      "filmSlug": "tafiti-i-els-seus-amics-en-catala",
+      "filmTitle": "Tafiti i els seus amics",
       "cinemaSlug": "kubrick-cinema",
       "cinemaName": "Kubrick Cinema",
       "municipiSlug": "vilafranca-del-penedes",
@@ -19728,7 +19712,7 @@
     {
       "id": "50f56718fcebc986",
       "filmSlug": "casa-en-flames-en-catala",
-      "filmTitle": "Casa En Flames",
+      "filmTitle": "Casa en flames",
       "cinemaSlug": "cinema-edison",
       "cinemaName": "Cinema Edison",
       "municipiSlug": "granollers",
@@ -19745,7 +19729,7 @@
     {
       "id": "54e31c62eb4f0569",
       "filmSlug": "jurassic-world-el-reneixer-en-catala",
-      "filmTitle": "Jurassic World El Reneixer",
+      "filmTitle": "Jurassic World: El renéixer",
       "cinemaSlug": "cambra-comerc-tortosa",
       "cinemaName": "Cambra de Comerç de Tortosa",
       "municipiSlug": "tortosa",
@@ -19760,9 +19744,9 @@
       "capturedAt": "2026-07-02T21:23:38Z"
     },
     {
-      "id": "317750de9ef8afb2",
-      "filmSlug": "la-casa-en-flames-en-catala",
-      "filmTitle": "La Casa En Flames",
+      "id": "1fa478558420d5d8",
+      "filmSlug": "casa-en-flames-en-catala",
+      "filmTitle": "Casa en flames",
       "cinemaSlug": "cambra-comerc-tortosa",
       "cinemaName": "Cambra de Comerç de Tortosa",
       "municipiSlug": "tortosa",
