@@ -1,0 +1,46 @@
+name: Deploy static content to Pages
+
+# Desplega el contingut estàtic (JSON de sessions) a GitHub Pages.
+# El repo és una API JSON pura amb .nojekyll: no cal Jekyll, només
+# empaquetar l'arrel i publicar-la via l'acció oficial deploy-pages.
+# Substitueix la canonada legacy "Deploy from a branch", que és fràgil.
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Un sol desplegament concurrent; no cancel·lem el que ja corre per no
+# deixar el lloc a mig publicar.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          # Publica tot el repo tal qual: /manifest.json, /latest.json,
+          # /cinemas/…, etc. Les URL no canvien.
+          path: '.'
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
