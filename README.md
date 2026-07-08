@@ -4,7 +4,7 @@ Base de dades de les sessions de cinema **en català** (doblades o en versió
 original catalana) programades als cinemes de Catalunya. S'actualitza
 diàriament a partir de les cartelleres públiques dels cinemes.
 
-Generada pel projecte [webcinema.cat](https://webcinema.cat).
+Generada pel projecte WebCinema.
 
 ## Com consumir-ho
 
@@ -95,4 +95,4 @@ navegador de qualsevol domini.
 ## Ús i atribució
 
 Dades recopilades de cartelleres públiques. Ús lliure; s'agraeix l'atribució
-amb un enllaç a [webcinema.cat](https://webcinema.cat).
+al projecte WebCinema.
