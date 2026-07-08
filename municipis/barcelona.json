@@ -1,6 +1,8 @@
 {
   "slug": "barcelona",
   "name": "Barcelona",
+  "ineCode": "08019",
+  "idescatCode": "080193",
   "href": "https://webcinema.cat/municipi/barcelona/cinema-en-catala",
   "sessionCount": 77,
   "filmCount": 7,
@@ -10,6 +12,7 @@
       "id": "e16c8ec7ec9ac227",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-085",
       "cinemaSlug": "zumzeig-cinecooperativa",
       "cinemaName": "Zumzeig Cinecooperativa",
       "municipiSlug": "barcelona",
@@ -21,12 +24,13 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/viva/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-07-08T05:30:34Z"
+      "capturedAt": "2026-07-08T06:13:57Z"
     },
     {
       "id": "6c1099bb264098f9",
       "filmSlug": "minions-monsters-en-catala",
       "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-024",
       "cinemaSlug": "cinesa-diagonal-mar",
       "cinemaName": "Cinesa Diagonal Mar",
       "municipiSlug": "barcelona",
@@ -38,12 +42,13 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-08T05:30:06Z"
+      "capturedAt": "2026-07-08T06:13:29Z"
     },
     {
       "id": "da699648e9f02279",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-037",
       "cinemaSlug": "mooby-arenas-de-barcelona",
       "cinemaName": "Mooby Arenas de Barcelona",
       "municipiSlug": "barcelona",
@@ -55,12 +60,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:16Z"
+      "capturedAt": "2026-07-08T06:13:39Z"
     },
     {
       "id": "4aa5e2b6fc2bd3d7",
       "filmSlug": "minions-monsters-en-catala",
       "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-011",
       "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
       "cinemaName": "Cine Yelmo Westfield La Maquinista",
       "municipiSlug": "barcelona",
@@ -72,12 +78,13 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-07-08T05:30:03Z"
+      "capturedAt": "2026-07-08T06:13:27Z"
     },
     {
       "id": "085371ffc7dc8f80",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-043",
       "cinemaSlug": "mooby-gran-sarria",
       "cinemaName": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
@@ -89,12 +96,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "fb4f00550cd1af14",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-017",
       "cinemaSlug": "cinemes-girona",
       "cinemaName": "Cinemes Girona",
       "municipiSlug": "barcelona",
@@ -106,12 +114,13 @@
       "pickerUrl": "https://www.cinemesgirona.cat/viva",
       "sourceUrl": "https://www.cinemesgirona.cat/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:05Z"
+      "capturedAt": "2026-07-08T06:13:30Z"
     },
     {
       "id": "4d898f09c3797399",
       "filmSlug": "lady-nazca-en-catala",
       "filmTitle": "Lady Nazca",
+      "cinemaId": "wc-020",
       "cinemaSlug": "cinemes-texas",
       "cinemaName": "Cinemes Texas",
       "municipiSlug": "barcelona",
@@ -123,12 +132,13 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/lady-nazca-dob.-cat-20260708-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:04Z"
+      "capturedAt": "2026-07-08T06:13:28Z"
     },
     {
       "id": "c200bd77cdb9f1e1",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-063",
       "cinemaSlug": "renoir-floridablanca",
       "cinemaName": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
@@ -140,12 +150,13 @@
       "pickerUrl": "https://www.pillalas.com/pase/1077617/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-08",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-08T05:30:23Z"
+      "capturedAt": "2026-07-08T06:13:45Z"
     },
     {
       "id": "5c1b5df9378e0ca9",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-063",
       "cinemaSlug": "renoir-floridablanca",
       "cinemaName": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
@@ -157,12 +168,13 @@
       "pickerUrl": "https://www.pillalas.com/pase/1077672/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-08",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-08T05:30:24Z"
+      "capturedAt": "2026-07-08T06:13:46Z"
     },
     {
       "id": "5113518db27d963e",
       "filmSlug": "minions-monsters-en-catala",
       "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -174,12 +186,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217438/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:26Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "806cab7b61e72161",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -191,12 +204,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217448/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "510ad362ea19eaf7",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -208,12 +222,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217452/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "bca2efe0d8ab9c92",
       "filmSlug": "minions-monsters-en-catala",
       "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-024",
       "cinemaSlug": "cinesa-diagonal-mar",
       "cinemaName": "Cinesa Diagonal Mar",
       "municipiSlug": "barcelona",
@@ -225,12 +240,13 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-08T05:30:06Z"
+      "capturedAt": "2026-07-08T06:13:29Z"
     },
     {
       "id": "df0df1a46b487ffb",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-040",
       "cinemaSlug": "mooby-balmes",
       "cinemaName": "Mooby Balmes",
       "municipiSlug": "barcelona",
@@ -242,12 +258,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "604469b7e5efaecb",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-041",
       "cinemaSlug": "mooby-bosque",
       "cinemaName": "Mooby Bosque",
       "municipiSlug": "barcelona",
@@ -259,12 +276,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "98f8cd5d6099c45b",
       "filmSlug": "la-memoria-de-les-papallones-en-catala",
       "filmTitle": "La memòria de les papallones",
+      "cinemaId": "wc-020",
       "cinemaSlug": "cinemes-texas",
       "cinemaName": "Cinemes Texas",
       "municipiSlug": "barcelona",
@@ -276,12 +294,13 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-memoria-de-les-papallones-vo-20260708-1630",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:04Z"
+      "capturedAt": "2026-07-08T06:13:28Z"
     },
     {
       "id": "7d4c949c2f2f13f9",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-028",
       "cinemaSlug": "cinesa-som-multiespai",
       "cinemaName": "Cinesa Som Multiespai",
       "municipiSlug": "barcelona",
@@ -293,12 +312,13 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-08T05:30:18Z"
+      "capturedAt": "2026-07-08T06:13:44Z"
     },
     {
       "id": "7bfcc25060d22307",
       "filmSlug": "toy-story-5-en-catala",
       "filmTitle": "Toy Story 5",
+      "cinemaId": "wc-037",
       "cinemaSlug": "mooby-arenas-de-barcelona",
       "cinemaName": "Mooby Arenas de Barcelona",
       "municipiSlug": "barcelona",
@@ -310,12 +330,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:16Z"
+      "capturedAt": "2026-07-08T06:13:39Z"
     },
     {
       "id": "1d77157b835f25f5",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-037",
       "cinemaSlug": "mooby-arenas-de-barcelona",
       "cinemaName": "Mooby Arenas de Barcelona",
       "municipiSlug": "barcelona",
@@ -327,12 +348,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:16Z"
+      "capturedAt": "2026-07-08T06:13:39Z"
     },
     {
       "id": "43b61d31ec6ee6bf",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-043",
       "cinemaSlug": "mooby-gran-sarria",
       "cinemaName": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
@@ -344,12 +366,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "2c4101bfdd0c749c",
       "filmSlug": "toy-story-5-en-catala",
       "filmTitle": "Toy Story 5",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -361,12 +384,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217443/",
       "sourceUrl": "https://barcelona.cines-verdi.com/toy-story-5",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "d0bf57a6cb01e772",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -378,12 +402,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217462/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "0e875af242d5cee1",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-063",
       "cinemaSlug": "renoir-floridablanca",
       "cinemaName": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
@@ -395,12 +420,13 @@
       "pickerUrl": "https://www.pillalas.com/pase/1077618/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-08",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-08T05:30:23Z"
+      "capturedAt": "2026-07-08T06:13:45Z"
     },
     {
       "id": "98d84be50e3e8304",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-063",
       "cinemaSlug": "renoir-floridablanca",
       "cinemaName": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
@@ -412,12 +438,13 @@
       "pickerUrl": "https://www.pillalas.com/pase/1077673/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-08",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-08T05:30:24Z"
+      "capturedAt": "2026-07-08T06:13:46Z"
     },
     {
       "id": "abddb296b2b89d70",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-038",
       "cinemaSlug": "mooby-aribau",
       "cinemaName": "Mooby Aribau",
       "municipiSlug": "barcelona",
@@ -429,12 +456,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:16Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "54dbfc0604117da9",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-040",
       "cinemaSlug": "mooby-balmes",
       "cinemaName": "Mooby Balmes",
       "municipiSlug": "barcelona",
@@ -446,12 +474,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "c57da8941af81629",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-041",
       "cinemaSlug": "mooby-bosque",
       "cinemaName": "Mooby Bosque",
       "municipiSlug": "barcelona",
@@ -463,12 +492,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "4221ff138aa17bc7",
       "filmSlug": "minions-monsters-en-catala",
       "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-037",
       "cinemaSlug": "mooby-arenas-de-barcelona",
       "cinemaName": "Mooby Arenas de Barcelona",
       "municipiSlug": "barcelona",
@@ -480,12 +510,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:16Z"
+      "capturedAt": "2026-07-08T06:13:39Z"
     },
     {
       "id": "a7301b1729019f8e",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-041",
       "cinemaSlug": "mooby-bosque",
       "cinemaName": "Mooby Bosque",
       "municipiSlug": "barcelona",
@@ -497,12 +528,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "e8c22e6c1d6584c0",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-043",
       "cinemaSlug": "mooby-gran-sarria",
       "cinemaName": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
@@ -514,12 +546,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "38cfe45028a5b864",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-063",
       "cinemaSlug": "renoir-floridablanca",
       "cinemaName": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
@@ -531,12 +564,13 @@
       "pickerUrl": "https://www.pillalas.com/pase/1077620/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-08",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-08T05:30:23Z"
+      "capturedAt": "2026-07-08T06:13:45Z"
     },
     {
       "id": "fd64f429bbd6c780",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-063",
       "cinemaSlug": "renoir-floridablanca",
       "cinemaName": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
@@ -548,12 +582,13 @@
       "pickerUrl": "https://www.pillalas.com/pase/1077674/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-08",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-08T05:30:24Z"
+      "capturedAt": "2026-07-08T06:13:46Z"
     },
     {
       "id": "2d1163ab09b62169",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -565,12 +600,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217460/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "a988bfa851b0db94",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-040",
       "cinemaSlug": "mooby-balmes",
       "cinemaName": "Mooby Balmes",
       "municipiSlug": "barcelona",
@@ -582,12 +618,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "b16d9fc8b44f085d",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-041",
       "cinemaSlug": "mooby-bosque",
       "cinemaName": "Mooby Bosque",
       "municipiSlug": "barcelona",
@@ -599,12 +636,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "36695417ee7793a3",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -616,12 +654,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217518/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "7f60d76a63d5de18",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-043",
       "cinemaSlug": "mooby-gran-sarria",
       "cinemaName": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
@@ -633,12 +672,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "86c7672eeafed025",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-043",
       "cinemaSlug": "mooby-gran-sarria",
       "cinemaName": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
@@ -650,12 +690,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "fbfbabe01923e234",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -667,12 +708,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217461/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "7bf14fa995d41c91",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-037",
       "cinemaSlug": "mooby-arenas-de-barcelona",
       "cinemaName": "Mooby Arenas de Barcelona",
       "municipiSlug": "barcelona",
@@ -684,12 +726,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:16Z"
+      "capturedAt": "2026-07-08T06:13:39Z"
     },
     {
       "id": "95d7f91a2ff37a32",
       "filmSlug": "minions-monsters-en-catala",
       "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-011",
       "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
       "cinemaName": "Cine Yelmo Westfield La Maquinista",
       "municipiSlug": "barcelona",
@@ -701,12 +744,13 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-07-08T05:30:03Z"
+      "capturedAt": "2026-07-08T06:13:27Z"
     },
     {
       "id": "9075ee1a96e891f1",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-043",
       "cinemaSlug": "mooby-gran-sarria",
       "cinemaName": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
@@ -718,12 +762,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "eacaf25a225e6528",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-017",
       "cinemaSlug": "cinemes-girona",
       "cinemaName": "Cinemes Girona",
       "municipiSlug": "barcelona",
@@ -735,12 +780,13 @@
       "pickerUrl": "https://www.cinemesgirona.cat/viva",
       "sourceUrl": "https://www.cinemesgirona.cat/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:05Z"
+      "capturedAt": "2026-07-08T06:13:30Z"
     },
     {
       "id": "e449ff2ad11c30a2",
       "filmSlug": "corredora-en-catala",
       "filmTitle": "Corredora",
+      "cinemaId": "wc-020",
       "cinemaSlug": "cinemes-texas",
       "cinemaName": "Cinemes Texas",
       "municipiSlug": "barcelona",
@@ -752,12 +798,13 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/corredora-vo-20260709-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:04Z"
+      "capturedAt": "2026-07-08T06:13:28Z"
     },
     {
       "id": "5ae5c224b2770336",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-063",
       "cinemaSlug": "renoir-floridablanca",
       "cinemaName": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
@@ -769,12 +816,13 @@
       "pickerUrl": "https://www.pillalas.com/pase/1077622/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-09",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-08T05:30:24Z"
+      "capturedAt": "2026-07-08T06:13:46Z"
     },
     {
       "id": "d1fdea101581875d",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-063",
       "cinemaSlug": "renoir-floridablanca",
       "cinemaName": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
@@ -786,12 +834,13 @@
       "pickerUrl": "https://www.pillalas.com/pase/1077676/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-09",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-08T05:30:24Z"
+      "capturedAt": "2026-07-08T06:13:46Z"
     },
     {
       "id": "5a955783e999899d",
       "filmSlug": "minions-monsters-en-catala",
       "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -803,12 +852,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217480/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:26Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "b6136180f918ee3d",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -820,12 +870,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217497/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "ad50ce6f71212d32",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -837,12 +888,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217476/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "cdf70bebc27f794d",
       "filmSlug": "minions-monsters-en-catala",
       "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-024",
       "cinemaSlug": "cinesa-diagonal-mar",
       "cinemaName": "Cinesa Diagonal Mar",
       "municipiSlug": "barcelona",
@@ -854,12 +906,13 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-08T05:30:06Z"
+      "capturedAt": "2026-07-08T06:13:29Z"
     },
     {
       "id": "8f91063358f2613d",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-040",
       "cinemaSlug": "mooby-balmes",
       "cinemaName": "Mooby Balmes",
       "municipiSlug": "barcelona",
@@ -871,12 +924,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "8d95e77a0d0bd711",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-041",
       "cinemaSlug": "mooby-bosque",
       "cinemaName": "Mooby Bosque",
       "municipiSlug": "barcelona",
@@ -888,12 +942,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "6ccf681b014c51f1",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-028",
       "cinemaSlug": "cinesa-som-multiespai",
       "cinemaName": "Cinesa Som Multiespai",
       "municipiSlug": "barcelona",
@@ -905,12 +960,13 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-08T05:30:18Z"
+      "capturedAt": "2026-07-08T06:13:44Z"
     },
     {
       "id": "58afa0f4e089314b",
       "filmSlug": "toy-story-5-en-catala",
       "filmTitle": "Toy Story 5",
+      "cinemaId": "wc-037",
       "cinemaSlug": "mooby-arenas-de-barcelona",
       "cinemaName": "Mooby Arenas de Barcelona",
       "municipiSlug": "barcelona",
@@ -922,12 +978,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:16Z"
+      "capturedAt": "2026-07-08T06:13:39Z"
     },
     {
       "id": "ac5f0e7a21e13e50",
       "filmSlug": "minions-monsters-en-catala",
       "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-023",
       "cinemaSlug": "cinesa-diagonal",
       "cinemaName": "Cinesa Diagonal",
       "municipiSlug": "barcelona",
@@ -939,12 +996,13 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-08T05:30:06Z"
+      "capturedAt": "2026-07-08T06:13:29Z"
     },
     {
       "id": "6d9156476cad777f",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-023",
       "cinemaSlug": "cinesa-diagonal",
       "cinemaName": "Cinesa Diagonal",
       "municipiSlug": "barcelona",
@@ -956,12 +1014,13 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-08T05:30:16Z"
+      "capturedAt": "2026-07-08T06:13:41Z"
     },
     {
       "id": "d1ff08dff43f0ae5",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-037",
       "cinemaSlug": "mooby-arenas-de-barcelona",
       "cinemaName": "Mooby Arenas de Barcelona",
       "municipiSlug": "barcelona",
@@ -973,12 +1032,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:16Z"
+      "capturedAt": "2026-07-08T06:13:39Z"
     },
     {
       "id": "efaaafa48f53321f",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-043",
       "cinemaSlug": "mooby-gran-sarria",
       "cinemaName": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
@@ -990,12 +1050,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "ce183a536c3ae7ad",
       "filmSlug": "toy-story-5-en-catala",
       "filmTitle": "Toy Story 5",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -1007,12 +1068,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217490/",
       "sourceUrl": "https://barcelona.cines-verdi.com/toy-story-5",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "27dd94342e204ba1",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -1024,12 +1086,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217498/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "6255332aebff543d",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-063",
       "cinemaSlug": "renoir-floridablanca",
       "cinemaName": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
@@ -1041,12 +1104,13 @@
       "pickerUrl": "https://www.pillalas.com/pase/1077623/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-09",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-08T05:30:24Z"
+      "capturedAt": "2026-07-08T06:13:46Z"
     },
     {
       "id": "3c0567488e904da2",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-063",
       "cinemaSlug": "renoir-floridablanca",
       "cinemaName": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
@@ -1058,12 +1122,13 @@
       "pickerUrl": "https://www.pillalas.com/pase/1077677/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-09",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-08T05:30:24Z"
+      "capturedAt": "2026-07-08T06:13:46Z"
     },
     {
       "id": "dde5674cf789a264",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -1075,12 +1140,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217474/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "c84046a9f4a708d5",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-038",
       "cinemaSlug": "mooby-aribau",
       "cinemaName": "Mooby Aribau",
       "municipiSlug": "barcelona",
@@ -1092,12 +1158,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:16Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "0dd9632214dacde7",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-040",
       "cinemaSlug": "mooby-balmes",
       "cinemaName": "Mooby Balmes",
       "municipiSlug": "barcelona",
@@ -1109,12 +1176,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "9d8e432b63878219",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-041",
       "cinemaSlug": "mooby-bosque",
       "cinemaName": "Mooby Bosque",
       "municipiSlug": "barcelona",
@@ -1126,12 +1194,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "ef1a2bfeaf82c858",
       "filmSlug": "minions-monsters-en-catala",
       "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-037",
       "cinemaSlug": "mooby-arenas-de-barcelona",
       "cinemaName": "Mooby Arenas de Barcelona",
       "municipiSlug": "barcelona",
@@ -1143,12 +1212,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:16Z"
+      "capturedAt": "2026-07-08T06:13:39Z"
     },
     {
       "id": "aab35a78d9ed5bf3",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-041",
       "cinemaSlug": "mooby-bosque",
       "cinemaName": "Mooby Bosque",
       "municipiSlug": "barcelona",
@@ -1160,12 +1230,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "5d31de6f5af168c6",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-043",
       "cinemaSlug": "mooby-gran-sarria",
       "cinemaName": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
@@ -1177,12 +1248,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "38ae75e5f1467f3f",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-063",
       "cinemaSlug": "renoir-floridablanca",
       "cinemaName": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
@@ -1194,12 +1266,13 @@
       "pickerUrl": "https://www.pillalas.com/pase/1077624/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-09",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-08T05:30:24Z"
+      "capturedAt": "2026-07-08T06:13:46Z"
     },
     {
       "id": "4ef314f350fd4f0d",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-063",
       "cinemaSlug": "renoir-floridablanca",
       "cinemaName": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
@@ -1211,12 +1284,13 @@
       "pickerUrl": "https://www.pillalas.com/pase/1077678/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-09",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-08T05:30:24Z"
+      "capturedAt": "2026-07-08T06:13:46Z"
     },
     {
       "id": "56b2dadaf340b96a",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -1228,12 +1302,13 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217495/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     },
     {
       "id": "3363f3b923d65571",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-040",
       "cinemaSlug": "mooby-balmes",
       "cinemaName": "Mooby Balmes",
       "municipiSlug": "barcelona",
@@ -1245,12 +1320,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "bae291b8f6b6eaac",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-041",
       "cinemaSlug": "mooby-bosque",
       "cinemaName": "Mooby Bosque",
       "municipiSlug": "barcelona",
@@ -1262,12 +1338,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "1abecac89c578a8c",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-043",
       "cinemaSlug": "mooby-gran-sarria",
       "cinemaName": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
@@ -1279,12 +1356,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "be6aafe96abfcc9f",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
+      "cinemaId": "wc-043",
       "cinemaSlug": "mooby-gran-sarria",
       "cinemaName": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
@@ -1296,12 +1374,13 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-08T05:30:17Z"
+      "capturedAt": "2026-07-08T06:13:40Z"
     },
     {
       "id": "c8b94b0526c91cc0",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
       "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-065",
       "cinemaSlug": "verdi-barcelona",
       "cinemaName": "Verdi Barcelona",
       "municipiSlug": "barcelona",
@@ -1313,7 +1392,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217496/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-08T05:30:27Z"
+      "capturedAt": "2026-07-08T06:13:49Z"
     }
   ]
 }
