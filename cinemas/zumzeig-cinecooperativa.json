@@ -4,11 +4,11 @@
   "name": "Zumzeig Cinecooperativa",
   "municipiSlug": "barcelona",
   "municipiName": "Barcelona",
-  "sessionCount": 1,
-  "filmCount": 1,
+  "sessionCount": 2,
+  "filmCount": 2,
   "sessions": [
     {
-      "id": "e16c8ec7ec9ac227",
+      "id": "c1e5b5dec5fecf49",
       "filmSlug": "viva-en-catala",
       "filmTitle": "Viva",
       "cinemaId": "wc-085",
@@ -16,14 +16,32 @@
       "cinemaName": "Zumzeig Cinecooperativa",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionDate": "2026-07-06",
-      "sessionTime": "21:30",
+      "sessionDate": "2026-07-11",
+      "sessionTime": "16:45",
       "languageLabel": "VO en català",
       "bookingUrl": "https://www.zumzeigcine.coop/cinema/films/viva/",
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/viva/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-07-08T08:03:02Z"
+      "capturedAt": "2026-07-12T07:40:37Z"
+    },
+    {
+      "id": "951d1614c9c26ed9",
+      "filmSlug": "diosa-en-catala",
+      "filmTitle": "Diosa",
+      "cinemaId": "wc-085",
+      "cinemaSlug": "zumzeig-cinecooperativa",
+      "cinemaName": "Zumzeig Cinecooperativa",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-07-11",
+      "sessionTime": "19:15",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://www.zumzeigcine.coop/cinema/films/diosa/",
+      "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/diosa/",
+      "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
+      "extractorType": "zumzeig-html",
+      "capturedAt": "2026-07-12T07:40:38Z"
     }
   ]
 }
