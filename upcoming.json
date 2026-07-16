@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-07-16T18:57:31Z",
+  "generatedAt": "2026-07-16T19:42:17Z",
   "weekStart": "2026-07-16",
   "weekEnd": "2026-08-27",
   "source": {
@@ -11,7 +11,7 @@
   },
   "summary": {
     "sessions": 552,
-    "films": 16,
+    "films": 15,
     "cinemas": 51,
     "municipis": 36,
     "topFilms": [
@@ -43,12 +43,7 @@
       {
         "slug": "winnipeg-el-vaixell-de-lesperanca-en-catala",
         "title": "Winnipeg, el vaixell de l'esperança",
-        "sessions": 9
-      },
-      {
-        "slug": "winniepeg-el-vaixell-de-l-esperanca-en-catala",
-        "title": "Winniepeg El Vaixell De L Esperanca",
-        "sessions": 8
+        "sessions": 17
       },
       {
         "slug": "lady-nazca-en-catala",
@@ -57,13 +52,18 @@
       },
       {
         "slug": "la-vida-es-verdi-en-catala",
-        "title": "La Vida Es Verdi",
+        "title": "La vida és Verdi",
         "sessions": 4
       },
       {
         "slug": "balandrau-vent-salvatge-en-catala",
         "title": "Balandrau, vent salvatge",
         "sessions": 3
+      },
+      {
+        "slug": "corredora-en-catala",
+        "title": "Corredora",
+        "sessions": 2
       }
     ]
   },
@@ -104,18 +104,18 @@
       "municipiCount": 1
     },
     {
-      "slug": "la-vida-es-verdi-en-catala",
-      "title": "La Vida Es Verdi",
-      "sessionCount": 4,
-      "cinemaCount": 1,
-      "municipiCount": 1
-    },
-    {
       "slug": "la-copia-perfecta-en-catala",
       "title": "La còpia perfecta",
       "sessionCount": 19,
       "cinemaCount": 4,
       "municipiCount": 3
+    },
+    {
+      "slug": "la-vida-es-verdi-en-catala",
+      "title": "La vida és Verdi",
+      "sessionCount": 4,
+      "cinemaCount": 1,
+      "municipiCount": 1
     },
     {
       "slug": "lady-nazca-en-catala",
@@ -167,18 +167,11 @@
       "municipiCount": 9
     },
     {
-      "slug": "winniepeg-el-vaixell-de-l-esperanca-en-catala",
-      "title": "Winniepeg El Vaixell De L Esperanca",
-      "sessionCount": 8,
-      "cinemaCount": 1,
-      "municipiCount": 1
-    },
-    {
       "slug": "winnipeg-el-vaixell-de-lesperanca-en-catala",
       "title": "Winnipeg, el vaixell de l'esperança",
-      "sessionCount": 9,
-      "cinemaCount": 2,
-      "municipiCount": 2
+      "sessionCount": 17,
+      "cinemaCount": 3,
+      "municipiCount": 3
     }
   ],
   "cinemas": [
@@ -2248,9 +2241,9 @@
       "capturedAt": "2026-07-16T18:56:46Z"
     },
     {
-      "id": "4d8087f14b047dfa",
-      "filmSlug": "winniepeg-el-vaixell-de-l-esperanca-en-catala",
-      "filmTitle": "Winniepeg El Vaixell De L Esperanca",
+      "id": "a5cbec2c34918402",
+      "filmSlug": "winnipeg-el-vaixell-de-lesperanca-en-catala",
+      "filmTitle": "Winnipeg, el vaixell de l'esperança",
       "cinemaId": "wc-004",
       "cinemaSlug": "bages-centre",
       "cinemaName": "Bages Centre",
@@ -2394,7 +2387,7 @@
     {
       "id": "e066ddd047d18df1",
       "filmSlug": "la-vida-es-verdi-en-catala",
-      "filmTitle": "La Vida Es Verdi",
+      "filmTitle": "La vida és Verdi",
       "cinemaId": "wc-086",
       "cinemaSlug": "screenbox-lleida",
       "cinemaName": "Screenbox Lleida",
@@ -3688,9 +3681,9 @@
       "capturedAt": "2026-07-16T18:56:46Z"
     },
     {
-      "id": "6b86ec01dede6c4b",
-      "filmSlug": "winniepeg-el-vaixell-de-l-esperanca-en-catala",
-      "filmTitle": "Winniepeg El Vaixell De L Esperanca",
+      "id": "46ba3b0a75847d58",
+      "filmSlug": "winnipeg-el-vaixell-de-lesperanca-en-catala",
+      "filmTitle": "Winnipeg, el vaixell de l'esperança",
       "cinemaId": "wc-004",
       "cinemaSlug": "bages-centre",
       "cinemaName": "Bages Centre",
@@ -4912,9 +4905,9 @@
       "capturedAt": "2026-07-16T18:56:58Z"
     },
     {
-      "id": "72b56220bd30c3f1",
-      "filmSlug": "winniepeg-el-vaixell-de-l-esperanca-en-catala",
-      "filmTitle": "Winniepeg El Vaixell De L Esperanca",
+      "id": "99252cfeb5af0b85",
+      "filmSlug": "winnipeg-el-vaixell-de-lesperanca-en-catala",
+      "filmTitle": "Winnipeg, el vaixell de l'esperança",
       "cinemaId": "wc-004",
       "cinemaSlug": "bages-centre",
       "cinemaName": "Bages Centre",
@@ -5254,9 +5247,9 @@
       "capturedAt": "2026-07-16T18:57:03Z"
     },
     {
-      "id": "272b30c6e75b2939",
-      "filmSlug": "winniepeg-el-vaixell-de-l-esperanca-en-catala",
-      "filmTitle": "Winniepeg El Vaixell De L Esperanca",
+      "id": "86f9f9bcac9535e6",
+      "filmSlug": "winnipeg-el-vaixell-de-lesperanca-en-catala",
+      "filmTitle": "Winnipeg, el vaixell de l'esperança",
       "cinemaId": "wc-004",
       "cinemaSlug": "bages-centre",
       "cinemaName": "Bages Centre",
@@ -6460,9 +6453,9 @@
       "capturedAt": "2026-07-16T18:57:03Z"
     },
     {
-      "id": "55bcfaf69173be33",
-      "filmSlug": "winniepeg-el-vaixell-de-l-esperanca-en-catala",
-      "filmTitle": "Winniepeg El Vaixell De L Esperanca",
+      "id": "48e3ddd66e493966",
+      "filmSlug": "winnipeg-el-vaixell-de-lesperanca-en-catala",
+      "filmTitle": "Winnipeg, el vaixell de l'esperança",
       "cinemaId": "wc-004",
       "cinemaSlug": "bages-centre",
       "cinemaName": "Bages Centre",
@@ -6606,7 +6599,7 @@
     {
       "id": "2a6bc8e53a8a0adc",
       "filmSlug": "la-vida-es-verdi-en-catala",
-      "filmTitle": "La Vida Es Verdi",
+      "filmTitle": "La vida és Verdi",
       "cinemaId": "wc-086",
       "cinemaSlug": "screenbox-lleida",
       "cinemaName": "Screenbox Lleida",
@@ -7362,7 +7355,7 @@
     {
       "id": "7b763a274e816ddb",
       "filmSlug": "la-vida-es-verdi-en-catala",
-      "filmTitle": "La Vida Es Verdi",
+      "filmTitle": "La vida és Verdi",
       "cinemaId": "wc-086",
       "cinemaSlug": "screenbox-lleida",
       "cinemaName": "Screenbox Lleida",
@@ -7576,9 +7569,9 @@
       "capturedAt": "2026-07-16T18:56:49Z"
     },
     {
-      "id": "6b0156ec34b439af",
-      "filmSlug": "winniepeg-el-vaixell-de-l-esperanca-en-catala",
-      "filmTitle": "Winniepeg El Vaixell De L Esperanca",
+      "id": "6e7c2dc4045edd8c",
+      "filmSlug": "winnipeg-el-vaixell-de-lesperanca-en-catala",
+      "filmTitle": "Winnipeg, el vaixell de l'esperança",
       "cinemaId": "wc-004",
       "cinemaSlug": "bages-centre",
       "cinemaName": "Bages Centre",
@@ -8406,7 +8399,7 @@
     {
       "id": "001c2767194ffa4f",
       "filmSlug": "la-vida-es-verdi-en-catala",
-      "filmTitle": "La Vida Es Verdi",
+      "filmTitle": "La vida és Verdi",
       "cinemaId": "wc-086",
       "cinemaSlug": "screenbox-lleida",
       "cinemaName": "Screenbox Lleida",
@@ -8656,9 +8649,9 @@
       "capturedAt": "2026-07-16T18:57:03Z"
     },
     {
-      "id": "071829d0937f96b2",
-      "filmSlug": "winniepeg-el-vaixell-de-l-esperanca-en-catala",
-      "filmTitle": "Winniepeg El Vaixell De L Esperanca",
+      "id": "fe413fa8ef9f3160",
+      "filmSlug": "winnipeg-el-vaixell-de-lesperanca-en-catala",
+      "filmTitle": "Winnipeg, el vaixell de l'esperança",
       "cinemaId": "wc-004",
       "cinemaSlug": "bages-centre",
       "cinemaName": "Bages Centre",
@@ -9682,9 +9675,9 @@
       "capturedAt": "2026-07-16T18:57:03Z"
     },
     {
-      "id": "5bc6895c4253fa82",
-      "filmSlug": "winniepeg-el-vaixell-de-l-esperanca-en-catala",
-      "filmTitle": "Winniepeg El Vaixell De L Esperanca",
+      "id": "e73b5c39d335ce11",
+      "filmSlug": "winnipeg-el-vaixell-de-lesperanca-en-catala",
+      "filmTitle": "Winnipeg, el vaixell de l'esperança",
       "cinemaId": "wc-004",
       "cinemaSlug": "bages-centre",
       "cinemaName": "Bages Centre",
