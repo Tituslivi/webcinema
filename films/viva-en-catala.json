@@ -1,46 +1,10 @@
 {
   "slug": "viva-en-catala",
   "title": "Viva",
-  "sessionCount": 59,
-  "cinemaCount": 10,
-  "municipiCount": 7,
+  "sessionCount": 50,
+  "cinemaCount": 9,
+  "municipiCount": 6,
   "sessions": [
-    {
-      "id": "5aec347fb6ad1c62",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-063",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-17",
-      "sessionTime": "15:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1078937/",
-      "pickerUrl": "https://www.pillalas.com/pase/1078937/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-17",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-17T05:30:22Z"
-    },
-    {
-      "id": "ad7cf86d307c01a9",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-17",
-      "sessionTime": "18:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/viva-vo-20260717-1815",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/viva-vo-20260717-1815",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:04Z"
-    },
     {
       "id": "e0e5966f2d6cbcd4",
       "filmSlug": "viva-en-catala",
@@ -57,7 +21,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87885",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-17T05:30:27Z"
+      "capturedAt": "2026-07-18T05:56:27Z"
     },
     {
       "id": "323adccc1584d46f",
@@ -75,115 +39,7 @@
       "pickerUrl": "https://cineclubvila.cat/film/viva/2026-07-17/",
       "sourceUrl": "https://www.cineclubvila.cat",
       "extractorType": "cineclubvila-html",
-      "capturedAt": "2026-07-17T05:30:35Z"
-    },
-    {
-      "id": "91dacf1e5264b5f5",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-096",
-      "cinemaSlug": "teatre-municipal-palafrugell",
-      "cinemaName": "Teatre Municipal de Palafrugell - Cine Club Garbí",
-      "municipiSlug": "palafrugell",
-      "municipiName": "Palafrugell",
-      "sessionDate": "2026-07-17",
-      "sessionTime": "19:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6419-cinema-viva.html",
-      "pickerUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6419-cinema-viva.html",
-      "sourceUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6419-cinema-viva.html",
-      "extractorType": "palafrugell-cultura",
-      "capturedAt": "2026-07-17T05:30:29Z"
-    },
-    {
-      "id": "4c7a24cbb1b60043",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-17",
-      "sessionTime": "19:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/217777/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/217777/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viva",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:26Z"
-    },
-    {
-      "id": "99a27ef84da3a967",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-093",
-      "cinemaSlug": "cinema-ribes",
-      "cinemaName": "Cinema Ribes - Centre Parroquial",
-      "municipiSlug": "sant-pere-de-ribes",
-      "municipiName": "Sant Pere de Ribes",
-      "sessionDate": "2026-07-17",
-      "sessionTime": "19:45",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://cinemaribes.es/mapasesion2023.php",
-      "pickerUrl": "https://cinemaribes.es/mapasesion2023.php",
-      "sourceUrl": "https://cinemaribes.es/",
-      "extractorType": "ticketing-taquilla81",
-      "capturedAt": "2026-07-17T05:30:29Z"
-    },
-    {
-      "id": "dbd8c19f7c79dc3f",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-063",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-17",
-      "sessionTime": "20:20",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1078940/",
-      "pickerUrl": "https://www.pillalas.com/pase/1078940/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-17",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-17T05:30:22Z"
-    },
-    {
-      "id": "d98651d305616175",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-07-17",
-      "sessionTime": "21:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=275325",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:17Z"
-    },
-    {
-      "id": "86c9ca04c16104da",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-096",
-      "cinemaSlug": "teatre-municipal-palafrugell",
-      "cinemaName": "Teatre Municipal de Palafrugell - Cine Club Garbí",
-      "municipiSlug": "palafrugell",
-      "municipiName": "Palafrugell",
-      "sessionDate": "2026-07-17",
-      "sessionTime": "21:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6419-cinema-viva.html",
-      "pickerUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6419-cinema-viva.html",
-      "sourceUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6419-cinema-viva.html",
-      "extractorType": "palafrugell-cultura",
-      "capturedAt": "2026-07-17T05:30:29Z"
+      "capturedAt": "2026-07-18T05:56:33Z"
     },
     {
       "id": "999ebbddc7a15ce4",
@@ -201,25 +57,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-07-17T05:30:28Z"
-    },
-    {
-      "id": "b95bee0f2c6e0c40",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-17",
-      "sessionTime": "21:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=138155&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-17T05:30:16Z"
+      "capturedAt": "2026-07-18T05:56:28Z"
     },
     {
       "id": "ec0e0945fc90ac2e",
@@ -237,7 +75,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1078942/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-18",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-17T05:30:23Z"
+      "capturedAt": "2026-07-18T05:56:23Z"
     },
     {
       "id": "da38ae6307ff5ddc",
@@ -255,7 +93,7 @@
       "pickerUrl": "https://cinemaribes.es/mapasesion2023.php",
       "sourceUrl": "https://cinemaribes.es/",
       "extractorType": "ticketing-taquilla81",
-      "capturedAt": "2026-07-17T05:30:29Z"
+      "capturedAt": "2026-07-18T05:56:27Z"
     },
     {
       "id": "ff4b58ef2d4d926d",
@@ -273,7 +111,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viva-vo-20260718-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:04Z"
+      "capturedAt": "2026-07-18T05:56:07Z"
     },
     {
       "id": "a5be5c63af821bde",
@@ -291,7 +129,7 @@
       "pickerUrl": "https://cineclubvila.cat/film/viva/2026-07-18/",
       "sourceUrl": "https://www.cineclubvila.cat",
       "extractorType": "cineclubvila-html",
-      "capturedAt": "2026-07-17T05:30:35Z"
+      "capturedAt": "2026-07-18T05:56:33Z"
     },
     {
       "id": "97e16fe5efdb2aa9",
@@ -309,7 +147,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1078945/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-18",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-17T05:30:23Z"
+      "capturedAt": "2026-07-18T05:56:23Z"
     },
     {
       "id": "3c2444dc4a53b8fd",
@@ -327,7 +165,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87880",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-17T05:30:27Z"
+      "capturedAt": "2026-07-18T05:56:27Z"
     },
     {
       "id": "5b699a03c59e9721",
@@ -345,7 +183,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217814/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:26Z"
+      "capturedAt": "2026-07-18T05:56:25Z"
     },
     {
       "id": "cbcc39c341b3bab6",
@@ -363,7 +201,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-07-17T05:30:28Z"
+      "capturedAt": "2026-07-18T05:56:28Z"
     },
     {
       "id": "295ea1b5ab8e938f",
@@ -381,7 +219,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-17T05:30:16Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     },
     {
       "id": "ce01cc82bae38431",
@@ -399,7 +237,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:17Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     },
     {
       "id": "31e94d164d8324ef",
@@ -417,7 +255,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1078947/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-19",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-17T05:30:23Z"
+      "capturedAt": "2026-07-18T05:56:23Z"
     },
     {
       "id": "30ebf01cb98ace97",
@@ -435,7 +273,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87881",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-17T05:30:27Z"
+      "capturedAt": "2026-07-18T05:56:27Z"
     },
     {
       "id": "40a3062b5504c5be",
@@ -453,7 +291,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viva-vo-20260719-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:04Z"
+      "capturedAt": "2026-07-18T05:56:07Z"
     },
     {
       "id": "bbe71339b7119763",
@@ -471,7 +309,7 @@
       "pickerUrl": "https://cineclubvila.cat/film/viva/2026-07-19/",
       "sourceUrl": "https://www.cineclubvila.cat",
       "extractorType": "cineclubvila-html",
-      "capturedAt": "2026-07-17T05:30:35Z"
+      "capturedAt": "2026-07-18T05:56:33Z"
     },
     {
       "id": "b8602e37e95e5588",
@@ -489,7 +327,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1078950/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-19",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-17T05:30:23Z"
+      "capturedAt": "2026-07-18T05:56:23Z"
     },
     {
       "id": "b3e2613e3fd409e6",
@@ -507,7 +345,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217843/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:26Z"
+      "capturedAt": "2026-07-18T05:56:25Z"
     },
     {
       "id": "bd641fb1cd7bcd34",
@@ -525,7 +363,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-07-17T05:30:28Z"
+      "capturedAt": "2026-07-18T05:56:28Z"
     },
     {
       "id": "877219dfea14aab6",
@@ -543,7 +381,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-17T05:30:16Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     },
     {
       "id": "635d72cc150520ad",
@@ -561,7 +399,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:17Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     },
     {
       "id": "5cacca2f4634e184",
@@ -579,7 +417,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1078952/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-20",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-17T05:30:23Z"
+      "capturedAt": "2026-07-18T05:56:23Z"
     },
     {
       "id": "278120a8904ae007",
@@ -597,7 +435,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1078955/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-20",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-17T05:30:23Z"
+      "capturedAt": "2026-07-18T05:56:23Z"
     },
     {
       "id": "353fe63f5d30f97c",
@@ -615,7 +453,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87882",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-17T05:30:27Z"
+      "capturedAt": "2026-07-18T05:56:27Z"
     },
     {
       "id": "95d52df34a0df641",
@@ -633,7 +471,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217870/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:26Z"
+      "capturedAt": "2026-07-18T05:56:25Z"
     },
     {
       "id": "179704d0e7f9218b",
@@ -651,7 +489,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:17Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     },
     {
       "id": "5b1718805a150b20",
@@ -669,7 +507,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-07-17T05:30:28Z"
+      "capturedAt": "2026-07-18T05:56:28Z"
     },
     {
       "id": "015bb55a5cd57bd1",
@@ -687,7 +525,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-17T05:30:16Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     },
     {
       "id": "293abb75f9b2d99e",
@@ -705,7 +543,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1078957/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-21",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-17T05:30:23Z"
+      "capturedAt": "2026-07-18T05:56:24Z"
     },
     {
       "id": "4e8f99cb536dcbeb",
@@ -723,7 +561,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viva-vo-20260721-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:04Z"
+      "capturedAt": "2026-07-18T05:56:07Z"
     },
     {
       "id": "90380ebd969e8376",
@@ -741,7 +579,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-17T05:30:16Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     },
     {
       "id": "ac7f666fbc1d1a11",
@@ -759,7 +597,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217909/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:26Z"
+      "capturedAt": "2026-07-18T05:56:25Z"
     },
     {
       "id": "8abc2ab7f227d08f",
@@ -777,7 +615,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:17Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     },
     {
       "id": "e1c7d269350756b6",
@@ -795,7 +633,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-17T05:30:16Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     },
     {
       "id": "5bc1807bbee8644b",
@@ -813,7 +651,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87883",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-17T05:30:27Z"
+      "capturedAt": "2026-07-18T05:56:27Z"
     },
     {
       "id": "2ad09bce17f7c541",
@@ -831,7 +669,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1078960/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-22",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-17T05:30:24Z"
+      "capturedAt": "2026-07-18T05:56:24Z"
     },
     {
       "id": "74be88f751c76794",
@@ -849,7 +687,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87884",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-17T05:30:27Z"
+      "capturedAt": "2026-07-18T05:56:27Z"
     },
     {
       "id": "ee10c2d35bc039be",
@@ -867,7 +705,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viva-vo-20260722-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:04Z"
+      "capturedAt": "2026-07-18T05:56:07Z"
     },
     {
       "id": "8e53bcb5a9d2096b",
@@ -885,7 +723,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217964/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:26Z"
+      "capturedAt": "2026-07-18T05:56:25Z"
     },
     {
       "id": "48cc96a2bf43569b",
@@ -903,7 +741,7 @@
       "pickerUrl": "https://cinemaribes.es/mapasesion2023.php",
       "sourceUrl": "https://cinemaribes.es/",
       "extractorType": "ticketing-taquilla81",
-      "capturedAt": "2026-07-17T05:30:29Z"
+      "capturedAt": "2026-07-18T05:56:27Z"
     },
     {
       "id": "d03fb81a0d3df2fc",
@@ -921,7 +759,7 @@
       "pickerUrl": "https://cineclubvila.cat/film/viva/2026-07-22/",
       "sourceUrl": "https://www.cineclubvila.cat",
       "extractorType": "cineclubvila-html",
-      "capturedAt": "2026-07-17T05:30:35Z"
+      "capturedAt": "2026-07-18T05:56:33Z"
     },
     {
       "id": "517f14253c3bc878",
@@ -939,7 +777,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1078963/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-22",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-17T05:30:24Z"
+      "capturedAt": "2026-07-18T05:56:24Z"
     },
     {
       "id": "4388c023f79fce9e",
@@ -957,7 +795,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-17T05:30:16Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     },
     {
       "id": "beb39fcad4502d6b",
@@ -975,7 +813,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:17Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     },
     {
       "id": "24eff3d9a5247cb4",
@@ -993,7 +831,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1078965/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-23",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-17T05:30:24Z"
+      "capturedAt": "2026-07-18T05:56:25Z"
     },
     {
       "id": "b020171323c2a630",
@@ -1011,7 +849,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viva-vo-20260723-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:04Z"
+      "capturedAt": "2026-07-18T05:56:07Z"
     },
     {
       "id": "7a7202d7447651a0",
@@ -1029,7 +867,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=87886",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-07-17T05:30:27Z"
+      "capturedAt": "2026-07-18T05:56:27Z"
     },
     {
       "id": "5d454aaf2a58590b",
@@ -1047,7 +885,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-17T05:30:17Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     },
     {
       "id": "b4ccbb75d72562a9",
@@ -1065,7 +903,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-17T05:30:16Z"
+      "capturedAt": "2026-07-18T05:56:19Z"
     }
   ]
 }
