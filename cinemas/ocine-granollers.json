@@ -4,27 +4,9 @@
   "name": "Ocine Granollers",
   "municipiSlug": "granollers",
   "municipiName": "Granollers",
-  "sessionCount": 2,
+  "sessionCount": 1,
   "filmCount": 1,
   "sessions": [
-    {
-      "id": "ee5171a0020a9810",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-050",
-      "cinemaSlug": "ocine-granollers",
-      "cinemaName": "Ocine Granollers",
-      "municipiSlug": "granollers",
-      "municipiName": "Granollers",
-      "sessionDate": "2026-07-22",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10472",
-      "pickerUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10472",
-      "sourceUrl": "https://tickets.ocinegranollers.es:444/api/pelicules?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-22T05:30:26Z"
-    },
     {
       "id": "d0189a9d7ac3825b",
       "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
@@ -39,9 +21,9 @@
       "languageLabel": "Català",
       "bookingUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10472",
       "pickerUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10472",
-      "sourceUrl": "https://tickets.ocinegranollers.es:444/api/pelicules?lang=ca",
+      "sourceUrl": "https://ocinegranollers.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-22T05:30:26Z"
+      "capturedAt": "2026-07-23T05:30:18Z"
     }
   ]
 }
