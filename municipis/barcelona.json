@@ -3,298 +3,10 @@
   "name": "Barcelona",
   "ineCode": "08019",
   "idescatCode": "080193",
-  "sessionCount": 65,
+  "sessionCount": 49,
   "filmCount": 6,
   "cinemaCount": 11,
   "sessions": [
-    {
-      "id": "f6cb21e18963fb8f",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "12:15",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=189353&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
-    },
-    {
-      "id": "60e50fba1fa8bb42",
-      "filmSlug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
-      "filmTitle": "Rufus, la serp que no sabia nedar",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "12:25",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-26T05:30:16Z"
-    },
-    {
-      "id": "9ddf626fbcb47309",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-063",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "15:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1080071/",
-      "pickerUrl": "https://www.pillalas.com/pase/1080071/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-26",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-26T05:30:19Z"
-    },
-    {
-      "id": "3dbf890be27bebec",
-      "filmSlug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
-      "filmTitle": "Rufus, la serp que no sabia nedar",
-      "cinemaId": "wc-017",
-      "cinemaSlug": "cinemes-girona",
-      "cinemaName": "Cinemes Girona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40318&language=CAT",
-      "pickerUrl": "https://www.cinemesgirona.cat/rufus-la-serpiente-que-no-sabia-nadar",
-      "sourceUrl": "https://www.cinemesgirona.cat/rufus-la-serpiente-que-no-sabia-nadar",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:05Z"
-    },
-    {
-      "id": "c93554021e252eb0",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=115520&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
-    },
-    {
-      "id": "63ba68b246932de1",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218079/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218079/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
-    },
-    {
-      "id": "7ed2e4432d6da675",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "16:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=138405&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
-    },
-    {
-      "id": "853adf393dec8867",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "16:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=138422&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
-    },
-    {
-      "id": "255284fb40c0d396",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-040",
-      "cinemaSlug": "mooby-balmes",
-      "cinemaName": "Mooby Balmes",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "16:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-balmes.admit-one.eu/?p=tickets&perfCode=185128&language=cat&theatre=BAL-BALMES",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
-    },
-    {
-      "id": "b85b478c5718990a",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-063",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "16:10",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1080041/",
-      "pickerUrl": "https://www.pillalas.com/pase/1080041/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-26",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-26T05:30:19Z"
-    },
-    {
-      "id": "6aa18be1403c66af",
-      "filmSlug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
-      "filmTitle": "Rufus, la serp que no sabia nedar",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "16:15",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/rufus-la-serp-que-no-sabia-nedar-dob.-cat-20260726-1615",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/rufus-la-serp-que-no-sabia-nedar-dob.-cat-20260726-1615",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:03Z"
-    },
-    {
-      "id": "1c30731dc1a4b445",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "16:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218065/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218065/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:24Z"
-    },
-    {
-      "id": "015b580f1334f139",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "18:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218080/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218080/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
-    },
-    {
-      "id": "e19c50c0c49d4731",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-038",
-      "cinemaSlug": "mooby-aribau",
-      "cinemaName": "Mooby Aribau",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "19:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68389&language=cat&theatre=BAL-ARIBAU",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
-    },
-    {
-      "id": "fc4ff1ae289e8978",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "20:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218082/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218082/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
-    },
-    {
-      "id": "e30e4542eb10b321",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-26",
-      "sessionTime": "22:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218166/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218166/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viva",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
-    },
     {
       "id": "a6e13f7dbcd8fb60",
       "filmSlug": "viva-en-catala",
@@ -311,7 +23,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1080078/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-27",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-26T05:30:20Z"
+      "capturedAt": "2026-07-27T05:30:20Z"
     },
     {
       "id": "7e62ce35059d15cb",
@@ -329,7 +41,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/rufus-la-serpiente-que-no-sabia-nadar",
       "sourceUrl": "https://www.cinemesgirona.cat/rufus-la-serpiente-que-no-sabia-nadar",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:05Z"
+      "capturedAt": "2026-07-27T05:30:06Z"
     },
     {
       "id": "624443467e2abb25",
@@ -347,7 +59,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "828ea273b9fa9116",
@@ -365,7 +77,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218112/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:23Z"
     },
     {
       "id": "543e5c22acfb1ed4",
@@ -383,7 +95,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "c71eafb6e8bf419c",
@@ -401,7 +113,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "5f7b27dc7d6b61df",
@@ -419,7 +131,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1080044/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-27",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-26T05:30:20Z"
+      "capturedAt": "2026-07-27T05:30:20Z"
     },
     {
       "id": "deb49a488a456c31",
@@ -437,7 +149,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218098/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:24Z"
+      "capturedAt": "2026-07-27T05:30:22Z"
     },
     {
       "id": "7b9a0ba33808fe0e",
@@ -455,7 +167,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "47587c4a916c058e",
@@ -473,7 +185,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "5d343bfc8a9a8247",
@@ -491,7 +203,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "0327f0a420c9ccd1",
@@ -509,7 +221,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218113/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:23Z"
     },
     {
       "id": "61ec8e09485e4a73",
@@ -527,7 +239,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "592ec0eabdd86eda",
@@ -545,7 +257,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218106/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:22Z"
     },
     {
       "id": "707be82b45cce207",
@@ -563,7 +275,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218115/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:23Z"
     },
     {
       "id": "0623fa32edb5ec3a",
@@ -581,7 +293,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218169/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:22Z"
     },
     {
       "id": "b43f8840bc74a267",
@@ -599,7 +311,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1080085/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-28",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-26T05:30:20Z"
+      "capturedAt": "2026-07-27T05:30:20Z"
     },
     {
       "id": "7b292bb9426b2092",
@@ -617,7 +329,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/rufus-la-serpiente-que-no-sabia-nadar",
       "sourceUrl": "https://www.cinemesgirona.cat/rufus-la-serpiente-que-no-sabia-nadar",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:05Z"
+      "capturedAt": "2026-07-27T05:30:06Z"
     },
     {
       "id": "df25206a13f8d9d7",
@@ -635,7 +347,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "2b6c78ba1beadb24",
@@ -653,7 +365,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218144/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:23Z"
     },
     {
       "id": "fff658c88b0427dc",
@@ -671,7 +383,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "ebcc4b563b52dbfb",
@@ -689,7 +401,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1080047/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-07-28",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-07-26T05:30:20Z"
+      "capturedAt": "2026-07-27T05:30:20Z"
     },
     {
       "id": "eaeaffe3174c6ac7",
@@ -707,7 +419,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218130/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:24Z"
+      "capturedAt": "2026-07-27T05:30:22Z"
     },
     {
       "id": "cf5817759186f650",
@@ -725,7 +437,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "fd2d68aa01a98b65",
@@ -743,7 +455,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-26T05:30:16Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "b477e4057c860abf",
@@ -761,7 +473,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "a95b68cd70fa890b",
@@ -779,7 +491,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "af3390c356e2bbbf",
@@ -797,7 +509,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "e270c96d5d1eef4e",
@@ -815,7 +527,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218145/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:23Z"
     },
     {
       "id": "3bc53d0c3809c89f",
@@ -833,7 +545,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "bbe3b6fae51e8295",
@@ -851,7 +563,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "f84e40ad10ecf705",
@@ -869,7 +581,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "5851608359fc8591",
@@ -887,7 +599,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-07-26T05:30:15Z"
+      "capturedAt": "2026-07-27T05:30:16Z"
     },
     {
       "id": "905803f6c99fc927",
@@ -905,7 +617,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218138/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:22Z"
     },
     {
       "id": "175ed8110bc2b4cb",
@@ -923,7 +635,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/winnipeg-el-vaixell-de-lesperanca-dob.-cat-20260728-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:03Z"
+      "capturedAt": "2026-07-27T05:30:05Z"
     },
     {
       "id": "43a0fe78e8de9e67",
@@ -941,7 +653,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218147/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:23Z"
     },
     {
       "id": "34d44d1273b31720",
@@ -959,7 +671,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/rufus-la-serpiente-que-no-sabia-nadar",
       "sourceUrl": "https://www.cinemesgirona.cat/rufus-la-serpiente-que-no-sabia-nadar",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:05Z"
+      "capturedAt": "2026-07-27T05:30:06Z"
     },
     {
       "id": "5c71d4cfa2f76256",
@@ -977,7 +689,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218189/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:23Z"
     },
     {
       "id": "f2cf2fb6c93f6994",
@@ -995,7 +707,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/winnipeg-el-vaixell-de-lesperanca-dob.-cat-20260729-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:03Z"
+      "capturedAt": "2026-07-27T05:30:05Z"
     },
     {
       "id": "7964c08e2a45024f",
@@ -1013,7 +725,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218178/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:24Z"
+      "capturedAt": "2026-07-27T05:30:22Z"
     },
     {
       "id": "3bfa3d05750a0607",
@@ -1031,7 +743,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218176/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:23Z"
     },
     {
       "id": "21fd2fdbe534874b",
@@ -1049,7 +761,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/217771/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:22Z"
     },
     {
       "id": "90e0218b47bf860f",
@@ -1067,7 +779,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218240/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:22Z"
     },
     {
       "id": "62946b7198526efa",
@@ -1085,7 +797,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/rufus-la-serpiente-que-no-sabia-nadar",
       "sourceUrl": "https://www.cinemesgirona.cat/rufus-la-serpiente-que-no-sabia-nadar",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:05Z"
+      "capturedAt": "2026-07-27T05:30:06Z"
     },
     {
       "id": "8f8c0749509722b8",
@@ -1103,7 +815,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218217/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:23Z"
     },
     {
       "id": "6be09aaf7d3eeb97",
@@ -1121,7 +833,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218207/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:24Z"
+      "capturedAt": "2026-07-27T05:30:22Z"
     },
     {
       "id": "2daf91683f889f93",
@@ -1139,7 +851,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/corredora-vo-20260730-2015",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:05Z"
+      "capturedAt": "2026-07-27T05:30:07Z"
     },
     {
       "id": "ffbdbc537dbd88d3",
@@ -1157,7 +869,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218204/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:23Z"
     },
     {
       "id": "94d57a18121d66c6",
@@ -1175,7 +887,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218210/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-26T05:30:25Z"
+      "capturedAt": "2026-07-27T05:30:22Z"
     }
   ]
 }
