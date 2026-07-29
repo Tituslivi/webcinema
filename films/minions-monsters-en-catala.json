@@ -1,154 +1,10 @@
 {
   "slug": "minions-monsters-en-catala",
   "title": "Minions & Monsters",
-  "sessionCount": 19,
-  "cinemaCount": 9,
-  "municipiCount": 9,
+  "sessionCount": 10,
+  "cinemaCount": 6,
+  "municipiCount": 6,
   "sessions": [
-    {
-      "id": "f112b543356b8573",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-083",
-      "cinemaSlug": "cinema-casal-montblanqui",
-      "cinemaName": "Cinema Casal Montblanqui",
-      "municipiSlug": "montblanc",
-      "municipiName": "Montblanc",
-      "sessionDate": "2026-07-27",
-      "sessionTime": "20:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://circusa.com/ca/montblanc/",
-      "pickerUrl": "https://circusa.com/ca/montblanc/",
-      "sourceUrl": "https://circusa.com/ca/montblanc/",
-      "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-07-28T05:30:25Z"
-    },
-    {
-      "id": "797f7ea8a8616e0f",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-07-28",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2124817&sesion=75384",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-07-28T05:30:21Z"
-    },
-    {
-      "id": "eaeaffe3174c6ac7",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-07-28",
-      "sessionTime": "16:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218130/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218130/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-28T05:30:22Z"
-    },
-    {
-      "id": "d9a1f543f4b7bc00",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-07-28",
-      "sessionTime": "16:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-07-28T05:30:12Z"
-    },
-    {
-      "id": "6088dee787f1e317",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-07-28",
-      "sessionTime": "16:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10309",
-      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10309",
-      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-28T05:30:16Z"
-    },
-    {
-      "id": "7563e9574318d684",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-058",
-      "cinemaSlug": "odeon-multicines-girona",
-      "cinemaName": "Odeon Multicines Girona",
-      "municipiSlug": "salt",
-      "municipiName": "Salt",
-      "sessionDate": "2026-07-28",
-      "sessionTime": "17:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-girona/sesion?pid=2124817&sesion=81024",
-      "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/minions-monsters",
-      "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/minions-monsters",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-07-28T05:30:21Z"
-    },
-    {
-      "id": "dd083a05d6231ae2",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-07-28",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=275648",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-07-28T05:30:16Z"
-    },
-    {
-      "id": "95428d1b964ed6c8",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-088",
-      "cinemaSlug": "cines-olot",
-      "cinemaName": "Cines Olot",
-      "municipiSlug": "olot",
-      "municipiName": "Olot",
-      "sessionDate": "2026-07-28",
-      "sessionTime": "17:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
-      "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
-      "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "cinesolot-html",
-      "capturedAt": "2026-07-28T05:30:25Z"
-    },
     {
       "id": "94d7c9d89b2add12",
       "filmSlug": "minions-monsters-en-catala",
@@ -165,7 +21,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-28T05:30:16Z"
+      "capturedAt": "2026-07-29T05:30:15Z"
     },
     {
       "id": "7964c08e2a45024f",
@@ -183,7 +39,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218178/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-28T05:30:22Z"
+      "capturedAt": "2026-07-29T05:30:21Z"
     },
     {
       "id": "e13bcb650d02c2ad",
@@ -201,25 +57,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-07-28T05:30:21Z"
-    },
-    {
-      "id": "032b8a731db59d92",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-07-29",
-      "sessionTime": "16:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10309",
-      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10309",
-      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-28T05:30:16Z"
+      "capturedAt": "2026-07-29T05:30:20Z"
     },
     {
       "id": "d3798391c3756e39",
@@ -237,7 +75,7 @@
       "pickerUrl": "https://entrades.ateneucinema.cat/comprar/RI2Ai1ByfL",
       "sourceUrl": "https://ateneucinema.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-28T05:30:03Z"
+      "capturedAt": "2026-07-29T05:30:03Z"
     },
     {
       "id": "d52381113ef397d2",
@@ -255,7 +93,7 @@
       "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
       "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
       "extractorType": "cinesolot-html",
-      "capturedAt": "2026-07-28T05:30:25Z"
+      "capturedAt": "2026-07-29T05:30:27Z"
     },
     {
       "id": "5b199bccff3c335c",
@@ -273,7 +111,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-28T05:30:16Z"
+      "capturedAt": "2026-07-29T05:30:15Z"
     },
     {
       "id": "6be09aaf7d3eeb97",
@@ -291,7 +129,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218207/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-07-28T05:30:22Z"
+      "capturedAt": "2026-07-29T05:30:21Z"
     },
     {
       "id": "40bf974eb5c203cb",
@@ -309,7 +147,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-07-28T05:30:21Z"
+      "capturedAt": "2026-07-29T05:30:20Z"
     },
     {
       "id": "519810e1178f4a40",
@@ -327,7 +165,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10309",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-07-28T05:30:16Z"
+      "capturedAt": "2026-07-29T05:30:16Z"
     },
     {
       "id": "f65ce674f560f9fb",
@@ -345,7 +183,7 @@
       "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
       "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
       "extractorType": "cinesolot-html",
-      "capturedAt": "2026-07-28T05:30:25Z"
+      "capturedAt": "2026-07-29T05:30:27Z"
     }
   ]
 }
