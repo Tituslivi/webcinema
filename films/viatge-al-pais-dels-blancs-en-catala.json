@@ -1,9 +1,9 @@
 {
   "slug": "viatge-al-pais-dels-blancs-en-catala",
   "title": "Viatge al país dels blancs",
-  "sessionCount": 59,
-  "cinemaCount": 11,
-  "municipiCount": 6,
+  "sessionCount": 54,
+  "cinemaCount": 12,
+  "municipiCount": 7,
   "sessions": [
     {
       "id": "9fdabe59d5f0a954",
@@ -21,7 +21,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88560",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "bce0b1cd8d71dca3",
@@ -39,7 +39,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88562",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "a84ac28cd3eddecb",
@@ -57,7 +57,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88563",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "30509ce56fa20019",
@@ -75,7 +75,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88556",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "a93050c5434ec460",
@@ -93,97 +93,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88557",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
-    },
-    {
-      "id": "aeb126caee173bf0",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-02",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=115667&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
-    },
-    {
-      "id": "97a634c3c8909f2d",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-02",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218306/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218306/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
-    },
-    {
-      "id": "d1d13dbc53f723c1",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-08-02",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
-      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
-      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-02T05:30:17Z"
-    },
-    {
-      "id": "351bd36f9c33e682",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-038",
-      "cinemaSlug": "mooby-aribau",
-      "cinemaName": "Mooby Aribau",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-02",
-      "sessionTime": "17:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68463&language=cat&theatre=BAL-ARIBAU",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
-    },
-    {
-      "id": "f0c12e7d056d8757",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-02",
-      "sessionTime": "18:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218307/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218307/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "de751b8f2dc734a8",
@@ -201,79 +111,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88564",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
-    },
-    {
-      "id": "e259da3b0296ca69",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-019",
-      "cinemaSlug": "cinemes-sant-cugat",
-      "cinemaName": "Cinemes Sant Cugat",
-      "municipiSlug": "sant-cugat-del-valles",
-      "municipiName": "Sant Cugat del Vallès",
-      "sessionDate": "2026-08-02",
-      "sessionTime": "20:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=113972",
-      "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
-      "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:05Z"
-    },
-    {
-      "id": "012082cb59ba3cf9",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-02",
-      "sessionTime": "20:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218308/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218308/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
-    },
-    {
-      "id": "383cfa9bef4e83f2",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-094",
-      "cinemaSlug": "cinema-la-bobila",
-      "cinemaName": "Cinema La Bobila",
-      "municipiSlug": "sant-pere-de-ribes",
-      "municipiName": "Sant Pere de Ribes",
-      "sessionDate": "2026-08-02",
-      "sessionTime": "20:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.cinemalabobila.es/mapasesion2023.php",
-      "pickerUrl": "https://www.cinemalabobila.es/mapasesion2023.php",
-      "sourceUrl": "https://www.cinemalabobila.es/",
-      "extractorType": "ticketing-taquilla81",
-      "capturedAt": "2026-08-02T05:30:25Z"
-    },
-    {
-      "id": "b85560d0750df4d6",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-08-02",
-      "sessionTime": "22:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-02T05:30:20Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "650b88286ad4115d",
@@ -291,7 +129,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88565",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "c6babf22d5eb8510",
@@ -309,7 +147,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
+      "capturedAt": "2026-08-03T05:30:15Z"
     },
     {
       "id": "6dbd2522b3948354",
@@ -327,7 +165,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218340/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:22Z"
     },
     {
       "id": "46b1f77755b06fad",
@@ -345,7 +183,25 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-02T05:30:17Z"
+      "capturedAt": "2026-08-03T05:30:16Z"
+    },
+    {
+      "id": "b47bed23bbc733e1",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-051",
+      "cinemaSlug": "ocine-les-gavarres",
+      "cinemaName": "Ocine Les Gavarres",
+      "municipiSlug": "tarragona",
+      "municipiName": "Tarragona",
+      "sessionDate": "2026-08-03",
+      "sessionTime": "16:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
+      "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
+      "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
+      "extractorType": "chain-ocine",
+      "capturedAt": "2026-08-03T05:30:16Z"
     },
     {
       "id": "d74d3518976a5e4d",
@@ -363,7 +219,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
+      "capturedAt": "2026-08-03T05:30:15Z"
     },
     {
       "id": "00681c5c44980872",
@@ -381,7 +237,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218341/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:22Z"
     },
     {
       "id": "23067bfaf29344b5",
@@ -399,7 +255,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88566",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "cf6c7e368b3a346e",
@@ -417,7 +273,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:05Z"
+      "capturedAt": "2026-08-03T05:30:05Z"
     },
     {
       "id": "042eaff5043ff08f",
@@ -435,7 +291,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218491/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:22Z"
     },
     {
       "id": "b6071d84f94d91a5",
@@ -453,7 +309,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-02T05:30:20Z"
+      "capturedAt": "2026-08-03T05:30:18Z"
     },
     {
       "id": "7eaba88faf7648b5",
@@ -471,7 +327,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88558",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "251a9734e2b32b49",
@@ -489,7 +345,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
+      "capturedAt": "2026-08-03T05:30:15Z"
     },
     {
       "id": "dbf86002640b4042",
@@ -507,7 +363,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218374/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:22Z"
     },
     {
       "id": "9d75f94ab91e1698",
@@ -525,7 +381,25 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-02T05:30:17Z"
+      "capturedAt": "2026-08-03T05:30:16Z"
+    },
+    {
+      "id": "4f225edd462a0a7c",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-051",
+      "cinemaSlug": "ocine-les-gavarres",
+      "cinemaName": "Ocine Les Gavarres",
+      "municipiSlug": "tarragona",
+      "municipiName": "Tarragona",
+      "sessionDate": "2026-08-04",
+      "sessionTime": "16:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
+      "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
+      "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
+      "extractorType": "chain-ocine",
+      "capturedAt": "2026-08-03T05:30:16Z"
     },
     {
       "id": "b2a684184f0a1374",
@@ -543,7 +417,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
+      "capturedAt": "2026-08-03T05:30:15Z"
     },
     {
       "id": "5deeba965dcaef63",
@@ -561,7 +435,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218375/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:22Z"
     },
     {
       "id": "24f57375ef3773d3",
@@ -579,7 +453,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
+      "capturedAt": "2026-08-03T05:30:15Z"
     },
     {
       "id": "646176c2acaa66f8",
@@ -597,7 +471,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88567",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "ef4373e298628866",
@@ -615,7 +489,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
+      "capturedAt": "2026-08-03T05:30:15Z"
     },
     {
       "id": "099ac77fb2791cf6",
@@ -633,7 +507,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
+      "capturedAt": "2026-08-03T05:30:15Z"
     },
     {
       "id": "43c377dc1b4cf4aa",
@@ -651,7 +525,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:05Z"
+      "capturedAt": "2026-08-03T05:30:05Z"
     },
     {
       "id": "57a726c69658fbb0",
@@ -669,7 +543,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218376/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:22Z"
     },
     {
       "id": "27602568c24897df",
@@ -687,7 +561,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-02T05:30:21Z"
+      "capturedAt": "2026-08-03T05:30:18Z"
     },
     {
       "id": "9c2d9c78d8853752",
@@ -705,7 +579,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88568",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "7098c5a66b673aa8",
@@ -723,7 +597,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
+      "capturedAt": "2026-08-03T05:30:15Z"
     },
     {
       "id": "6c45d54fed60f9ec",
@@ -741,7 +615,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218408/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:22Z"
     },
     {
       "id": "5f4f2e51671d24ec",
@@ -759,7 +633,25 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-02T05:30:17Z"
+      "capturedAt": "2026-08-03T05:30:16Z"
+    },
+    {
+      "id": "21e7292dfbc23a05",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-051",
+      "cinemaSlug": "ocine-les-gavarres",
+      "cinemaName": "Ocine Les Gavarres",
+      "municipiSlug": "tarragona",
+      "municipiName": "Tarragona",
+      "sessionDate": "2026-08-05",
+      "sessionTime": "16:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
+      "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
+      "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
+      "extractorType": "chain-ocine",
+      "capturedAt": "2026-08-03T05:30:16Z"
     },
     {
       "id": "f6fa7530e2e54633",
@@ -777,7 +669,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
+      "capturedAt": "2026-08-03T05:30:15Z"
     },
     {
       "id": "27f91a882dac95ea",
@@ -795,7 +687,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218409/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:22Z"
     },
     {
       "id": "801a5c269aefa1d0",
@@ -813,7 +705,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88569",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "5cbc86405e0029c6",
@@ -831,7 +723,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:05Z"
+      "capturedAt": "2026-08-03T05:30:05Z"
     },
     {
       "id": "fc7e7d690ef93c19",
@@ -849,7 +741,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218410/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:22Z"
     },
     {
       "id": "93f0dc2c4202540d",
@@ -867,7 +759,7 @@
       "pickerUrl": "https://www.cinemalabobila.es/mapasesion2023.php",
       "sourceUrl": "https://www.cinemalabobila.es/",
       "extractorType": "ticketing-taquilla81",
-      "capturedAt": "2026-08-02T05:30:25Z"
+      "capturedAt": "2026-08-03T05:30:24Z"
     },
     {
       "id": "dc7ce39e8ebbe22e",
@@ -885,7 +777,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-02T05:30:21Z"
+      "capturedAt": "2026-08-03T05:30:18Z"
     },
     {
       "id": "e75f042469738d94",
@@ -903,7 +795,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88570",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "dabb4e0de80702dc",
@@ -921,7 +813,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
+      "capturedAt": "2026-08-03T05:30:15Z"
     },
     {
       "id": "3fac4ff48c9947d4",
@@ -939,7 +831,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218442/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:22Z"
     },
     {
       "id": "2c2f82a017054afa",
@@ -957,7 +849,25 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-02T05:30:17Z"
+      "capturedAt": "2026-08-03T05:30:16Z"
+    },
+    {
+      "id": "4f9ff9e4c7040b1a",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-051",
+      "cinemaSlug": "ocine-les-gavarres",
+      "cinemaName": "Ocine Les Gavarres",
+      "municipiSlug": "tarragona",
+      "municipiName": "Tarragona",
+      "sessionDate": "2026-08-06",
+      "sessionTime": "16:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
+      "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
+      "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
+      "extractorType": "chain-ocine",
+      "capturedAt": "2026-08-03T05:30:16Z"
     },
     {
       "id": "735123e635b7b169",
@@ -975,7 +885,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-02T05:30:16Z"
+      "capturedAt": "2026-08-03T05:30:15Z"
     },
     {
       "id": "1d9950d81312a967",
@@ -993,7 +903,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218443/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:22Z"
     },
     {
       "id": "088c9a570ddc9e09",
@@ -1011,7 +921,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:05Z"
+      "capturedAt": "2026-08-03T05:30:05Z"
     },
     {
       "id": "e676159f818a2907",
@@ -1029,7 +939,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218444/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-02T05:30:24Z"
+      "capturedAt": "2026-08-03T05:30:22Z"
     },
     {
       "id": "d5fe14f6638c6bfb",
@@ -1047,7 +957,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88559",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-02T05:30:23Z"
+      "capturedAt": "2026-08-03T05:30:23Z"
     },
     {
       "id": "a68e69c1b829cc6b",
@@ -1065,7 +975,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-02T05:30:22Z"
+      "capturedAt": "2026-08-03T05:30:18Z"
     }
   ]
 }
