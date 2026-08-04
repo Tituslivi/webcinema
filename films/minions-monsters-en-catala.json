@@ -1,9 +1,9 @@
 {
   "slug": "minions-monsters-en-catala",
   "title": "Minions & Monsters",
-  "sessionCount": 24,
-  "cinemaCount": 7,
-  "municipiCount": 7,
+  "sessionCount": 21,
+  "cinemaCount": 8,
+  "municipiCount": 8,
   "sessions": [
     {
       "id": "69488b767b851e7b",
@@ -21,115 +21,7 @@
       "pickerUrl": "https://circusa.com/ca/bellpuig/",
       "sourceUrl": "https://circusa.com/ca/bellpuig/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-08-03T05:30:21Z"
-    },
-    {
-      "id": "be7da6c67851ad9f",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218326/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218326/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:21Z"
-    },
-    {
-      "id": "8b4599a461b16319",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2124817&sesion=75745",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:18Z"
-    },
-    {
-      "id": "38175eb28eb1ea3a",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10342",
-      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10342",
-      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
-    },
-    {
-      "id": "3cb32ea4df7f5e72",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "17:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=275899",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:15Z"
-    },
-    {
-      "id": "414e7835fed3e2f1",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-088",
-      "cinemaSlug": "cines-olot",
-      "cinemaName": "Cines Olot",
-      "municipiSlug": "olot",
-      "municipiName": "Olot",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "18:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
-      "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
-      "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "cinesolot-html",
-      "capturedAt": "2026-08-03T05:30:23Z"
-    },
-    {
-      "id": "fae3c7280b99f99f",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-096",
-      "cinemaSlug": "teatre-municipal-palafrugell",
-      "cinemaName": "Teatre Municipal de Palafrugell - Cine Club Garbí",
-      "municipiSlug": "palafrugell",
-      "municipiName": "Palafrugell",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "19:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
-      "pickerUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
-      "sourceUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
-      "extractorType": "palafrugell-cultura",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "2d4d56c6d2fc6937",
@@ -147,7 +39,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218360/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:21Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "4fa3396c1f20f246",
@@ -165,7 +57,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:18Z"
+      "capturedAt": "2026-08-04T05:30:17Z"
     },
     {
       "id": "c2dbccdd024ee850",
@@ -183,7 +75,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10342",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "4e5b3aaa20ff977b",
@@ -201,7 +93,25 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
+    },
+    {
+      "id": "34f7c7f71ab697bb",
+      "filmSlug": "minions-monsters-en-catala",
+      "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-08-04",
+      "sessionTime": "17:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=150450",
+      "pickerUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "e2666ba9a39f0ef7",
@@ -219,7 +129,7 @@
       "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
       "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
       "extractorType": "cinesolot-html",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "0e51525839cf6d64",
@@ -237,7 +147,7 @@
       "pickerUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
       "sourceUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
       "extractorType": "palafrugell-cultura",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:23Z"
     },
     {
       "id": "1f4e0e511776898d",
@@ -255,7 +165,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218394/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:21Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "1ce6fd3e10025c45",
@@ -273,7 +183,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "e9e3d821f429e214",
@@ -291,7 +201,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:18Z"
+      "capturedAt": "2026-08-04T05:30:17Z"
     },
     {
       "id": "00b69545c2a06345",
@@ -309,7 +219,25 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10342",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
+    },
+    {
+      "id": "6067a60172abd344",
+      "filmSlug": "minions-monsters-en-catala",
+      "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-08-05",
+      "sessionTime": "17:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=150472",
+      "pickerUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "af7f8b4643ea1bd9",
@@ -327,7 +255,7 @@
       "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
       "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
       "extractorType": "cinesolot-html",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "fd644f8c76dc9f5c",
@@ -345,7 +273,7 @@
       "pickerUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
       "sourceUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
       "extractorType": "palafrugell-cultura",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:23Z"
     },
     {
       "id": "55332233530f81ee",
@@ -363,7 +291,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218428/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:21Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "2143791206cf0fd9",
@@ -381,7 +309,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "ea198b2bbf97f0a9",
@@ -399,7 +327,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:18Z"
+      "capturedAt": "2026-08-04T05:30:17Z"
     },
     {
       "id": "5fd83efc3bb87d7b",
@@ -417,7 +345,25 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10342",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
+    },
+    {
+      "id": "05e3a67d6768f20c",
+      "filmSlug": "minions-monsters-en-catala",
+      "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-08-06",
+      "sessionTime": "17:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=150494",
+      "pickerUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "dde9d0a028259f4a",
@@ -435,7 +381,7 @@
       "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
       "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
       "extractorType": "cinesolot-html",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     }
   ]
 }

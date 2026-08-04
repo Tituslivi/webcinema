@@ -1,16 +1,16 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-03T05:30:55Z",
-  "weekStart": "2026-08-03",
+  "generatedAt": "2026-08-04T05:30:57Z",
+  "weekStart": "2026-08-04",
   "weekEnd": "2026-10-22",
   "source": {
-    "sessionsPath": "runs\\daily\\2026-08-03\\sessions.json",
-    "recordsTotal": 404,
+    "sessionsPath": "runs\\daily\\2026-08-04\\sessions.json",
+    "recordsTotal": 389,
     "skippedSources": 0,
-    "latestCapturedAt": "2026-08-03T05:30:40Z"
+    "latestCapturedAt": "2026-08-04T05:30:41Z"
   },
   "summary": {
-    "sessions": 372,
+    "sessions": 349,
     "films": 21,
     "cinemas": 30,
     "municipis": 17,
@@ -23,22 +23,17 @@
       {
         "slug": "viatge-al-pais-dels-blancs-en-catala",
         "title": "Viatge al país dels blancs",
-        "sessions": 52
+        "sessions": 48
       },
       {
         "slug": "mala-bestia-en-catala",
         "title": "Mala Bestia",
-        "sessions": 36
+        "sessions": 27
       },
       {
         "slug": "minions-monsters-en-catala",
         "title": "Minions & Monsters",
-        "sessions": 30
-      },
-      {
-        "slug": "viva-en-catala",
-        "title": "Viva",
-        "sessions": 13
+        "sessions": 27
       },
       {
         "slug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
@@ -46,14 +41,14 @@
         "sessions": 12
       },
       {
-        "slug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
-        "title": "Rufus, la serp que no sabia nedar",
-        "sessions": 9
+        "slug": "viva-en-catala",
+        "title": "Viva",
+        "sessions": 11
       },
       {
-        "slug": "jumbo-en-catala",
-        "title": "Jumbo",
-        "sessions": 5
+        "slug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
+        "title": "Rufus, la serp que no sabia nedar",
+        "sessions": 7
       },
       {
         "slug": "la-increible-historia-de-la-pera-gegant-en-catala",
@@ -64,6 +59,11 @@
         "slug": "balandrau-vent-salvatge-en-catala",
         "title": "Balandrau, vent salvatge",
         "sessions": 4
+      },
+      {
+        "slug": "jumbo-en-catala",
+        "title": "Jumbo",
+        "sessions": 3
       }
     ]
   },
@@ -113,9 +113,9 @@
     {
       "slug": "jumbo-en-catala",
       "title": "Jumbo",
-      "sessionCount": 5,
-      "cinemaCount": 2,
-      "municipiCount": 2
+      "sessionCount": 3,
+      "cinemaCount": 1,
+      "municipiCount": 1
     },
     {
       "slug": "jurassic-world-el-reneixer-en-catala",
@@ -148,21 +148,21 @@
     {
       "slug": "mala-bestia-en-catala",
       "title": "Mala Bestia",
-      "sessionCount": 36,
+      "sessionCount": 27,
       "cinemaCount": 4,
       "municipiCount": 3
     },
     {
       "slug": "minions-monsters-en-catala",
       "title": "Minions & Monsters",
-      "sessionCount": 30,
-      "cinemaCount": 8,
-      "municipiCount": 8
+      "sessionCount": 27,
+      "cinemaCount": 9,
+      "municipiCount": 9
     },
     {
       "slug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
       "title": "Rufus, la serp que no sabia nedar",
-      "sessionCount": 9,
+      "sessionCount": 7,
       "cinemaCount": 3,
       "municipiCount": 3
     },
@@ -190,9 +190,9 @@
     {
       "slug": "toy-story-5-en-catala",
       "title": "Toy Story 5",
-      "sessionCount": 3,
-      "cinemaCount": 2,
-      "municipiCount": 2
+      "sessionCount": 2,
+      "cinemaCount": 1,
+      "municipiCount": 1
     },
     {
       "slug": "un-altre-home-en-catala",
@@ -204,14 +204,14 @@
     {
       "slug": "viatge-al-pais-dels-blancs-en-catala",
       "title": "Viatge al país dels blancs",
-      "sessionCount": 52,
+      "sessionCount": 48,
       "cinemaCount": 13,
       "municipiCount": 8
     },
     {
       "slug": "viva-en-catala",
       "title": "Viva",
-      "sessionCount": 13,
+      "sessionCount": 11,
       "cinemaCount": 4,
       "municipiCount": 3
     }
@@ -224,15 +224,6 @@
       "municipiSlug": "abrera",
       "municipiName": "Abrera",
       "sessionCount": 21,
-      "filmCount": 1
-    },
-    {
-      "cinemaId": "wc-076",
-      "slug": "cinema-casal",
-      "name": "Cinema Casal",
-      "municipiSlug": "agramunt",
-      "municipiName": "Agramunt",
-      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -286,7 +277,7 @@
       "name": "Mooby Aribau",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 25,
+      "sessionCount": 24,
       "filmCount": 2
     },
     {
@@ -322,7 +313,7 @@
       "name": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 25,
+      "sessionCount": 24,
       "filmCount": 2
     },
     {
@@ -331,7 +322,7 @@
       "name": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 4,
+      "sessionCount": 3,
       "filmCount": 1
     },
     {
@@ -340,7 +331,7 @@
       "name": "Verdi Barcelona",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 28,
+      "sessionCount": 21,
       "filmCount": 4
     },
     {
@@ -358,7 +349,7 @@
       "name": "Ocine Girona",
       "municipiSlug": "girona",
       "municipiName": "Girona",
-      "sessionCount": 8,
+      "sessionCount": 6,
       "filmCount": 2
     },
     {
@@ -376,7 +367,7 @@
       "name": "Screenbox Lleida",
       "municipiSlug": "lleida",
       "municipiName": "Lleida",
-      "sessionCount": 28,
+      "sessionCount": 21,
       "filmCount": 4
     },
     {
@@ -385,7 +376,7 @@
       "name": "Cines Olot",
       "municipiSlug": "olot",
       "municipiName": "Olot",
-      "sessionCount": 4,
+      "sessionCount": 3,
       "filmCount": 1
     },
     {
@@ -394,7 +385,7 @@
       "name": "Teatre Municipal de Palafrugell - Cine Club Garbí",
       "municipiSlug": "palafrugell",
       "municipiName": "Palafrugell",
-      "sessionCount": 3,
+      "sessionCount": 2,
       "filmCount": 1
     },
     {
@@ -403,7 +394,7 @@
       "name": "Cinemes Sant Cugat",
       "municipiSlug": "sant-cugat-del-valles",
       "municipiName": "Sant Cugat del Vallès",
-      "sessionCount": 7,
+      "sessionCount": 13,
       "filmCount": 2
     },
     {
@@ -439,7 +430,7 @@
       "name": "Ocine Les Gavarres",
       "municipiSlug": "tarragona",
       "municipiName": "Tarragona",
-      "sessionCount": 4,
+      "sessionCount": 3,
       "filmCount": 1
     },
     {
@@ -448,7 +439,7 @@
       "name": "Cinesa Parc Vallès",
       "municipiSlug": "terrassa",
       "municipiName": "Terrassa",
-      "sessionCount": 16,
+      "sessionCount": 12,
       "filmCount": 2
     },
     {
@@ -457,8 +448,8 @@
       "name": "Cinema Montgrí",
       "municipiSlug": "torroella-de-montgri",
       "municipiName": "Torroella de Montgrí",
-      "sessionCount": 15,
-      "filmCount": 5
+      "sessionCount": 14,
+      "filmCount": 4
     },
     {
       "cinemaId": "wc-091",
@@ -470,12 +461,21 @@
       "filmCount": 3
     },
     {
+      "cinemaId": "wc-032",
+      "slug": "jca-rambla",
+      "name": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionCount": 3,
+      "filmCount": 1
+    },
+    {
       "cinemaId": "wc-045",
       "slug": "multicines-sucre",
       "name": "Multicines Sucre",
       "municipiSlug": "vic",
       "municipiName": "Vic",
-      "sessionCount": 6,
+      "sessionCount": 5,
       "filmCount": 2
     },
     {
@@ -484,7 +484,7 @@
       "name": "Odeon Multicines Vilanova",
       "municipiSlug": "vilanova-i-la-geltru",
       "municipiName": "Vilanova i la Geltrú",
-      "sessionCount": 12,
+      "sessionCount": 9,
       "filmCount": 3
     }
   ],
@@ -499,20 +499,11 @@
       "cinemaCount": 1
     },
     {
-      "slug": "agramunt",
-      "name": "Agramunt",
-      "ineCode": "25003",
-      "idescatCode": "250030",
-      "sessionCount": 1,
-      "filmCount": 1,
-      "cinemaCount": 1
-    },
-    {
       "slug": "barcelona",
       "name": "Barcelona",
       "ineCode": "08019",
       "idescatCode": "080193",
-      "sessionCount": 205,
+      "sessionCount": 195,
       "filmCount": 13,
       "cinemaCount": 13
     },
@@ -521,7 +512,7 @@
       "name": "Girona",
       "ineCode": "17079",
       "idescatCode": "170792",
-      "sessionCount": 8,
+      "sessionCount": 6,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -539,7 +530,7 @@
       "name": "Lleida",
       "ineCode": "25120",
       "idescatCode": "251207",
-      "sessionCount": 28,
+      "sessionCount": 21,
       "filmCount": 4,
       "cinemaCount": 1
     },
@@ -548,7 +539,7 @@
       "name": "Olot",
       "ineCode": "17114",
       "idescatCode": "171143",
-      "sessionCount": 4,
+      "sessionCount": 3,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -557,7 +548,7 @@
       "name": "Palafrugell",
       "ineCode": "17117",
       "idescatCode": "171175",
-      "sessionCount": 3,
+      "sessionCount": 2,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -566,7 +557,7 @@
       "name": "Sant Cugat del Vallès",
       "ineCode": "08205",
       "idescatCode": "082055",
-      "sessionCount": 7,
+      "sessionCount": 13,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -593,7 +584,7 @@
       "name": "Tarragona",
       "ineCode": "43148",
       "idescatCode": "431482",
-      "sessionCount": 25,
+      "sessionCount": 24,
       "filmCount": 2,
       "cinemaCount": 2
     },
@@ -602,7 +593,7 @@
       "name": "Terrassa",
       "ineCode": "08279",
       "idescatCode": "082798",
-      "sessionCount": 16,
+      "sessionCount": 12,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -611,8 +602,8 @@
       "name": "Torroella de Montgrí",
       "ineCode": "17199",
       "idescatCode": "171997",
-      "sessionCount": 15,
-      "filmCount": 5,
+      "sessionCount": 14,
+      "filmCount": 4,
       "cinemaCount": 1
     },
     {
@@ -625,11 +616,20 @@
       "cinemaCount": 1
     },
     {
+      "slug": "valls",
+      "name": "Valls",
+      "ineCode": "43161",
+      "idescatCode": "431613",
+      "sessionCount": 3,
+      "filmCount": 1,
+      "cinemaCount": 1
+    },
+    {
       "slug": "vic",
       "name": "Vic",
       "ineCode": "08298",
       "idescatCode": "082981",
-      "sessionCount": 6,
+      "sessionCount": 5,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -638,606 +638,12 @@
       "name": "Vilanova i la Geltrú",
       "ineCode": "08307",
       "idescatCode": "083073",
-      "sessionCount": 12,
+      "sessionCount": 9,
       "filmCount": 3,
       "cinemaCount": 1
     }
   ],
   "sessions": [
-    {
-      "id": "42141ba83a5d5386",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-086",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "10:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88509",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88509",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
-    },
-    {
-      "id": "650b88286ad4115d",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-086",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "11:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88565",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88565",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
-    },
-    {
-      "id": "c6babf22d5eb8510",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=115687&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
-    },
-    {
-      "id": "be7da6c67851ad9f",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218326/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218326/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:21Z"
-    },
-    {
-      "id": "6dbd2522b3948354",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218340/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218340/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:22Z"
-    },
-    {
-      "id": "46b1f77755b06fad",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
-      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
-      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
-    },
-    {
-      "id": "b47bed23bbc733e1",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
-      "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
-      "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
-    },
-    {
-      "id": "ae96598d0af2a761",
-      "filmSlug": "jumbo-en-catala",
-      "filmTitle": "Jumbo",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2229305&sesion=75565",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/jumbo",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/jumbo",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:17Z"
-    },
-    {
-      "id": "7b115098e8c92295",
-      "filmSlug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
-      "filmTitle": "Rufus, la serp que no sabia nedar",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2229306&sesion=75552",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/rufus-la-serpiente-que-no-sabia-nadar",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/rufus-la-serpiente-que-no-sabia-nadar",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:17Z"
-    },
-    {
-      "id": "8b4599a461b16319",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2124817&sesion=75745",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:18Z"
-    },
-    {
-      "id": "38175eb28eb1ea3a",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10342",
-      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10342",
-      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
-    },
-    {
-      "id": "e74b442d21a01fa7",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "16:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:15Z"
-    },
-    {
-      "id": "4bf2b3c9fd9cd8d2",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaId": "wc-095",
-      "cinemaSlug": "cinema-montgri",
-      "cinemaName": "Cinema Montgrí",
-      "municipiSlug": "torroella-de-montgri",
-      "municipiName": "Torroella de Montgrí",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cinemamontgri.cat/toy-story-5-2/",
-      "pickerUrl": "https://cinemamontgri.cat/toy-story-5-2/",
-      "sourceUrl": "https://cinemamontgri.cat/programacio/",
-      "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
-    },
-    {
-      "id": "fb5c807cb0978319",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-086",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "17:10",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88639",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88639",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
-    },
-    {
-      "id": "667c7a4edb5f4783",
-      "filmSlug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
-      "filmTitle": "Rufus, la serp que no sabia nedar",
-      "cinemaId": "wc-086",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "17:15",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88686",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88686",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
-    },
-    {
-      "id": "3cb32ea4df7f5e72",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "17:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=275899",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:15Z"
-    },
-    {
-      "id": "d74d3518976a5e4d",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-038",
-      "cinemaSlug": "mooby-aribau",
-      "cinemaName": "Mooby Aribau",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "17:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68471&language=cat&theatre=BAL-ARIBAU",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
-    },
-    {
-      "id": "02ee39c63f61de48",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-063",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "18:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1080640/",
-      "pickerUrl": "https://www.pillalas.com/pase/1080640/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-08-03",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-08-03T05:30:18Z"
-    },
-    {
-      "id": "414e7835fed3e2f1",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-088",
-      "cinemaSlug": "cines-olot",
-      "cinemaName": "Cines Olot",
-      "municipiSlug": "olot",
-      "municipiName": "Olot",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "18:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
-      "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
-      "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "cinesolot-html",
-      "capturedAt": "2026-08-03T05:30:23Z"
-    },
-    {
-      "id": "00681c5c44980872",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "18:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218341/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218341/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:22Z"
-    },
-    {
-      "id": "23067bfaf29344b5",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-086",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "18:35",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88566",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88566",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
-    },
-    {
-      "id": "b05763e9a4039c29",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "18:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218330/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218330/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:20Z"
-    },
-    {
-      "id": "6d358751924e03b6",
-      "filmSlug": "jumbo-en-catala",
-      "filmTitle": "Jumbo",
-      "cinemaId": "wc-076",
-      "cinemaSlug": "cinema-casal",
-      "cinemaName": "Cinema Casal",
-      "municipiSlug": "agramunt",
-      "municipiName": "Agramunt",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "19:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://circusa.com/ca/agramunt/",
-      "pickerUrl": "https://circusa.com/ca/agramunt/",
-      "sourceUrl": "https://circusa.com/ca/agramunt/",
-      "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-08-03T05:30:21Z"
-    },
-    {
-      "id": "e74150da4e85b8b7",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-086",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "19:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88510",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88510",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
-    },
-    {
-      "id": "fae3c7280b99f99f",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-096",
-      "cinemaSlug": "teatre-municipal-palafrugell",
-      "cinemaName": "Teatre Municipal de Palafrugell - Cine Club Garbí",
-      "municipiSlug": "palafrugell",
-      "municipiName": "Palafrugell",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "19:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
-      "pickerUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
-      "sourceUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
-      "extractorType": "palafrugell-cultura",
-      "capturedAt": "2026-08-03T05:30:24Z"
-    },
-    {
-      "id": "298b5c7557f118e6",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "19:55",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:15Z"
-    },
-    {
-      "id": "cf6c7e368b3a346e",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-019",
-      "cinemaSlug": "cinemes-sant-cugat",
-      "cinemaName": "Cinemes Sant Cugat",
-      "municipiSlug": "sant-cugat-del-valles",
-      "municipiName": "Sant Cugat del Vallès",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "20:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=113984",
-      "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
-      "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:05Z"
-    },
-    {
-      "id": "042eaff5043ff08f",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "20:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218491/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218491/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:22Z"
-    },
-    {
-      "id": "ea551deae4a917d8",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "20:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218331/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218331/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viva",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:21Z"
-    },
-    {
-      "id": "d97487506ca900f4",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "20:55",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218323/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218323/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:20Z"
-    },
-    {
-      "id": "b6071d84f94d91a5",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "22:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:18Z"
-    },
-    {
-      "id": "bf8210dc1cb784f0",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-086",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "22:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88511",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88511",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
-    },
-    {
-      "id": "580b2d8d267ca8d8",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "22:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:15Z"
-    },
     {
       "id": "9321cf035a2b2648",
       "filmSlug": "mala-bestia-en-catala",
@@ -1254,7 +660,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88512",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "7eaba88faf7648b5",
@@ -1272,7 +678,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88558",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "251a9734e2b32b49",
@@ -1290,7 +696,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "2d4d56c6d2fc6937",
@@ -1308,7 +714,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218360/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:21Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "dbf86002640b4042",
@@ -1326,7 +732,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218374/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:22Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "9d75f94ab91e1698",
@@ -1344,7 +750,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
+      "capturedAt": "2026-08-04T05:30:15Z"
     },
     {
       "id": "4f225edd462a0a7c",
@@ -1362,7 +768,7 @@
       "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "0d009e390689f707",
@@ -1380,7 +786,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/jumbo",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/jumbo",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:17Z"
+      "capturedAt": "2026-08-04T05:30:16Z"
     },
     {
       "id": "a1ae98a54a9417f3",
@@ -1398,7 +804,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/rufus-la-serpiente-que-no-sabia-nadar",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/rufus-la-serpiente-que-no-sabia-nadar",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:17Z"
+      "capturedAt": "2026-08-04T05:30:16Z"
     },
     {
       "id": "4fa3396c1f20f246",
@@ -1416,7 +822,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:18Z"
+      "capturedAt": "2026-08-04T05:30:17Z"
     },
     {
       "id": "c2dbccdd024ee850",
@@ -1434,7 +840,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10342",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "03d36d1d63b1505a",
@@ -1452,7 +858,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "8ae52a3567e0e5b9",
@@ -1470,7 +876,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88687",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "a7268ebc38d73f61",
@@ -1488,7 +894,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88640",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "4e5b3aaa20ff977b",
@@ -1506,7 +912,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "b2a684184f0a1374",
@@ -1524,7 +930,25 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
+    },
+    {
+      "id": "34f7c7f71ab697bb",
+      "filmSlug": "minions-monsters-en-catala",
+      "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-08-04",
+      "sessionTime": "17:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=150450",
+      "pickerUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "cb736388953621cb",
@@ -1542,7 +966,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1080645/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-08-04",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-08-03T05:30:19Z"
+      "capturedAt": "2026-08-04T05:30:16Z"
     },
     {
       "id": "e2666ba9a39f0ef7",
@@ -1560,7 +984,7 @@
       "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
       "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
       "extractorType": "cinesolot-html",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "5deeba965dcaef63",
@@ -1578,7 +1002,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218375/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:22Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "24f57375ef3773d3",
@@ -1596,7 +1020,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "646176c2acaa66f8",
@@ -1614,7 +1038,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88567",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "2be796465cf1c127",
@@ -1632,7 +1056,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "1352fffb5f6518c7",
@@ -1650,7 +1074,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218364/",
       "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:20Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "ef4373e298628866",
@@ -1668,7 +1092,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "e662ff0c2695db84",
@@ -1686,7 +1110,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88513",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "0e51525839cf6d64",
@@ -1704,7 +1128,7 @@
       "pickerUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
       "sourceUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
       "extractorType": "palafrugell-cultura",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:23Z"
     },
     {
       "id": "099ac77fb2791cf6",
@@ -1722,7 +1146,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "2fd88076b8d99b03",
@@ -1740,7 +1164,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "43c377dc1b4cf4aa",
@@ -1758,7 +1182,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:05Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "57a726c69658fbb0",
@@ -1776,7 +1200,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218376/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:22Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "941f72cea7bd1327",
@@ -1794,7 +1218,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218365/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:21Z"
+      "capturedAt": "2026-08-04T05:30:19Z"
     },
     {
       "id": "5c97c18dd1352661",
@@ -1812,7 +1236,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218357/",
       "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:20Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "9acc4e69619ee175",
@@ -1830,7 +1254,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=1000&codiCicle=36",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/boom-boom",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-08-03T05:30:28Z"
+      "capturedAt": "2026-08-04T05:30:27Z"
     },
     {
       "id": "27602568c24897df",
@@ -1848,7 +1272,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:18Z"
+      "capturedAt": "2026-08-04T05:30:15Z"
     },
     {
       "id": "a21324c945fcafaf",
@@ -1866,7 +1290,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88514",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "165a2b7c3b48397b",
@@ -1884,7 +1308,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "dae2b585e56ffb0b",
@@ -1902,7 +1326,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88515",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "9c2d9c78d8853752",
@@ -1920,7 +1344,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88568",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "7098c5a66b673aa8",
@@ -1938,7 +1362,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "1f4e0e511776898d",
@@ -1956,7 +1380,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218394/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:21Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "6c45d54fed60f9ec",
@@ -1974,7 +1398,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218408/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:22Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "5f4f2e51671d24ec",
@@ -1992,7 +1416,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
+      "capturedAt": "2026-08-04T05:30:15Z"
     },
     {
       "id": "21e7292dfbc23a05",
@@ -2010,7 +1434,7 @@
       "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "1ce6fd3e10025c45",
@@ -2028,7 +1452,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "33db43c78d7deb73",
@@ -2046,7 +1470,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/jumbo",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/jumbo",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:17Z"
+      "capturedAt": "2026-08-04T05:30:16Z"
     },
     {
       "id": "e0adcd68615ffa27",
@@ -2064,7 +1488,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/rufus-la-serpiente-que-no-sabia-nadar",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/rufus-la-serpiente-que-no-sabia-nadar",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:17Z"
+      "capturedAt": "2026-08-04T05:30:16Z"
     },
     {
       "id": "e9e3d821f429e214",
@@ -2082,7 +1506,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:18Z"
+      "capturedAt": "2026-08-04T05:30:17Z"
     },
     {
       "id": "00b69545c2a06345",
@@ -2100,7 +1524,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10342",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "dd171444df5e9828",
@@ -2118,7 +1542,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "e6325a3fb4ef120d",
@@ -2136,7 +1560,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88688",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "d92868480a471038",
@@ -2154,7 +1578,7 @@
       "pickerUrl": "https://entrades.ateneucinema.cat/comprar/vIvzYUS5XG",
       "sourceUrl": "https://ateneucinema.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:04Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "5b68f87bcaef9f55",
@@ -2172,7 +1596,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88502",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "ff9939b42ced9b84",
@@ -2190,7 +1614,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88641",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "f6fa7530e2e54633",
@@ -2208,7 +1632,25 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
+    },
+    {
+      "id": "6067a60172abd344",
+      "filmSlug": "minions-monsters-en-catala",
+      "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-08-05",
+      "sessionTime": "17:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=150472",
+      "pickerUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "2f57edcc6cfbc602",
@@ -2226,7 +1668,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "edffe527eea419e9",
@@ -2244,7 +1686,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1080649/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-08-05",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-08-03T05:30:19Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "af7f8b4643ea1bd9",
@@ -2262,7 +1704,7 @@
       "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
       "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
       "extractorType": "cinesolot-html",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "27f91a882dac95ea",
@@ -2280,7 +1722,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218409/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:22Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "801a5c269aefa1d0",
@@ -2298,7 +1740,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88569",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "e68febef761452a4",
@@ -2316,7 +1758,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218398/",
       "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:20Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "fd644f8c76dc9f5c",
@@ -2334,7 +1776,7 @@
       "pickerUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
       "sourceUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
       "extractorType": "palafrugell-cultura",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:23Z"
     },
     {
       "id": "bf6ff02434542bff",
@@ -2352,7 +1794,7 @@
       "pickerUrl": "https://cinemamontgri.cat/viva/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:24Z"
     },
     {
       "id": "6943018ed4d284de",
@@ -2370,7 +1812,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "5cbc86405e0029c6",
@@ -2388,7 +1830,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:05Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "fc7e7d690ef93c19",
@@ -2406,7 +1848,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218410/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:22Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "b18bc6783975df63",
@@ -2424,7 +1866,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218399/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:21Z"
+      "capturedAt": "2026-08-04T05:30:19Z"
     },
     {
       "id": "93f0dc2c4202540d",
@@ -2442,7 +1884,7 @@
       "pickerUrl": "https://www.cinemalabobila.es/mapasesion2023.php",
       "sourceUrl": "https://www.cinemalabobila.es/",
       "extractorType": "ticketing-taquilla81",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "56da161f5ae5db7e",
@@ -2460,7 +1902,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218391/",
       "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:20Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "22bd9100f14d6df3",
@@ -2478,7 +1920,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88500",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "dc7ce39e8ebbe22e",
@@ -2496,7 +1938,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:18Z"
+      "capturedAt": "2026-08-04T05:30:15Z"
     },
     {
       "id": "54e31c62eb4f0569",
@@ -2514,7 +1956,7 @@
       "pickerUrl": "https://www.teatreauditoritortosa.cat/event/cinema-a-la-fresca/",
       "sourceUrl": "https://www.teatreauditoritortosa.cat/event/cinema-a-la-fresca/",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:32Z"
+      "capturedAt": "2026-08-04T05:30:39Z"
     },
     {
       "id": "e6eb2440f0a08320",
@@ -2532,7 +1974,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "e75f042469738d94",
@@ -2550,7 +1992,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88570",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "9169bda04b904add",
@@ -2568,7 +2010,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88516",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "c68e42abec3a8538",
@@ -2586,7 +2028,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88689",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "dabb4e0de80702dc",
@@ -2604,7 +2046,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "55332233530f81ee",
@@ -2622,7 +2064,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218428/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:21Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "3fac4ff48c9947d4",
@@ -2640,7 +2082,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218442/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:22Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "2c2f82a017054afa",
@@ -2658,7 +2100,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
+      "capturedAt": "2026-08-04T05:30:15Z"
     },
     {
       "id": "4f9ff9e4c7040b1a",
@@ -2676,7 +2118,7 @@
       "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "ffaa2a289d3a285a",
@@ -2694,7 +2136,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/jumbo",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/jumbo",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:17Z"
+      "capturedAt": "2026-08-04T05:30:16Z"
     },
     {
       "id": "66c543c69ab7b1ae",
@@ -2712,7 +2154,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/rufus-la-serpiente-que-no-sabia-nadar",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/rufus-la-serpiente-que-no-sabia-nadar",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:17Z"
+      "capturedAt": "2026-08-04T05:30:16Z"
     },
     {
       "id": "2143791206cf0fd9",
@@ -2730,7 +2172,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "ea198b2bbf97f0a9",
@@ -2748,7 +2190,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-03T05:30:18Z"
+      "capturedAt": "2026-08-04T05:30:17Z"
     },
     {
       "id": "5fd83efc3bb87d7b",
@@ -2766,7 +2208,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10342",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-03T05:30:16Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "389286d104585224",
@@ -2784,7 +2226,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "735123e635b7b169",
@@ -2802,7 +2244,25 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
+    },
+    {
+      "id": "05e3a67d6768f20c",
+      "filmSlug": "minions-monsters-en-catala",
+      "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-08-06",
+      "sessionTime": "17:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=150494",
+      "pickerUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "9fdfc890c9b1374e",
@@ -2820,7 +2280,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "4d3884f0ae3444f6",
@@ -2838,7 +2298,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1080654/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-08-06",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-08-03T05:30:20Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "dde9d0a028259f4a",
@@ -2856,7 +2316,7 @@
       "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
       "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
       "extractorType": "cinesolot-html",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "1d9950d81312a967",
@@ -2874,7 +2334,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218443/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:22Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "5a5f744605e83be4",
@@ -2892,7 +2352,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88517",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "4ae558a1f7653ccc",
@@ -2910,7 +2370,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218432/",
       "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:20Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "04ae56f87c15343b",
@@ -2928,7 +2388,7 @@
       "pickerUrl": "https://cinemamontgri.cat/viva/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:24Z"
     },
     {
       "id": "2279031b6c07a626",
@@ -2946,7 +2406,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "088c9a570ddc9e09",
@@ -2964,7 +2424,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:05Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "e676159f818a2907",
@@ -2982,7 +2442,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218444/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:22Z"
+      "capturedAt": "2026-08-04T05:30:20Z"
     },
     {
       "id": "9a13992525063952",
@@ -3000,7 +2460,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218433/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:21Z"
+      "capturedAt": "2026-08-04T05:30:19Z"
     },
     {
       "id": "d5fe14f6638c6bfb",
@@ -3018,7 +2478,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88559",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "270890db1d02632f",
@@ -3036,7 +2496,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218425/",
       "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:20Z"
+      "capturedAt": "2026-08-04T05:30:18Z"
     },
     {
       "id": "af970024cffa282f",
@@ -3054,7 +2514,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88518",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "55a8913fa3a2d71d",
@@ -3072,7 +2532,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88649",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-03T05:30:23Z"
+      "capturedAt": "2026-08-04T05:30:21Z"
     },
     {
       "id": "4eaef0719341841d",
@@ -3090,7 +2550,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:12Z"
     },
     {
       "id": "a68e69c1b829cc6b",
@@ -3108,7 +2568,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-03T05:30:18Z"
+      "capturedAt": "2026-08-04T05:30:15Z"
     },
     {
       "id": "542043f297bd46e6",
@@ -3126,7 +2586,7 @@
       "pickerUrl": "https://cinemamontgri.cat/viva/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:24Z"
     },
     {
       "id": "4420a60363fbefa1",
@@ -3144,7 +2604,25 @@
       "pickerUrl": "https://cinemamontgri.cat/viva/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:24Z"
+    },
+    {
+      "id": "31fb259b0b536ef1",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-019",
+      "cinemaSlug": "cinemes-sant-cugat",
+      "cinemaName": "Cinemes Sant Cugat",
+      "municipiSlug": "sant-cugat-del-valles",
+      "municipiName": "Sant Cugat del Vallès",
+      "sessionDate": "2026-08-07",
+      "sessionTime": "22:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=114031",
+      "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "c326879e49af9624",
@@ -3162,7 +2640,7 @@
       "pickerUrl": "https://cinemamontgri.cat/minions-monsters-2/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:24Z"
     },
     {
       "id": "34428de27d2d7398",
@@ -3180,7 +2658,7 @@
       "pickerUrl": "https://cinemamontgri.cat/viatge-al-pais-dels-blancs/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:25Z"
     },
     {
       "id": "69d5efcab563eb27",
@@ -3198,7 +2676,25 @@
       "pickerUrl": "https://cinemamontgri.cat/viatge-al-pais-dels-blancs/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:25Z"
+    },
+    {
+      "id": "3c8fbeca38e773f9",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-019",
+      "cinemaSlug": "cinemes-sant-cugat",
+      "cinemaName": "Cinemes Sant Cugat",
+      "municipiSlug": "sant-cugat-del-valles",
+      "municipiName": "Sant Cugat del Vallès",
+      "sessionDate": "2026-08-08",
+      "sessionTime": "22:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=114044",
+      "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "a96cf91745c4a802",
@@ -3216,7 +2712,7 @@
       "pickerUrl": "https://cinemamontgri.cat/minions-monsters-2/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:24Z"
     },
     {
       "id": "fdfb72d35d270e18",
@@ -3234,7 +2730,25 @@
       "pickerUrl": "https://cinemamontgri.cat/viatge-al-pais-dels-blancs/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:25Z"
+    },
+    {
+      "id": "15a0c75797a8e7f1",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-019",
+      "cinemaSlug": "cinemes-sant-cugat",
+      "cinemaName": "Cinemes Sant Cugat",
+      "municipiSlug": "sant-cugat-del-valles",
+      "municipiName": "Sant Cugat del Vallès",
+      "sessionDate": "2026-08-09",
+      "sessionTime": "22:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=114057",
+      "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "c8b0e37f5d6d142c",
@@ -3252,7 +2766,7 @@
       "pickerUrl": "https://cinemamontgri.cat/minions-monsters-2/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:24Z"
     },
     {
       "id": "e0e8cac176f2f5c8",
@@ -3270,7 +2784,79 @@
       "pickerUrl": "https://cinemamontgri.cat/viatge-al-pais-dels-blancs/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:25Z"
+    },
+    {
+      "id": "f4328af4ed31e22f",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-019",
+      "cinemaSlug": "cinemes-sant-cugat",
+      "cinemaName": "Cinemes Sant Cugat",
+      "municipiSlug": "sant-cugat-del-valles",
+      "municipiName": "Sant Cugat del Vallès",
+      "sessionDate": "2026-08-10",
+      "sessionTime": "22:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=114070",
+      "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-04T05:30:04Z"
+    },
+    {
+      "id": "2e2af1d554f23641",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-019",
+      "cinemaSlug": "cinemes-sant-cugat",
+      "cinemaName": "Cinemes Sant Cugat",
+      "municipiSlug": "sant-cugat-del-valles",
+      "municipiName": "Sant Cugat del Vallès",
+      "sessionDate": "2026-08-11",
+      "sessionTime": "22:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=114083",
+      "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-04T05:30:04Z"
+    },
+    {
+      "id": "675855491bc64d3a",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-019",
+      "cinemaSlug": "cinemes-sant-cugat",
+      "cinemaName": "Cinemes Sant Cugat",
+      "municipiSlug": "sant-cugat-del-valles",
+      "municipiName": "Sant Cugat del Vallès",
+      "sessionDate": "2026-08-12",
+      "sessionTime": "22:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=114096",
+      "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-04T05:30:04Z"
+    },
+    {
+      "id": "eec341ecb601c257",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-019",
+      "cinemaSlug": "cinemes-sant-cugat",
+      "cinemaName": "Cinemes Sant Cugat",
+      "municipiSlug": "sant-cugat-del-valles",
+      "municipiName": "Sant Cugat del Vallès",
+      "sessionDate": "2026-08-13",
+      "sessionTime": "22:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=114109",
+      "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "8059d2a6cde205f3",
@@ -3288,7 +2874,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=69",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/la-meva-setmana-extraordinaria-amb-la-tess",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-08-03T05:30:40Z"
+      "capturedAt": "2026-08-04T05:30:41Z"
     },
     {
       "id": "d51fe3e30f980fb6",
@@ -3306,7 +2892,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=1000&codiCicle=37",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/boom-boom",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-08-03T05:30:28Z"
+      "capturedAt": "2026-08-04T05:30:27Z"
     },
     {
       "id": "99eef2204a27204b",
@@ -3324,7 +2910,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=70",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/la-meva-setmana-extraordinaria-amb-la-tess",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-08-03T05:30:40Z"
+      "capturedAt": "2026-08-04T05:30:41Z"
     },
     {
       "id": "faac19d79b0bcb16",
@@ -3342,7 +2928,7 @@
       "pickerUrl": "https://cinemamontgri.cat/balandrau-vent-salvatge-3/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:25Z"
+      "capturedAt": "2026-08-04T05:30:28Z"
     },
     {
       "id": "868c0599baafbdfa",
@@ -3360,7 +2946,7 @@
       "pickerUrl": "https://cinemamontgri.cat/balandrau-vent-salvatge-3/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:25Z"
+      "capturedAt": "2026-08-04T05:30:28Z"
     },
     {
       "id": "1d9beb35742ccfeb",
@@ -3378,7 +2964,7 @@
       "pickerUrl": "https://www.teatreauditoritortosa.cat/event/la-casa-en-flames-2/",
       "sourceUrl": "https://www.teatreauditoritortosa.cat/event/la-casa-en-flames-2/",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:28Z"
+      "capturedAt": "2026-08-04T05:30:30Z"
     },
     {
       "id": "2944c70c01b9b344",
@@ -3396,7 +2982,7 @@
       "pickerUrl": "https://cinemamontgri.cat/balandrau-vent-salvatge-3/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-03T05:30:25Z"
+      "capturedAt": "2026-08-04T05:30:28Z"
     },
     {
       "id": "29449654052f9cb3",
@@ -3414,7 +3000,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "9fa1fb19f8d443ea",
@@ -3432,7 +3018,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "5a6eff3184ddead3",
@@ -3450,7 +3036,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-increible-historia-de-la-pera-gegant/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "afc28ba264131dac",
@@ -3468,7 +3054,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "07438c7d5365c858",
@@ -3486,7 +3072,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "7691f288da5898bc",
@@ -3504,7 +3090,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "aa3b01f6c759cc94",
@@ -3522,7 +3108,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-increible-historia-de-la-pera-gegant/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-08-03T05:30:25Z"
+      "capturedAt": "2026-08-04T05:30:23Z"
     },
     {
       "id": "76ac47a6e6a2899e",
@@ -3540,7 +3126,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "08aae8d0f9017fed",
@@ -3558,7 +3144,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=73",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/els-goonies",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-08-03T05:30:33Z"
+      "capturedAt": "2026-08-04T05:30:34Z"
     },
     {
       "id": "64312fe8195c398b",
@@ -3576,7 +3162,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "5cce0b1ea6594dbb",
@@ -3594,7 +3180,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "cd9cc6c51f25c90d",
@@ -3612,7 +3198,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "a815fffc46081400",
@@ -3630,7 +3216,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "ef65b512fd7721be",
@@ -3648,7 +3234,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-increible-historia-de-la-pera-gegant/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-08-03T05:30:25Z"
+      "capturedAt": "2026-08-04T05:30:24Z"
     },
     {
       "id": "8da5b3869a730f36",
@@ -3666,7 +3252,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "f17b03f2c22109db",
@@ -3684,7 +3270,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "7b7dfbe08f9d99e6",
@@ -3702,7 +3288,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "4ad7d229b10ddbd0",
@@ -3720,7 +3306,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "dff7792eeeb5ac50",
@@ -3738,7 +3324,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "0158e91e41f63821",
@@ -3756,7 +3342,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-08-03T05:30:24Z"
+      "capturedAt": "2026-08-04T05:30:22Z"
     },
     {
       "id": "79b7b641f1f2ec86",
@@ -3774,7 +3360,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-increible-historia-de-la-pera-gegant/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-08-03T05:30:26Z"
+      "capturedAt": "2026-08-04T05:30:24Z"
     },
     {
       "id": "9f8300db3ba15ae6",
@@ -3792,7 +3378,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "f973cf106e1e346d",
@@ -3810,7 +3396,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "e467de9057589e98",
@@ -3828,7 +3414,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "95dcfda98579c31b",
@@ -3846,7 +3432,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "bab97bff882c7b36",
@@ -3864,7 +3450,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "2f9e9019b3626c32",
@@ -3882,7 +3468,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "2b3ce87d486b2fdb",
@@ -3900,7 +3486,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "e103e62814155564",
@@ -3918,7 +3504,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "eb4c1eeafbeeea16",
@@ -3936,7 +3522,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "6ccb783bfcf35ab7",
@@ -3954,7 +3540,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "cd9f395d5d4761bc",
@@ -3972,7 +3558,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "c7d8e8ca53f22d30",
@@ -3990,7 +3576,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "bb65a023926eaf33",
@@ -4008,7 +3594,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "15e2dd2d9e0a11c4",
@@ -4026,7 +3612,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "61a3d06839fa2bfd",
@@ -4044,7 +3630,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "dba7d2ab84147fc4",
@@ -4062,7 +3648,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "39e825bb84027917",
@@ -4080,7 +3666,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "78d98bbe5d7e3526",
@@ -4098,7 +3684,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "744b0c8485c49316",
@@ -4116,7 +3702,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "ccf210c91cf297ec",
@@ -4134,7 +3720,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "f4d7bf94005dbf45",
@@ -4152,7 +3738,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "eaf3ff88cc81c33f",
@@ -4170,7 +3756,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "4623530e446b16c5",
@@ -4188,7 +3774,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "20d3bb363a35def3",
@@ -4206,7 +3792,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "81bce9ca9caad51f",
@@ -4224,7 +3810,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "35f05d3f58062a7f",
@@ -4242,7 +3828,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "b8dff7d517303aa5",
@@ -4260,7 +3846,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/la-historia-de-corea-a-traves-del-cinema",
       "sourceUrl": "https://www.cinemesgirona.cat/la-historia-de-corea-a-traves-del-cinema",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:07Z"
+      "capturedAt": "2026-08-04T05:30:08Z"
     },
     {
       "id": "76bce459a608e5a7",
@@ -4278,7 +3864,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "c97558537f642820",
@@ -4296,7 +3882,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "def0f60756ff8ec0",
@@ -4314,7 +3900,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "156ef120a5d4a9b7",
@@ -4332,7 +3918,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "cef4b23e3fcef79d",
@@ -4350,7 +3936,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "f5b4b15965aa3723",
@@ -4368,7 +3954,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "7ae39ed910a65cc5",
@@ -4386,7 +3972,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-increible-historia-de-la-pera-gegant/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-08-03T05:30:28Z"
+      "capturedAt": "2026-08-04T05:30:26Z"
     },
     {
       "id": "145a7de3a8a551a9",
@@ -4404,7 +3990,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "a3f235a5720d8025",
@@ -4422,7 +4008,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "3e5548bc5a59fa63",
@@ -4440,7 +4026,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "fb38a1d700cb4297",
@@ -4458,7 +4044,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "dfc7533a294863e2",
@@ -4476,7 +4062,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "79a5c0f71a565645",
@@ -4494,7 +4080,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "1492a68dd02adf9d",
@@ -4512,7 +4098,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "2612f21b636934c0",
@@ -4530,7 +4116,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "bcfd4acf18ddda5f",
@@ -4548,7 +4134,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "225ea6296d7f8b5b",
@@ -4566,7 +4152,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "e82c75877637b516",
@@ -4584,7 +4170,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "8b59d93073806ff1",
@@ -4602,7 +4188,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "e5daec6c9dd52a64",
@@ -4620,7 +4206,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "52130972571387ec",
@@ -4638,7 +4224,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "ef5e79da8f4526f0",
@@ -4656,7 +4242,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "48d4dbdcb7f494d9",
@@ -4674,7 +4260,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "19d4613d1ca633d5",
@@ -4692,7 +4278,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "0a5082240d6d9e72",
@@ -4710,7 +4296,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "6fa9613af15483ec",
@@ -4728,7 +4314,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "953a6989cfcbf220",
@@ -4746,7 +4332,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "ab6ad77fa7eb9538",
@@ -4764,7 +4350,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/evolucio-de-les-series-coreanes",
       "sourceUrl": "https://www.cinemesgirona.cat/evolucio-de-les-series-coreanes",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:07Z"
+      "capturedAt": "2026-08-04T05:30:08Z"
     },
     {
       "id": "6802431e8e4e8275",
@@ -4782,7 +4368,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "4deef2d1fe77c050",
@@ -4800,7 +4386,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "def38a70c0463832",
@@ -4818,7 +4404,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "af11445211e227bc",
@@ -4836,7 +4422,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "ab0c0b8a81d1d6a3",
@@ -4854,7 +4440,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "1f363b84fc8bb38e",
@@ -4872,7 +4458,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "f4ccebc3e162b803",
@@ -4890,7 +4476,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "8b7b4e0761f64d45",
@@ -4908,7 +4494,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "a76a3931d1cc97dc",
@@ -4926,7 +4512,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "0a2fbba7f63c5ca7",
@@ -4944,7 +4530,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "de6d29977c954636",
@@ -4962,7 +4548,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=76",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/la-meva-setmana-extraordinaria-amb-la-tess",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-08-03T05:30:40Z"
+      "capturedAt": "2026-08-04T05:30:41Z"
     },
     {
       "id": "abc834e979252ae2",
@@ -4980,7 +4566,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "6c76786732fb31cc",
@@ -4998,7 +4584,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "75db9bf144769126",
@@ -5016,7 +4602,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "28cecff5b277cfd5",
@@ -5034,7 +4620,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "3948bca981d830e1",
@@ -5052,7 +4638,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "76a5cea9b5da10f3",
@@ -5070,7 +4656,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "97c9b5688dbd415e",
@@ -5088,7 +4674,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "c06f3f7f1766e11d",
@@ -5106,7 +4692,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "87b4da34906e73ed",
@@ -5124,7 +4710,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "232c9b146ca8d600",
@@ -5142,7 +4728,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "a2fce3bad9a545e7",
@@ -5160,7 +4746,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "608ed256ec3faea3",
@@ -5178,7 +4764,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "4a440f46b57db8d3",
@@ -5196,7 +4782,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "d0cdcb662e54e355",
@@ -5214,7 +4800,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "fa0e4c7786aa6179",
@@ -5232,7 +4818,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "f86de49330a2c125",
@@ -5250,7 +4836,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "7e9453e79a7f494b",
@@ -5268,7 +4854,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "ae987c84df48102c",
@@ -5286,7 +4872,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "7590a24a9aaedd94",
@@ -5304,7 +4890,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "052577472fc8a08a",
@@ -5322,7 +4908,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "53a489abb234ea67",
@@ -5340,7 +4926,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "9cf3f156fe15b2aa",
@@ -5358,7 +4944,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "c828e39cb0e09747",
@@ -5376,7 +4962,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "92472eda186a6320",
@@ -5394,7 +4980,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "b63f9bd088fe3db9",
@@ -5412,7 +4998,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "9a65da1ca14a62e5",
@@ -5430,7 +5016,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "02fb723f8afe7a09",
@@ -5448,7 +5034,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "ce959cb4c4182ac6",
@@ -5466,7 +5052,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "3bdaec26f9cc1d23",
@@ -5484,7 +5070,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "ef94c83df9684f12",
@@ -5502,7 +5088,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "605951cd13568ab9",
@@ -5520,7 +5106,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "65fdd482be87a53c",
@@ -5538,7 +5124,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "e2046a2c89deda45",
@@ -5556,7 +5142,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "00877fe4c1494ae9",
@@ -5574,7 +5160,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "085e3bc9915a1a16",
@@ -5592,7 +5178,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "2bde37587e96684c",
@@ -5610,7 +5196,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "776b3e39875c2738",
@@ -5628,7 +5214,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "1619c2ac8cc598a4",
@@ -5646,7 +5232,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "90284e8f653664a7",
@@ -5664,7 +5250,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "a6d117791e2067d1",
@@ -5682,7 +5268,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "6bb8a0e2c3246aa9",
@@ -5700,7 +5286,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "2485a3185c5aa879",
@@ -5718,7 +5304,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "0fd239765a51257b",
@@ -5736,7 +5322,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "f1e5cdad09b00542",
@@ -5754,7 +5340,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "2bd7e732c68b2cf0",
@@ -5772,7 +5358,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "714045f4db77fe84",
@@ -5790,7 +5376,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "e683ac2c7506a071",
@@ -5808,7 +5394,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "babfaa6895601b15",
@@ -5826,7 +5412,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "44e61ff2329a4c80",
@@ -5844,7 +5430,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "8c16be5869c39ede",
@@ -5862,7 +5448,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "3231664d62288b65",
@@ -5880,7 +5466,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "b98328793599e191",
@@ -5898,7 +5484,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "5325ceed02552f87",
@@ -5916,7 +5502,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "27dec2c874eee4f2",
@@ -5934,7 +5520,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "d14fc9b8e5f177dc",
@@ -5952,7 +5538,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "b76c7b33fd8d5201",
@@ -5970,7 +5556,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "36f9ef0e478c348b",
@@ -5988,7 +5574,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "291b10a4b5e59eff",
@@ -6006,7 +5592,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "7565b6e21be2aa0d",
@@ -6024,7 +5610,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "fd8a279cceb0bf1f",
@@ -6042,7 +5628,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "7a57c233264f9df4",
@@ -6060,7 +5646,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "da2a2082afb931ea",
@@ -6078,7 +5664,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "5b9e35ef54157434",
@@ -6096,7 +5682,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "51a6a4515ad73c3a",
@@ -6114,7 +5700,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "626173f5d2776e4d",
@@ -6132,7 +5718,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "96b72951ebc3399a",
@@ -6150,7 +5736,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "6409ef988cb54303",
@@ -6168,7 +5754,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "0b2e3c7bb8fad2fc",
@@ -6186,7 +5772,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "9603f9e4cb2db13d",
@@ -6204,7 +5790,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "c274edae7e4a255a",
@@ -6222,7 +5808,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "e6ab6511c62f62b1",
@@ -6240,7 +5826,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "fd76714dd56e94a3",
@@ -6258,7 +5844,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "d0ef0b009e10e95f",
@@ -6276,7 +5862,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "1ccbf750851237c5",
@@ -6294,7 +5880,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "35788d80d9e33f95",
@@ -6312,7 +5898,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "f964dbd3408d532f",
@@ -6330,7 +5916,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "7fa9061d70424cb4",
@@ -6348,7 +5934,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "ae1d6393b1cf3b35",
@@ -6366,7 +5952,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "b9e74dd723a59b01",
@@ -6384,7 +5970,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "caf6caca241aacc3",
@@ -6402,7 +5988,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "279df35aa4af7f9f",
@@ -6420,7 +6006,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "50b7ba3850299398",
@@ -6438,7 +6024,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "1df868b4a2d95ceb",
@@ -6456,7 +6042,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "7b2b85db19143769",
@@ -6474,7 +6060,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "5ea0c825ad7e5642",
@@ -6492,7 +6078,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "b0f5653f5d588eae",
@@ -6510,7 +6096,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "cfab74b76a662f64",
@@ -6528,7 +6114,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "6d8dbcb9036e98ef",
@@ -6546,7 +6132,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "f988b2212aff203c",
@@ -6564,7 +6150,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "2bf2d91cdbcea0fd",
@@ -6582,7 +6168,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "1af59d65fb5b9559",
@@ -6600,7 +6186,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "3cedab0d97a67002",
@@ -6618,7 +6204,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "768cadad60ca015d",
@@ -6636,7 +6222,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "6a01e560af35f1ed",
@@ -6654,7 +6240,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "4306cab65bd4877f",
@@ -6672,7 +6258,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "601c229766a301f3",
@@ -6690,7 +6276,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "b0ad121d24fb4423",
@@ -6708,7 +6294,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "8ac2e1d32c409797",
@@ -6726,7 +6312,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "9f0ddcf7e4cde930",
@@ -6744,7 +6330,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "990339cf6726076c",
@@ -6762,7 +6348,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "3f09df6d5335ff6d",
@@ -6780,7 +6366,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "b48f32e740da9a00",
@@ -6798,7 +6384,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "ea1c1b68adee2543",
@@ -6816,7 +6402,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "63487aa32da21e0a",
@@ -6834,7 +6420,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "d52e55ac0dad457e",
@@ -6852,7 +6438,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "38d387d97a2b084f",
@@ -6870,7 +6456,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "ea794b7bf5f1d13e",
@@ -6888,7 +6474,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "66a3b5a69c396ad5",
@@ -6906,7 +6492,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "b2b8df587a5889a1",
@@ -6924,7 +6510,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/siemprevivas-zumzeig/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-08-03T05:30:29Z"
+      "capturedAt": "2026-08-04T05:30:27Z"
     },
     {
       "id": "f97b1db76cbf51af",
@@ -6942,7 +6528,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "39d119402e3c6ed1",
@@ -6960,7 +6546,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "cf5e0d6a5d0a55de",
@@ -6978,7 +6564,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "c5e1a13b9ee12c7d",
@@ -6996,7 +6582,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "e4866b0ce8d00754",
@@ -7014,7 +6600,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "4591a59244682abf",
@@ -7032,7 +6618,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "c864524e02e2ed4d",
@@ -7050,7 +6636,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "a3405352ebaca1df",
@@ -7068,7 +6654,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "6b8f5c9a8e2c8bd3",
@@ -7086,7 +6672,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "4654072ee0475295",
@@ -7104,7 +6690,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "e6b73918c7afce80",
@@ -7122,7 +6708,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "abd06232cbada19d",
@@ -7140,7 +6726,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "99ea9ed6ad812fe7",
@@ -7158,7 +6744,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-03T05:30:15Z"
+      "capturedAt": "2026-08-04T05:30:14Z"
     },
     {
       "id": "ced450a5942a498e",
@@ -7176,7 +6762,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "0921d8180915614f",
@@ -7194,7 +6780,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:03Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "9a312d31a8e5bd09",
@@ -7212,7 +6798,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-03T05:30:02Z"
+      "capturedAt": "2026-08-04T05:30:03Z"
     },
     {
       "id": "9e7e80d98da93c6a",
@@ -7230,7 +6816,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=77",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/els-goonies",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-08-03T05:30:33Z"
+      "capturedAt": "2026-08-04T05:30:34Z"
     },
     {
       "id": "eb629754d5f6bb37",
@@ -7248,7 +6834,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/un-altre-home",
       "sourceUrl": "https://www.cinemessantcugat.com/un-altre-home",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:06Z"
+      "capturedAt": "2026-08-04T05:30:05Z"
     },
     {
       "id": "a26d490b9b6c8c2a",
@@ -7266,7 +6852,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/un-altre-home",
       "sourceUrl": "https://www.cinemessantcugat.com/un-altre-home",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:06Z"
+      "capturedAt": "2026-08-04T05:30:05Z"
     },
     {
       "id": "b193266acd147582",
@@ -7284,7 +6870,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/un-altre-home",
       "sourceUrl": "https://www.cinemessantcugat.com/un-altre-home",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:06Z"
+      "capturedAt": "2026-08-04T05:30:05Z"
     },
     {
       "id": "3f19a99d7ba3aef8",
@@ -7302,7 +6888,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=78",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/els-goonies",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-08-03T05:30:33Z"
+      "capturedAt": "2026-08-04T05:30:34Z"
     },
     {
       "id": "420e24e9710dc9e6",
@@ -7320,7 +6906,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/tanit-vo-20260922-1800",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:04Z"
+      "capturedAt": "2026-08-04T05:30:04Z"
     },
     {
       "id": "107e2247bf75ec60",
@@ -7338,7 +6924,7 @@
       "pickerUrl": "https://tickets.teatreauditoritortosa.cat/esdeveniment/balandrau-vent-salvatge/6400/balandrau-vent-salvatge/21520",
       "sourceUrl": "https://www.teatreauditoritortosa.cat/event/balandrau-vent-salvatge/",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-03T05:30:34Z"
+      "capturedAt": "2026-08-04T05:30:40Z"
     }
   ],
   "sourceIssues": [],
