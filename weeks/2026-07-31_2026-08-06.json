@@ -1,63 +1,53 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-05T05:30:50Z",
+  "generatedAt": "2026-08-06T05:31:01Z",
   "weekStart": "2026-07-31",
   "weekEnd": "2026-08-06",
   "source": {
-    "sessionsPath": "runs\\daily\\2026-08-05\\sessions.json",
-    "recordsTotal": 390,
+    "sessionsPath": "runs\\daily\\2026-08-06\\sessions.json",
+    "recordsTotal": 603,
     "skippedSources": 0,
-    "latestCapturedAt": "2026-08-05T05:30:34Z"
+    "latestCapturedAt": "2026-08-06T05:30:26Z"
   },
   "summary": {
-    "sessions": 113,
-    "films": 9,
-    "cinemas": 21,
-    "municipis": 18,
+    "sessions": 77,
+    "films": 7,
+    "cinemas": 14,
+    "municipis": 11,
     "topFilms": [
       {
         "slug": "mala-bestia-en-catala",
         "title": "Mala Bestia",
-        "sessions": 33
+        "sessions": 27
       },
       {
         "slug": "viatge-al-pais-dels-blancs-en-catala",
         "title": "Viatge al país dels blancs",
-        "sessions": 33
-      },
-      {
-        "slug": "minions-monsters-en-catala",
-        "title": "Minions & Monsters",
-        "sessions": 14
+        "sessions": 23
       },
       {
         "slug": "viva-en-catala",
         "title": "Viva",
-        "sessions": 12
+        "sessions": 11
       },
       {
         "slug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
         "title": "Rufus, la serp que no sabia nedar",
-        "sessions": 10
+        "sessions": 8
       },
       {
-        "slug": "toy-story-5-en-catala",
-        "title": "Toy Story 5",
-        "sessions": 5
+        "slug": "minions-monsters-en-catala",
+        "title": "Minions & Monsters",
+        "sessions": 6
       },
       {
         "slug": "jumbo-en-catala",
         "title": "Jumbo",
-        "sessions": 4
-      },
-      {
-        "slug": "la-copia-perfecta-en-catala",
-        "title": "La còpia perfecta",
         "sessions": 1
       },
       {
-        "slug": "jurassic-world-el-reneixer-en-catala",
-        "title": "Jurassic World: El renéixer",
+        "slug": "toy-story-5-en-catala",
+        "title": "Toy Story 5",
         "sessions": 1
       }
     ]
@@ -66,20 +56,6 @@
     {
       "slug": "jumbo-en-catala",
       "title": "Jumbo",
-      "sessionCount": 4,
-      "cinemaCount": 2,
-      "municipiCount": 2
-    },
-    {
-      "slug": "jurassic-world-el-reneixer-en-catala",
-      "title": "Jurassic World: El renéixer",
-      "sessionCount": 1,
-      "cinemaCount": 1,
-      "municipiCount": 1
-    },
-    {
-      "slug": "la-copia-perfecta-en-catala",
-      "title": "La còpia perfecta",
       "sessionCount": 1,
       "cinemaCount": 1,
       "municipiCount": 1
@@ -87,63 +63,54 @@
     {
       "slug": "mala-bestia-en-catala",
       "title": "Mala Bestia",
-      "sessionCount": 33,
+      "sessionCount": 27,
       "cinemaCount": 4,
       "municipiCount": 3
     },
     {
       "slug": "minions-monsters-en-catala",
       "title": "Minions & Monsters",
-      "sessionCount": 14,
-      "cinemaCount": 8,
-      "municipiCount": 8
+      "sessionCount": 6,
+      "cinemaCount": 6,
+      "municipiCount": 6
     },
     {
       "slug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
       "title": "Rufus, la serp que no sabia nedar",
-      "sessionCount": 10,
-      "cinemaCount": 3,
-      "municipiCount": 3
-    },
-    {
-      "slug": "toy-story-5-en-catala",
-      "title": "Toy Story 5",
-      "sessionCount": 5,
+      "sessionCount": 8,
       "cinemaCount": 2,
       "municipiCount": 2
     },
     {
+      "slug": "toy-story-5-en-catala",
+      "title": "Toy Story 5",
+      "sessionCount": 1,
+      "cinemaCount": 1,
+      "municipiCount": 1
+    },
+    {
       "slug": "viatge-al-pais-dels-blancs-en-catala",
       "title": "Viatge al país dels blancs",
-      "sessionCount": 33,
-      "cinemaCount": 9,
-      "municipiCount": 7
+      "sessionCount": 23,
+      "cinemaCount": 8,
+      "municipiCount": 6
     },
     {
       "slug": "viva-en-catala",
       "title": "Viva",
-      "sessionCount": 12,
+      "sessionCount": 11,
       "cinemaCount": 3,
       "municipiCount": 3
     }
   ],
   "cinemas": [
     {
-      "cinemaId": "wc-076",
-      "slug": "cinema-casal",
-      "name": "Cinema Casal",
-      "municipiSlug": "agramunt",
-      "municipiName": "Agramunt",
-      "sessionCount": 2,
-      "filmCount": 1
-    },
-    {
       "cinemaId": "wc-038",
       "slug": "mooby-aribau",
       "name": "Mooby Aribau",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -152,7 +119,7 @@
       "name": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -161,7 +128,7 @@
       "name": "Renoir Floridablanca",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -170,17 +137,8 @@
       "name": "Verdi Barcelona",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 14,
+      "sessionCount": 7,
       "filmCount": 4
-    },
-    {
-      "cinemaId": "wc-078",
-      "slug": "teatre-cinema-armengol",
-      "name": "Teatre-Cinema Armengol",
-      "municipiSlug": "bellpuig",
-      "municipiName": "Bellpuig",
-      "sessionCount": 1,
-      "filmCount": 1
     },
     {
       "cinemaId": "wc-049",
@@ -188,17 +146,8 @@
       "name": "Ocine Girona",
       "municipiSlug": "girona",
       "municipiName": "Girona",
-      "sessionCount": 4,
+      "sessionCount": 2,
       "filmCount": 2
-    },
-    {
-      "cinemaId": "wc-003",
-      "slug": "ateneu-cinema",
-      "name": "Ateneu Cinema",
-      "municipiSlug": "igualada",
-      "municipiName": "Igualada",
-      "sessionCount": 1,
-      "filmCount": 1
     },
     {
       "cinemaId": "wc-086",
@@ -215,15 +164,6 @@
       "name": "Cines Olot",
       "municipiSlug": "olot",
       "municipiName": "Olot",
-      "sessionCount": 2,
-      "filmCount": 1
-    },
-    {
-      "cinemaId": "wc-096",
-      "slug": "teatre-municipal-palafrugell",
-      "name": "Teatre Municipal de Palafrugell - Cine Club Garbí",
-      "municipiSlug": "palafrugell",
-      "municipiName": "Palafrugell",
       "sessionCount": 1,
       "filmCount": 1
     },
@@ -233,24 +173,6 @@
       "name": "Cinemes Sant Cugat",
       "municipiSlug": "sant-cugat-del-valles",
       "municipiName": "Sant Cugat del Vallès",
-      "sessionCount": 2,
-      "filmCount": 1
-    },
-    {
-      "cinemaId": "wc-094",
-      "slug": "cinema-la-bobila",
-      "name": "Cinema La Bobila",
-      "municipiSlug": "sant-pere-de-ribes",
-      "municipiName": "Sant Pere de Ribes",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
-      "cinemaId": "wc-081",
-      "slug": "cinema-paris",
-      "name": "Cinema París",
-      "municipiSlug": "solsona",
-      "municipiName": "Solsona",
       "sessionCount": 1,
       "filmCount": 1
     },
@@ -260,7 +182,7 @@
       "name": "Ocine Les Gavarres",
       "municipiSlug": "tarragona",
       "municipiName": "Tarragona",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -269,7 +191,7 @@
       "name": "Cinesa Parc Vallès",
       "municipiSlug": "terrassa",
       "municipiName": "Terrassa",
-      "sessionCount": 8,
+      "sessionCount": 4,
       "filmCount": 2
     },
     {
@@ -278,16 +200,7 @@
       "name": "Cinema Montgrí",
       "municipiSlug": "torroella-de-montgri",
       "municipiName": "Torroella de Montgrí",
-      "sessionCount": 5,
-      "filmCount": 2
-    },
-    {
-      "cinemaId": "wc-091",
-      "slug": "cambra-comerc-tortosa",
-      "name": "Cambra de Comerç de Tortosa",
-      "municipiSlug": "tortosa",
-      "municipiName": "Tortosa",
-      "sessionCount": 1,
+      "sessionCount": 2,
       "filmCount": 1
     },
     {
@@ -296,7 +209,7 @@
       "name": "JCA Cinemes Tarragona-Valls",
       "municipiSlug": "valls",
       "municipiName": "Valls",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -305,7 +218,7 @@
       "name": "Multicines Sucre",
       "municipiSlug": "vic",
       "municipiName": "Vic",
-      "sessionCount": 4,
+      "sessionCount": 2,
       "filmCount": 2
     },
     {
@@ -314,54 +227,27 @@
       "name": "Odeon Multicines Vilanova",
       "municipiSlug": "vilanova-i-la-geltru",
       "municipiName": "Vilanova i la Geltrú",
-      "sessionCount": 6,
+      "sessionCount": 3,
       "filmCount": 3
     }
   ],
   "municipis": [
     {
-      "slug": "agramunt",
-      "name": "Agramunt",
-      "ineCode": "25003",
-      "idescatCode": "250030",
-      "sessionCount": 2,
-      "filmCount": 1,
-      "cinemaCount": 1
-    },
-    {
       "slug": "barcelona",
       "name": "Barcelona",
       "ineCode": "08019",
       "idescatCode": "080193",
-      "sessionCount": 20,
+      "sessionCount": 10,
       "filmCount": 4,
       "cinemaCount": 4
-    },
-    {
-      "slug": "bellpuig",
-      "name": "Bellpuig",
-      "ineCode": "25050",
-      "idescatCode": "250501",
-      "sessionCount": 1,
-      "filmCount": 1,
-      "cinemaCount": 1
     },
     {
       "slug": "girona",
       "name": "Girona",
       "ineCode": "17079",
       "idescatCode": "170792",
-      "sessionCount": 4,
+      "sessionCount": 2,
       "filmCount": 2,
-      "cinemaCount": 1
-    },
-    {
-      "slug": "igualada",
-      "name": "Igualada",
-      "ineCode": "08102",
-      "idescatCode": "081022",
-      "sessionCount": 1,
-      "filmCount": 1,
       "cinemaCount": 1
     },
     {
@@ -378,15 +264,6 @@
       "name": "Olot",
       "ineCode": "17114",
       "idescatCode": "171143",
-      "sessionCount": 2,
-      "filmCount": 1,
-      "cinemaCount": 1
-    },
-    {
-      "slug": "palafrugell",
-      "name": "Palafrugell",
-      "ineCode": "17117",
-      "idescatCode": "171175",
       "sessionCount": 1,
       "filmCount": 1,
       "cinemaCount": 1
@@ -396,24 +273,6 @@
       "name": "Sant Cugat del Vallès",
       "ineCode": "08205",
       "idescatCode": "082055",
-      "sessionCount": 2,
-      "filmCount": 1,
-      "cinemaCount": 1
-    },
-    {
-      "slug": "sant-pere-de-ribes",
-      "name": "Sant Pere de Ribes",
-      "ineCode": "08231",
-      "idescatCode": "082310",
-      "sessionCount": 1,
-      "filmCount": 1,
-      "cinemaCount": 1
-    },
-    {
-      "slug": "solsona",
-      "name": "Solsona",
-      "ineCode": "25207",
-      "idescatCode": "252075",
       "sessionCount": 1,
       "filmCount": 1,
       "cinemaCount": 1
@@ -423,7 +282,7 @@
       "name": "Tarragona",
       "ineCode": "43148",
       "idescatCode": "431482",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -432,7 +291,7 @@
       "name": "Terrassa",
       "ineCode": "08279",
       "idescatCode": "082798",
-      "sessionCount": 8,
+      "sessionCount": 4,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -441,16 +300,7 @@
       "name": "Torroella de Montgrí",
       "ineCode": "17199",
       "idescatCode": "171997",
-      "sessionCount": 5,
-      "filmCount": 2,
-      "cinemaCount": 1
-    },
-    {
-      "slug": "tortosa",
-      "name": "Tortosa",
-      "ineCode": "43155",
-      "idescatCode": "431554",
-      "sessionCount": 1,
+      "sessionCount": 2,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -459,7 +309,7 @@
       "name": "Valls",
       "ineCode": "43161",
       "idescatCode": "431613",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -468,7 +318,7 @@
       "name": "Vic",
       "ineCode": "08298",
       "idescatCode": "082981",
-      "sessionCount": 4,
+      "sessionCount": 2,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -477,7 +327,7 @@
       "name": "Vilanova i la Geltrú",
       "ineCode": "08307",
       "idescatCode": "083073",
-      "sessionCount": 6,
+      "sessionCount": 3,
       "filmCount": 3,
       "cinemaCount": 1
     }
@@ -499,7 +349,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88503",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "9fdabe59d5f0a954",
@@ -517,7 +367,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88560",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "8519036baedf544e",
@@ -535,7 +385,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88501",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "76fd3f03cd622528",
@@ -553,7 +403,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88690",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "c6ed23c8735dfb08",
@@ -571,7 +421,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88650",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "bce0b1cd8d71dca3",
@@ -589,7 +439,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88562",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "70facd68e2963238",
@@ -607,7 +457,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88504",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "3c785a3fbe4bd6d7",
@@ -625,7 +475,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88648",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "2330d9fae6cf9de9",
@@ -643,7 +493,7 @@
       "pickerUrl": "https://www.screenbox.cat/programacio",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "a84ac28cd3eddecb",
@@ -661,7 +511,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88563",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "bba085357c1f804e",
@@ -679,7 +529,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88498",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "9bf2c2dfd888dd61",
@@ -697,25 +547,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88684",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "8b7b5280477018d1",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaId": "wc-095",
-      "cinemaSlug": "cinema-montgri",
-      "cinemaName": "Cinema Montgrí",
-      "municipiSlug": "torroella-de-montgri",
-      "municipiName": "Torroella de Montgrí",
-      "sessionDate": "2026-08-01",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cinemamontgri.cat/toy-story-5-2/",
-      "pickerUrl": "https://cinemamontgri.cat/toy-story-5-2/",
-      "sourceUrl": "https://cinemamontgri.cat/programacio/",
-      "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-05T05:30:23Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "169ca90fe45992ea",
@@ -733,25 +565,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88637",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "69488b767b851e7b",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-078",
-      "cinemaSlug": "teatre-cinema-armengol",
-      "cinemaName": "Teatre-Cinema Armengol",
-      "municipiSlug": "bellpuig",
-      "municipiName": "Bellpuig",
-      "sessionDate": "2026-08-01",
-      "sessionTime": "19:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://circusa.com/ca/bellpuig/",
-      "pickerUrl": "https://circusa.com/ca/bellpuig/",
-      "sourceUrl": "https://circusa.com/ca/bellpuig/",
-      "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-08-05T05:30:21Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "30509ce56fa20019",
@@ -769,7 +583,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88556",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "a9061954dba7b84a",
@@ -787,7 +601,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88506",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "a1313b8d1d2555dd",
@@ -805,7 +619,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88507",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "a93050c5434ec460",
@@ -823,7 +637,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88557",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "f9d39e1f935f924a",
@@ -841,25 +655,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88499",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "6df2959ecdf74a95",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaId": "wc-095",
-      "cinemaSlug": "cinema-montgri",
-      "cinemaName": "Cinema Montgrí",
-      "municipiSlug": "torroella-de-montgri",
-      "municipiName": "Torroella de Montgrí",
-      "sessionDate": "2026-08-02",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cinemamontgri.cat/toy-story-5-2/",
-      "pickerUrl": "https://cinemamontgri.cat/toy-story-5-2/",
-      "sourceUrl": "https://cinemamontgri.cat/programacio/",
-      "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-05T05:30:23Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "34ff240dcea9d9d2",
@@ -877,7 +673,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88685",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "82adf125cb4c7ee5",
@@ -895,25 +691,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88638",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "72dd7c616eecfbf8",
-      "filmSlug": "jumbo-en-catala",
-      "filmTitle": "Jumbo",
-      "cinemaId": "wc-076",
-      "cinemaSlug": "cinema-casal",
-      "cinemaName": "Cinema Casal",
-      "municipiSlug": "agramunt",
-      "municipiName": "Agramunt",
-      "sessionDate": "2026-08-02",
-      "sessionTime": "17:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://circusa.com/ca/agramunt/",
-      "pickerUrl": "https://circusa.com/ca/agramunt/",
-      "sourceUrl": "https://circusa.com/ca/agramunt/",
-      "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-08-05T05:30:20Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "de751b8f2dc734a8",
@@ -931,25 +709,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88564",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "c39917d95448e68b",
-      "filmSlug": "la-copia-perfecta-en-catala",
-      "filmTitle": "La còpia perfecta",
-      "cinemaId": "wc-081",
-      "cinemaSlug": "cinema-paris",
-      "cinemaName": "Cinema París",
-      "municipiSlug": "solsona",
-      "municipiName": "Solsona",
-      "sessionDate": "2026-08-02",
-      "sessionTime": "20:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://circusa.com/ca/solsona/",
-      "pickerUrl": "https://circusa.com/ca/solsona/",
-      "sourceUrl": "https://circusa.com/ca/solsona/",
-      "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "29b922c1cbaf993d",
@@ -967,7 +727,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88508",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "42141ba83a5d5386",
@@ -985,7 +745,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88509",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "650b88286ad4115d",
@@ -1003,25 +763,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88565",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "4bf2b3c9fd9cd8d2",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaId": "wc-095",
-      "cinemaSlug": "cinema-montgri",
-      "cinemaName": "Cinema Montgrí",
-      "municipiSlug": "torroella-de-montgri",
-      "municipiName": "Torroella de Montgrí",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cinemamontgri.cat/toy-story-5-2/",
-      "pickerUrl": "https://cinemamontgri.cat/toy-story-5-2/",
-      "sourceUrl": "https://cinemamontgri.cat/programacio/",
-      "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-05T05:30:23Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "fb5c807cb0978319",
@@ -1039,7 +781,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88639",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "667c7a4edb5f4783",
@@ -1057,7 +799,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88686",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "23067bfaf29344b5",
@@ -1075,25 +817,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88566",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "6d358751924e03b6",
-      "filmSlug": "jumbo-en-catala",
-      "filmTitle": "Jumbo",
-      "cinemaId": "wc-076",
-      "cinemaSlug": "cinema-casal",
-      "cinemaName": "Cinema Casal",
-      "municipiSlug": "agramunt",
-      "municipiName": "Agramunt",
-      "sessionDate": "2026-08-03",
-      "sessionTime": "19:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://circusa.com/ca/agramunt/",
-      "pickerUrl": "https://circusa.com/ca/agramunt/",
-      "sourceUrl": "https://circusa.com/ca/agramunt/",
-      "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-08-05T05:30:20Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "e74150da4e85b8b7",
@@ -1111,7 +835,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88510",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "bf8210dc1cb784f0",
@@ -1129,7 +853,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88511",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "9321cf035a2b2648",
@@ -1147,7 +871,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88512",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "7eaba88faf7648b5",
@@ -1165,7 +889,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88558",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "8ae52a3567e0e5b9",
@@ -1183,7 +907,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88687",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "a7268ebc38d73f61",
@@ -1201,7 +925,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88640",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "646176c2acaa66f8",
@@ -1219,7 +943,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88567",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "e662ff0c2695db84",
@@ -1237,7 +961,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88513",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "a21324c945fcafaf",
@@ -1255,7 +979,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88514",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "dae2b585e56ffb0b",
@@ -1273,7 +997,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88515",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "9c2d9c78d8853752",
@@ -1291,205 +1015,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88568",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "7098c5a66b673aa8",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=115727&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-05T05:30:14Z"
-    },
-    {
-      "id": "1f4e0e511776898d",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218394/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218394/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:19Z"
-    },
-    {
-      "id": "6c45d54fed60f9ec",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218408/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218408/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:20Z"
-    },
-    {
-      "id": "5f4f2e51671d24ec",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
-      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
-      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-05T05:30:15Z"
-    },
-    {
-      "id": "21e7292dfbc23a05",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
-      "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
-      "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-05T05:30:15Z"
-    },
-    {
-      "id": "1ce6fd3e10025c45",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=276008",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:14Z"
-    },
-    {
-      "id": "33db43c78d7deb73",
-      "filmSlug": "jumbo-en-catala",
-      "filmTitle": "Jumbo",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2229305&sesion=75567",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/jumbo",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/jumbo",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-05T05:30:17Z"
-    },
-    {
-      "id": "e0adcd68615ffa27",
-      "filmSlug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
-      "filmTitle": "Rufus, la serp que no sabia nedar",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2229306&sesion=75558",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/rufus-la-serpiente-que-no-sabia-nadar",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/rufus-la-serpiente-que-no-sabia-nadar",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-05T05:30:17Z"
-    },
-    {
-      "id": "e9e3d821f429e214",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "16:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2124817&sesion=75747",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-05T05:30:18Z"
-    },
-    {
-      "id": "e032eb6dcafb806b",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "16:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10309",
-      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10309",
-      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-05T05:30:14Z"
-    },
-    {
-      "id": "dd171444df5e9828",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "16:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-05T05:30:11Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "e6325a3fb4ef120d",
@@ -1507,25 +1033,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88688",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "d92868480a471038",
-      "filmSlug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
-      "filmTitle": "Rufus, la serp que no sabia nedar",
-      "cinemaId": "wc-003",
-      "cinemaSlug": "ateneu-cinema",
-      "cinemaName": "Ateneu Cinema",
-      "municipiSlug": "igualada",
-      "municipiName": "Igualada",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "17:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://entrades.ateneucinema.cat/comprar/vIvzYUS5XG",
-      "pickerUrl": "https://entrades.ateneucinema.cat/comprar/vIvzYUS5XG",
-      "sourceUrl": "https://ateneucinema.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:03Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "5b68f87bcaef9f55",
@@ -1543,7 +1051,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88502",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "ff9939b42ced9b84",
@@ -1561,115 +1069,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88641",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "f6fa7530e2e54633",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-038",
-      "cinemaSlug": "mooby-aribau",
-      "cinemaName": "Mooby Aribau",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "17:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68487&language=cat&theatre=BAL-ARIBAU",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-05T05:30:14Z"
-    },
-    {
-      "id": "6067a60172abd344",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "17:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=150472",
-      "pickerUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-08-05T05:30:13Z"
-    },
-    {
-      "id": "2f57edcc6cfbc602",
-      "filmSlug": "toy-story-5-en-catala",
-      "filmTitle": "Toy Story 5",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "17:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=276005",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:14Z"
-    },
-    {
-      "id": "edffe527eea419e9",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-063",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "18:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1080649/",
-      "pickerUrl": "https://www.pillalas.com/pase/1080649/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-08-05",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-08-05T05:30:17Z"
-    },
-    {
-      "id": "af7f8b4643ea1bd9",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-088",
-      "cinemaSlug": "cines-olot",
-      "cinemaName": "Cines Olot",
-      "municipiSlug": "olot",
-      "municipiName": "Olot",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "18:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
-      "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
-      "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "cinesolot-html",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "27f91a882dac95ea",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "18:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218409/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218409/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:20Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "801a5c269aefa1d0",
@@ -1687,43 +1087,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88569",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "e68febef761452a4",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "18:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218398/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218398/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:18Z"
-    },
-    {
-      "id": "fd644f8c76dc9f5c",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-096",
-      "cinemaSlug": "teatre-municipal-palafrugell",
-      "cinemaName": "Teatre Municipal de Palafrugell - Cine Club Garbí",
-      "municipiSlug": "palafrugell",
-      "municipiName": "Palafrugell",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "19:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
-      "pickerUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
-      "sourceUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6463-cinema-minions-monsters.html",
-      "extractorType": "palafrugell-cultura",
-      "capturedAt": "2026-08-05T05:30:23Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "bf6ff02434542bff",
@@ -1741,115 +1105,7 @@
       "pickerUrl": "https://cinemamontgri.cat/viva/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-05T05:30:24Z"
-    },
-    {
-      "id": "6943018ed4d284de",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "19:55",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-05T05:30:11Z"
-    },
-    {
-      "id": "5cbc86405e0029c6",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-019",
-      "cinemaSlug": "cinemes-sant-cugat",
-      "cinemaName": "Cinemes Sant Cugat",
-      "municipiSlug": "sant-cugat-del-valles",
-      "municipiName": "Sant Cugat del Vallès",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "20:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=114008",
-      "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
-      "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:04Z"
-    },
-    {
-      "id": "fc7e7d690ef93c19",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "20:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218410/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218410/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:20Z"
-    },
-    {
-      "id": "b18bc6783975df63",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "20:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218399/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218399/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viva",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:19Z"
-    },
-    {
-      "id": "93f0dc2c4202540d",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-094",
-      "cinemaSlug": "cinema-la-bobila",
-      "cinemaName": "Cinema La Bobila",
-      "municipiSlug": "sant-pere-de-ribes",
-      "municipiName": "Sant Pere de Ribes",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "20:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.cinemalabobila.es/mapasesion2023.php",
-      "pickerUrl": "https://www.cinemalabobila.es/mapasesion2023.php",
-      "sourceUrl": "https://www.cinemalabobila.es/",
-      "extractorType": "ticketing-taquilla81",
-      "capturedAt": "2026-08-05T05:30:23Z"
-    },
-    {
-      "id": "56da161f5ae5db7e",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "20:55",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/218391/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/218391/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:18Z"
+      "capturedAt": "2026-08-06T05:30:26Z"
     },
     {
       "id": "22bd9100f14d6df3",
@@ -1867,61 +1123,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88500",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
-    },
-    {
-      "id": "dc7ce39e8ebbe22e",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "22:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-05T05:30:14Z"
-    },
-    {
-      "id": "54e31c62eb4f0569",
-      "filmSlug": "jurassic-world-el-reneixer-en-catala",
-      "filmTitle": "Jurassic World: El renéixer",
-      "cinemaId": "wc-091",
-      "cinemaSlug": "cambra-comerc-tortosa",
-      "cinemaName": "Cambra de Comerç de Tortosa",
-      "municipiSlug": "tortosa",
-      "municipiName": "Tortosa",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "22:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.teatreauditoritortosa.cat/event/cinema-a-la-fresca/",
-      "pickerUrl": "https://www.teatreauditoritortosa.cat/event/cinema-a-la-fresca/",
-      "sourceUrl": "https://www.teatreauditoritortosa.cat/event/cinema-a-la-fresca/",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:34Z"
-    },
-    {
-      "id": "e6eb2440f0a08320",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala Bestia",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-08-05",
-      "sessionTime": "22:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-05T05:30:11Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "e75f042469738d94",
@@ -1939,7 +1141,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88570",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "9169bda04b904add",
@@ -1957,7 +1159,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88516",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "c68e42abec3a8538",
@@ -1975,7 +1177,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88689",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "dabb4e0de80702dc",
@@ -1993,7 +1195,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-05T05:30:14Z"
+      "capturedAt": "2026-08-06T05:30:14Z"
     },
     {
       "id": "55332233530f81ee",
@@ -2011,7 +1213,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218428/",
       "sourceUrl": "https://barcelona.cines-verdi.com/minions-monsters",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:19Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "3fac4ff48c9947d4",
@@ -2029,7 +1231,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218442/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:20Z"
+      "capturedAt": "2026-08-06T05:30:23Z"
     },
     {
       "id": "2c2f82a017054afa",
@@ -2047,7 +1249,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-05T05:30:15Z"
+      "capturedAt": "2026-08-06T05:30:15Z"
     },
     {
       "id": "4f9ff9e4c7040b1a",
@@ -2065,7 +1267,7 @@
       "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10453",
       "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-05T05:30:15Z"
+      "capturedAt": "2026-08-06T05:30:15Z"
     },
     {
       "id": "ffaa2a289d3a285a",
@@ -2083,7 +1285,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/jumbo",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/jumbo",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-05T05:30:17Z"
+      "capturedAt": "2026-08-06T05:30:17Z"
     },
     {
       "id": "66c543c69ab7b1ae",
@@ -2101,7 +1303,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/rufus-la-serpiente-que-no-sabia-nadar",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/rufus-la-serpiente-que-no-sabia-nadar",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-05T05:30:17Z"
+      "capturedAt": "2026-08-06T05:30:17Z"
     },
     {
       "id": "2143791206cf0fd9",
@@ -2119,7 +1321,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:14Z"
+      "capturedAt": "2026-08-06T05:30:15Z"
     },
     {
       "id": "ea198b2bbf97f0a9",
@@ -2137,7 +1339,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/minions-monsters",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-05T05:30:18Z"
+      "capturedAt": "2026-08-06T05:30:18Z"
     },
     {
       "id": "e31a0cd65437d054",
@@ -2155,7 +1357,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10309",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-05T05:30:14Z"
+      "capturedAt": "2026-08-06T05:30:15Z"
     },
     {
       "id": "389286d104585224",
@@ -2173,7 +1375,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-05T05:30:11Z"
+      "capturedAt": "2026-08-06T05:30:14Z"
     },
     {
       "id": "735123e635b7b169",
@@ -2191,7 +1393,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-05T05:30:14Z"
+      "capturedAt": "2026-08-06T05:30:14Z"
     },
     {
       "id": "05e3a67d6768f20c",
@@ -2209,7 +1411,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
       "sourceUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-08-05T05:30:13Z"
+      "capturedAt": "2026-08-06T05:30:13Z"
     },
     {
       "id": "9fdfc890c9b1374e",
@@ -2227,7 +1429,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:14Z"
+      "capturedAt": "2026-08-06T05:30:15Z"
     },
     {
       "id": "4d3884f0ae3444f6",
@@ -2245,7 +1447,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1080654/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-08-06",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-08-05T05:30:19Z"
+      "capturedAt": "2026-08-06T05:30:18Z"
     },
     {
       "id": "dde9d0a028259f4a",
@@ -2263,7 +1465,7 @@
       "pickerUrl": "https://www.cinesolot.cat/ca/?option=com_cines&task=peli&iid=4488",
       "sourceUrl": "https://www.cinesolot.cat/components/com_cines/json/ca_cartellera.json",
       "extractorType": "cinesolot-html",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "1d9950d81312a967",
@@ -2281,7 +1483,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218443/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:20Z"
+      "capturedAt": "2026-08-06T05:30:23Z"
     },
     {
       "id": "5a5f744605e83be4",
@@ -2299,7 +1501,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88517",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "4ae558a1f7653ccc",
@@ -2317,7 +1519,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218432/",
       "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:18Z"
+      "capturedAt": "2026-08-06T05:30:21Z"
     },
     {
       "id": "04ae56f87c15343b",
@@ -2335,7 +1537,7 @@
       "pickerUrl": "https://cinemamontgri.cat/viva/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-05T05:30:24Z"
+      "capturedAt": "2026-08-06T05:30:26Z"
     },
     {
       "id": "2279031b6c07a626",
@@ -2353,7 +1555,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-05T05:30:11Z"
+      "capturedAt": "2026-08-06T05:30:14Z"
     },
     {
       "id": "088c9a570ddc9e09",
@@ -2371,7 +1573,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "sourceUrl": "https://www.cinemessantcugat.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:04Z"
+      "capturedAt": "2026-08-06T05:30:04Z"
     },
     {
       "id": "e676159f818a2907",
@@ -2389,7 +1591,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218444/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viatge-al-pais-dels-blancs",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:20Z"
+      "capturedAt": "2026-08-06T05:30:23Z"
     },
     {
       "id": "9a13992525063952",
@@ -2407,7 +1609,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218433/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:19Z"
+      "capturedAt": "2026-08-06T05:30:23Z"
     },
     {
       "id": "d5fe14f6638c6bfb",
@@ -2425,7 +1627,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88559",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "270890db1d02632f",
@@ -2443,7 +1645,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/218425/",
       "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-05T05:30:18Z"
+      "capturedAt": "2026-08-06T05:30:21Z"
     },
     {
       "id": "af970024cffa282f",
@@ -2461,7 +1663,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88518",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "55a8913fa3a2d71d",
@@ -2479,7 +1681,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=88649",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-05T05:30:22Z"
+      "capturedAt": "2026-08-06T05:30:22Z"
     },
     {
       "id": "4eaef0719341841d",
@@ -2497,7 +1699,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-05T05:30:11Z"
+      "capturedAt": "2026-08-06T05:30:14Z"
     },
     {
       "id": "a68e69c1b829cc6b",
@@ -2515,7 +1717,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-05T05:30:14Z"
+      "capturedAt": "2026-08-06T05:30:19Z"
     }
   ],
   "sourceIssues": [],
