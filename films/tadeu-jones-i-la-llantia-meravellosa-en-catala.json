@@ -1,27 +1,45 @@
 {
   "slug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
   "title": "Tadeu Jones i la llàntia meravellosa",
-  "sessionCount": 23,
-  "cinemaCount": 11,
-  "municipiCount": 10,
+  "sessionCount": 36,
+  "cinemaCount": 14,
+  "municipiCount": 11,
   "sessions": [
     {
-      "id": "85d52c196fd9a3a0",
+      "id": "10338d6e1ac2122b",
       "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
       "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-006",
-      "cinemaSlug": "cine-yelmo-abrera",
-      "cinemaName": "Cine Yelmo Abrera",
-      "municipiSlug": "abrera",
-      "municipiName": "Abrera",
+      "cinemaId": "wc-029",
+      "cinemaSlug": "filmax-gran-via",
+      "cinemaName": "Filmax Gran Via",
+      "municipiSlug": "lhospitalet-de-llobregat",
+      "municipiName": "L'Hospitalet de Llobregat",
       "sessionDate": "2026-08-26",
-      "sessionTime": "16:10",
+      "sessionTime": "15:45",
       "languageLabel": "Català",
-      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
-      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
-      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-21T05:30:03Z"
+      "bookingUrl": "https://filmax.admit-one.eu/seats/217777",
+      "pickerUrl": "https://filmax.admit-one.eu/seats/217777",
+      "sourceUrl": "https://cinesfilmax.com/tadeo-jones-y-la-lampara-maravillosa",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-22T05:30:11Z"
+    },
+    {
+      "id": "2f5ccea0e1000eea",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-023",
+      "cinemaSlug": "cinesa-diagonal",
+      "cinemaName": "Cinesa Diagonal",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "16:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:09Z"
     },
     {
       "id": "7fcd0455778430e4",
@@ -39,7 +57,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-baricentro",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-baricentro",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-21T05:30:03Z"
+      "capturedAt": "2026-08-22T05:30:04Z"
     },
     {
       "id": "13437a57b397be69",
@@ -57,7 +75,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-21T05:30:04Z"
+      "capturedAt": "2026-08-22T05:30:03Z"
     },
     {
       "id": "fe72d490df2541ca",
@@ -75,7 +93,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-21T05:30:03Z"
+      "capturedAt": "2026-08-22T05:30:03Z"
     },
     {
       "id": "70c7c26530f31f79",
@@ -93,7 +111,7 @@
       "pickerUrl": "https://ocineroquetes.es/?option=com_cines&task=peli&iid=10501",
       "sourceUrl": "https://ocineroquetes.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-21T05:30:20Z"
+      "capturedAt": "2026-08-22T05:30:20Z"
     },
     {
       "id": "021413ca3b021813",
@@ -111,7 +129,25 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-21T05:30:04Z"
+      "capturedAt": "2026-08-22T05:30:04Z"
+    },
+    {
+      "id": "6d9d3124c5e57b32",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-028",
+      "cinemaSlug": "cinesa-som-multiespai",
+      "cinemaName": "Cinesa Som Multiespai",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "17:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
+      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
+      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:12Z"
     },
     {
       "id": "a0f65f4fcb953e6a",
@@ -129,7 +165,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10501",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-21T05:30:19Z"
+      "capturedAt": "2026-08-22T05:30:18Z"
     },
     {
       "id": "eb4d450e9dab1126",
@@ -147,7 +183,7 @@
       "pickerUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10501",
       "sourceUrl": "https://ocinegranollers.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-21T05:30:19Z"
+      "capturedAt": "2026-08-22T05:30:20Z"
     },
     {
       "id": "c0157d119c864ad2",
@@ -165,7 +201,7 @@
       "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10501",
       "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-21T05:30:21Z"
+      "capturedAt": "2026-08-22T05:30:20Z"
     },
     {
       "id": "b74592af1dfffb80",
@@ -183,7 +219,43 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-21T05:30:17Z"
+      "capturedAt": "2026-08-22T05:30:17Z"
+    },
+    {
+      "id": "f4b39f959c862c80",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-027",
+      "cinemaSlug": "cinesa-parc-valles",
+      "cinemaName": "Cinesa Parc Vallès",
+      "municipiSlug": "terrassa",
+      "municipiName": "Terrassa",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "18:10",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:11Z"
+    },
+    {
+      "id": "cb5babc17d6d9a41",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-023",
+      "cinemaSlug": "cinesa-diagonal",
+      "cinemaName": "Cinesa Diagonal",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "18:20",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:09Z"
     },
     {
       "id": "6e0014a7de651842",
@@ -201,7 +273,25 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-21T05:30:17Z"
+      "capturedAt": "2026-08-22T05:30:16Z"
+    },
+    {
+      "id": "d4034d5cfebc475a",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-028",
+      "cinemaSlug": "cinesa-som-multiespai",
+      "cinemaName": "Cinesa Som Multiespai",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "19:25",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
+      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
+      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:12Z"
     },
     {
       "id": "fb6456730240c949",
@@ -219,25 +309,79 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-21T05:30:17Z"
+      "capturedAt": "2026-08-22T05:30:17Z"
     },
     {
-      "id": "893054e7bf7e58b9",
+      "id": "91656c774bafca27",
       "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
       "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-006",
-      "cinemaSlug": "cine-yelmo-abrera",
-      "cinemaName": "Cine Yelmo Abrera",
-      "municipiSlug": "abrera",
-      "municipiName": "Abrera",
-      "sessionDate": "2026-08-27",
-      "sessionTime": "16:10",
+      "cinemaId": "wc-027",
+      "cinemaSlug": "cinesa-parc-valles",
+      "cinemaName": "Cinesa Parc Vallès",
+      "municipiSlug": "terrassa",
+      "municipiName": "Terrassa",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "20:30",
       "languageLabel": "Català",
-      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
-      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
-      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-21T05:30:03Z"
+      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:11Z"
+    },
+    {
+      "id": "77c6d7ba9ca47916",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-027",
+      "cinemaSlug": "cinesa-parc-valles",
+      "cinemaName": "Cinesa Parc Vallès",
+      "municipiSlug": "terrassa",
+      "municipiName": "Terrassa",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "22:50",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:11Z"
+    },
+    {
+      "id": "74af715e7e7c70c7",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-029",
+      "cinemaSlug": "filmax-gran-via",
+      "cinemaName": "Filmax Gran Via",
+      "municipiSlug": "lhospitalet-de-llobregat",
+      "municipiName": "L'Hospitalet de Llobregat",
+      "sessionDate": "2026-08-27",
+      "sessionTime": "15:45",
+      "languageLabel": "Català",
+      "bookingUrl": "https://filmax.admit-one.eu/seats/217819",
+      "pickerUrl": "https://filmax.admit-one.eu/seats/217819",
+      "sourceUrl": "https://cinesfilmax.com/tadeo-jones-y-la-lampara-maravillosa",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-22T05:30:11Z"
+    },
+    {
+      "id": "1ad746aa3b3f58c3",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-023",
+      "cinemaSlug": "cinesa-diagonal",
+      "cinemaName": "Cinesa Diagonal",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-08-27",
+      "sessionTime": "16:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:09Z"
     },
     {
       "id": "06a73935b9a30225",
@@ -255,7 +399,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-21T05:30:04Z"
+      "capturedAt": "2026-08-22T05:30:03Z"
     },
     {
       "id": "ca3a034fe66a4dff",
@@ -273,7 +417,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-21T05:30:03Z"
+      "capturedAt": "2026-08-22T05:30:03Z"
     },
     {
       "id": "4596d3e1de2ee86d",
@@ -291,7 +435,7 @@
       "pickerUrl": "https://ocineroquetes.es/?option=com_cines&task=peli&iid=10501",
       "sourceUrl": "https://ocineroquetes.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-21T05:30:20Z"
+      "capturedAt": "2026-08-22T05:30:20Z"
     },
     {
       "id": "a0e193a359865366",
@@ -309,7 +453,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-21T05:30:04Z"
+      "capturedAt": "2026-08-22T05:30:04Z"
     },
     {
       "id": "7e3e7ce623d9e5e6",
@@ -327,7 +471,25 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-baricentro",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-baricentro",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-21T05:30:03Z"
+      "capturedAt": "2026-08-22T05:30:04Z"
+    },
+    {
+      "id": "2a40abff224d179e",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-028",
+      "cinemaSlug": "cinesa-som-multiespai",
+      "cinemaName": "Cinesa Som Multiespai",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-08-27",
+      "sessionTime": "17:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
+      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
+      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:12Z"
     },
     {
       "id": "69944b6018472dbc",
@@ -345,25 +507,7 @@
       "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10501",
       "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-21T05:30:19Z"
-    },
-    {
-      "id": "c225a54dce8f5e6a",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-050",
-      "cinemaSlug": "ocine-granollers",
-      "cinemaName": "Ocine Granollers",
-      "municipiSlug": "granollers",
-      "municipiName": "Granollers",
-      "sessionDate": "2026-08-27",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10501",
-      "pickerUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10501",
-      "sourceUrl": "https://ocinegranollers.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-21T05:30:19Z"
+      "capturedAt": "2026-08-22T05:30:18Z"
     },
     {
       "id": "277ff56ae996ad5c",
@@ -381,7 +525,43 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-21T05:30:17Z"
+      "capturedAt": "2026-08-22T05:30:17Z"
+    },
+    {
+      "id": "dcee3ee33e88ed23",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-027",
+      "cinemaSlug": "cinesa-parc-valles",
+      "cinemaName": "Cinesa Parc Vallès",
+      "municipiSlug": "terrassa",
+      "municipiName": "Terrassa",
+      "sessionDate": "2026-08-27",
+      "sessionTime": "18:10",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:11Z"
+    },
+    {
+      "id": "1e7bfa11b5dd76a6",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-023",
+      "cinemaSlug": "cinesa-diagonal",
+      "cinemaName": "Cinesa Diagonal",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-08-27",
+      "sessionTime": "18:20",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:09Z"
     },
     {
       "id": "388e61d48c3da4b3",
@@ -399,7 +579,25 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-21T05:30:17Z"
+      "capturedAt": "2026-08-22T05:30:16Z"
+    },
+    {
+      "id": "8c25e489b16dd308",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-028",
+      "cinemaSlug": "cinesa-som-multiespai",
+      "cinemaName": "Cinesa Som Multiespai",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-08-27",
+      "sessionTime": "19:25",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
+      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
+      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:12Z"
     },
     {
       "id": "2884557bc141a992",
@@ -417,7 +615,43 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-21T05:30:17Z"
+      "capturedAt": "2026-08-22T05:30:17Z"
+    },
+    {
+      "id": "4aee2e01c29bba1b",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-027",
+      "cinemaSlug": "cinesa-parc-valles",
+      "cinemaName": "Cinesa Parc Vallès",
+      "municipiSlug": "terrassa",
+      "municipiName": "Terrassa",
+      "sessionDate": "2026-08-27",
+      "sessionTime": "20:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:11Z"
+    },
+    {
+      "id": "55757876ed365386",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-027",
+      "cinemaSlug": "cinesa-parc-valles",
+      "cinemaName": "Cinesa Parc Vallès",
+      "municipiSlug": "terrassa",
+      "municipiName": "Terrassa",
+      "sessionDate": "2026-08-27",
+      "sessionTime": "22:50",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-08-22T05:30:11Z"
     }
   ]
 }
