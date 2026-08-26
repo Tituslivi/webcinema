@@ -1,44 +1,39 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-08-25T05:31:08Z",
+  "generatedAt": "2026-08-26T05:31:49Z",
   "weekStart": "2026-08-21",
   "weekEnd": "2026-08-27",
   "source": {
-    "sessionsPath": "runs\\daily\\2026-08-25\\sessions.json",
-    "recordsTotal": 809,
+    "sessionsPath": "runs\\daily\\2026-08-26\\sessions.json",
+    "recordsTotal": 929,
     "skippedSources": 0,
-    "latestCapturedAt": "2026-08-25T05:30:50Z"
+    "latestCapturedAt": "2026-08-26T05:31:48Z"
   },
   "summary": {
-    "sessions": 107,
-    "films": 9,
-    "cinemas": 28,
-    "municipis": 18,
+    "sessions": 100,
+    "films": 8,
+    "cinemas": 25,
+    "municipis": 17,
     "topFilms": [
       {
         "slug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
         "title": "Tadeu Jones i la llàntia meravellosa",
-        "sessions": 52
-      },
-      {
-        "slug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
-        "title": "Manual per a superherois: la màscara vermella",
-        "sessions": 14
-      },
-      {
-        "slug": "viatge-al-pais-dels-blancs-en-catala",
-        "title": "Viatge al país dels blancs",
-        "sessions": 12
+        "sessions": 59
       },
       {
         "slug": "viva-en-catala",
         "title": "Viva",
-        "sessions": 9
+        "sessions": 8
+      },
+      {
+        "slug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
+        "title": "Manual per a superherois: la màscara vermella",
+        "sessions": 8
       },
       {
         "slug": "mala-bestia-en-catala",
         "title": "Mala bèstia",
-        "sessions": 8
+        "sessions": 7
       },
       {
         "slug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
@@ -46,14 +41,14 @@
         "sessions": 7
       },
       {
+        "slug": "viatge-al-pais-dels-blancs-en-catala",
+        "title": "Viatge al país dels blancs",
+        "sessions": 7
+      },
+      {
         "slug": "balandrau-vent-salvatge-en-catala",
         "title": "Balandrau, vent salvatge",
         "sessions": 3
-      },
-      {
-        "slug": "minions-monsters-en-catala",
-        "title": "Minions & Monsters",
-        "sessions": 1
       },
       {
         "slug": "casa-en-flames-en-catala",
@@ -80,23 +75,16 @@
     {
       "slug": "mala-bestia-en-catala",
       "title": "Mala bèstia",
-      "sessionCount": 8,
-      "cinemaCount": 2,
-      "municipiCount": 2
+      "sessionCount": 7,
+      "cinemaCount": 1,
+      "municipiCount": 1
     },
     {
       "slug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
       "title": "Manual per a superherois: la màscara vermella",
-      "sessionCount": 14,
-      "cinemaCount": 9,
-      "municipiCount": 7
-    },
-    {
-      "slug": "minions-monsters-en-catala",
-      "title": "Minions & Monsters",
-      "sessionCount": 1,
-      "cinemaCount": 1,
-      "municipiCount": 1
+      "sessionCount": 8,
+      "cinemaCount": 2,
+      "municipiCount": 2
     },
     {
       "slug": "rufus-la-serp-que-no-sabia-nedar-en-catala",
@@ -108,26 +96,35 @@
     {
       "slug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
       "title": "Tadeu Jones i la llàntia meravellosa",
-      "sessionCount": 52,
-      "cinemaCount": 18,
+      "sessionCount": 59,
+      "cinemaCount": 21,
       "municipiCount": 14
     },
     {
       "slug": "viatge-al-pais-dels-blancs-en-catala",
       "title": "Viatge al país dels blancs",
-      "sessionCount": 12,
-      "cinemaCount": 6,
-      "municipiCount": 2
+      "sessionCount": 7,
+      "cinemaCount": 1,
+      "municipiCount": 1
     },
     {
       "slug": "viva-en-catala",
       "title": "Viva",
-      "sessionCount": 9,
-      "cinemaCount": 3,
+      "sessionCount": 8,
+      "cinemaCount": 2,
       "municipiCount": 2
     }
   ],
   "cinemas": [
+    {
+      "cinemaId": "wc-006",
+      "slug": "cine-yelmo-abrera",
+      "name": "Cine Yelmo Abrera",
+      "municipiSlug": "abrera",
+      "municipiName": "Abrera",
+      "sessionCount": 2,
+      "filmCount": 1
+    },
     {
       "cinemaId": "wc-007",
       "slug": "cine-yelmo-baricentro",
@@ -143,7 +140,7 @@
       "name": "Cine Yelmo Westfield La Maquinista",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 1,
+      "sessionCount": 2,
       "filmCount": 1
     },
     {
@@ -161,8 +158,8 @@
       "name": "Cinesa Diagonal",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 5,
-      "filmCount": 2
+      "sessionCount": 4,
+      "filmCount": 1
     },
     {
       "cinemaId": "wc-024",
@@ -179,8 +176,8 @@
       "name": "Cinesa Som Multiespai",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 5,
-      "filmCount": 2
+      "sessionCount": 4,
+      "filmCount": 1
     },
     {
       "cinemaId": "wc-037",
@@ -188,43 +185,7 @@
       "name": "Mooby Arenas de Barcelona",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 5,
-      "filmCount": 2
-    },
-    {
-      "cinemaId": "wc-038",
-      "slug": "mooby-aribau",
-      "name": "Mooby Aribau",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
-      "cinemaId": "wc-041",
-      "slug": "mooby-bosque",
-      "name": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionCount": 2,
-      "filmCount": 2
-    },
-    {
-      "cinemaId": "wc-042",
-      "slug": "mooby-glories",
-      "name": "Mooby Glòries",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
-      "cinemaId": "wc-043",
-      "slug": "mooby-gran-sarria",
-      "name": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionCount": 1,
+      "sessionCount": 4,
       "filmCount": 1
     },
     {
@@ -234,7 +195,7 @@
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
       "sessionCount": 2,
-      "filmCount": 2
+      "filmCount": 1
     },
     {
       "cinemaId": "wc-009",
@@ -251,8 +212,8 @@
       "name": "CAT Cines",
       "municipiSlug": "figueres",
       "municipiName": "Figueres",
-      "sessionCount": 5,
-      "filmCount": 2
+      "sessionCount": 4,
+      "filmCount": 1
     },
     {
       "cinemaId": "wc-049",
@@ -260,7 +221,7 @@
       "name": "Ocine Girona",
       "municipiSlug": "girona",
       "municipiName": "Girona",
-      "sessionCount": 2,
+      "sessionCount": 4,
       "filmCount": 2
     },
     {
@@ -270,15 +231,6 @@
       "municipiSlug": "granollers",
       "municipiName": "Granollers",
       "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
-      "cinemaId": "wc-029",
-      "slug": "filmax-gran-via",
-      "name": "Filmax Gran Via",
-      "municipiSlug": "lhospitalet-de-llobregat",
-      "municipiName": "L'Hospitalet de Llobregat",
-      "sessionCount": 2,
       "filmCount": 1
     },
     {
@@ -305,8 +257,8 @@
       "name": "Odeon Multicines Girona",
       "municipiSlug": "salt",
       "municipiName": "Salt",
-      "sessionCount": 3,
-      "filmCount": 2
+      "sessionCount": 2,
+      "filmCount": 1
     },
     {
       "cinemaId": "wc-010",
@@ -314,6 +266,24 @@
       "name": "Cine Yelmo Premium Sant Cugat",
       "municipiSlug": "sant-cugat-del-valles",
       "municipiName": "Sant Cugat del Vallès",
+      "sessionCount": 2,
+      "filmCount": 1
+    },
+    {
+      "cinemaId": "wc-019",
+      "slug": "cinemes-sant-cugat",
+      "name": "Cinemes Sant Cugat",
+      "municipiSlug": "sant-cugat-del-valles",
+      "municipiName": "Sant Cugat del Vallès",
+      "sessionCount": 1,
+      "filmCount": 1
+    },
+    {
+      "cinemaId": "wc-008",
+      "slug": "cine-yelmo-parc-central",
+      "name": "Cine Yelmo Parc Central",
+      "municipiSlug": "tarragona",
+      "municipiName": "Tarragona",
       "sessionCount": 2,
       "filmCount": 1
     },
@@ -332,8 +302,8 @@
       "name": "Cinesa Parc Vallès",
       "municipiSlug": "terrassa",
       "municipiName": "Terrassa",
-      "sessionCount": 7,
-      "filmCount": 2
+      "sessionCount": 6,
+      "filmCount": 1
     },
     {
       "cinemaId": "wc-095",
@@ -354,15 +324,6 @@
       "filmCount": 1
     },
     {
-      "cinemaId": "wc-032",
-      "slug": "jca-rambla",
-      "name": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionCount": 1,
-      "filmCount": 1
-    },
-    {
       "cinemaId": "wc-045",
       "slug": "multicines-sucre",
       "name": "Multicines Sucre",
@@ -377,11 +338,20 @@
       "name": "Odeon Multicines Vilanova",
       "municipiSlug": "vilanova-i-la-geltru",
       "municipiName": "Vilanova i la Geltrú",
-      "sessionCount": 5,
-      "filmCount": 2
+      "sessionCount": 4,
+      "filmCount": 1
     }
   ],
   "municipis": [
+    {
+      "slug": "abrera",
+      "name": "Abrera",
+      "ineCode": "08001",
+      "idescatCode": "080018",
+      "sessionCount": 2,
+      "filmCount": 1,
+      "cinemaCount": 1
+    },
     {
       "slug": "barbera-del-valles",
       "name": "Barberà del Vallès",
@@ -396,9 +366,9 @@
       "name": "Barcelona",
       "ineCode": "08019",
       "idescatCode": "080193",
-      "sessionCount": 30,
-      "filmCount": 5,
-      "cinemaCount": 11
+      "sessionCount": 23,
+      "filmCount": 2,
+      "cinemaCount": 7
     },
     {
       "slug": "castelldefels",
@@ -414,8 +384,8 @@
       "name": "Figueres",
       "ineCode": "17066",
       "idescatCode": "170669",
-      "sessionCount": 5,
-      "filmCount": 2,
+      "sessionCount": 4,
+      "filmCount": 1,
       "cinemaCount": 1
     },
     {
@@ -423,7 +393,7 @@
       "name": "Girona",
       "ineCode": "17079",
       "idescatCode": "170792",
-      "sessionCount": 2,
+      "sessionCount": 4,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -433,15 +403,6 @@
       "ineCode": "08096",
       "idescatCode": "080961",
       "sessionCount": 1,
-      "filmCount": 1,
-      "cinemaCount": 1
-    },
-    {
-      "slug": "lhospitalet-de-llobregat",
-      "name": "L'Hospitalet de Llobregat",
-      "ineCode": "08101",
-      "idescatCode": "081017",
-      "sessionCount": 2,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -468,8 +429,8 @@
       "name": "Salt",
       "ineCode": "17155",
       "idescatCode": "171557",
-      "sessionCount": 3,
-      "filmCount": 2,
+      "sessionCount": 2,
+      "filmCount": 1,
       "cinemaCount": 1
     },
     {
@@ -477,26 +438,26 @@
       "name": "Sant Cugat del Vallès",
       "ineCode": "08205",
       "idescatCode": "082055",
-      "sessionCount": 2,
+      "sessionCount": 3,
       "filmCount": 1,
-      "cinemaCount": 1
+      "cinemaCount": 2
     },
     {
       "slug": "tarragona",
       "name": "Tarragona",
       "ineCode": "43148",
       "idescatCode": "431482",
-      "sessionCount": 1,
+      "sessionCount": 3,
       "filmCount": 1,
-      "cinemaCount": 1
+      "cinemaCount": 2
     },
     {
       "slug": "terrassa",
       "name": "Terrassa",
       "ineCode": "08279",
       "idescatCode": "082798",
-      "sessionCount": 7,
-      "filmCount": 2,
+      "sessionCount": 6,
+      "filmCount": 1,
       "cinemaCount": 1
     },
     {
@@ -518,15 +479,6 @@
       "cinemaCount": 1
     },
     {
-      "slug": "valls",
-      "name": "Valls",
-      "ineCode": "43161",
-      "idescatCode": "431613",
-      "sessionCount": 1,
-      "filmCount": 1,
-      "cinemaCount": 1
-    },
-    {
       "slug": "vic",
       "name": "Vic",
       "ineCode": "08298",
@@ -540,8 +492,8 @@
       "name": "Vilanova i la Geltrú",
       "ineCode": "08307",
       "idescatCode": "083073",
-      "sessionCount": 5,
-      "filmCount": 2,
+      "sessionCount": 4,
+      "filmCount": 1,
       "cinemaCount": 1
     }
   ],
@@ -562,7 +514,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89715",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "0e633e20acf91035",
@@ -580,7 +532,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89777",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "bbe636144ba4299b",
@@ -598,7 +550,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89747",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "5869e0f50ad7b7d2",
@@ -616,7 +568,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89626",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "fceded5abb61859d",
@@ -634,7 +586,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89742",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "aa4a2b354b064c48",
@@ -652,7 +604,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89784",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "b367bec300899bf8",
@@ -670,7 +622,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89716",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "24efccde9fefd230",
@@ -688,7 +640,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89638",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "2623a170d6ce6766",
@@ -706,7 +658,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89778",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "9bb4d2d009acd278",
@@ -724,7 +676,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89743",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "6f49d4e7743a4a37",
@@ -742,7 +694,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89627",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "378e784597b114bc",
@@ -760,7 +712,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89748",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "8d736cf6582d461b",
@@ -778,7 +730,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89717",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "a5eea70490b8408e",
@@ -796,7 +748,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89744",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "c93b4234d1d423bf",
@@ -814,7 +766,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89779",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "9363c52d2c5bd7ba",
@@ -832,7 +784,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89718",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "4c6a5bb6e1cb7fbe",
@@ -850,7 +802,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89749",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "09b296c006978ee9",
@@ -868,7 +820,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89633",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "6a60746943d19500",
@@ -886,7 +838,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89745",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "f606ac914bc7724c",
@@ -904,7 +856,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89752",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "1a08ed5a996dfc3d",
@@ -922,7 +874,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89634",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "f713b6f06176af0a",
@@ -940,7 +892,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89737",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "4efb83aa9db0ef7b",
@@ -958,7 +910,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89719",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "e05d7bcde05283ef",
@@ -976,277 +928,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89753",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
-    },
-    {
-      "id": "aee5ace6311a44f3",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-042",
-      "cinemaSlug": "mooby-glories",
-      "cinemaName": "Mooby Glòries",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "15:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=119872&language=cat&theatre=BAL-GLORIAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-25T05:30:14Z"
-    },
-    {
-      "id": "f45f52fa3460a88e",
-      "filmSlug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
-      "filmTitle": "Manual per a superherois: la màscara vermella",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:10Z"
-    },
-    {
-      "id": "ebc516e22d8defc4",
-      "filmSlug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
-      "filmTitle": "Manual per a superherois: la màscara vermella",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:13Z"
-    },
-    {
-      "id": "dceaed6b64c1583b",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=116238&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-25T05:30:15Z"
-    },
-    {
-      "id": "bf61844d49e0c90a",
-      "filmSlug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
-      "filmTitle": "Manual per a superherois: la màscara vermella",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2359339&sesion=76606",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/manual-para-superheroes-la-mascara-roja",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/manual-para-superheroes-la-mascara-roja",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-25T05:30:22Z"
-    },
-    {
-      "id": "556b1516cd72df19",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "16:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=139463&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-25T05:30:14Z"
-    },
-    {
-      "id": "024ea1871a6189b3",
-      "filmSlug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
-      "filmTitle": "Manual per a superherois: la màscara vermella",
-      "cinemaId": "wc-058",
-      "cinemaSlug": "odeon-multicines-girona",
-      "cinemaName": "Odeon Multicines Girona",
-      "municipiSlug": "salt",
-      "municipiName": "Salt",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "16:05",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-girona/sesion?pid=2359339&sesion=82085",
-      "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/manual-para-superheroes-la-mascara-roja",
-      "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/manual-para-superheroes-la-mascara-roja",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-25T05:30:21Z"
-    },
-    {
-      "id": "06b13e1d1cb85764",
-      "filmSlug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
-      "filmTitle": "Manual per a superherois: la màscara vermella",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "16:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10657",
-      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10657",
-      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-25T05:30:32Z"
-    },
-    {
-      "id": "37ee091890d8815c",
-      "filmSlug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
-      "filmTitle": "Manual per a superherois: la màscara vermella",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "16:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:12Z"
-    },
-    {
-      "id": "1cf13b2f39781279",
-      "filmSlug": "minions-monsters-en-catala",
-      "filmTitle": "Minions & Monsters",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "17:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=150934",
-      "pickerUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/minions-monsters/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-08-25T05:30:14Z"
-    },
-    {
-      "id": "a6f44eb25d91124b",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-038",
-      "cinemaSlug": "mooby-aribau",
-      "cinemaName": "Mooby Aribau",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "17:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=68742&language=cat&theatre=BAL-ARIBAU",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-25T05:30:14Z"
-    },
-    {
-      "id": "f891f4a6093f6b13",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "17:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=190482&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-25T05:30:14Z"
-    },
-    {
-      "id": "489c6d0d1f1b5e2e",
-      "filmSlug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
-      "filmTitle": "Manual per a superherois: la màscara vermella",
-      "cinemaId": "wc-087",
-      "cinemaSlug": "cat-cines",
-      "cinemaName": "CAT Cines",
-      "municipiSlug": "figueres",
-      "municipiName": "Figueres",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "17:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.catcines.cat//film-4811/p?cat-manual-per-superheois-la-mascara-vermella",
-      "pickerUrl": "https://www.catcines.cat//film-4811/p?cat-manual-per-superheois-la-mascara-vermella",
-      "sourceUrl": "https://www.catcines.cat//film-4811/p?cat-manual-per-superheois-la-mascara-vermella",
-      "extractorType": "catcines-html",
-      "capturedAt": "2026-08-25T05:30:30Z"
-    },
-    {
-      "id": "1ea3dd88fb60c3d6",
-      "filmSlug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
-      "filmTitle": "Manual per a superherois: la màscara vermella",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "17:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/219149/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/219149/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/manual-para-superheroes-la-mascara-roja",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-25T05:30:26Z"
-    },
-    {
-      "id": "73c35554fc384301",
-      "filmSlug": "viva-en-catala",
-      "filmTitle": "Viva",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "18:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=139481&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-25T05:30:14Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "56113a7c584015f2",
@@ -1264,25 +946,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89790",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
-    },
-    {
-      "id": "286e66d1e835db12",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala bèstia",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-25",
-      "sessionTime": "22:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/219135/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/219135/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-25T05:30:27Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "c1b4acd3f224bb4e",
@@ -1300,7 +964,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:09Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
     },
     {
       "id": "93c95ebed0b8cf2f",
@@ -1318,7 +982,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89730",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "77763039e366947e",
@@ -1336,25 +1000,43 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-25T05:30:14Z"
+      "capturedAt": "2026-08-26T05:30:18Z"
     },
     {
-      "id": "10338d6e1ac2122b",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-029",
-      "cinemaSlug": "filmax-gran-via",
-      "cinemaName": "Filmax Gran Via",
-      "municipiSlug": "lhospitalet-de-llobregat",
-      "municipiName": "L'Hospitalet de Llobregat",
+      "id": "826022db1baab8cf",
+      "filmSlug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
+      "filmTitle": "Manual per a superherois: la màscara vermella",
+      "cinemaId": "wc-049",
+      "cinemaSlug": "ocine-girona",
+      "cinemaName": "Ocine Girona",
+      "municipiSlug": "girona",
+      "municipiName": "Girona",
       "sessionDate": "2026-08-26",
       "sessionTime": "15:45",
       "languageLabel": "Català",
-      "bookingUrl": "https://filmax.admit-one.eu/seats/217777",
-      "pickerUrl": "https://filmax.admit-one.eu/seats/217777",
-      "sourceUrl": "https://cinesfilmax.com/tadeo-jones-y-la-lampara-maravillosa",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-25T05:30:09Z"
+      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10675",
+      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10675",
+      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
+      "extractorType": "chain-ocine",
+      "capturedAt": "2026-08-26T05:30:19Z"
+    },
+    {
+      "id": "0d7f072ffe02a58e",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-008",
+      "cinemaSlug": "cine-yelmo-parc-central",
+      "cinemaName": "Cine Yelmo Parc Central",
+      "municipiSlug": "tarragona",
+      "municipiName": "Tarragona",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "15:45",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
+      "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
+      "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
+      "extractorType": "chain-yelmo",
+      "capturedAt": "2026-08-26T05:31:46Z"
     },
     {
       "id": "2f5ccea0e1000eea",
@@ -1372,25 +1054,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:07Z"
-    },
-    {
-      "id": "cd35ac8f5e6b60f4",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-08-26",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10501",
-      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10501",
-      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-25T05:30:50Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
     },
     {
       "id": "6ecbb41da82a9f6e",
@@ -1408,25 +1072,43 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:09Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
     },
     {
-      "id": "7fcd0455778430e4",
+      "id": "71dc2d9811dc9c55",
       "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
       "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-007",
-      "cinemaSlug": "cine-yelmo-baricentro",
-      "cinemaName": "Cine Yelmo Baricentro",
-      "municipiSlug": "barbera-del-valles",
-      "municipiName": "Barberà del Vallès",
+      "cinemaId": "wc-065",
+      "cinemaSlug": "verdi-barcelona",
+      "cinemaName": "Verdi Barcelona",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "16:05",
+      "languageLabel": "Català",
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/219162/",
+      "pickerUrl": "https://verdibcn.admit-one.eu/seats/219162/",
+      "sourceUrl": "https://barcelona.cines-verdi.com/tadeo-jones-y-la-lampara-maravillosa",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-26T05:30:27Z"
+    },
+    {
+      "id": "13437a57b397be69",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-011",
+      "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
+      "cinemaName": "Cine Yelmo Westfield La Maquinista",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
       "sessionDate": "2026-08-26",
       "sessionTime": "16:10",
       "languageLabel": "Català",
-      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-baricentro",
-      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-baricentro",
-      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-baricentro",
+      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
+      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
+      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-25T05:30:03Z"
+      "capturedAt": "2026-08-26T05:31:48Z"
     },
     {
       "id": "fe72d490df2541ca",
@@ -1444,7 +1126,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-25T05:30:03Z"
+      "capturedAt": "2026-08-26T05:31:47Z"
     },
     {
       "id": "70c7c26530f31f79",
@@ -1462,7 +1144,7 @@
       "pickerUrl": "https://ocineroquetes.es/?option=com_cines&task=peli&iid=10501",
       "sourceUrl": "https://ocineroquetes.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-25T05:30:20Z"
+      "capturedAt": "2026-08-26T05:30:21Z"
     },
     {
       "id": "021413ca3b021813",
@@ -1480,7 +1162,25 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-25T05:30:03Z"
+      "capturedAt": "2026-08-26T05:31:48Z"
+    },
+    {
+      "id": "401d9ecf6f67d00b",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-007",
+      "cinemaSlug": "cine-yelmo-baricentro",
+      "cinemaName": "Cine Yelmo Baricentro",
+      "municipiSlug": "barbera-del-valles",
+      "municipiName": "Barberà del Vallès",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "16:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-baricentro",
+      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-baricentro",
+      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-baricentro",
+      "extractorType": "chain-yelmo",
+      "capturedAt": "2026-08-26T05:31:46Z"
     },
     {
       "id": "a0947a2fd941956f",
@@ -1498,7 +1198,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/tadeo-jones-y-la-lampara-maravillosa",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-25T05:30:21Z"
+      "capturedAt": "2026-08-26T05:30:23Z"
     },
     {
       "id": "6d9d3124c5e57b32",
@@ -1516,7 +1216,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:10Z"
+      "capturedAt": "2026-08-26T05:30:06Z"
+    },
+    {
+      "id": "a0f65f4fcb953e6a",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-049",
+      "cinemaSlug": "ocine-girona",
+      "cinemaName": "Ocine Girona",
+      "municipiSlug": "girona",
+      "municipiName": "Girona",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "17:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10501",
+      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10501",
+      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
+      "extractorType": "chain-ocine",
+      "capturedAt": "2026-08-26T05:30:19Z"
     },
     {
       "id": "eb4d450e9dab1126",
@@ -1534,7 +1252,7 @@
       "pickerUrl": "https://ocinegranollers.es/?option=com_cines&task=peli&iid=10501",
       "sourceUrl": "https://ocinegranollers.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-25T05:30:18Z"
+      "capturedAt": "2026-08-26T05:30:21Z"
     },
     {
       "id": "c0157d119c864ad2",
@@ -1552,7 +1270,25 @@
       "pickerUrl": "https://www.ocinegavarres.es/?option=com_cines&task=peli&iid=10501",
       "sourceUrl": "https://www.ocinegavarres.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-25T05:30:18Z"
+      "capturedAt": "2026-08-26T05:30:21Z"
+    },
+    {
+      "id": "9e8829a654599b56",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-006",
+      "cinemaSlug": "cine-yelmo-abrera",
+      "cinemaName": "Cine Yelmo Abrera",
+      "municipiSlug": "abrera",
+      "municipiName": "Abrera",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "17:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
+      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
+      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
+      "extractorType": "chain-yelmo",
+      "capturedAt": "2026-08-26T05:31:45Z"
     },
     {
       "id": "6f3b924154f1fc4a",
@@ -1570,7 +1306,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89785",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "abd53cb7c6391f3c",
@@ -1588,7 +1324,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4820/p?cat-tadeo-jones-y-la-lampada-maravellosa",
       "sourceUrl": "https://www.catcines.cat//film-4820/p?cat-tadeo-jones-y-la-lampada-maravellosa",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-08-25T05:30:32Z"
+      "capturedAt": "2026-08-26T05:30:31Z"
     },
     {
       "id": "b74592af1dfffb80",
@@ -1606,7 +1342,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-25T05:30:15Z"
+      "capturedAt": "2026-08-26T05:30:18Z"
     },
     {
       "id": "6208bb16963a44d0",
@@ -1624,7 +1360,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/tadeo-jones-y-la-lampara-maravillosa",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-25T05:30:20Z"
+      "capturedAt": "2026-08-26T05:30:22Z"
     },
     {
       "id": "f4b39f959c862c80",
@@ -1642,7 +1378,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:08Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
     },
     {
       "id": "cb5babc17d6d9a41",
@@ -1660,7 +1396,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:07Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
     },
     {
       "id": "0b4c8b2d212be2a4",
@@ -1678,7 +1414,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:09Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
     },
     {
       "id": "20fd689a8d7d2cad",
@@ -1696,7 +1432,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/tadeo-jones-y-la-lampara-maravillosa",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-25T05:30:21Z"
+      "capturedAt": "2026-08-26T05:30:23Z"
     },
     {
       "id": "6e0014a7de651842",
@@ -1714,7 +1450,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-25T05:30:14Z"
+      "capturedAt": "2026-08-26T05:30:18Z"
     },
     {
       "id": "596ac122af76890a",
@@ -1732,7 +1468,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89791",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "faac19d79b0bcb16",
@@ -1750,7 +1486,7 @@
       "pickerUrl": "https://cinemamontgri.cat/balandrau-vent-salvatge-3/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-25T05:30:31Z"
+      "capturedAt": "2026-08-26T05:30:30Z"
     },
     {
       "id": "d4034d5cfebc475a",
@@ -1768,7 +1504,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:10Z"
+      "capturedAt": "2026-08-26T05:30:06Z"
     },
     {
       "id": "caec2177352eb65a",
@@ -1786,7 +1522,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4820/p?cat-tadeo-jones-y-la-lampada-maravellosa",
       "sourceUrl": "https://www.catcines.cat//film-4820/p?cat-tadeo-jones-y-la-lampada-maravellosa",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-08-25T05:30:32Z"
+      "capturedAt": "2026-08-26T05:30:31Z"
     },
     {
       "id": "fb6456730240c949",
@@ -1804,7 +1540,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-25T05:30:15Z"
+      "capturedAt": "2026-08-26T05:30:18Z"
     },
     {
       "id": "91656c774bafca27",
@@ -1822,7 +1558,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:08Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
     },
     {
       "id": "868c0599baafbdfa",
@@ -1840,7 +1576,25 @@
       "pickerUrl": "https://cinemamontgri.cat/balandrau-vent-salvatge-3/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-25T05:30:31Z"
+      "capturedAt": "2026-08-26T05:30:30Z"
+    },
+    {
+      "id": "1cec943041bbdc9a",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-019",
+      "cinemaSlug": "cinemes-sant-cugat",
+      "cinemaName": "Cinemes Sant Cugat",
+      "municipiSlug": "sant-cugat-del-valles",
+      "municipiName": "Sant Cugat del Vallès",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "21:45",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=114399",
+      "pickerUrl": "https://www.cinemessantcugat.com/tadeo-jones-y-la-lampara-maravillosa",
+      "sourceUrl": "https://www.cinemessantcugat.com/tadeo-jones-y-la-lampara-maravillosa",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-26T05:30:04Z"
     },
     {
       "id": "1d9beb35742ccfeb",
@@ -1858,7 +1612,7 @@
       "pickerUrl": "https://www.teatreauditoritortosa.cat/event/la-casa-en-flames-2/",
       "sourceUrl": "https://www.teatreauditoritortosa.cat/event/la-casa-en-flames-2/",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-25T05:30:42Z"
+      "capturedAt": "2026-08-26T05:30:38Z"
     },
     {
       "id": "c948fb927250a1fd",
@@ -1876,7 +1630,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89793",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "77c6d7ba9ca47916",
@@ -1894,7 +1648,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:08Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
     },
     {
       "id": "8757485585a7ff2c",
@@ -1912,7 +1666,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:09Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
     },
     {
       "id": "91e74ca826d207f1",
@@ -1930,7 +1684,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89758",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "61e356563126f47b",
@@ -1948,25 +1702,43 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-25T05:30:14Z"
+      "capturedAt": "2026-08-26T05:30:18Z"
     },
     {
-      "id": "74af715e7e7c70c7",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-029",
-      "cinemaSlug": "filmax-gran-via",
-      "cinemaName": "Filmax Gran Via",
-      "municipiSlug": "lhospitalet-de-llobregat",
-      "municipiName": "L'Hospitalet de Llobregat",
+      "id": "89aaa87342c0a5db",
+      "filmSlug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
+      "filmTitle": "Manual per a superherois: la màscara vermella",
+      "cinemaId": "wc-049",
+      "cinemaSlug": "ocine-girona",
+      "cinemaName": "Ocine Girona",
+      "municipiSlug": "girona",
+      "municipiName": "Girona",
       "sessionDate": "2026-08-27",
       "sessionTime": "15:45",
       "languageLabel": "Català",
-      "bookingUrl": "https://filmax.admit-one.eu/seats/217819",
-      "pickerUrl": "https://filmax.admit-one.eu/seats/217819",
-      "sourceUrl": "https://cinesfilmax.com/tadeo-jones-y-la-lampara-maravillosa",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-25T05:30:09Z"
+      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10675",
+      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10675",
+      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
+      "extractorType": "chain-ocine",
+      "capturedAt": "2026-08-26T05:30:19Z"
+    },
+    {
+      "id": "68f61e801272bf9e",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-008",
+      "cinemaSlug": "cine-yelmo-parc-central",
+      "cinemaName": "Cine Yelmo Parc Central",
+      "municipiSlug": "tarragona",
+      "municipiName": "Tarragona",
+      "sessionDate": "2026-08-27",
+      "sessionTime": "15:45",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
+      "pickerUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
+      "sourceUrl": "https://www.yelmocines.es/cartelera/tarragona/yelmo-cines-parc-central",
+      "extractorType": "chain-yelmo",
+      "capturedAt": "2026-08-26T05:31:46Z"
     },
     {
       "id": "cd8e39cf649d1f52",
@@ -1984,7 +1756,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viva-vo-20260827-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-25T05:30:04Z"
+      "capturedAt": "2026-08-26T05:30:03Z"
     },
     {
       "id": "1ad746aa3b3f58c3",
@@ -2002,7 +1774,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:08Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
+    },
+    {
+      "id": "68eeb2b85a16dafc",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-065",
+      "cinemaSlug": "verdi-barcelona",
+      "cinemaName": "Verdi Barcelona",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-08-27",
+      "sessionTime": "16:05",
+      "languageLabel": "Català",
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/219228/",
+      "pickerUrl": "https://verdibcn.admit-one.eu/seats/219228/",
+      "sourceUrl": "https://barcelona.cines-verdi.com/tadeo-jones-y-la-lampara-maravillosa",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-26T05:30:27Z"
     },
     {
       "id": "06a73935b9a30225",
@@ -2020,7 +1810,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-25T05:30:03Z"
+      "capturedAt": "2026-08-26T05:31:48Z"
     },
     {
       "id": "ca3a034fe66a4dff",
@@ -2038,7 +1828,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-25T05:30:03Z"
+      "capturedAt": "2026-08-26T05:31:47Z"
     },
     {
       "id": "4596d3e1de2ee86d",
@@ -2056,7 +1846,7 @@
       "pickerUrl": "https://ocineroquetes.es/?option=com_cines&task=peli&iid=10501",
       "sourceUrl": "https://ocineroquetes.es/components/com_cines/json/ca_cartellera.json",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-08-25T05:30:20Z"
+      "capturedAt": "2026-08-26T05:30:21Z"
     },
     {
       "id": "a0e193a359865366",
@@ -2074,7 +1864,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-25T05:30:03Z"
+      "capturedAt": "2026-08-26T05:31:48Z"
     },
     {
       "id": "7e3e7ce623d9e5e6",
@@ -2092,7 +1882,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-baricentro",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-baricentro",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-25T05:30:03Z"
+      "capturedAt": "2026-08-26T05:31:46Z"
     },
     {
       "id": "70f6a7e525359e92",
@@ -2110,7 +1900,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/tadeo-jones-y-la-lampara-maravillosa",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-25T05:30:21Z"
+      "capturedAt": "2026-08-26T05:30:23Z"
     },
     {
       "id": "259cf5bd06dc01fa",
@@ -2128,7 +1918,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89746",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "358cc9ac4eb92073",
@@ -2146,7 +1936,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:09Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
     },
     {
       "id": "2a40abff224d179e",
@@ -2164,7 +1954,43 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:10Z"
+      "capturedAt": "2026-08-26T05:30:06Z"
+    },
+    {
+      "id": "69944b6018472dbc",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-049",
+      "cinemaSlug": "ocine-girona",
+      "cinemaName": "Ocine Girona",
+      "municipiSlug": "girona",
+      "municipiName": "Girona",
+      "sessionDate": "2026-08-27",
+      "sessionTime": "17:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10501",
+      "pickerUrl": "https://www.ocinegirona.es/?option=com_cines&task=peli&iid=10501",
+      "sourceUrl": "https://www.ocinegirona.es/components/com_cines/json/ca_cartellera.json",
+      "extractorType": "chain-ocine",
+      "capturedAt": "2026-08-26T05:30:19Z"
+    },
+    {
+      "id": "e7bfee1eec63904a",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-006",
+      "cinemaSlug": "cine-yelmo-abrera",
+      "cinemaName": "Cine Yelmo Abrera",
+      "municipiSlug": "abrera",
+      "municipiName": "Abrera",
+      "sessionDate": "2026-08-27",
+      "sessionTime": "17:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
+      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
+      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
+      "extractorType": "chain-yelmo",
+      "capturedAt": "2026-08-26T05:31:45Z"
     },
     {
       "id": "fb20ed263a7d09e3",
@@ -2182,7 +2008,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89786",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "f7d71529c471bdc2",
@@ -2200,7 +2026,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4820/p?cat-tadeo-jones-y-la-lampada-maravellosa",
       "sourceUrl": "https://www.catcines.cat//film-4820/p?cat-tadeo-jones-y-la-lampada-maravellosa",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-08-25T05:30:32Z"
+      "capturedAt": "2026-08-26T05:30:31Z"
     },
     {
       "id": "277ff56ae996ad5c",
@@ -2218,7 +2044,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-25T05:30:15Z"
+      "capturedAt": "2026-08-26T05:30:18Z"
     },
     {
       "id": "ee3cb4a98859588e",
@@ -2236,7 +2062,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/tadeo-jones-y-la-lampara-maravillosa",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-25T05:30:20Z"
+      "capturedAt": "2026-08-26T05:30:22Z"
     },
     {
       "id": "d3eed03bc7849d34",
@@ -2254,7 +2080,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:09Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
     },
     {
       "id": "dcee3ee33e88ed23",
@@ -2272,7 +2098,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:08Z"
+      "capturedAt": "2026-08-26T05:30:06Z"
     },
     {
       "id": "1e7bfa11b5dd76a6",
@@ -2290,7 +2116,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:08Z"
+      "capturedAt": "2026-08-26T05:30:05Z"
     },
     {
       "id": "bdc0ae71c1cd974d",
@@ -2308,7 +2134,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/tadeo-jones-y-la-lampara-maravillosa",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-08-25T05:30:21Z"
+      "capturedAt": "2026-08-26T05:30:23Z"
     },
     {
       "id": "388e61d48c3da4b3",
@@ -2326,7 +2152,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-25T05:30:14Z"
+      "capturedAt": "2026-08-26T05:30:18Z"
     },
     {
       "id": "8b50690c416b86d6",
@@ -2344,7 +2170,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89635",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "2944c70c01b9b344",
@@ -2362,7 +2188,7 @@
       "pickerUrl": "https://cinemamontgri.cat/balandrau-vent-salvatge-3/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-08-25T05:30:31Z"
+      "capturedAt": "2026-08-26T05:30:30Z"
     },
     {
       "id": "8c25e489b16dd308",
@@ -2380,7 +2206,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:10Z"
+      "capturedAt": "2026-08-26T05:30:06Z"
     },
     {
       "id": "1d152478948787fe",
@@ -2398,7 +2224,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4820/p?cat-tadeo-jones-y-la-lampada-maravellosa",
       "sourceUrl": "https://www.catcines.cat//film-4820/p?cat-tadeo-jones-y-la-lampada-maravellosa",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-08-25T05:30:32Z"
+      "capturedAt": "2026-08-26T05:30:31Z"
     },
     {
       "id": "2884557bc141a992",
@@ -2416,7 +2242,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-25T05:30:15Z"
+      "capturedAt": "2026-08-26T05:30:18Z"
     },
     {
       "id": "4aee2e01c29bba1b",
@@ -2434,7 +2260,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:08Z"
+      "capturedAt": "2026-08-26T05:30:06Z"
     },
     {
       "id": "05e6eaba3dc5af1b",
@@ -2452,7 +2278,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=89796",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-08-25T05:30:28Z"
+      "capturedAt": "2026-08-26T05:30:28Z"
     },
     {
       "id": "55757876ed365386",
@@ -2470,7 +2296,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-25T05:30:08Z"
+      "capturedAt": "2026-08-26T05:30:06Z"
     }
   ],
   "sourceIssues": [],

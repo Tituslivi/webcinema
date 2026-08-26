@@ -3,9 +3,9 @@
   "name": "Sant Cugat del Vallès",
   "ineCode": "08205",
   "idescatCode": "082055",
-  "sessionCount": 2,
+  "sessionCount": 3,
   "filmCount": 1,
-  "cinemaCount": 1,
+  "cinemaCount": 2,
   "sessions": [
     {
       "id": "021413ca3b021813",
@@ -23,7 +23,25 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-25T05:30:03Z"
+      "capturedAt": "2026-08-26T05:31:48Z"
+    },
+    {
+      "id": "1cec943041bbdc9a",
+      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
+      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
+      "cinemaId": "wc-019",
+      "cinemaSlug": "cinemes-sant-cugat",
+      "cinemaName": "Cinemes Sant Cugat",
+      "municipiSlug": "sant-cugat-del-valles",
+      "municipiName": "Sant Cugat del Vallès",
+      "sessionDate": "2026-08-26",
+      "sessionTime": "21:45",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=114399",
+      "pickerUrl": "https://www.cinemessantcugat.com/tadeo-jones-y-la-lampara-maravillosa",
+      "sourceUrl": "https://www.cinemessantcugat.com/tadeo-jones-y-la-lampara-maravillosa",
+      "extractorType": "html-static",
+      "capturedAt": "2026-08-26T05:30:04Z"
     },
     {
       "id": "a0e193a359865366",
@@ -41,7 +59,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-sant-cugat",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-25T05:30:03Z"
+      "capturedAt": "2026-08-26T05:31:48Z"
     }
   ]
 }
