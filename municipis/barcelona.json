@@ -3,8 +3,8 @@
   "name": "Barcelona",
   "ineCode": "08019",
   "idescatCode": "080193",
-  "sessionCount": 76,
-  "filmCount": 7,
+  "sessionCount": 60,
+  "filmCount": 6,
   "cinemaCount": 10,
   "sessions": [
     {
@@ -23,7 +23,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-increible-historia-de-la-pera-gegant/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-08-30T05:30:27Z"
+      "capturedAt": "2026-08-31T05:30:25Z"
     },
     {
       "id": "aa3b01f6c759cc94",
@@ -41,187 +41,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-increible-historia-de-la-pera-gegant/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-08-30T05:30:28Z"
-    },
-    {
-      "id": "7cd8df5a5ed4013f",
-      "filmSlug": "mala-bestia-en-catala",
-      "filmTitle": "Mala bèstia",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "00:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/mala-bestia-vo-20260830-0030",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/mala-bestia-vo-20260830-0030",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:04Z"
-    },
-    {
-      "id": "eac4ccc0bd15c08d",
-      "filmSlug": "manual-per-a-superherois-la-mascara-vermella-en-catala",
-      "filmTitle": "Manual per a superherois: la màscara vermella",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "11:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/219477/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/219477/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/manual-para-superheroes-la-mascara-roja",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:25Z"
-    },
-    {
-      "id": "996d8373f24d6ec6",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "12:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
-    },
-    {
-      "id": "a80e96bfe061e4b8",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "12:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=190859&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
-    },
-    {
-      "id": "97581d0c10699423",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "12:55",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
-    },
-    {
-      "id": "6a5f1097779303af",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "15:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=190832&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
-    },
-    {
-      "id": "fcbfa33d436a9c55",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
-    },
-    {
-      "id": "c17b99259d588247",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "16:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/219312/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/219312/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/tadeo-jones-y-la-lampara-maravillosa",
-      "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:25Z"
-    },
-    {
-      "id": "238c50dcdad89724",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-011",
-      "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
-      "cinemaName": "Cine Yelmo Westfield La Maquinista",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "16:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-30T05:30:03Z"
-    },
-    {
-      "id": "82bb44569e16e7a5",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:26Z"
     },
     {
       "id": "ef65b512fd7721be",
@@ -239,115 +59,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-increible-historia-de-la-pera-gegant/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-08-30T05:30:28Z"
-    },
-    {
-      "id": "1ade0d7a2eaf0d3d",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "17:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
-    },
-    {
-      "id": "cf5a010e3a796256",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "18:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
-    },
-    {
-      "id": "9cad32f1d8ad1e80",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "18:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=190580&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
-    },
-    {
-      "id": "785e02b81595a184",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "18:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
-    },
-    {
-      "id": "746cbc74da1d10bf",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "19:25",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
-    },
-    {
-      "id": "8b77637cd092c72b",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-08-30",
-      "sessionTime": "21:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:26Z"
     },
     {
       "id": "f1d0e289afa96b6f",
@@ -365,7 +77,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/mala-bestia-vo-20260831-0030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:04Z"
+      "capturedAt": "2026-08-31T05:30:03Z"
     },
     {
       "id": "6aab559cd7adac89",
@@ -383,7 +95,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:14Z"
     },
     {
       "id": "8a5c69715b8e861f",
@@ -401,7 +113,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "aba96bc0c82085dc",
@@ -419,7 +131,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/219338/",
       "sourceUrl": "https://barcelona.cines-verdi.com/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:25Z"
+      "capturedAt": "2026-08-31T05:30:23Z"
     },
     {
       "id": "65b12dfdcdbff432",
@@ -437,7 +149,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-30T05:30:03Z"
+      "capturedAt": "2026-08-31T05:30:03Z"
     },
     {
       "id": "bb0a23f05e8c1bb9",
@@ -455,7 +167,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viva-vo-20260831-1615",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:04Z"
+      "capturedAt": "2026-08-31T05:30:03Z"
     },
     {
       "id": "2505de6e065eb789",
@@ -473,7 +185,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:07Z"
     },
     {
       "id": "f2804ac26592f101",
@@ -491,7 +203,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "1c411210da8cde25",
@@ -509,7 +221,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "3ad7576d8bac7910",
@@ -527,7 +239,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:14Z"
     },
     {
       "id": "c2a2cd6810f896da",
@@ -545,7 +257,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "fa1bfba37b9dce32",
@@ -563,7 +275,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:07Z"
     },
     {
       "id": "cd5a61dbf9609251",
@@ -581,7 +293,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:07Z"
     },
     {
       "id": "ca616f78366b8b9d",
@@ -599,7 +311,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/mala-bestia-vo-20260901-0030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:04Z"
+      "capturedAt": "2026-08-31T05:30:03Z"
     },
     {
       "id": "80d8e463115c43cf",
@@ -617,7 +329,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:14Z"
     },
     {
       "id": "f825300c09f1d3e3",
@@ -635,7 +347,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "daff231b50db5c61",
@@ -653,7 +365,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:14Z"
     },
     {
       "id": "987e3f999919be6f",
@@ -671,7 +383,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:14Z"
     },
     {
       "id": "32db8c201e0693b2",
@@ -689,7 +401,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/219397/",
       "sourceUrl": "https://barcelona.cines-verdi.com/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:25Z"
+      "capturedAt": "2026-08-31T05:30:23Z"
     },
     {
       "id": "a2b678acbe8a3e47",
@@ -707,7 +419,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-30T05:30:03Z"
+      "capturedAt": "2026-08-31T05:30:03Z"
     },
     {
       "id": "75da190bbd23d860",
@@ -725,7 +437,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:15Z"
     },
     {
       "id": "a5b994f15530fe47",
@@ -743,7 +455,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:07Z"
     },
     {
       "id": "c545e504192bd209",
@@ -761,7 +473,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "53aa2dc0e60432ac",
@@ -779,7 +491,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:15Z"
     },
     {
       "id": "a86b84ef5a5a4253",
@@ -797,7 +509,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "fc951b34cc387961",
@@ -815,7 +527,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:14Z"
     },
     {
       "id": "1d21e75772b44645",
@@ -833,7 +545,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "1b4bd48e37784ff8",
@@ -851,7 +563,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:07Z"
     },
     {
       "id": "467f7610c8bf2659",
@@ -869,7 +581,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:07Z"
     },
     {
       "id": "9173b0cc5221edd3",
@@ -887,7 +599,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/mala-bestia-vo-20260902-0030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:04Z"
+      "capturedAt": "2026-08-31T05:30:03Z"
     },
     {
       "id": "d2645ec293c3f1d6",
@@ -905,7 +617,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:14Z"
     },
     {
       "id": "ed7bdebce9953718",
@@ -923,7 +635,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "9679cc106bff9633",
@@ -941,7 +653,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/219371/",
       "sourceUrl": "https://barcelona.cines-verdi.com/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:25Z"
+      "capturedAt": "2026-08-31T05:30:23Z"
     },
     {
       "id": "0ab1fe14536f3da6",
@@ -959,7 +671,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-30T05:30:03Z"
+      "capturedAt": "2026-08-31T05:30:03Z"
     },
     {
       "id": "aec14d2e9d8a3ec4",
@@ -977,7 +689,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viva-vo-20260902-1615",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:04Z"
+      "capturedAt": "2026-08-31T05:30:03Z"
     },
     {
       "id": "6158d5a19ed2d196",
@@ -995,7 +707,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:07Z"
     },
     {
       "id": "79b7b641f1f2ec86",
@@ -1013,7 +725,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-increible-historia-de-la-pera-gegant/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-08-30T05:30:29Z"
+      "capturedAt": "2026-08-31T05:30:27Z"
     },
     {
       "id": "eda349499e5302d4",
@@ -1031,7 +743,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:06Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "9d8b90104276505f",
@@ -1049,7 +761,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "cf47c7e0e5664b9f",
@@ -1067,7 +779,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:14Z"
     },
     {
       "id": "0cdfaaf605480a44",
@@ -1085,7 +797,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:06Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "a9ffd5143d7e831c",
@@ -1103,7 +815,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:07Z"
     },
     {
       "id": "fbd42d3ebc9366f2",
@@ -1121,7 +833,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:07Z"
     },
     {
       "id": "d6ebd9196465ffd7",
@@ -1139,7 +851,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/mala-bestia-vo-20260903-0030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:04Z"
+      "capturedAt": "2026-08-31T05:30:03Z"
     },
     {
       "id": "2f024bc81eaa049a",
@@ -1157,7 +869,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:14Z"
     },
     {
       "id": "b167d98e22332e32",
@@ -1175,7 +887,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "8fea70320acafcf3",
@@ -1193,7 +905,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/219422/",
       "sourceUrl": "https://barcelona.cines-verdi.com/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "html-static",
-      "capturedAt": "2026-08-30T05:30:25Z"
+      "capturedAt": "2026-08-31T05:30:23Z"
     },
     {
       "id": "afd88a843f4924b1",
@@ -1211,7 +923,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-08-30T05:30:03Z"
+      "capturedAt": "2026-08-31T05:30:03Z"
     },
     {
       "id": "8856d8cc0b0bd072",
@@ -1229,7 +941,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:07Z"
     },
     {
       "id": "e766c654627d865c",
@@ -1247,7 +959,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:06Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "5c845d866b61f3f6",
@@ -1265,7 +977,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:05Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "7bbd408d4de1f732",
@@ -1283,7 +995,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:14Z"
     },
     {
       "id": "337bd6601f3ff0cd",
@@ -1301,7 +1013,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:06Z"
+      "capturedAt": "2026-08-31T05:30:05Z"
     },
     {
       "id": "ec66a3d1d907903b",
@@ -1319,7 +1031,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:07Z"
     },
     {
       "id": "175c196c01e43ae7",
@@ -1337,7 +1049,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:14Z"
     },
     {
       "id": "34daef42ecc64a70",
@@ -1355,7 +1067,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-08-30T05:30:15Z"
+      "capturedAt": "2026-08-31T05:30:14Z"
     },
     {
       "id": "679c81e40f95fd0d",
@@ -1373,7 +1085,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-08-30T05:30:07Z"
+      "capturedAt": "2026-08-31T05:30:07Z"
     }
   ]
 }
