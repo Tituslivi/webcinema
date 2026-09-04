@@ -1,0 +1,63 @@
+{
+  "slug": "el-temps-de-montserrat-en-catala",
+  "title": "El Temps De Montserrat",
+  "sessionCount": 3,
+  "cinemaCount": 3,
+  "municipiCount": 2,
+  "sessions": [
+    {
+      "id": "802d75a2f38d0780",
+      "filmSlug": "el-temps-de-montserrat-en-catala",
+      "filmTitle": "El Temps De Montserrat",
+      "cinemaId": "wc-086",
+      "cinemaSlug": "screenbox-lleida",
+      "cinemaName": "Screenbox Lleida",
+      "municipiSlug": "lleida",
+      "municipiName": "Lleida",
+      "sessionDate": "2026-09-10",
+      "sessionTime": "17:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=90367",
+      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=90367",
+      "sourceUrl": "https://www.screenbox.cat/programacio",
+      "extractorType": "screenbox-mixed",
+      "capturedAt": "2026-09-04T05:30:28Z"
+    },
+    {
+      "id": "a5b47b4ec416243d",
+      "filmSlug": "el-temps-de-montserrat-en-catala",
+      "filmTitle": "El Temps De Montserrat",
+      "cinemaId": "wc-065",
+      "cinemaSlug": "verdi-barcelona",
+      "cinemaName": "Verdi Barcelona",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-09-10",
+      "sessionTime": "18:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/219710/",
+      "pickerUrl": "https://verdibcn.admit-one.eu/seats/219710/",
+      "sourceUrl": "https://barcelona.cines-verdi.com/el-tiempo-de-montserrat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-09-04T05:30:30Z"
+    },
+    {
+      "id": "e26c557e785429d8",
+      "filmSlug": "el-temps-de-montserrat-en-catala",
+      "filmTitle": "El Temps De Montserrat",
+      "cinemaId": "wc-023",
+      "cinemaSlug": "cinesa-diagonal",
+      "cinemaName": "Cinesa Diagonal",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-09-10",
+      "sessionTime": "18:50",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-09-04T05:30:16Z"
+    }
+  ]
+}

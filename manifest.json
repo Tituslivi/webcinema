@@ -1,17 +1,17 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-09-03T05:31:39Z",
+  "generatedAt": "2026-09-04T05:31:53Z",
   "latest": {
-    "weekStart": "2026-08-28",
-    "weekEnd": "2026-09-03",
+    "weekStart": "2026-09-04",
+    "weekEnd": "2026-09-10",
     "href": "latest.json",
-    "weekHref": "weeks/2026-08-28_2026-09-03.json"
+    "weekHref": "weeks/2026-09-04_2026-09-10.json"
   },
   "upcoming": {
-    "from": "2026-09-03",
+    "from": "2026-09-04",
     "to": "2026-10-22",
     "href": "upcoming.json",
-    "sessions": 1154
+    "sessions": 1196
   },
   "indexes": {
     "films": "films/index.json",
@@ -117,6 +117,15 @@
       "films": 8,
       "cinemas": 22,
       "municipis": 15
+    },
+    {
+      "weekStart": "2026-09-04",
+      "weekEnd": "2026-09-10",
+      "href": "weeks/2026-09-04_2026-09-10.json",
+      "sessions": 1162,
+      "films": 17,
+      "cinemas": 47,
+      "municipis": 26
     }
   ]
 }
