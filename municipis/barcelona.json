@@ -3,730 +3,10 @@
   "name": "Barcelona",
   "ineCode": "08019",
   "idescatCode": "080193",
-  "sessionCount": 328,
-  "filmCount": 14,
+  "sessionCount": 268,
+  "filmCount": 13,
   "cinemaCount": 16,
   "sessions": [
-    {
-      "id": "70c5b8410b1bebbb",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "11:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/220304/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/220304/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/tadeo-jones-y-la-lampara-maravillosa",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:33Z"
-    },
-    {
-      "id": "e60ac611d582d558",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "12:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
-    },
-    {
-      "id": "1b1ba63e2e8d0f55",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "12:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
-    },
-    {
-      "id": "349451f39ba916e7",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-011",
-      "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
-      "cinemaName": "Cine Yelmo Westfield La Maquinista",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "14:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
-    },
-    {
-      "id": "a621ef849a883f39",
-      "filmSlug": "detective-conan-el-angel-caido-de-la-carretera-en-catala",
-      "filmTitle": "Detective Conan El Angel Caido De La Carretera",
-      "cinemaId": "wc-011",
-      "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
-      "cinemaName": "Cine Yelmo Westfield La Maquinista",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "15:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
-    },
-    {
-      "id": "c2841fcf07a378cf",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-042",
-      "cinemaSlug": "mooby-glories",
-      "cinemaName": "Mooby Glòries",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "15:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=120588&language=cat&theatre=BAL-GLORIAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "19c45c758f17e046",
-      "filmSlug": "detectiu-conan-l-angel-caigut-en-catala",
-      "filmTitle": "Detectiu Conan L Angel Caigut",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "15:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
-    },
-    {
-      "id": "6ed4103f6dfc9b91",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-063",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "15:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1087746/",
-      "pickerUrl": "https://www.pillalas.com/pase/1087746/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-19",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:27Z"
-    },
-    {
-      "id": "39d94046bffd4b0e",
-      "filmSlug": "forastera-en-catala",
-      "filmTitle": "Forastera",
-      "cinemaId": "wc-063",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "15:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1087673/",
-      "pickerUrl": "https://www.pillalas.com/pase/1087673/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-19",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:27Z"
-    },
-    {
-      "id": "18e772788ced7440",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "15:55",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=140419&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "8a6d40c682eee2de",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-017",
-      "cinemaSlug": "cinemes-girona",
-      "cinemaName": "Cinemes Girona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40605&language=CAT",
-      "pickerUrl": "https://www.cinemesgirona.cat/cronos",
-      "sourceUrl": "https://www.cinemesgirona.cat/cronos",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
-    },
-    {
-      "id": "a88b625ca71453f1",
-      "filmSlug": "femenino-singular-en-catala",
-      "filmTitle": "Femenino Singular",
-      "cinemaId": "wc-017",
-      "cinemaSlug": "cinemes-girona",
-      "cinemaName": "Cinemes Girona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40606&language=CAT",
-      "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
-      "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
-    },
-    {
-      "id": "09744a69a630fad2",
-      "filmSlug": "mumbo-jumbo-es-fa-enorme-en-catala",
-      "filmTitle": "Mumbo Jumbo Es Fa Enorme",
-      "cinemaId": "wc-017",
-      "cinemaSlug": "cinemes-girona",
-      "cinemaName": "Cinemes Girona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40604&language=CAT",
-      "pickerUrl": "https://www.cinemesgirona.cat/mumbo-jumbo-se-hace-enorme",
-      "sourceUrl": "https://www.cinemesgirona.cat/mumbo-jumbo-se-hace-enorme",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:07Z"
-    },
-    {
-      "id": "132ae7b29757326d",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=191711&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
-    },
-    {
-      "id": "a417d64d9a990acc",
-      "filmSlug": "detectiu-conan-l-angel-caigut-de-la-carretera-en-catala",
-      "filmTitle": "Detectiu Conan L Angel Caigut De La Carretera",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=191733&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
-    },
-    {
-      "id": "58cc97a385ecd9bf",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-038",
-      "cinemaSlug": "mooby-aribau",
-      "cinemaName": "Mooby Aribau",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=69157&language=cat&theatre=BAL-ARIBAU",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "7113e10d696dc262",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-040",
-      "cinemaSlug": "mooby-balmes",
-      "cinemaName": "Mooby Balmes",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-balmes.admit-one.eu/?p=tickets&perfCode=187304&language=cat&theatre=BAL-BALMES",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "3444e12edabf57e9",
-      "filmSlug": "detectiu-conan-l-angel-caigut-de-la-carretera-en-catala",
-      "filmTitle": "Detectiu Conan L Angel Caigut De La Carretera",
-      "cinemaId": "wc-042",
-      "cinemaSlug": "mooby-glories",
-      "cinemaName": "Mooby Glòries",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=120577&language=cat&theatre=BAL-GLORIAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "aaee71ad30d923c4",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:08Z"
-    },
-    {
-      "id": "1c1cc6259e579e2e",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=116998&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "0b247184e17a4388",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:25",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
-    },
-    {
-      "id": "5822aab3dd8db480",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:06Z"
-    },
-    {
-      "id": "e3e04ec45ad60d3b",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "16:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
-    },
-    {
-      "id": "76bca6bd0ae65ccc",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "17:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
-    },
-    {
-      "id": "bfc394489fb270fe",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-011",
-      "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
-      "cinemaName": "Cine Yelmo Westfield La Maquinista",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "17:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
-    },
-    {
-      "id": "95661644ac59bb60",
-      "filmSlug": "lola-i-el-piano-trencaclosques-en-catala",
-      "filmTitle": "Lola I El Piano Trencaclosques",
-      "cinemaId": "wc-097",
-      "cinemaSlug": "filmoteca-de-catalunya",
-      "cinemaName": "Filmoteca de Catalunya",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "17:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=80",
-      "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=80",
-      "sourceUrl": "https://www.filmoteca.cat/web/ca/film/lola-i-el-piano-trencaclosques-0",
-      "extractorType": "filmoteca-html",
-      "capturedAt": "2026-09-19T05:31:05Z"
-    },
-    {
-      "id": "69efe48302dde482",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-063",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "17:50",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1087674/",
-      "pickerUrl": "https://www.pillalas.com/pase/1087674/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-19",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:27Z"
-    },
-    {
-      "id": "38db9f07c1024e21",
-      "filmSlug": "tanit-en-catala",
-      "filmTitle": "Tanit",
-      "cinemaId": "wc-017",
-      "cinemaSlug": "cinemes-girona",
-      "cinemaName": "Cinemes Girona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "18:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40495&language=CAT",
-      "pickerUrl": "https://www.cinemesgirona.cat/tanit",
-      "sourceUrl": "https://www.cinemesgirona.cat/tanit",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
-    },
-    {
-      "id": "3eb75dbb627d7045",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "18:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=117011&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "d4619c61280eeeb3",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "18:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/220104/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/220104/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:32Z"
-    },
-    {
-      "id": "53be9f6175fb9f9d",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-017",
-      "cinemaSlug": "cinemes-girona",
-      "cinemaName": "Cinemes Girona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "18:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40602&language=CAT",
-      "pickerUrl": "https://www.cinemesgirona.cat/cronos",
-      "sourceUrl": "https://www.cinemesgirona.cat/cronos",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
-    },
-    {
-      "id": "fc355cbf3507be99",
-      "filmSlug": "tanit-en-catala",
-      "filmTitle": "Tanit",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "18:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/tanit-vo-20260919-1815",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/tanit-vo-20260919-1815",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:03Z"
-    },
-    {
-      "id": "6eda3a03f532ac13",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "18:25",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/220121/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/220121/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/viaje-al-pais-de-los-blancos",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:33Z"
-    },
-    {
-      "id": "87fcbcae453b5c6e",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-038",
-      "cinemaSlug": "mooby-aribau",
-      "cinemaName": "Mooby Aribau",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "18:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=69156&language=cat&theatre=BAL-ARIBAU",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "5d2df7bfb3cab700",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "18:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=191712&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
-    },
-    {
-      "id": "fc747912adb52584",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-040",
-      "cinemaSlug": "mooby-balmes",
-      "cinemaName": "Mooby Balmes",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "18:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-balmes.admit-one.eu/?p=tickets&perfCode=187305&language=cat&theatre=BAL-BALMES",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "d3b9268da1c39f69",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "18:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=116999&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "95b7e7894e879f8f",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "18:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=140429&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "1700ebf579744112",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "19:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
-    },
-    {
-      "id": "ed0b22b926b8a8f9",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-042",
-      "cinemaSlug": "mooby-glories",
-      "cinemaName": "Mooby Glòries",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "19:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=120589&language=cat&theatre=BAL-GLORIAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
     {
       "id": "e112efddcc471e25",
       "filmSlug": "forastera-en-catala",
@@ -743,367 +23,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/forastera/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-09-19T05:30:43Z"
-    },
-    {
-      "id": "83f166fd45e2d71e",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "19:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
-    },
-    {
-      "id": "51becdfb1449f6b5",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-011",
-      "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
-      "cinemaName": "Cine Yelmo Westfield La Maquinista",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "19:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
-    },
-    {
-      "id": "674cbf197bb5662b",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "19:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
-    },
-    {
-      "id": "041a1411117c9f6e",
-      "filmSlug": "femenino-singular-en-catala",
-      "filmTitle": "Femenino Singular",
-      "cinemaId": "wc-017",
-      "cinemaSlug": "cinemes-girona",
-      "cinemaName": "Cinemes Girona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "20:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40607&language=CAT",
-      "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
-      "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
-    },
-    {
-      "id": "e91cd060b00f46c6",
-      "filmSlug": "detectiu-conan-l-angel-caigut-de-la-carretera-en-catala",
-      "filmTitle": "Detectiu Conan L Angel Caigut De La Carretera",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "20:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/detectiu-conan-langel-caigut-de-la-carretera-dob.-cat-20260919-2000",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/detectiu-conan-langel-caigut-de-la-carretera-dob.-cat-20260919-2000",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:03Z"
-    },
-    {
-      "id": "ba642b074dbd6b21",
-      "filmSlug": "forastera-en-catala",
-      "filmTitle": "Forastera",
-      "cinemaId": "wc-063",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "20:05",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1087675/",
-      "pickerUrl": "https://www.pillalas.com/pase/1087675/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-19",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:27Z"
-    },
-    {
-      "id": "d8daf224b56f0327",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "20:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/220097/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/220097/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:32Z"
-    },
-    {
-      "id": "85e8e8321381da08",
-      "filmSlug": "forastera-en-catala",
-      "filmTitle": "Forastera",
-      "cinemaId": "wc-017",
-      "cinemaSlug": "cinemes-girona",
-      "cinemaName": "Cinemes Girona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "20:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40612&language=CAT",
-      "pickerUrl": "https://www.cinemesgirona.cat/forastera",
-      "sourceUrl": "https://www.cinemesgirona.cat/forastera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
-    },
-    {
-      "id": "623842cf6eecc074",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-063",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "20:35",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1087748/",
-      "pickerUrl": "https://www.pillalas.com/pase/1087748/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-19",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:27Z"
-    },
-    {
-      "id": "8deac11832d76fad",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-017",
-      "cinemaSlug": "cinemes-girona",
-      "cinemaName": "Cinemes Girona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "21:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40609&language=CAT",
-      "pickerUrl": "https://www.cinemesgirona.cat/cronos",
-      "sourceUrl": "https://www.cinemesgirona.cat/cronos",
-      "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
-    },
-    {
-      "id": "5e67712dda48e747",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "21:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=117000&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "08ce17ef9d19c639",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "21:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=191710&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
-    },
-    {
-      "id": "896e76cfad82324c",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "21:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=140430&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "7431df9202433e8a",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-042",
-      "cinemaSlug": "mooby-glories",
-      "cinemaName": "Mooby Glòries",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "21:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=120587&language=cat&theatre=BAL-GLORIAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "e486358c86d6bc82",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-038",
-      "cinemaSlug": "mooby-aribau",
-      "cinemaName": "Mooby Aribau",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "21:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=69165&language=cat&theatre=BAL-ARIBAU",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
-    },
-    {
-      "id": "22ea454bb7b60b38",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "22:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
-    },
-    {
-      "id": "5823f8ab310c1ba4",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "22:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
-    },
-    {
-      "id": "48726b957443efb7",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-011",
-      "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
-      "cinemaName": "Cine Yelmo Westfield La Maquinista",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "22:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
-    },
-    {
-      "id": "642fc7381fb4bf4c",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "22:25",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
-    },
-    {
-      "id": "a1a804aae589225d",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-063",
-      "cinemaSlug": "renoir-floridablanca",
-      "cinemaName": "Renoir Floridablanca",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-09-19",
-      "sessionTime": "22:45",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.pillalas.com/pase/1087749/",
-      "pickerUrl": "https://www.pillalas.com/pase/1087749/",
-      "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-19",
-      "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:27Z"
+      "capturedAt": "2026-09-20T05:30:42Z"
     },
     {
       "id": "ad000c050b07a0f8",
@@ -1121,7 +41,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220308/",
       "sourceUrl": "https://barcelona.cines-verdi.com/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:33Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "e589ddb0e96975da",
@@ -1139,7 +59,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/mumbo-jumbo-se-hace-enorme",
       "sourceUrl": "https://www.cinemesgirona.cat/mumbo-jumbo-se-hace-enorme",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:07Z"
+      "capturedAt": "2026-09-20T05:30:08Z"
     },
     {
       "id": "5c9079df6d9bd8f9",
@@ -1157,7 +77,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "f886e9deb07b2446",
@@ -1175,7 +95,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "e36bfeaa54c71950",
@@ -1193,7 +113,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "f03ab484a4e46e68",
@@ -1211,7 +131,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "90c925e5c7a581b4",
@@ -1229,7 +149,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:12Z"
+      "capturedAt": "2026-09-20T05:30:12Z"
     },
     {
       "id": "8e78038929a5cf6b",
@@ -1247,7 +167,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "c1e272b1e2ec9214",
@@ -1265,7 +185,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "c1a739832690a5d2",
@@ -1283,7 +203,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "89c8b16588811dc3",
@@ -1301,7 +221,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087750/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-20",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:28Z"
     },
     {
       "id": "6d58b8730e1dc25d",
@@ -1319,7 +239,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087677/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-20",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:29Z"
     },
     {
       "id": "3549ed9af1a4af3a",
@@ -1337,7 +257,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "32a86e56c69cb7f2",
@@ -1355,7 +275,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/cronos",
       "sourceUrl": "https://www.cinemesgirona.cat/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:06Z"
     },
     {
       "id": "0ae583946b27d5aa",
@@ -1373,7 +293,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
+      "capturedAt": "2026-09-20T05:30:05Z"
     },
     {
       "id": "99b3ae6b3100c044",
@@ -1391,7 +311,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/mumbo-jumbo-se-hace-enorme",
       "sourceUrl": "https://www.cinemesgirona.cat/mumbo-jumbo-se-hace-enorme",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:07Z"
+      "capturedAt": "2026-09-20T05:30:08Z"
     },
     {
       "id": "aa1631ce645fc9bf",
@@ -1409,7 +329,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "4e7f2a8056617559",
@@ -1427,7 +347,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "c4fc3c0a2a6b9fbe",
@@ -1445,7 +365,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "8bddfc0d3f1f8d4b",
@@ -1463,7 +383,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "8b2e6d27d8a9bc78",
@@ -1481,7 +401,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "d56c2ac339fc1540",
@@ -1499,7 +419,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "f57bb808d23b7b75",
@@ -1517,7 +437,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:08Z"
+      "capturedAt": "2026-09-20T05:30:08Z"
     },
     {
       "id": "15a0b663781ff596",
@@ -1535,7 +455,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "19e4b5bc21a188a1",
@@ -1553,7 +473,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "743d77424c4a08a4",
@@ -1571,7 +491,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:11Z"
     },
     {
       "id": "5a314dd938fa3d72",
@@ -1589,7 +509,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "9174107708945259",
@@ -1607,7 +527,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "720ec095f933883a",
@@ -1625,7 +545,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:06Z"
     },
     {
       "id": "3f19a99d7ba3aef8",
@@ -1643,7 +563,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=78",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/els-goonies",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-09-19T05:30:53Z"
+      "capturedAt": "2026-09-20T05:30:56Z"
     },
     {
       "id": "33444ad6bda7fc11",
@@ -1661,7 +581,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087678/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-20",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:28Z"
     },
     {
       "id": "9c3610b0c2bb5808",
@@ -1679,7 +599,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/tanit",
       "sourceUrl": "https://www.cinemesgirona.cat/tanit",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
+      "capturedAt": "2026-09-20T05:30:05Z"
     },
     {
       "id": "89c9862bcb49441a",
@@ -1697,7 +617,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "7e7677f0c9bfccbc",
@@ -1715,7 +635,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220141/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:32Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "801c3a839b11a5a9",
@@ -1733,7 +653,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/cronos",
       "sourceUrl": "https://www.cinemesgirona.cat/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:06Z"
     },
     {
       "id": "dcfe4bde92865672",
@@ -1751,7 +671,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/tanit-vo-20260920-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:03Z"
+      "capturedAt": "2026-09-20T05:30:04Z"
     },
     {
       "id": "deadc9383f081a9f",
@@ -1769,7 +689,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220153/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:33Z"
+      "capturedAt": "2026-09-20T05:30:32Z"
     },
     {
       "id": "113e777af89f9bae",
@@ -1787,7 +707,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "5beca5a7322450c7",
@@ -1805,7 +725,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "367ed0506b66179c",
@@ -1823,7 +743,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "33638e6490b2959e",
@@ -1841,7 +761,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "c1b402827e2e45dc",
@@ -1859,7 +779,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "80b4d34a64d5b782",
@@ -1877,7 +797,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "daa1d174dce77ec9",
@@ -1895,7 +815,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "ec05729123889a8c",
@@ -1913,7 +833,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "35d8e3cabdc63690",
@@ -1931,7 +851,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:11Z"
     },
     {
       "id": "356aae9f747b5193",
@@ -1949,7 +869,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "d4fb3cb27fdbf339",
@@ -1967,7 +887,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
+      "capturedAt": "2026-09-20T05:30:05Z"
     },
     {
       "id": "b74e578a5affd289",
@@ -1985,7 +905,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/detectiu-conan-langel-caigut-de-la-carretera-dob.-cat-20260920-2000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:03Z"
+      "capturedAt": "2026-09-20T05:30:04Z"
     },
     {
       "id": "e932e1adafef4b58",
@@ -2003,7 +923,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087679/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-20",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:29Z"
     },
     {
       "id": "432a924d2adc1b5b",
@@ -2021,7 +941,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/forastera",
       "sourceUrl": "https://www.cinemesgirona.cat/forastera",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:07Z"
     },
     {
       "id": "4ca9d3f0f1e181b9",
@@ -2039,7 +959,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220134/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:32Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "dcd81333f419b6ac",
@@ -2057,7 +977,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087752/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-20",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:28Z"
     },
     {
       "id": "8040078963c79d56",
@@ -2075,7 +995,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "d6c9f453b864aa17",
@@ -2093,7 +1013,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "2341437fd7f085b6",
@@ -2111,7 +1031,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "6914dce3f4a842c1",
@@ -2129,7 +1049,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "605e0b7c1d590bc6",
@@ -2147,7 +1067,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "1c2fd9351fff0caf",
@@ -2165,7 +1085,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "e6fd6413cb309807",
@@ -2183,7 +1103,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:11Z"
     },
     {
       "id": "bb19d9655bed3036",
@@ -2201,7 +1121,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "6bb82f58182cca86",
@@ -2219,7 +1139,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "d6c8694dc628564c",
@@ -2237,7 +1157,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087753/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-20",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:28Z"
     },
     {
       "id": "67199648eaee8b22",
@@ -2255,7 +1175,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087754/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-21",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:30Z"
     },
     {
       "id": "17cfd031966a223a",
@@ -2273,7 +1193,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087681/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-21",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:30Z"
     },
     {
       "id": "ea064f7f9161fd4c",
@@ -2291,7 +1211,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "86bee911ba4d0718",
@@ -2309,7 +1229,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
+      "capturedAt": "2026-09-20T05:30:05Z"
     },
     {
       "id": "ca9dcc89757059ca",
@@ -2327,7 +1247,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "8c4aeb7f3664fd95",
@@ -2345,7 +1265,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "86818aec57cc5cb4",
@@ -2363,7 +1283,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "915471607abcf60b",
@@ -2381,7 +1301,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "54e4e353398598a4",
@@ -2399,7 +1319,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "734b8ec97bfb977f",
@@ -2417,7 +1337,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220207/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:32Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "38a976c5ddf41e87",
@@ -2435,7 +1355,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "93887e15251201ee",
@@ -2453,7 +1373,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "03ebc277b769e9f9",
@@ -2471,7 +1391,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "7ba2a1966791bbe2",
@@ -2489,7 +1409,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:11Z"
     },
     {
       "id": "8f236653bce84388",
@@ -2507,7 +1427,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:08Z"
+      "capturedAt": "2026-09-20T05:30:08Z"
     },
     {
       "id": "1715efb33822fedc",
@@ -2525,7 +1445,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "2495871d9485690d",
@@ -2543,7 +1463,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087682/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-21",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:30Z"
     },
     {
       "id": "1fe11691be49ac08",
@@ -2561,7 +1481,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/cronos",
       "sourceUrl": "https://www.cinemesgirona.cat/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:06Z"
     },
     {
       "id": "83b5ec3ec09f8920",
@@ -2579,7 +1499,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/forastera",
       "sourceUrl": "https://www.cinemesgirona.cat/forastera",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:07Z"
     },
     {
       "id": "094de061a749e86f",
@@ -2597,7 +1517,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "f9a6879b1dc592cc",
@@ -2615,7 +1535,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220226/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:32Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "9d2b3d26bebd7e09",
@@ -2633,7 +1553,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/tanit-vo-20260921-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:03Z"
+      "capturedAt": "2026-09-20T05:30:04Z"
     },
     {
       "id": "65bf66f66a4a3f6a",
@@ -2651,7 +1571,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220221/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:33Z"
+      "capturedAt": "2026-09-20T05:30:32Z"
     },
     {
       "id": "dc53680c6bb858b3",
@@ -2669,7 +1589,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "4962ea5a8577c3cc",
@@ -2687,7 +1607,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "2d62e50e81647906",
@@ -2705,7 +1625,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "15dd854e01512524",
@@ -2723,7 +1643,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "3c8da350ee606139",
@@ -2741,7 +1661,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "60e0ca9fb601eb38",
@@ -2759,7 +1679,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "30b64d24107a204e",
@@ -2777,7 +1697,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "f75d72d1b530acf4",
@@ -2795,7 +1715,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "0c875088dd5f7e5e",
@@ -2813,7 +1733,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:11Z"
     },
     {
       "id": "7925d0fdb10edf7d",
@@ -2831,7 +1751,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "6b0ff99135ef29dc",
@@ -2849,7 +1769,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
+      "capturedAt": "2026-09-20T05:30:05Z"
     },
     {
       "id": "1351564287f9bfc8",
@@ -2867,7 +1787,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/detectiu-conan-langel-caigut-de-la-carretera-dob.-cat-20260921-2000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:03Z"
+      "capturedAt": "2026-09-20T05:30:04Z"
     },
     {
       "id": "13687a348dafaec9",
@@ -2885,7 +1805,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087683/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-21",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:30Z"
     },
     {
       "id": "6125a4c6fe1d0d45",
@@ -2903,7 +1823,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087756/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-21",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:30Z"
     },
     {
       "id": "012eb445c5c1959d",
@@ -2921,7 +1841,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "ab268072efb02668",
@@ -2939,7 +1859,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "1aa67e98d8b09981",
@@ -2957,7 +1877,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "499a52db34e57844",
@@ -2975,7 +1895,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "e899bb890bc1714c",
@@ -2993,7 +1913,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "716af4cbdb7db566",
@@ -3011,7 +1931,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "5f933d74f40b5a30",
@@ -3029,7 +1949,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:11Z"
     },
     {
       "id": "01b42bc38c343006",
@@ -3047,7 +1967,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "7130d098412a0caa",
@@ -3065,7 +1985,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "bc3af6a995b30eb1",
@@ -3083,7 +2003,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087757/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-21",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:30Z"
     },
     {
       "id": "cbc76a9d0ffe33d8",
@@ -3101,7 +2021,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087758/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-22",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:30Z"
     },
     {
       "id": "c55e9a11389a3a40",
@@ -3119,7 +2039,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087685/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-22",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:30Z"
     },
     {
       "id": "da97b50d7bc253b4",
@@ -3137,7 +2057,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "d08d843829746f7b",
@@ -3155,7 +2075,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/cronos",
       "sourceUrl": "https://www.cinemesgirona.cat/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:06Z"
     },
     {
       "id": "7f41889bf4b40e18",
@@ -3173,7 +2093,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/forastera",
       "sourceUrl": "https://www.cinemesgirona.cat/forastera",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:07Z"
     },
     {
       "id": "bcd692c6e949f81f",
@@ -3191,7 +2111,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "7c3a842aff7767c5",
@@ -3209,7 +2129,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "b83b38a16767505b",
@@ -3227,7 +2147,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "92d240b56299724a",
@@ -3245,7 +2165,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "8a7d6f24bba0f483",
@@ -3263,7 +2183,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "365dbc246f1180b3",
@@ -3281,7 +2201,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220242/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:32Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "a374173429dba566",
@@ -3299,7 +2219,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "53b442b935ff8b78",
@@ -3317,7 +2237,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "65f0f7db1870fa89",
@@ -3335,7 +2255,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "e9016adc1ad75134",
@@ -3353,7 +2273,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:11Z"
     },
     {
       "id": "4e67f67e1ef61fa4",
@@ -3371,7 +2291,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:08Z"
+      "capturedAt": "2026-09-20T05:30:08Z"
     },
     {
       "id": "fdd5c400ac8b4c34",
@@ -3389,7 +2309,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "0b0699ced6d1c647",
@@ -3407,7 +2327,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "457351a2671dca0b",
@@ -3425,7 +2345,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087686/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-22",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:30Z"
     },
     {
       "id": "7b870ea6ec34902c",
@@ -3443,7 +2363,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
+      "capturedAt": "2026-09-20T05:30:05Z"
     },
     {
       "id": "420e24e9710dc9e6",
@@ -3461,7 +2381,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/tanit-vo-20260922-1800",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:03Z"
+      "capturedAt": "2026-09-20T05:30:04Z"
     },
     {
       "id": "4772e22646bfc740",
@@ -3479,7 +2399,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "7dcfb05e7bd25741",
@@ -3497,7 +2417,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "7474a9b0285035a4",
@@ -3515,7 +2435,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220243/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:32Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "037ad1570aaf2c35",
@@ -3533,7 +2453,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/cronos",
       "sourceUrl": "https://www.cinemesgirona.cat/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:06Z"
     },
     {
       "id": "fe3555402bb5348d",
@@ -3551,7 +2471,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "2b7776bc4534a35a",
@@ -3569,7 +2489,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "785679c4e188bfa8",
@@ -3587,7 +2507,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "6ed5e0102d9e7b90",
@@ -3605,7 +2525,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "185977507dc66413",
@@ -3623,7 +2543,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "037b774d1dcb69d4",
@@ -3641,7 +2561,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "52f9d0217ba6f3bb",
@@ -3659,7 +2579,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/forastera/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-09-19T05:30:45Z"
+      "capturedAt": "2026-09-20T05:30:43Z"
     },
     {
       "id": "aa75a38f6061441e",
@@ -3677,7 +2597,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "c14e7fe680425fa0",
@@ -3695,7 +2615,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "fad035255d1285d5",
@@ -3713,7 +2633,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:11Z"
     },
     {
       "id": "927e2957111e9cd7",
@@ -3731,7 +2651,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "284e1e36e11cd6b6",
@@ -3749,7 +2669,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/detectiu-conan-langel-caigut-de-la-carretera-dob.-cat-20260922-2000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:03Z"
+      "capturedAt": "2026-09-20T05:30:04Z"
     },
     {
       "id": "396439ef7aa1b66f",
@@ -3767,7 +2687,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087687/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-22",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:30Z"
     },
     {
       "id": "76bb46be3dafab32",
@@ -3785,7 +2705,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/forastera",
       "sourceUrl": "https://www.cinemesgirona.cat/forastera",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:07Z"
     },
     {
       "id": "d65220fedd8102b6",
@@ -3803,7 +2723,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087760/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-22",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:30Z"
     },
     {
       "id": "c65f2d5bdf9f57a2",
@@ -3821,7 +2741,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "4a593b68d2a9c6b6",
@@ -3839,7 +2759,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "9dbe07a3cd4b5bdc",
@@ -3857,7 +2777,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "82f84daf0cbdc38f",
@@ -3875,7 +2795,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "058306114dc69261",
@@ -3893,7 +2813,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "e7faf079121d3da8",
@@ -3911,7 +2831,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "675b41ea7e7a7cc6",
@@ -3929,7 +2849,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:11Z"
     },
     {
       "id": "1bfe45fb7754def2",
@@ -3947,7 +2867,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "5448a9c19f6acc09",
@@ -3965,7 +2885,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "d1be59be58f708b4",
@@ -3983,7 +2903,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087761/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-22",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:29Z"
+      "capturedAt": "2026-09-20T05:30:30Z"
     },
     {
       "id": "7d630fac9c9b129e",
@@ -4001,7 +2921,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087762/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-23",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:30Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "43f9767ea6c8ac13",
@@ -4019,7 +2939,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087689/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-23",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:30Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "abe3d8091dca625e",
@@ -4037,7 +2957,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "616ac9f560332c54",
@@ -4055,7 +2975,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/cronos",
       "sourceUrl": "https://www.cinemesgirona.cat/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:06Z"
     },
     {
       "id": "8d56cae2a9ab3bfa",
@@ -4073,7 +2993,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
+      "capturedAt": "2026-09-20T05:30:05Z"
     },
     {
       "id": "6afbce6818138a8b",
@@ -4091,7 +3011,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "eabfe42b3c68b9f3",
@@ -4109,7 +3029,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "22e2951110b4da0d",
@@ -4127,7 +3047,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "39dbe186f6035767",
@@ -4145,7 +3065,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "812601e564aba589",
@@ -4163,7 +3083,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "b331d79727c1c267",
@@ -4181,7 +3101,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "4714382337fac3a8",
@@ -4199,7 +3119,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220273/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:32Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "680b4a6e31e1897c",
@@ -4217,7 +3137,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "e392d0b8bcd6bffe",
@@ -4235,7 +3155,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "fff2cbe3c4541f36",
@@ -4253,7 +3173,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:11Z"
     },
     {
       "id": "bf54a474d0994ccd",
@@ -4271,7 +3191,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "f0e50fc538202c32",
@@ -4289,7 +3209,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:08Z"
+      "capturedAt": "2026-09-20T05:30:08Z"
     },
     {
       "id": "cbfeaa57d59a9cdb",
@@ -4307,7 +3227,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "20fab4b531ff7e03",
@@ -4325,7 +3245,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "09af3cc27061bf15",
@@ -4343,7 +3263,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087690/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-23",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:30Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "18b68aebcb6fd4a9",
@@ -4361,7 +3281,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/forastera",
       "sourceUrl": "https://www.cinemesgirona.cat/forastera",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:07Z"
     },
     {
       "id": "6a3b5c29da3ddf15",
@@ -4379,7 +3299,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "6277dc1fd0cd7ec0",
@@ -4397,7 +3317,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220294/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:32Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "928e6cf002d8b3b7",
@@ -4415,7 +3335,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/cronos",
       "sourceUrl": "https://www.cinemesgirona.cat/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:06Z"
     },
     {
       "id": "248b4613237e847a",
@@ -4433,7 +3353,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/tanit-vo-20260923-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:03Z"
+      "capturedAt": "2026-09-20T05:30:04Z"
     },
     {
       "id": "ec00c68a323927bf",
@@ -4451,7 +3371,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220287/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:33Z"
+      "capturedAt": "2026-09-20T05:30:32Z"
     },
     {
       "id": "c27d5967b36557c6",
@@ -4469,7 +3389,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "914851df979822b0",
@@ -4487,7 +3407,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "7de22d87fda6e81e",
@@ -4505,7 +3425,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "8bd26f23793cc1cf",
@@ -4523,7 +3443,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "322538ab9aafabe6",
@@ -4541,7 +3461,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "5a7cf0fafdfee153",
@@ -4559,7 +3479,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "4ef6ae7a58b7271d",
@@ -4577,7 +3497,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "589ce4c127272e4e",
@@ -4595,7 +3515,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "2cb246fe3cc7ac7a",
@@ -4613,7 +3533,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:11Z"
     },
     {
       "id": "db509119b68d8f99",
@@ -4631,7 +3551,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/forastera/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-09-19T05:30:45Z"
+      "capturedAt": "2026-09-20T05:30:43Z"
     },
     {
       "id": "210a2570599ffce2",
@@ -4649,7 +3569,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "870b4b8c94d19abb",
@@ -4667,7 +3587,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
+      "capturedAt": "2026-09-20T05:30:05Z"
     },
     {
       "id": "e1fce54a48dd8c88",
@@ -4685,7 +3605,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/detectiu-conan-langel-caigut-de-la-carretera-dob.-cat-20260923-2000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:03Z"
+      "capturedAt": "2026-09-20T05:30:04Z"
     },
     {
       "id": "e1d8b050ac5cd872",
@@ -4703,7 +3623,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087691/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-23",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:30Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "99a8d1f8d18c151c",
@@ -4721,7 +3641,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087764/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-23",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:30Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "8d832f9568a8c891",
@@ -4739,7 +3659,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "c4da0bb23f33550e",
@@ -4757,7 +3677,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "73188d1336c8d3d9",
@@ -4775,7 +3695,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "b6046ac07b1a848b",
@@ -4793,7 +3713,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "5b9ece1f12b6dfe0",
@@ -4811,7 +3731,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "d12cc1e35cd06cba",
@@ -4829,7 +3749,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "996f39d52e3e0f7e",
@@ -4847,7 +3767,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:11Z"
     },
     {
       "id": "6918526891d87e7f",
@@ -4865,7 +3785,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "aeeb602da95c7491",
@@ -4883,7 +3803,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "35a9a52d21a10c61",
@@ -4901,7 +3821,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087765/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-23",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:30Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "fc4750c71addd8f3",
@@ -4919,7 +3839,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220323/",
       "sourceUrl": "https://barcelona.cines-verdi.com/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:33Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "58267c0147643009",
@@ -4937,7 +3857,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "b8e1161ad2ab2818",
@@ -4955,7 +3875,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "4d52abb1f5c1226c",
@@ -4973,7 +3893,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:12Z"
+      "capturedAt": "2026-09-20T05:30:12Z"
     },
     {
       "id": "3f439f240886c340",
@@ -4991,7 +3911,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:12Z"
     },
     {
       "id": "5321480418ded823",
@@ -5009,7 +3929,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087766/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-24",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:30Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "9cc40de64410ec40",
@@ -5027,7 +3947,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087693/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-24",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:30Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "612df0680d7b981c",
@@ -5045,7 +3965,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "ae52eb99480aa82b",
@@ -5063,7 +3983,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/cronos",
       "sourceUrl": "https://www.cinemesgirona.cat/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:06Z"
     },
     {
       "id": "5f9d2f5dc3392c20",
@@ -5081,7 +4001,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
+      "capturedAt": "2026-09-20T05:30:05Z"
     },
     {
       "id": "2e37c96a656c4e37",
@@ -5099,7 +4019,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "e010f14f9a1f0de5",
@@ -5117,7 +4037,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "1d5e280d4ced0dd4",
@@ -5135,7 +4055,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "eae4591572478e96",
@@ -5153,7 +4073,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "1945c6164a0d01f1",
@@ -5171,7 +4091,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "8eee75ec26cfb23a",
@@ -5189,7 +4109,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "3a4df74ecf0c25ee",
@@ -5207,7 +4127,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "c38f48094e9ad260",
@@ -5225,7 +4145,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "a3e96e5cb06ed483",
@@ -5243,7 +4163,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "f6442e4831d8ac44",
@@ -5261,7 +4181,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:07Z"
     },
     {
       "id": "4c1b788b06c75127",
@@ -5279,7 +4199,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:12Z"
     },
     {
       "id": "466724a357ad7927",
@@ -5297,7 +4217,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:08Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "4fd0a7bb4861ac20",
@@ -5315,7 +4235,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "016c8d6fe552e52a",
@@ -5333,7 +4253,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087694/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-24",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:30Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "efa72973bf7d48b5",
@@ -5351,7 +4271,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/forastera",
       "sourceUrl": "https://www.cinemesgirona.cat/forastera",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:07Z"
     },
     {
       "id": "b194040b8387995f",
@@ -5369,7 +4289,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "c365d16d01f6e1fd",
@@ -5387,7 +4307,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220173/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:32Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "66526595fcb54f4d",
@@ -5405,7 +4325,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/cronos",
       "sourceUrl": "https://www.cinemesgirona.cat/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:06Z"
+      "capturedAt": "2026-09-20T05:30:06Z"
     },
     {
       "id": "c5c60b38676d0c21",
@@ -5423,7 +4343,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/tanit-vo-20260924-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:03Z"
+      "capturedAt": "2026-09-20T05:30:04Z"
     },
     {
       "id": "fd162c117115692d",
@@ -5441,7 +4361,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220188/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viaje-al-pais-de-los-blancos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:33Z"
+      "capturedAt": "2026-09-20T05:30:32Z"
     },
     {
       "id": "0b7b7ecb6b7a3290",
@@ -5459,7 +4379,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "65d45e46173336d1",
@@ -5477,7 +4397,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "812350fa20c593b9",
@@ -5495,7 +4415,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "c47ea314c955e751",
@@ -5513,7 +4433,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "6dcd3b3f39e0af6c",
@@ -5531,7 +4451,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "00b73d39281517f2",
@@ -5549,7 +4469,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "5a5809678f465140",
@@ -5567,7 +4487,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "e86eefaf1908c478",
@@ -5585,7 +4505,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "c39e3b0448e2e435",
@@ -5603,7 +4523,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/siemprevivas-zumzeig/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-09-19T05:30:45Z"
+      "capturedAt": "2026-09-20T05:30:44Z"
     },
     {
       "id": "cbc7e4b85e829f4d",
@@ -5621,7 +4541,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:12Z"
     },
     {
       "id": "254f98ec1bfcac27",
@@ -5639,7 +4559,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "903e08b93f05967c",
@@ -5657,7 +4577,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:05Z"
+      "capturedAt": "2026-09-20T05:30:05Z"
     },
     {
       "id": "d327de8ecc679b03",
@@ -5675,7 +4595,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/detectiu-conan-langel-caigut-de-la-carretera-dob.-cat-20260924-2000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:03Z"
+      "capturedAt": "2026-09-20T05:30:04Z"
     },
     {
       "id": "ab2763087ac83739",
@@ -5693,7 +4613,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087695/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-24",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:30Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "b2cc9adb4f83493a",
@@ -5711,7 +4631,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220166/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-09-19T05:30:32Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "44b11b807583504e",
@@ -5729,7 +4649,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087768/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-24",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:30Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     },
     {
       "id": "9962c4e5c96f0371",
@@ -5747,7 +4667,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "6c69e21773d2b960",
@@ -5765,7 +4685,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "ebd57626b882a9ab",
@@ -5783,7 +4703,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:16Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "d312a6f5a7752b48",
@@ -5801,7 +4721,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:17Z"
     },
     {
       "id": "783021efef6c3b18",
@@ -5819,7 +4739,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-09-19T05:30:17Z"
+      "capturedAt": "2026-09-20T05:30:16Z"
     },
     {
       "id": "bde543f30506d742",
@@ -5837,7 +4757,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:10Z"
+      "capturedAt": "2026-09-20T05:30:10Z"
     },
     {
       "id": "838ab7166c5ef9db",
@@ -5855,7 +4775,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:11Z"
+      "capturedAt": "2026-09-20T05:30:12Z"
     },
     {
       "id": "c60755218d80bf9f",
@@ -5873,7 +4793,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/westfield-la-maquinista",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-09-19T05:32:10Z"
+      "capturedAt": "2026-09-20T05:30:03Z"
     },
     {
       "id": "4c52bfb5afc03b3c",
@@ -5891,7 +4811,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-09-19T05:30:09Z"
+      "capturedAt": "2026-09-20T05:30:09Z"
     },
     {
       "id": "88c6d7e838569490",
@@ -5909,7 +4829,7 @@
       "pickerUrl": "https://www.pillalas.com/pase/1087769/",
       "sourceUrl": "https://www.cinesrenoir.com/cine/renoir-floridablanca/cartelera/?fecha=2026-09-24",
       "extractorType": "chain-renoir",
-      "capturedAt": "2026-09-19T05:30:30Z"
+      "capturedAt": "2026-09-20T05:30:31Z"
     }
   ]
 }
