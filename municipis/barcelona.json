@@ -3,8 +3,8 @@
   "name": "Barcelona",
   "ineCode": "08019",
   "idescatCode": "080193",
-  "sessionCount": 164,
-  "filmCount": 18,
+  "sessionCount": 127,
+  "filmCount": 16,
   "cinemaCount": 13,
   "sessions": [
     {
@@ -23,691 +23,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/siemprevivas-zumzeig/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-10-11T05:31:20Z"
-    },
-    {
-      "id": "59b8b0701020ec4a",
-      "filmSlug": "tadeu-jones-i-la-llantia-meravellosa-en-catala",
-      "filmTitle": "Tadeu Jones i la llàntia meravellosa",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "11:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/221129/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/221129/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/tadeo-jones-y-la-lampara-maravillosa",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:31:02Z"
-    },
-    {
-      "id": "04229387af18faeb",
-      "filmSlug": "detectiu-conan-l-angel-caigut-de-la-carretera-en-catala",
-      "filmTitle": "Detectiu Conan L Angel Caigut De La Carretera",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "12:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=192866&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
-    },
-    {
-      "id": "65a7ede6988985c0",
-      "filmSlug": "doraemon-aventure-al-mon-de-l-art-en-catala",
-      "filmTitle": "Doraemon Aventure Al Mon De L Art",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "12:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=192864&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
-    },
-    {
-      "id": "04952d4ebb9f1cbd",
-      "filmSlug": "mascotas-al-rescate-en-catala",
-      "filmTitle": "Mascotas Al Rescate",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "12:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:16Z"
-    },
-    {
-      "id": "3fa59a347d0e2869",
-      "filmSlug": "doraemon-aventuras-en-el-mundo-del-arte-en-catala",
-      "filmTitle": "Doraemon Aventuras En El Mundo Del Arte",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "12:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
-    },
-    {
-      "id": "c24b8ed4eff35bd2",
-      "filmSlug": "la-leyenda-de-la-ballena-cantora-en-catala",
-      "filmTitle": "La Leyenda De La Ballena Cantora",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "12:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:15Z"
-    },
-    {
-      "id": "0317d741b0c218b6",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "12:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
-    },
-    {
-      "id": "831ee37137f116b4",
-      "filmSlug": "doraemon-aventuras-en-el-mundo-del-arte-en-catala",
-      "filmTitle": "Doraemon Aventuras En El Mundo Del Arte",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "12:55",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
-    },
-    {
-      "id": "c1d6df30b83acdbb",
-      "filmSlug": "mascotes-al-rescat-en-catala",
-      "filmTitle": "Mascotes Al Rescat",
-      "cinemaId": "wc-017",
-      "cinemaSlug": "cinemes-girona",
-      "cinemaName": "Cinemes Girona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=40827&language=CAT",
-      "pickerUrl": "https://www.cinemesgirona.cat/mascotas-al-rescate",
-      "sourceUrl": "https://www.cinemesgirona.cat/mascotas-al-rescate",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:13Z"
-    },
-    {
-      "id": "05286581052d6f6a",
-      "filmSlug": "doraemon-aventures-al-mon-de-l-art-en-catala",
-      "filmTitle": "Doraemon Aventures Al Mon De L Art",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/doraemon-aventures-al-mon-de-lart-dob.-cat-20261011-1600",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/doraemon-aventures-al-mon-de-lart-dob.-cat-20261011-1600",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
-    },
-    {
-      "id": "f5d2a8d72e242150",
-      "filmSlug": "mascotas-al-rescate-en-catala",
-      "filmTitle": "Mascotas Al Rescate",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:15Z"
-    },
-    {
-      "id": "b68a35886a4d1251",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-038",
-      "cinemaSlug": "mooby-aribau",
-      "cinemaName": "Mooby Aribau",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=69467&language=cat&theatre=BAL-ARIBAU",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
-    },
-    {
-      "id": "b7c13c6da13d290a",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-042",
-      "cinemaSlug": "mooby-glories",
-      "cinemaName": "Mooby Glòries",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=121317&language=cat&theatre=BAL-GLORIAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
-    },
-    {
-      "id": "4f7405a9d2fa9538",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=117660&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
-    },
-    {
-      "id": "148d0ee9377c5891",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/221042/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/221042/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:31:00Z"
-    },
-    {
-      "id": "78fd0c46d4237cdd",
-      "filmSlug": "mascotas-al-rescate-en-catala",
-      "filmTitle": "Mascotas Al Rescate",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:16Z"
-    },
-    {
-      "id": "cf4c28e0958b3fb7",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:25",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
-    },
-    {
-      "id": "a95aed022f8dfe99",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261011-1630",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261011-1630",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
-    },
-    {
-      "id": "dbdc44c107519c19",
-      "filmSlug": "doraemon-aventuras-en-el-mundo-del-arte-en-catala",
-      "filmTitle": "Doraemon Aventuras En El Mundo Del Arte",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
-    },
-    {
-      "id": "d9e97ed96fa49be9",
-      "filmSlug": "doraemon-aventuras-en-el-mundo-del-arte-en-catala",
-      "filmTitle": "Doraemon Aventuras En El Mundo Del Arte",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
-    },
-    {
-      "id": "e2b8f0e1900527ea",
-      "filmSlug": "doraemon-aventuras-en-el-mundo-del-arte-en-catala",
-      "filmTitle": "Doraemon Aventuras En El Mundo Del Arte",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "16:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
-    },
-    {
-      "id": "af11f37b55473bdc",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "17:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=192670&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
-    },
-    {
-      "id": "33d95ce1c1b19082",
-      "filmSlug": "doraemon-aventure-al-mon-de-l-art-en-catala",
-      "filmTitle": "Doraemon Aventure Al Mon De L Art",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "17:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=192685&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
-    },
-    {
-      "id": "0d58f4029d2abacb",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "18:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
-    },
-    {
-      "id": "c6f44e1fbc7cbf1d",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "18:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=141100&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
-    },
-    {
-      "id": "05fbb2793ed123cd",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "18:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261011-1815",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261011-1815",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
-    },
-    {
-      "id": "7efba370a8e65a5a",
-      "filmSlug": "la-invasio-dels-barbars-en-catala",
-      "filmTitle": "La Invasio Dels Barbars",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "18:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261011-0000",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261011-0000",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
-    },
-    {
-      "id": "01a71e51b0fcd095",
-      "filmSlug": "mascotas-al-rescate-en-catala",
-      "filmTitle": "Mascotas Al Rescate",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "18:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:16Z"
-    },
-    {
-      "id": "56a004c0c1f5763d",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "18:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=141312&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
-    },
-    {
-      "id": "fb5e6469d6f02801",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "19:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
-    },
-    {
-      "id": "bdc7b20629182d09",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "20:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=141102&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
-    },
-    {
-      "id": "6ba03210d9c390de",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "20:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261011-2015",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261011-2015",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
-    },
-    {
-      "id": "35e3bb142bef11ce",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "20:25",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
-    },
-    {
-      "id": "f6fc56f0ae2628a9",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-040",
-      "cinemaSlug": "mooby-balmes",
-      "cinemaName": "Mooby Balmes",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "20:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-balmes.admit-one.eu/?p=tickets&perfCode=188132&language=cat&theatre=BAL-BALMES",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
-    },
-    {
-      "id": "23a252a6eeeca869",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "21:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
-    },
-    {
-      "id": "c9d480e9c89fed03",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "22:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=117642&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
-    },
-    {
-      "id": "b2ddf61b01b375f5",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "22:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
-    },
-    {
-      "id": "2f173e9d86fb8c06",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-11",
-      "sessionTime": "22:55",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:31:14Z"
     },
     {
       "id": "adcd9f73282cba9b",
@@ -725,7 +41,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/221138/",
       "sourceUrl": "https://barcelona.cines-verdi.com/tadeo-jones-y-la-lampara-maravillosa",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:31:02Z"
+      "capturedAt": "2026-10-12T05:30:52Z"
     },
     {
       "id": "75638e2d6771b4f7",
@@ -743,7 +59,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:16Z"
+      "capturedAt": "2026-10-12T05:30:10Z"
     },
     {
       "id": "57414747195f10ba",
@@ -761,7 +77,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/mascotas-al-rescate",
       "sourceUrl": "https://www.cinemesgirona.cat/mascotas-al-rescate",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "ae985a28b4f3c3d7",
@@ -779,7 +95,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/mumbo-jumbo-se-hace-enorme",
       "sourceUrl": "https://www.cinemesgirona.cat/mumbo-jumbo-se-hace-enorme",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:12Z"
+      "capturedAt": "2026-10-12T05:30:07Z"
     },
     {
       "id": "c68ac869d21441a9",
@@ -797,7 +113,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:15Z"
+      "capturedAt": "2026-10-12T05:30:09Z"
     },
     {
       "id": "e70941d9edacf3c8",
@@ -815,7 +131,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "99f81b82e0682e00",
@@ -833,7 +149,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:07Z"
     },
     {
       "id": "e3e91fc27c352ea2",
@@ -851,7 +167,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "786b3a2acd9eccc0",
@@ -869,7 +185,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:16Z"
+      "capturedAt": "2026-10-12T05:30:13Z"
     },
     {
       "id": "f2c8894d32f6eab9",
@@ -887,7 +203,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:15Z"
+      "capturedAt": "2026-10-12T05:30:09Z"
     },
     {
       "id": "c5941e9af0269bbe",
@@ -905,7 +221,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:11Z"
     },
     {
       "id": "72814346f2d4c964",
@@ -923,7 +239,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "1dc449f5d348ce0d",
@@ -941,7 +257,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:19Z"
     },
     {
       "id": "724792cfdeba99ee",
@@ -959,7 +275,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/221046/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:31:00Z"
+      "capturedAt": "2026-10-12T05:30:51Z"
     },
     {
       "id": "7b4d52450e2899f3",
@@ -977,7 +293,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-llegenda-de-la-balena-cantaire-dob.-cat-20261012-1615",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
+      "capturedAt": "2026-10-12T05:30:03Z"
     },
     {
       "id": "61a5e208ad5e0f2e",
@@ -995,7 +311,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:12Z"
     },
     {
       "id": "89b3bbe6e37529b2",
@@ -1013,7 +329,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261012-1630",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "8240105078ad2cf8",
@@ -1031,7 +347,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "c86adecfe2839d46",
@@ -1049,7 +365,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:07Z"
     },
     {
       "id": "528c88fdd5352b1e",
@@ -1067,7 +383,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:11Z"
     },
     {
       "id": "8d00f553eba9b070",
@@ -1085,7 +401,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "9d4161e6809b5ba6",
@@ -1103,7 +419,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "c68a4cc6f37f008f",
@@ -1121,7 +437,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "35ae944595e4d651",
@@ -1139,7 +455,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261012-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "71e155b9da91bbc9",
@@ -1157,7 +473,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261012-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:09Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "6c7e8b6d919dfc48",
@@ -1175,7 +491,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261012-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "179328424f79eef9",
@@ -1193,7 +509,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:16Z"
+      "capturedAt": "2026-10-12T05:30:10Z"
+    },
+    {
+      "id": "c2ca459025b6f332",
+      "filmSlug": "cronos-en-catala",
+      "filmTitle": "Cronos",
+      "cinemaId": "wc-041",
+      "cinemaSlug": "mooby-bosque",
+      "cinemaName": "Mooby Bosque",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-10-12",
+      "sessionTime": "18:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=141318&language=cat&theatre=BAL-BOSQUE",
+      "pickerUrl": "https://www.moobycinemas.com",
+      "sourceUrl": "https://www.moobycinemas.com",
+      "extractorType": "chain-mooby",
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "aafe65fcc1471617",
@@ -1211,7 +545,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:12Z"
     },
     {
       "id": "604ac802013cc361",
@@ -1229,7 +563,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "e63a290c4f64b493",
@@ -1247,7 +581,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "a6975e2fbfb459db",
@@ -1265,7 +599,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "006f4b4a55ce0d96",
@@ -1283,7 +617,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261012-2015",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "003eefcca953c847",
@@ -1301,7 +635,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "659fb3be141acf26",
@@ -1319,7 +653,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "c72abf2c4a93e655",
@@ -1337,7 +671,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:12Z"
     },
     {
       "id": "44a21d921f2b4959",
@@ -1355,7 +689,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:19Z"
     },
     {
       "id": "79f1724222429944",
@@ -1373,7 +707,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "a803daa1f98ba5bc",
@@ -1391,7 +725,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "1ee94d5db6df2bf3",
@@ -1409,7 +743,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261013-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "33fc88140eb21293",
@@ -1427,7 +761,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "5643a39f318e7df8",
@@ -1445,7 +779,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:19Z"
     },
     {
       "id": "58ff854c796ec515",
@@ -1463,7 +797,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220982/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:31:00Z"
+      "capturedAt": "2026-10-12T05:30:51Z"
     },
     {
       "id": "af0041c28fd2c296",
@@ -1481,7 +815,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "0f4e19649a441c81",
@@ -1499,7 +833,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:16Z"
+      "capturedAt": "2026-10-12T05:30:10Z"
     },
     {
       "id": "a7d3468fa416da84",
@@ -1517,7 +851,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:16Z"
+      "capturedAt": "2026-10-12T05:30:13Z"
     },
     {
       "id": "a4651b9dc4acff55",
@@ -1535,7 +869,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "ada51677803cd4da",
@@ -1553,7 +887,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:12Z"
     },
     {
       "id": "168b5c4c28728ca8",
@@ -1571,7 +905,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261013-1630",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "08b81d70ac5714f1",
@@ -1589,7 +923,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "7986b646b985b064",
@@ -1607,7 +941,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:07Z"
     },
     {
       "id": "7ff37f08ac7ac0b7",
@@ -1625,7 +959,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:11Z"
     },
     {
       "id": "4017328d40945d07",
@@ -1643,7 +977,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "a745b43d6844f773",
@@ -1661,7 +995,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "b5ad31970f2a530e",
@@ -1679,7 +1013,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261013-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "4c24eac8f561cdfc",
@@ -1697,7 +1031,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:12Z"
     },
     {
       "id": "ae6349a121c045df",
@@ -1715,7 +1049,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "5ca3443c7e523477",
@@ -1733,7 +1067,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "080df99a7484a5ca",
@@ -1751,7 +1085,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "be7af223ff401e4c",
@@ -1769,7 +1103,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "b3dfb5f657da1470",
@@ -1787,7 +1121,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261013-2015",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "05c207691cea024f",
@@ -1805,7 +1139,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "6f943f091fda2459",
@@ -1823,7 +1157,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "97863e26ba1ac03f",
@@ -1841,7 +1175,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:12Z"
     },
     {
       "id": "157a8319264dff46",
@@ -1859,7 +1193,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:19Z"
     },
     {
       "id": "bc37b6a1704de07e",
@@ -1877,7 +1211,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "f162e04b8bea03ce",
@@ -1895,7 +1229,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "6654283d591b31b0",
@@ -1913,7 +1247,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261014-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:08Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "3b0b9f955b973ff6",
@@ -1931,7 +1265,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "88453a6cc1bdf17b",
@@ -1949,7 +1283,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:19Z"
     },
     {
       "id": "93ba8531bad50119",
@@ -1967,7 +1301,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/221082/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:31:00Z"
+      "capturedAt": "2026-10-12T05:30:51Z"
     },
     {
       "id": "761f87f7577a1e45",
@@ -1985,7 +1319,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "1bf21d02e9c774de",
@@ -2003,7 +1337,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:16Z"
+      "capturedAt": "2026-10-12T05:30:10Z"
     },
     {
       "id": "6d1112af3e23bf97",
@@ -2021,7 +1355,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "fa06d29ba8e2e918",
@@ -2039,7 +1373,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:12Z"
     },
     {
       "id": "78348e604bbea287",
@@ -2057,7 +1391,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "28e240dd45f051d7",
@@ -2075,7 +1409,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "8c3b7c2f16843d85",
@@ -2093,7 +1427,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:11Z"
     },
     {
       "id": "89e983106de73c55",
@@ -2111,7 +1445,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/les-culpables-vo-20261014-1720",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:09Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "e93e764fd37168dd",
@@ -2129,7 +1463,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "4741f0cce4e91b3b",
@@ -2147,7 +1481,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "17e5680986867df5",
@@ -2165,7 +1499,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "1cdcfb49de2bfb41",
@@ -2183,7 +1517,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:12Z"
     },
     {
       "id": "d2026103e43f4d00",
@@ -2201,7 +1535,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-furgo-vo-20261014-1900",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:09Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "5b06f3c679ffcf03",
@@ -2219,7 +1553,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-furgo-vo-20261014-1900",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:09Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "9f0a33dccf106dd3",
@@ -2237,7 +1571,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "790a63b2c65e74e8",
@@ -2255,7 +1589,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "4e659a96540c6273",
@@ -2273,7 +1607,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "44903ac17aaa9f1e",
@@ -2291,7 +1625,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261014-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:09Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "135f955b359f6c88",
@@ -2309,7 +1643,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "76bbfa737fe1eb45",
@@ -2327,7 +1661,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "48b8d139701428e4",
@@ -2345,7 +1679,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:12Z"
     },
     {
       "id": "5c83608ac37f7d8a",
@@ -2363,7 +1697,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:19Z"
     },
     {
       "id": "4192eca48ded09d1",
@@ -2381,7 +1715,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "46bc20d71e25c24e",
@@ -2399,7 +1733,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "15ff4e01a3421a96",
@@ -2417,7 +1751,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261015-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:09Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "f48f8dca4af3c585",
@@ -2435,7 +1769,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:16Z"
+      "capturedAt": "2026-10-12T05:30:10Z"
     },
     {
       "id": "996e34f6060ec25b",
@@ -2453,7 +1787,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "7c98f3bf36c7500c",
@@ -2471,7 +1805,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:19Z"
     },
     {
       "id": "2a63a81c18cd1dbe",
@@ -2489,7 +1823,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/221102/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:31:00Z"
+      "capturedAt": "2026-10-12T05:30:51Z"
     },
     {
       "id": "cc3b56f952a5fa27",
@@ -2507,7 +1841,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "f5e5c340d085262b",
@@ -2525,7 +1859,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:16Z"
+      "capturedAt": "2026-10-12T05:30:10Z"
     },
     {
       "id": "ae192457991e1d57",
@@ -2543,7 +1877,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:16Z"
+      "capturedAt": "2026-10-12T05:30:13Z"
     },
     {
       "id": "76258de945fc827e",
@@ -2561,7 +1895,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "cf4ed686fc5ef9f7",
@@ -2579,7 +1913,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:12Z"
     },
     {
       "id": "365c37e86c66143e",
@@ -2597,7 +1931,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261015-1630",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:09Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "cadf23719489f698",
@@ -2615,7 +1949,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "8df336098ee2e301",
@@ -2633,7 +1967,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:13Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "233b59328a9c5754",
@@ -2651,7 +1985,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:11Z"
     },
     {
       "id": "d8f91727ed4b9440",
@@ -2669,7 +2003,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "918447583ade0503",
@@ -2687,7 +2021,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "4da2292fc6672dfd",
@@ -2705,7 +2039,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:12Z"
     },
     {
       "id": "3d06308b0ed66837",
@@ -2723,7 +2057,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "3f7f787758608592",
@@ -2741,7 +2075,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261015-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:09Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "3227b144b56c2a79",
@@ -2759,7 +2093,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "0d9f9488303e2bfb",
@@ -2777,7 +2111,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "a1113f960b8657b3",
@@ -2795,7 +2129,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "f5b6a07c493ac3c1",
@@ -2813,7 +2147,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/les-culpables-vo-20261015-2000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:09Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "cf471489d25654a4",
@@ -2831,7 +2165,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "e105e5e3ffdbf63e",
@@ -2849,7 +2183,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/escape-room-2-vo-20261015-2015",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-11T05:30:09Z"
+      "capturedAt": "2026-10-12T05:30:04Z"
     },
     {
       "id": "ef28aba0daabde14",
@@ -2867,7 +2201,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "78558954591cabb7",
@@ -2885,7 +2219,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:22Z"
+      "capturedAt": "2026-10-12T05:30:18Z"
     },
     {
       "id": "73eb052b34e6641f",
@@ -2903,7 +2237,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:12Z"
     },
     {
       "id": "3cfbda039df5a5b2",
@@ -2921,7 +2255,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-11T05:30:23Z"
+      "capturedAt": "2026-10-12T05:30:19Z"
     },
     {
       "id": "6a4cc719dfaa33f8",
@@ -2939,7 +2273,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     },
     {
       "id": "9ca8ddd63a0cff29",
@@ -2957,7 +2291,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-11T05:30:14Z"
+      "capturedAt": "2026-10-12T05:30:08Z"
     }
   ]
 }
