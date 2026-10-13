@@ -1,9 +1,9 @@
 {
   "slug": "cronos-en-catala",
   "title": "Cronos",
-  "sessionCount": 90,
-  "cinemaCount": 22,
-  "municipiCount": 15,
+  "sessionCount": 69,
+  "cinemaCount": 21,
+  "municipiCount": 14,
   "sessions": [
     {
       "id": "70acb0ae8a8d7be9",
@@ -21,7 +21,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=92230",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-12T05:31:10Z"
+      "capturedAt": "2026-10-13T05:31:13Z"
     },
     {
       "id": "599391f06fcb18a5",
@@ -39,10 +39,10 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=92231",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-12T05:31:10Z"
+      "capturedAt": "2026-10-13T05:31:13Z"
     },
     {
-      "id": "197587f15e7dd5fa",
+      "id": "b979b19a3f54ff84",
       "filmSlug": "cronos-en-catala",
       "filmTitle": "Cronos",
       "cinemaId": "wc-029",
@@ -50,410 +50,14 @@
       "cinemaName": "Filmax Gran Via",
       "municipiSlug": "lhospitalet-de-llobregat",
       "municipiName": "L'Hospitalet de Llobregat",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "07:17",
+      "sessionDate": "2026-10-13",
+      "sessionTime": "07:08",
       "languageLabel": "Català",
       "bookingUrl": "https://filmax.admit-one.eu/seats/220510",
       "pickerUrl": "https://filmax.admit-one.eu/seats/220510",
       "sourceUrl": "https://cinesfilmax.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-12T05:30:11Z"
-    },
-    {
-      "id": "3ff051eb7beb85da",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-054",
-      "cinemaSlug": "ocine-premium-lleida",
-      "cinemaName": "Ocine Premium Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "15:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/10592",
-      "pickerUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/10592",
-      "sourceUrl": "https://tickets.ocinepremiumlleida.es/api/v1/pelicula/10592?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:29Z"
-    },
-    {
-      "id": "72814346f2d4c964",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-038",
-      "cinemaSlug": "mooby-aribau",
-      "cinemaName": "Mooby Aribau",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-aribau.admit-one.eu/?p=tickets&perfCode=69482&language=cat&theatre=BAL-ARIBAU",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
-    },
-    {
-      "id": "1dc449f5d348ce0d",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=117663&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:19Z"
-    },
-    {
-      "id": "724792cfdeba99ee",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "16:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/221046/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/221046/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-12T05:30:51Z"
-    },
-    {
-      "id": "f1990207b0e71fae",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-053",
-      "cinemaSlug": "ocine-platja-daro",
-      "cinemaName": "Ocine Platja d'Aro",
-      "municipiSlug": "castell-daro-platja-daro-i-sagaro",
-      "municipiName": "Castell d'Aro, Platja d'Aro i s'Agaró",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10592",
-      "pickerUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10592",
-      "sourceUrl": "https://tickets.ocineplatjadaro.es/api/v1/pelicula/10592?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:27Z"
-    },
-    {
-      "id": "75e50fcc5ec6752d",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-006",
-      "cinemaSlug": "cine-yelmo-abrera",
-      "cinemaName": "Cine Yelmo Abrera",
-      "municipiSlug": "abrera",
-      "municipiName": "Abrera",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "16:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
-      "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
-      "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-10-12T05:30:03Z"
-    },
-    {
-      "id": "8352adec1741366f",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-096",
-      "cinemaSlug": "teatre-municipal-palafrugell",
-      "cinemaName": "Teatre Municipal de Palafrugell - Cine Club Garbí",
-      "municipiSlug": "palafrugell",
-      "municipiName": "Palafrugell",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6643-cinema-cronos.html",
-      "pickerUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6643-cinema-cronos.html",
-      "sourceUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6643-cinema-cronos.html",
-      "extractorType": "palafrugell-cultura",
-      "capturedAt": "2026-10-12T05:31:16Z"
-    },
-    {
-      "id": "8d00f553eba9b070",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "17:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=192711&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
-    },
-    {
-      "id": "90d052ea37736e84",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "18:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
-      "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
-      "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10592?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:22Z"
-    },
-    {
-      "id": "c2ca459025b6f332",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "18:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=141318&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
-    },
-    {
-      "id": "604ac802013cc361",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-042",
-      "cinemaSlug": "mooby-glories",
-      "cinemaName": "Mooby Glòries",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "19:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=121371&language=cat&theatre=BAL-GLORIAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
-    },
-    {
-      "id": "83f181d49a46fcfc",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-096",
-      "cinemaSlug": "teatre-municipal-palafrugell",
-      "cinemaName": "Teatre Municipal de Palafrugell - Cine Club Garbí",
-      "municipiSlug": "palafrugell",
-      "municipiName": "Palafrugell",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "19:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6643-cinema-cronos.html",
-      "pickerUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6643-cinema-cronos.html",
-      "sourceUrl": "https://cultura.palafrugell.cat/ca/programacio/c/6643-cinema-cronos.html",
-      "extractorType": "palafrugell-cultura",
-      "capturedAt": "2026-10-12T05:31:16Z"
-    },
-    {
-      "id": "ec895c0942492643",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "19:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=278747",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-12T05:30:19Z"
-    },
-    {
-      "id": "02e16e9da3d41d79",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "19:50",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2399757&sesion=78766",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-12T05:30:44Z"
-    },
-    {
-      "id": "0540d9b1f1f695e4",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "20:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
-      "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
-      "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10592?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:22Z"
-    },
-    {
-      "id": "34d8ca4415a4e2da",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "20:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:26Z"
-    },
-    {
-      "id": "83dc2e9a8a00c1e4",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-046",
-      "cinemaSlug": "ocine-arenys",
-      "cinemaName": "Ocine Arenys",
-      "municipiSlug": "arenys-de-mar",
-      "municipiName": "Arenys de Mar",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "20:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinearenys.es/?idioma=ca#/DetallPelicula/10592",
-      "pickerUrl": "https://tickets.ocinearenys.es/?idioma=ca#/DetallPelicula/10592",
-      "sourceUrl": "https://tickets.ocinearenys.es/api/v1/pelicula/10592?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:20Z"
-    },
-    {
-      "id": "659fb3be141acf26",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-040",
-      "cinemaSlug": "mooby-balmes",
-      "cinemaName": "Mooby Balmes",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "20:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-balmes.admit-one.eu/?p=tickets&perfCode=188182&language=cat&theatre=BAL-BALMES",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
-    },
-    {
-      "id": "a67dc67ab73d6157",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "21:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-12T05:30:11Z"
-    },
-    {
-      "id": "44a21d921f2b4959",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "22:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=117645&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:19Z"
-    },
-    {
-      "id": "dc4bc10ff9fb81fb",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-047",
-      "cinemaSlug": "ocine-blanes",
-      "cinemaName": "Ocine Blanes",
-      "municipiSlug": "blanes",
-      "municipiName": "Blanes",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "22:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocineblanes.es/?idioma=ca#/DetallPelicula/10592",
-      "pickerUrl": "https://tickets.ocineblanes.es/?idioma=ca#/DetallPelicula/10592",
-      "sourceUrl": "https://tickets.ocineblanes.es/api/v1/pelicula/10592?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:21Z"
-    },
-    {
-      "id": "0894b42381a7cfb0",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-052",
-      "cinemaSlug": "ocine-magic-badalona",
-      "cinemaName": "Ocine Magic Badalona",
-      "municipiSlug": "badalona",
-      "municipiName": "Badalona",
-      "sessionDate": "2026-10-12",
-      "sessionTime": "22:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinemagic.es/?idioma=ca#/DetallPelicula/10592",
-      "pickerUrl": "https://tickets.ocinemagic.es/?idioma=ca#/DetallPelicula/10592",
-      "sourceUrl": "https://tickets.ocinemagic.es/api/v1/pelicula/10592?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:33Z"
+      "capturedAt": "2026-10-13T05:30:12Z"
     },
     {
       "id": "3a9dcfba721e7493",
@@ -471,7 +75,7 @@
       "pickerUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinepremiumlleida.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:29Z"
+      "capturedAt": "2026-10-13T05:30:29Z"
     },
     {
       "id": "33fc88140eb21293",
@@ -489,7 +93,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "5643a39f318e7df8",
@@ -507,7 +111,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:19Z"
+      "capturedAt": "2026-10-13T05:30:18Z"
     },
     {
       "id": "58ff854c796ec515",
@@ -525,7 +129,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220982/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-12T05:30:51Z"
+      "capturedAt": "2026-10-13T05:30:52Z"
     },
     {
       "id": "9fd257cf7a733dff",
@@ -543,7 +147,7 @@
       "pickerUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocineplatjadaro.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:27Z"
+      "capturedAt": "2026-10-13T05:30:27Z"
     },
     {
       "id": "cec30374e6b7daa6",
@@ -561,7 +165,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-10-12T05:30:03Z"
+      "capturedAt": "2026-10-13T05:30:02Z"
     },
     {
       "id": "701c34f653f5c661",
@@ -579,7 +183,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-10-12T05:30:03Z"
+      "capturedAt": "2026-10-13T05:30:02Z"
     },
     {
       "id": "c1bf635b39b5f298",
@@ -597,7 +201,7 @@
       "pickerUrl": "https://filmax.admit-one.eu/seats/220510",
       "sourceUrl": "https://cinesfilmax.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-12T05:30:16Z"
+      "capturedAt": "2026-10-13T05:30:16Z"
     },
     {
       "id": "4017328d40945d07",
@@ -615,7 +219,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "18e0417dd079f3ab",
@@ -633,7 +237,25 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:22Z"
+      "capturedAt": "2026-10-13T05:30:22Z"
+    },
+    {
+      "id": "29d3c943ca480506",
+      "filmSlug": "cronos-en-catala",
+      "filmTitle": "Cronos",
+      "cinemaId": "wc-041",
+      "cinemaSlug": "mooby-bosque",
+      "cinemaName": "Mooby Bosque",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-10-13",
+      "sessionTime": "18:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=141324&language=cat&theatre=BAL-BOSQUE",
+      "pickerUrl": "https://www.moobycinemas.com",
+      "sourceUrl": "https://www.moobycinemas.com",
+      "extractorType": "chain-mooby",
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "ae6349a121c045df",
@@ -651,7 +273,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "88ded8afd156523d",
@@ -669,7 +291,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-12T05:30:19Z"
+      "capturedAt": "2026-10-13T05:30:18Z"
     },
     {
       "id": "62c7a1b222ce188d",
@@ -687,7 +309,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-12T05:30:44Z"
+      "capturedAt": "2026-10-13T05:30:45Z"
     },
     {
       "id": "ce8d9e1e972ca946",
@@ -705,7 +327,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:22Z"
+      "capturedAt": "2026-10-13T05:30:22Z"
     },
     {
       "id": "21c54df7fa1f3437",
@@ -723,7 +345,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:26Z"
+      "capturedAt": "2026-10-13T05:30:25Z"
     },
     {
       "id": "86e0bddf42fa3502",
@@ -741,7 +363,7 @@
       "pickerUrl": "https://tickets.ocinearenys.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinearenys.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:20Z"
+      "capturedAt": "2026-10-13T05:30:19Z"
     },
     {
       "id": "6f943f091fda2459",
@@ -759,7 +381,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "b691cb6e82163afd",
@@ -777,7 +399,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-12T05:30:11Z"
+      "capturedAt": "2026-10-13T05:30:11Z"
     },
     {
       "id": "157a8319264dff46",
@@ -795,7 +417,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:19Z"
+      "capturedAt": "2026-10-13T05:30:18Z"
     },
     {
       "id": "efe2a2446c6c6a87",
@@ -813,7 +435,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-12T05:30:44Z"
+      "capturedAt": "2026-10-13T05:30:45Z"
     },
     {
       "id": "d68a806d14b2dfde",
@@ -831,7 +453,7 @@
       "pickerUrl": "https://tickets.ocineblanes.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocineblanes.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:21Z"
+      "capturedAt": "2026-10-13T05:30:20Z"
     },
     {
       "id": "a72460b30e97f84c",
@@ -849,7 +471,7 @@
       "pickerUrl": "https://tickets.ocinemagic.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinemagic.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:33Z"
+      "capturedAt": "2026-10-13T05:30:33Z"
     },
     {
       "id": "a6a8807a15b854df",
@@ -867,7 +489,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=92232",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-12T05:31:10Z"
+      "capturedAt": "2026-10-13T05:31:13Z"
     },
     {
       "id": "325d5445b67d8088",
@@ -885,7 +507,7 @@
       "pickerUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinepremiumlleida.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:29Z"
+      "capturedAt": "2026-10-13T05:30:29Z"
     },
     {
       "id": "3b0b9f955b973ff6",
@@ -903,7 +525,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "88453a6cc1bdf17b",
@@ -921,7 +543,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:19Z"
+      "capturedAt": "2026-10-13T05:30:18Z"
     },
     {
       "id": "93ba8531bad50119",
@@ -939,7 +561,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/221082/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-12T05:30:51Z"
+      "capturedAt": "2026-10-13T05:30:52Z"
     },
     {
       "id": "19f1128667a753c7",
@@ -957,7 +579,7 @@
       "pickerUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocineplatjadaro.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:27Z"
+      "capturedAt": "2026-10-13T05:30:27Z"
     },
     {
       "id": "10a82f7a1ccc1d90",
@@ -975,7 +597,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-10-12T05:30:03Z"
+      "capturedAt": "2026-10-13T05:30:02Z"
     },
     {
       "id": "df7790bc6f1df3e1",
@@ -993,7 +615,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-10-12T05:30:03Z"
+      "capturedAt": "2026-10-13T05:30:02Z"
     },
     {
       "id": "e93e764fd37168dd",
@@ -1011,7 +633,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "8e649077e8404b3a",
@@ -1029,7 +651,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:22Z"
+      "capturedAt": "2026-10-13T05:30:22Z"
     },
     {
       "id": "9f0a33dccf106dd3",
@@ -1047,7 +669,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "d930e8b98a09b969",
@@ -1065,7 +687,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-12T05:30:44Z"
+      "capturedAt": "2026-10-13T05:30:45Z"
     },
     {
       "id": "f2f772d82965045d",
@@ -1083,7 +705,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:22Z"
+      "capturedAt": "2026-10-13T05:30:22Z"
     },
     {
       "id": "5fe9d8e66900796c",
@@ -1101,7 +723,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:26Z"
+      "capturedAt": "2026-10-13T05:30:25Z"
     },
     {
       "id": "fa2ca6b7a6a933d7",
@@ -1119,7 +741,7 @@
       "pickerUrl": "https://tickets.ocinearenys.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinearenys.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:20Z"
+      "capturedAt": "2026-10-13T05:30:19Z"
     },
     {
       "id": "76bbfa737fe1eb45",
@@ -1137,7 +759,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "1636f46e07dc06dd",
@@ -1155,7 +777,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-12T05:30:11Z"
+      "capturedAt": "2026-10-13T05:30:11Z"
     },
     {
       "id": "5c83608ac37f7d8a",
@@ -1173,7 +795,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:19Z"
+      "capturedAt": "2026-10-13T05:30:18Z"
     },
     {
       "id": "0909f12646f4ebf3",
@@ -1191,7 +813,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-12T05:30:44Z"
+      "capturedAt": "2026-10-13T05:30:45Z"
     },
     {
       "id": "f50d6c8d0772d76d",
@@ -1209,7 +831,7 @@
       "pickerUrl": "https://tickets.ocineblanes.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocineblanes.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:21Z"
+      "capturedAt": "2026-10-13T05:30:20Z"
     },
     {
       "id": "30ba1269939eccec",
@@ -1227,7 +849,7 @@
       "pickerUrl": "https://tickets.ocinemagic.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinemagic.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:33Z"
+      "capturedAt": "2026-10-13T05:30:33Z"
     },
     {
       "id": "1714ffdecdc7dcc4",
@@ -1245,7 +867,7 @@
       "pickerUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinepremiumlleida.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:29Z"
+      "capturedAt": "2026-10-13T05:30:29Z"
     },
     {
       "id": "996e34f6060ec25b",
@@ -1263,7 +885,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "7c98f3bf36c7500c",
@@ -1281,7 +903,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:19Z"
+      "capturedAt": "2026-10-13T05:30:18Z"
     },
     {
       "id": "2a63a81c18cd1dbe",
@@ -1299,7 +921,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/221102/",
       "sourceUrl": "https://barcelona.cines-verdi.com/cronos",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-12T05:30:51Z"
+      "capturedAt": "2026-10-13T05:30:52Z"
     },
     {
       "id": "1e7fd46d6dc901f8",
@@ -1317,7 +939,7 @@
       "pickerUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocineplatjadaro.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:27Z"
+      "capturedAt": "2026-10-13T05:30:27Z"
     },
     {
       "id": "88573b2ff38a94f5",
@@ -1335,7 +957,7 @@
       "pickerUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "sourceUrl": "https://www.yelmocines.es/cartelera/barcelona/premium-castelldefels",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-10-12T05:30:03Z"
+      "capturedAt": "2026-10-13T05:30:02Z"
     },
     {
       "id": "f81e94feec48c347",
@@ -1353,7 +975,7 @@
       "pickerUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "sourceUrl": "https://yelmocines.es/cartelera/barcelona/yelmo-cines-abrera",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-10-12T05:30:03Z"
+      "capturedAt": "2026-10-13T05:30:02Z"
     },
     {
       "id": "d8f91727ed4b9440",
@@ -1371,7 +993,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "240a93b28d099185",
@@ -1389,7 +1011,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:22Z"
+      "capturedAt": "2026-10-13T05:30:22Z"
     },
     {
       "id": "3227b144b56c2a79",
@@ -1407,7 +1029,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "0d9f9488303e2bfb",
@@ -1425,7 +1047,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "96ad69e896e87873",
@@ -1443,7 +1065,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-12T05:30:19Z"
+      "capturedAt": "2026-10-13T05:30:18Z"
     },
     {
       "id": "fca02bdc56f84ded",
@@ -1461,7 +1083,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-12T05:30:44Z"
+      "capturedAt": "2026-10-13T05:30:45Z"
     },
     {
       "id": "46602c4d3298efe3",
@@ -1479,7 +1101,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:22Z"
+      "capturedAt": "2026-10-13T05:30:22Z"
     },
     {
       "id": "4aae2e4d944b8c50",
@@ -1497,7 +1119,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:26Z"
+      "capturedAt": "2026-10-13T05:30:25Z"
     },
     {
       "id": "d86b5bd7e80efaad",
@@ -1515,7 +1137,7 @@
       "pickerUrl": "https://tickets.ocinearenys.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinearenys.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:20Z"
+      "capturedAt": "2026-10-13T05:30:19Z"
     },
     {
       "id": "78558954591cabb7",
@@ -1533,7 +1155,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:18Z"
+      "capturedAt": "2026-10-13T05:30:17Z"
     },
     {
       "id": "591d23fe687c04f1",
@@ -1551,7 +1173,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-12T05:30:11Z"
+      "capturedAt": "2026-10-13T05:30:11Z"
     },
     {
       "id": "3cfbda039df5a5b2",
@@ -1569,7 +1191,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-12T05:30:19Z"
+      "capturedAt": "2026-10-13T05:30:18Z"
     },
     {
       "id": "85242a7906692568",
@@ -1587,7 +1209,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-12T05:30:44Z"
+      "capturedAt": "2026-10-13T05:30:45Z"
     },
     {
       "id": "3b5531cb1e1c2d89",
@@ -1605,7 +1227,7 @@
       "pickerUrl": "https://tickets.ocineblanes.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocineblanes.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:21Z"
+      "capturedAt": "2026-10-13T05:30:20Z"
     },
     {
       "id": "cabdcf541a647cce",
@@ -1623,7 +1245,7 @@
       "pickerUrl": "https://tickets.ocinemagic.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinemagic.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-12T05:30:33Z"
+      "capturedAt": "2026-10-13T05:30:33Z"
     }
   ]
 }
