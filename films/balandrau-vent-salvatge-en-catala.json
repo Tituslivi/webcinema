@@ -1,9 +1,9 @@
 {
   "slug": "balandrau-vent-salvatge-en-catala",
   "title": "Balandrau, vent salvatge",
-  "sessionCount": 2,
-  "cinemaCount": 2,
-  "municipiCount": 2,
+  "sessionCount": 3,
+  "cinemaCount": 3,
+  "municipiCount": 3,
   "sessions": [
     {
       "id": "2b83e018db52fc6b",
@@ -21,7 +21,7 @@
       "pickerUrl": "https://cinemaedison.cat/cartellera/",
       "sourceUrl": "https://cinemaedison.cat/cartellera/",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-21T05:30:05Z"
+      "capturedAt": "2026-10-22T05:30:06Z"
     },
     {
       "id": "107e2247bf75ec60",
@@ -39,7 +39,25 @@
       "pickerUrl": "https://tickets.teatreauditoritortosa.cat/esdeveniment/balandrau-vent-salvatge/6400/balandrau-vent-salvatge/21520",
       "sourceUrl": "https://www.teatreauditoritortosa.cat/event/balandrau-vent-salvatge/",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-21T05:34:09Z"
+      "capturedAt": "2026-10-22T05:31:28Z"
+    },
+    {
+      "id": "98c0335b15a7407f",
+      "filmSlug": "balandrau-vent-salvatge-en-catala",
+      "filmTitle": "Balandrau, vent salvatge",
+      "cinemaId": "wc-077",
+      "cinemaSlug": "sala-dactes-ajuntament",
+      "cinemaName": "Sala d'Actes Ajuntament",
+      "municipiSlug": "balaguer",
+      "municipiName": "Balaguer",
+      "sessionDate": "2026-10-22",
+      "sessionTime": "20:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://circusa.com/balaguer/",
+      "pickerUrl": "https://circusa.com/balaguer/",
+      "sourceUrl": "https://circusa.com/balaguer/",
+      "extractorType": "ticketing-circusa",
+      "capturedAt": "2026-10-22T05:31:14Z"
     }
   ]
 }
