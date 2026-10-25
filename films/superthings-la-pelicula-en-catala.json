@@ -1,172 +1,10 @@
 {
   "slug": "superthings-la-pelicula-en-catala",
   "title": "Superthings La Pelicula",
-  "sessionCount": 63,
+  "sessionCount": 50,
   "cinemaCount": 10,
   "municipiCount": 8,
   "sessions": [
-    {
-      "id": "06dc4499a22c115e",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "12:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:11Z"
-    },
-    {
-      "id": "20fff5578ba24a8f",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "15:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152282",
-      "pickerUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-10-24T05:30:29Z"
-    },
-    {
-      "id": "592665922ce43545",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "15:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=279421",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-24T05:30:30Z"
-    },
-    {
-      "id": "bcd62ed4b0bdaf79",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "15:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/11000",
-      "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/11000",
-      "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/11000?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-24T05:30:37Z"
-    },
-    {
-      "id": "af4175238f11b056",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "15:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:11Z"
-    },
-    {
-      "id": "2ca6b0bd1ccd3343",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:21Z"
-    },
-    {
-      "id": "3c5d71b7ed68f546",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2547014&sesion=79400",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-24T05:30:48Z"
-    },
-    {
-      "id": "3c043766a69f745d",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "16:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11000?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-24T05:30:41Z"
-    },
-    {
-      "id": "83ddbcef11cbb24e",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "16:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:11Z"
-    },
     {
       "id": "02b513c59e92ca9c",
       "filmSlug": "superthings-la-pelicula-en-catala",
@@ -183,79 +21,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=92943",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-24T05:31:18Z"
-    },
-    {
-      "id": "1aea8a308d249e0e",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "17:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152281",
-      "pickerUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-10-24T05:30:29Z"
-    },
-    {
-      "id": "0bf325b4decd8a55",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "17:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=279423",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-24T05:30:30Z"
-    },
-    {
-      "id": "c4dea0508b4af32f",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "18:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2547014&sesion=79406",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-24T05:30:48Z"
-    },
-    {
-      "id": "7a7754a383d05a38",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-10-24",
-      "sessionTime": "19:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:15Z"
+      "capturedAt": "2026-10-25T05:31:14Z"
     },
     {
       "id": "bacd955a458a9c49",
@@ -273,7 +39,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=92944",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-24T05:31:18Z"
+      "capturedAt": "2026-10-25T05:31:14Z"
     },
     {
       "id": "ce69427e8af24dc6",
@@ -291,7 +57,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-24T05:30:30Z"
+      "capturedAt": "2026-10-25T05:30:26Z"
     },
     {
       "id": "7f5ffe913ac539bd",
@@ -309,7 +75,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:15Z"
+      "capturedAt": "2026-10-25T05:30:10Z"
     },
     {
       "id": "8708ebb9d130fc60",
@@ -327,7 +93,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:11Z"
+      "capturedAt": "2026-10-25T05:30:10Z"
     },
     {
       "id": "0b41f18c0848dd08",
@@ -345,7 +111,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
       "sourceUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-24T05:30:29Z"
+      "capturedAt": "2026-10-25T05:30:27Z"
     },
     {
       "id": "4fa3e810911145df",
@@ -363,7 +129,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-24T05:30:30Z"
+      "capturedAt": "2026-10-25T05:30:26Z"
     },
     {
       "id": "f6be6666874dbc6a",
@@ -381,7 +147,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-24T05:30:37Z"
+      "capturedAt": "2026-10-25T05:30:31Z"
     },
     {
       "id": "546bd2354f560138",
@@ -399,7 +165,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-24T05:30:48Z"
+      "capturedAt": "2026-10-25T05:30:44Z"
     },
     {
       "id": "cd14e96631fec725",
@@ -417,7 +183,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-24T05:30:41Z"
+      "capturedAt": "2026-10-25T05:30:37Z"
     },
     {
       "id": "1b1f784b6e18f821",
@@ -435,7 +201,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
       "sourceUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-24T05:30:29Z"
+      "capturedAt": "2026-10-25T05:30:27Z"
     },
     {
       "id": "7ef715657f7fd009",
@@ -453,7 +219,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-24T05:30:30Z"
+      "capturedAt": "2026-10-25T05:30:26Z"
     },
     {
       "id": "8ca13ada6f3ebb19",
@@ -471,7 +237,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:11Z"
+      "capturedAt": "2026-10-25T05:30:10Z"
     },
     {
       "id": "f2c495b0017d8565",
@@ -489,7 +255,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-24T05:30:48Z"
+      "capturedAt": "2026-10-25T05:30:44Z"
     },
     {
       "id": "bcb2fa5d72f6d2c0",
@@ -507,7 +273,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:11Z"
+      "capturedAt": "2026-10-25T05:30:10Z"
     },
     {
       "id": "952c0c80c77dff77",
@@ -525,7 +291,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:21Z"
+      "capturedAt": "2026-10-25T05:30:18Z"
     },
     {
       "id": "6cf87ad0ebe472e9",
@@ -543,7 +309,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=92942",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-24T05:31:18Z"
+      "capturedAt": "2026-10-25T05:31:14Z"
     },
     {
       "id": "249daec515a60d2d",
@@ -561,7 +327,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-24T05:30:37Z"
+      "capturedAt": "2026-10-25T05:30:31Z"
     },
     {
       "id": "f34d994abfb49ca8",
@@ -579,7 +345,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-24T05:30:48Z"
+      "capturedAt": "2026-10-25T05:30:44Z"
     },
     {
       "id": "7cde706bac06d62f",
@@ -597,7 +363,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:21Z"
+      "capturedAt": "2026-10-25T05:30:18Z"
     },
     {
       "id": "c4c76b7808d7ddc2",
@@ -615,7 +381,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:11Z"
+      "capturedAt": "2026-10-25T05:30:10Z"
     },
     {
       "id": "9c9a216d9d8b6b42",
@@ -633,7 +399,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-24T05:30:41Z"
+      "capturedAt": "2026-10-25T05:30:37Z"
     },
     {
       "id": "02bb807e9c96354c",
@@ -651,7 +417,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=92945",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-24T05:31:18Z"
+      "capturedAt": "2026-10-25T05:31:14Z"
     },
     {
       "id": "35b896849182db4a",
@@ -669,7 +435,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-24T05:30:48Z"
+      "capturedAt": "2026-10-25T05:30:44Z"
     },
     {
       "id": "e326852d645c73a2",
@@ -687,7 +453,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:16Z"
+      "capturedAt": "2026-10-25T05:30:10Z"
     },
     {
       "id": "fa02f9bdfe5207d5",
@@ -705,7 +471,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-24T05:30:37Z"
+      "capturedAt": "2026-10-25T05:30:31Z"
     },
     {
       "id": "154bf9a78ef0252b",
@@ -723,7 +489,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-24T05:30:48Z"
+      "capturedAt": "2026-10-25T05:30:44Z"
     },
     {
       "id": "e8c5867a6c52eb27",
@@ -741,7 +507,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-24T05:30:41Z"
+      "capturedAt": "2026-10-25T05:30:37Z"
     },
     {
       "id": "98a68c3301b7b4c1",
@@ -759,7 +525,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:16Z"
+      "capturedAt": "2026-10-25T05:30:10Z"
     },
     {
       "id": "a2890b50f577f924",
@@ -777,7 +543,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
       "sourceUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-24T05:30:29Z"
+      "capturedAt": "2026-10-25T05:30:27Z"
     },
     {
       "id": "2a767f198a9652d8",
@@ -795,7 +561,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-24T05:30:48Z"
+      "capturedAt": "2026-10-25T05:30:44Z"
     },
     {
       "id": "4dd2532c6d58171a",
@@ -813,7 +579,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:11Z"
+      "capturedAt": "2026-10-25T05:30:10Z"
     },
     {
       "id": "8f474f98467dee3d",
@@ -831,7 +597,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:21Z"
+      "capturedAt": "2026-10-25T05:30:18Z"
     },
     {
       "id": "8c212c2c9089dc29",
@@ -849,7 +615,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-24T05:30:37Z"
+      "capturedAt": "2026-10-25T05:30:31Z"
     },
     {
       "id": "00a9dfaab9b44379",
@@ -867,7 +633,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-24T05:30:48Z"
+      "capturedAt": "2026-10-25T05:30:44Z"
     },
     {
       "id": "64c6882d4909c8f0",
@@ -885,7 +651,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:21Z"
+      "capturedAt": "2026-10-25T05:30:18Z"
     },
     {
       "id": "c5d3b0f293581f60",
@@ -903,7 +669,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:11Z"
+      "capturedAt": "2026-10-25T05:30:10Z"
     },
     {
       "id": "f5e2f7efb80ca0f5",
@@ -921,7 +687,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-24T05:30:41Z"
+      "capturedAt": "2026-10-25T05:30:37Z"
     },
     {
       "id": "91fc969f92abf73d",
@@ -939,7 +705,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:16Z"
+      "capturedAt": "2026-10-25T05:30:10Z"
     },
     {
       "id": "48d3fde54430e3c6",
@@ -957,7 +723,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
       "sourceUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-24T05:30:29Z"
+      "capturedAt": "2026-10-25T05:30:27Z"
     },
     {
       "id": "8c2ff69fa5314174",
@@ -975,7 +741,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-24T05:30:48Z"
+      "capturedAt": "2026-10-25T05:30:44Z"
     },
     {
       "id": "68b3106f196f397d",
@@ -993,7 +759,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-24T05:30:37Z"
+      "capturedAt": "2026-10-25T05:30:31Z"
     },
     {
       "id": "6fb4184da975389d",
@@ -1011,7 +777,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-24T05:30:48Z"
+      "capturedAt": "2026-10-25T05:30:44Z"
     },
     {
       "id": "f2dd2c5433f0cede",
@@ -1029,7 +795,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-24T05:30:41Z"
+      "capturedAt": "2026-10-25T05:30:37Z"
     },
     {
       "id": "a69de36dacdfebaa",
@@ -1047,7 +813,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=92946",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-24T05:31:18Z"
+      "capturedAt": "2026-10-25T05:31:14Z"
     },
     {
       "id": "f530479be16f5b6b",
@@ -1065,7 +831,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
       "sourceUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-24T05:30:29Z"
+      "capturedAt": "2026-10-25T05:30:27Z"
     },
     {
       "id": "f9d97782c9a1b19e",
@@ -1083,7 +849,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:11Z"
+      "capturedAt": "2026-10-25T05:30:10Z"
     },
     {
       "id": "89001e8abd1e9825",
@@ -1101,7 +867,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-24T05:30:48Z"
+      "capturedAt": "2026-10-25T05:30:44Z"
     },
     {
       "id": "e8984186b0b2f9ff",
@@ -1119,7 +885,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:21Z"
+      "capturedAt": "2026-10-25T05:30:18Z"
     },
     {
       "id": "b5bd9c166d3856fa",
@@ -1137,7 +903,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-24T05:30:16Z"
+      "capturedAt": "2026-10-25T05:30:10Z"
     }
   ]
 }
