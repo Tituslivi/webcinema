@@ -1,10 +1,28 @@
 {
   "slug": "cronos-en-catala",
   "title": "Cronos",
-  "sessionCount": 22,
-  "cinemaCount": 8,
-  "municipiCount": 6,
+  "sessionCount": 26,
+  "cinemaCount": 10,
+  "municipiCount": 7,
   "sessions": [
+    {
+      "id": "9015b8b50cc7d9e6",
+      "filmSlug": "cronos-en-catala",
+      "filmTitle": "Cronos",
+      "cinemaId": "wc-037",
+      "cinemaSlug": "mooby-arenas-de-barcelona",
+      "cinemaName": "Mooby Arenas de Barcelona",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-10-27",
+      "sessionTime": "16:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=193341&language=cat&theatre=BAL-ARENAS",
+      "pickerUrl": "https://www.moobycinemas.com",
+      "sourceUrl": "https://www.moobycinemas.com",
+      "extractorType": "chain-mooby",
+      "capturedAt": "2026-10-27T16:06:48Z"
+    },
     {
       "id": "8f99844d35427354",
       "filmSlug": "cronos-en-catala",
@@ -21,7 +39,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T05:30:26Z"
+      "capturedAt": "2026-10-27T16:06:48Z"
     },
     {
       "id": "8af042601fc78c67",
@@ -39,7 +57,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T05:30:26Z"
+      "capturedAt": "2026-10-27T16:06:48Z"
     },
     {
       "id": "d190601a4f93c122",
@@ -57,7 +75,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T05:30:26Z"
+      "capturedAt": "2026-10-27T16:06:48Z"
     },
     {
       "id": "d194d075039e43b5",
@@ -75,7 +93,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T05:30:52Z"
+      "capturedAt": "2026-10-27T16:07:15Z"
     },
     {
       "id": "a01f9fc5e8defa53",
@@ -93,7 +111,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/cronos/",
       "sourceUrl": "https://jcacinemes.com/cartellera/cronos/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-27T05:30:31Z"
+      "capturedAt": "2026-10-27T16:06:50Z"
     },
     {
       "id": "4a295a5f1dfb0e72",
@@ -111,7 +129,25 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T05:30:53Z"
+      "capturedAt": "2026-10-27T16:07:15Z"
+    },
+    {
+      "id": "5bf949d9f1cf9a4d",
+      "filmSlug": "cronos-en-catala",
+      "filmTitle": "Cronos",
+      "cinemaId": "wc-004",
+      "cinemaSlug": "bages-centre",
+      "cinemaName": "Bages Centre",
+      "municipiSlug": "manresa",
+      "municipiName": "Manresa",
+      "sessionDate": "2026-10-27",
+      "sessionTime": "22:20",
+      "languageLabel": "Català",
+      "bookingUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6504",
+      "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6504",
+      "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
+      "extractorType": "ticketing-webtpv",
+      "capturedAt": "2026-10-27T16:06:23Z"
     },
     {
       "id": "1fa84664ef683c7f",
@@ -129,7 +165,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T05:30:26Z"
+      "capturedAt": "2026-10-27T16:06:48Z"
     },
     {
       "id": "580dbdb58eba5c86",
@@ -147,7 +183,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T05:30:26Z"
+      "capturedAt": "2026-10-27T16:06:48Z"
     },
     {
       "id": "2d117177266d8d2d",
@@ -165,7 +201,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T05:30:26Z"
+      "capturedAt": "2026-10-27T16:06:48Z"
     },
     {
       "id": "7904da54f36797d1",
@@ -183,7 +219,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T05:30:26Z"
+      "capturedAt": "2026-10-27T16:06:48Z"
     },
     {
       "id": "558214617c26d98a",
@@ -201,7 +237,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T05:30:52Z"
+      "capturedAt": "2026-10-27T16:07:15Z"
     },
     {
       "id": "73ca02fe4890e32a",
@@ -219,7 +255,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/cronos/",
       "sourceUrl": "https://jcacinemes.com/cartellera/cronos/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-27T05:30:31Z"
+      "capturedAt": "2026-10-27T16:06:50Z"
     },
     {
       "id": "54889cf3eb92d4cb",
@@ -237,7 +273,25 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T05:30:53Z"
+      "capturedAt": "2026-10-27T16:07:15Z"
+    },
+    {
+      "id": "4b9e3cad9706b422",
+      "filmSlug": "cronos-en-catala",
+      "filmTitle": "Cronos",
+      "cinemaId": "wc-004",
+      "cinemaSlug": "bages-centre",
+      "cinemaName": "Bages Centre",
+      "municipiSlug": "manresa",
+      "municipiName": "Manresa",
+      "sessionDate": "2026-10-28",
+      "sessionTime": "22:20",
+      "languageLabel": "Català",
+      "bookingUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6504",
+      "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6504",
+      "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
+      "extractorType": "ticketing-webtpv",
+      "capturedAt": "2026-10-27T16:06:23Z"
     },
     {
       "id": "1482456162b314b8",
@@ -255,7 +309,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T05:30:28Z"
+      "capturedAt": "2026-10-27T16:06:53Z"
     },
     {
       "id": "547e9a591ad53882",
@@ -273,7 +327,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T05:30:26Z"
+      "capturedAt": "2026-10-27T16:06:48Z"
     },
     {
       "id": "1ba616f7aba97e92",
@@ -291,7 +345,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T05:30:26Z"
+      "capturedAt": "2026-10-27T16:06:48Z"
     },
     {
       "id": "4de26046c9d28cce",
@@ -309,7 +363,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T05:30:26Z"
+      "capturedAt": "2026-10-27T16:06:48Z"
     },
     {
       "id": "17f0f2b7904352fc",
@@ -327,7 +381,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T05:30:26Z"
+      "capturedAt": "2026-10-27T16:06:48Z"
     },
     {
       "id": "54c672211b9092d0",
@@ -345,7 +399,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T05:30:52Z"
+      "capturedAt": "2026-10-27T16:07:15Z"
     },
     {
       "id": "b75d3c397d527994",
@@ -363,7 +417,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/cronos/",
       "sourceUrl": "https://jcacinemes.com/cartellera/cronos/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-27T05:30:31Z"
+      "capturedAt": "2026-10-27T16:06:50Z"
     },
     {
       "id": "cab9ac03a812e8f5",
@@ -381,7 +435,25 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T05:30:53Z"
+      "capturedAt": "2026-10-27T16:07:15Z"
+    },
+    {
+      "id": "c9697fb537e05b63",
+      "filmSlug": "cronos-en-catala",
+      "filmTitle": "Cronos",
+      "cinemaId": "wc-004",
+      "cinemaSlug": "bages-centre",
+      "cinemaName": "Bages Centre",
+      "municipiSlug": "manresa",
+      "municipiName": "Manresa",
+      "sessionDate": "2026-10-29",
+      "sessionTime": "22:20",
+      "languageLabel": "Català",
+      "bookingUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6504",
+      "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6504",
+      "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
+      "extractorType": "ticketing-webtpv",
+      "capturedAt": "2026-10-27T16:06:23Z"
     },
     {
       "id": "a0a22a07eb91b478",
@@ -399,7 +471,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T05:30:28Z"
+      "capturedAt": "2026-10-27T16:06:53Z"
     }
   ]
 }
