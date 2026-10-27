@@ -1,39 +1,44 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-27T16:08:56Z",
+  "generatedAt": "2026-10-27T16:19:02Z",
   "weekStart": "2026-10-27",
   "weekEnd": "2026-12-29",
   "source": {
     "sessionsPath": "runs\\daily\\2026-10-27\\sessions.json",
-    "recordsTotal": 243,
+    "recordsTotal": 256,
     "skippedSources": 2,
-    "latestCapturedAt": "2026-10-27T16:08:03Z"
+    "latestCapturedAt": "2026-10-27T16:18:08Z"
   },
   "summary": {
-    "sessions": 223,
-    "films": 37,
-    "cinemas": 45,
-    "municipis": 33,
+    "sessions": 236,
+    "films": 38,
+    "cinemas": 46,
+    "municipis": 34,
     "topFilms": [
       {
         "slug": "escape-room-2-en-catala",
         "title": "Escape Room 2",
-        "sessions": 62
+        "sessions": 69
       },
       {
         "slug": "superthings-la-pelicula-en-catala",
         "title": "Superthings La Pelicula",
-        "sessions": 35
+        "sessions": 38
       },
       {
         "slug": "cronos-en-catala",
         "title": "Cronos",
-        "sessions": 35
+        "sessions": 32
       },
       {
         "slug": "superthings-la-pel-licula-en-catala",
         "title": "Superthings La Pel Licula",
         "sessions": 23
+      },
+      {
+        "slug": "mascotes-al-rescat-en-catala",
+        "title": "Mascotes Al Rescat",
+        "sessions": 6
       },
       {
         "slug": "minions-monsters-en-catala",
@@ -59,11 +64,6 @@
         "slug": "cinc-little-amelie-en-catala",
         "title": "Cinc Little Amelie",
         "sessions": 4
-      },
-      {
-        "slug": "mascotes-al-rescat-en-catala",
-        "title": "Mascotes Al Rescat",
-        "sessions": 3
       }
     ]
   },
@@ -85,7 +85,7 @@
     {
       "slug": "cronos-en-catala",
       "title": "Cronos",
-      "sessionCount": 35,
+      "sessionCount": 32,
       "cinemaCount": 10,
       "municipiCount": 7
     },
@@ -114,6 +114,13 @@
       "slug": "doraemon-aventure-al-mon-de-l-art-en-catala",
       "title": "Doraemon Aventure Al Mon De L Art",
       "sessionCount": 1,
+      "cinemaCount": 1,
+      "municipiCount": 1
+    },
+    {
+      "slug": "doraemon-aventures-al-mon-de-l-art-en-catala",
+      "title": "Doraemon Aventures Al Mon De L Art",
+      "sessionCount": 2,
       "cinemaCount": 1,
       "municipiCount": 1
     },
@@ -148,9 +155,9 @@
     {
       "slug": "escape-room-2-en-catala",
       "title": "Escape Room 2",
-      "sessionCount": 62,
-      "cinemaCount": 13,
-      "municipiCount": 12
+      "sessionCount": 69,
+      "cinemaCount": 14,
+      "municipiCount": 13
     },
     {
       "slug": "femenino-singular-en-catala",
@@ -176,9 +183,9 @@
     {
       "slug": "indomita-llum-en-catala",
       "title": "Indomita Llum",
-      "sessionCount": 1,
-      "cinemaCount": 1,
-      "municipiCount": 1
+      "sessionCount": 2,
+      "cinemaCount": 2,
+      "municipiCount": 2
     },
     {
       "slug": "l-emilie-i-el-secret-de-les-tempestes-en-catala",
@@ -232,9 +239,9 @@
     {
       "slug": "mascotes-al-rescat-en-catala",
       "title": "Mascotes Al Rescat",
-      "sessionCount": 3,
-      "cinemaCount": 1,
-      "municipiCount": 1
+      "sessionCount": 6,
+      "cinemaCount": 2,
+      "municipiCount": 2
     },
     {
       "slug": "minions-monsters-en-catala",
@@ -274,9 +281,9 @@
     {
       "slug": "superthings-la-pelicula-en-catala",
       "title": "Superthings La Pelicula",
-      "sessionCount": 35,
-      "cinemaCount": 8,
-      "municipiCount": 7
+      "sessionCount": 38,
+      "cinemaCount": 9,
+      "municipiCount": 8
     },
     {
       "slug": "suportant-el-paradis-en-catala",
@@ -344,8 +351,8 @@
       "name": "JCA Cinemes Alpicat",
       "municipiSlug": "alpicat",
       "municipiName": "Alpicat",
-      "sessionCount": 3,
-      "filmCount": 1
+      "sessionCount": 8,
+      "filmCount": 3
     },
     {
       "cinemaId": "wc-046",
@@ -425,7 +432,7 @@
       "name": "Mooby Arenas de Barcelona",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 3,
+      "sessionCount": 2,
       "filmCount": 2
     },
     {
@@ -443,7 +450,7 @@
       "name": "Mooby Glòries",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 3,
+      "sessionCount": 2,
       "filmCount": 1
     },
     {
@@ -452,7 +459,7 @@
       "name": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 10,
+      "sessionCount": 9,
       "filmCount": 1
     },
     {
@@ -659,7 +666,7 @@
       "name": "Ocine Les Gavarres",
       "municipiSlug": "tarragona",
       "municipiName": "Tarragona",
-      "sessionCount": 15,
+      "sessionCount": 16,
       "filmCount": 5
     },
     {
@@ -704,8 +711,17 @@
       "name": "Cinemes Majestic",
       "municipiSlug": "tarrega",
       "municipiName": "Tàrrega",
-      "sessionCount": 1,
-      "filmCount": 1
+      "sessionCount": 2,
+      "filmCount": 2
+    },
+    {
+      "cinemaId": "wc-032",
+      "slug": "jca-rambla",
+      "name": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionCount": 9,
+      "filmCount": 2
     },
     {
       "cinemaId": "wc-045",
@@ -750,8 +766,8 @@
       "name": "Alpicat",
       "ineCode": "25023",
       "idescatCode": "250236",
-      "sessionCount": 3,
-      "filmCount": 1,
+      "sessionCount": 8,
+      "filmCount": 3,
       "cinemaCount": 1
     },
     {
@@ -786,7 +802,7 @@
       "name": "Barcelona",
       "ineCode": "08019",
       "idescatCode": "080193",
-      "sessionCount": 48,
+      "sessionCount": 45,
       "filmCount": 16,
       "cinemaCount": 11
     },
@@ -966,7 +982,7 @@
       "name": "Tarragona",
       "ineCode": "43148",
       "idescatCode": "431482",
-      "sessionCount": 15,
+      "sessionCount": 16,
       "filmCount": 5,
       "cinemaCount": 1
     },
@@ -1002,8 +1018,17 @@
       "name": "Tàrrega",
       "ineCode": "25217",
       "idescatCode": "252173",
-      "sessionCount": 1,
-      "filmCount": 1,
+      "sessionCount": 2,
+      "filmCount": 2,
+      "cinemaCount": 1
+    },
+    {
+      "slug": "valls",
+      "name": "Valls",
+      "ineCode": "43161",
+      "idescatCode": "431613",
+      "sessionCount": 9,
+      "filmCount": 2,
       "cinemaCount": 1
     },
     {
@@ -1051,7 +1076,7 @@
       "pickerUrl": "https://tickets.ocinearenys.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinearenys.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:49Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "fa02f9bdfe5207d5",
@@ -1069,7 +1094,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:56Z"
+      "capturedAt": "2026-10-27T16:16:59Z"
     },
     {
       "id": "58ee48cc4cc4bd01",
@@ -1087,61 +1112,7 @@
       "pickerUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinepremiumlleida.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:57Z"
-    },
-    {
-      "id": "9015b8b50cc7d9e6",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=193341&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
-    },
-    {
-      "id": "8f99844d35427354",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-042",
-      "cinemaSlug": "mooby-glories",
-      "cinemaName": "Mooby Glòries",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-glorias.admit-one.eu/?p=tickets&perfCode=121859&language=cat&theatre=BAL-GLORIAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
-    },
-    {
-      "id": "8af042601fc78c67",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=118197&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:17:03Z"
     },
     {
       "id": "4c94bcb3f9fc7231",
@@ -1159,7 +1130,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:53Z"
+      "capturedAt": "2026-10-27T16:16:57Z"
     },
     {
       "id": "46847151d594b05e",
@@ -1177,7 +1148,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6006",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:28Z"
+      "capturedAt": "2026-10-27T16:16:33Z"
     },
     {
       "id": "943821f17a6ccdf5",
@@ -1195,7 +1166,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6032",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:28Z"
+      "capturedAt": "2026-10-27T16:16:33Z"
     },
     {
       "id": "585e1b8607765ab8",
@@ -1213,7 +1184,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10891",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10891?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:16Z"
+      "capturedAt": "2026-10-27T16:17:21Z"
     },
     {
       "id": "397612316ebd0a96",
@@ -1231,7 +1202,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:27Z"
+      "capturedAt": "2026-10-27T16:16:33Z"
     },
     {
       "id": "e8c5867a6c52eb27",
@@ -1249,7 +1220,25 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:21Z"
+      "capturedAt": "2026-10-27T16:17:26Z"
+    },
+    {
+      "id": "a2890b50f577f924",
+      "filmSlug": "superthings-la-pelicula-en-catala",
+      "filmTitle": "Superthings La Pelicula",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-10-27",
+      "sessionTime": "17:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152329",
+      "pickerUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:16:57Z"
     },
     {
       "id": "d64a157c693ec47a",
@@ -1267,7 +1256,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "a7050715b7da005f",
@@ -1285,7 +1274,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "c31f55d6b2003941",
@@ -1303,7 +1292,7 @@
       "pickerUrl": "https://circusa.com/ca/tarrega/",
       "sourceUrl": "https://circusa.com/ca/tarrega/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:06:30Z"
+      "capturedAt": "2026-10-27T16:16:33Z"
     },
     {
       "id": "d190601a4f93c122",
@@ -1321,7 +1310,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "9014ec5ba72c6c77",
@@ -1339,7 +1328,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/el-samurai-i-el-presoner-dob.-cat-20261027-1800",
       "sourceUrl": "https://espaitexas.koobin.cat/?action=PU_evento&Ev_id=8576",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:50Z"
+      "capturedAt": "2026-10-27T16:16:56Z"
     },
     {
       "id": "d7e3d1284fb8b1ff",
@@ -1357,7 +1346,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261027-1800",
       "sourceUrl": "https://espaitexas.koobin.cat/?action=PU_evento&Ev_id=8373",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:50Z"
+      "capturedAt": "2026-10-27T16:16:56Z"
     },
     {
       "id": "4287c769646c1028",
@@ -1375,7 +1364,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4894/p?cat-super-things",
       "sourceUrl": "https://www.catcines.cat//film-4894/p?cat-super-things",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-10-27T16:07:50Z"
+      "capturedAt": "2026-10-27T16:17:55Z"
     },
     {
       "id": "2a767f198a9652d8",
@@ -1393,7 +1382,25 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:09Z"
+      "capturedAt": "2026-10-27T16:17:15Z"
+    },
+    {
+      "id": "09a7e70d143ad751",
+      "filmSlug": "mascotes-al-rescat-en-catala",
+      "filmTitle": "Mascotes Al Rescat",
+      "cinemaId": "wc-030",
+      "cinemaSlug": "jca-cinemes-alpicat",
+      "cinemaName": "JCA Cinemes Alpicat",
+      "municipiSlug": "alpicat",
+      "municipiName": "Alpicat",
+      "sessionDate": "2026-10-27",
+      "sessionTime": "18:10",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=310296",
+      "pickerUrl": "https://jcacinemes.com/cartellera/mascotes-al-rescat/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/mascotes-al-rescat/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:17:00Z"
     },
     {
       "id": "c31f4d7ff585684a",
@@ -1411,7 +1418,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6032",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:28Z"
+      "capturedAt": "2026-10-27T16:16:33Z"
     },
     {
       "id": "4dd2532c6d58171a",
@@ -1429,7 +1436,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:06:36Z"
+      "capturedAt": "2026-10-27T16:16:42Z"
     },
     {
       "id": "36d30b18b4706a3d",
@@ -1447,7 +1454,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "791c36f8d0aab24c",
@@ -1465,7 +1472,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "8f474f98467dee3d",
@@ -1483,7 +1490,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:06:46Z"
+      "capturedAt": "2026-10-27T16:16:51Z"
+    },
+    {
+      "id": "9c9406e9ccc2eb75",
+      "filmSlug": "escape-room-2-en-catala",
+      "filmTitle": "Escape Room 2",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-10-27",
+      "sessionTime": "18:50",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152328",
+      "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:16:57Z"
     },
     {
       "id": "0bca5d82637eb715",
@@ -1501,7 +1526,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/escape-room-2",
       "sourceUrl": "https://www.cinemessantcugat.com/escape-room-2",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:34Z"
+      "capturedAt": "2026-10-27T16:16:40Z"
     },
     {
       "id": "f9b5e3144bc3355c",
@@ -1519,7 +1544,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "d194d075039e43b5",
@@ -1537,7 +1562,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:15Z"
+      "capturedAt": "2026-10-27T16:17:20Z"
     },
     {
       "id": "52aa795e6f94cf2d",
@@ -1555,7 +1580,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:16Z"
+      "capturedAt": "2026-10-27T16:17:21Z"
     },
     {
       "id": "2f11654803c1bdaa",
@@ -1573,7 +1598,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/indomita-llum-vo-20261027-2045",
       "sourceUrl": "https://espaitexas.koobin.cat/?action=PU_evento&Ev_id=8537",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:59Z"
+      "capturedAt": "2026-10-27T16:17:06Z"
     },
     {
       "id": "b4aa686ba48b76ad",
@@ -1591,7 +1616,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:06:37Z"
+      "capturedAt": "2026-10-27T16:16:42Z"
     },
     {
       "id": "a01f9fc5e8defa53",
@@ -1609,7 +1634,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/cronos/",
       "sourceUrl": "https://jcacinemes.com/cartellera/cronos/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-27T16:06:50Z"
+      "capturedAt": "2026-10-27T16:17:00Z"
     },
     {
       "id": "4a295a5f1dfb0e72",
@@ -1627,7 +1652,25 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:15Z"
+      "capturedAt": "2026-10-27T16:17:22Z"
+    },
+    {
+      "id": "6738f4164bde15c9",
+      "filmSlug": "escape-room-2-en-catala",
+      "filmTitle": "Escape Room 2",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-10-27",
+      "sessionTime": "22:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152438",
+      "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:16:57Z"
     },
     {
       "id": "c20309e467563a9c",
@@ -1645,7 +1688,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93015",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-27T16:07:46Z"
+      "capturedAt": "2026-10-27T16:17:51Z"
     },
     {
       "id": "5bf949d9f1cf9a4d",
@@ -1663,7 +1706,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6504",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "007f29e515512775",
@@ -1681,7 +1724,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:13Z"
+      "capturedAt": "2026-10-27T16:17:19Z"
     },
     {
       "id": "df723b1c3c7e751a",
@@ -1699,7 +1742,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93016",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-27T16:07:46Z"
+      "capturedAt": "2026-10-27T16:17:51Z"
     },
     {
       "id": "fc178032636c872f",
@@ -1717,7 +1760,7 @@
       "pickerUrl": "https://tickets.ocinearenys.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinearenys.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:49Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "8c212c2c9089dc29",
@@ -1735,7 +1778,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:56Z"
+      "capturedAt": "2026-10-27T16:16:59Z"
     },
     {
       "id": "94e73c8a39c4b3f6",
@@ -1753,7 +1796,25 @@
       "pickerUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinepremiumlleida.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:57Z"
+      "capturedAt": "2026-10-27T16:17:03Z"
+    },
+    {
+      "id": "830712003661b1da",
+      "filmSlug": "doraemon-aventures-al-mon-de-l-art-en-catala",
+      "filmTitle": "Doraemon Aventures Al Mon De L Art",
+      "cinemaId": "wc-030",
+      "cinemaSlug": "jca-cinemes-alpicat",
+      "cinemaName": "JCA Cinemes Alpicat",
+      "municipiSlug": "alpicat",
+      "municipiName": "Alpicat",
+      "sessionDate": "2026-10-28",
+      "sessionTime": "15:50",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=310299",
+      "pickerUrl": "https://jcacinemes.com/cartellera/doraemon_-aventures-al-mon-de-lart/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/doraemon_-aventures-al-mon-de-lart/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:17:00Z"
     },
     {
       "id": "49da9e4d1e3ad328",
@@ -1771,7 +1832,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "62482944bfb52f14",
@@ -1789,7 +1850,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/el-samurai-i-el-presoner-dob.-cat-20261028-1800",
       "sourceUrl": "https://espaitexas.koobin.cat/?action=PU_evento&Ev_id=8576",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:50Z"
+      "capturedAt": "2026-10-27T16:16:56Z"
     },
     {
       "id": "1fa84664ef683c7f",
@@ -1807,7 +1868,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "580dbdb58eba5c86",
@@ -1825,7 +1886,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "7ad5d93872834c63",
@@ -1843,7 +1904,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:53Z"
+      "capturedAt": "2026-10-27T16:16:57Z"
     },
     {
       "id": "4d128cd3a717b71b",
@@ -1861,7 +1922,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6006",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:28Z"
+      "capturedAt": "2026-10-27T16:16:33Z"
     },
     {
       "id": "27d5c50fec310e8d",
@@ -1879,7 +1940,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6032",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:28Z"
+      "capturedAt": "2026-10-27T16:16:33Z"
     },
     {
       "id": "aa30ad6dd1812d88",
@@ -1897,7 +1958,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10891",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10891?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:16Z"
+      "capturedAt": "2026-10-27T16:17:21Z"
     },
     {
       "id": "00a9dfaab9b44379",
@@ -1915,7 +1976,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:09Z"
+      "capturedAt": "2026-10-27T16:17:15Z"
     },
     {
       "id": "2d117177266d8d2d",
@@ -1933,7 +1994,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "64c6882d4909c8f0",
@@ -1951,7 +2012,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:06:46Z"
+      "capturedAt": "2026-10-27T16:16:51Z"
     },
     {
       "id": "661d6e1c95f112ab",
@@ -1969,7 +2030,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:06:37Z"
+      "capturedAt": "2026-10-27T16:16:42Z"
     },
     {
       "id": "c5d3b0f293581f60",
@@ -1987,7 +2048,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:06:36Z"
+      "capturedAt": "2026-10-27T16:16:42Z"
     },
     {
       "id": "f5e2f7efb80ca0f5",
@@ -2005,7 +2066,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:21Z"
+      "capturedAt": "2026-10-27T16:17:26Z"
     },
     {
       "id": "91fc969f92abf73d",
@@ -2023,7 +2084,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:06:40Z"
+      "capturedAt": "2026-10-27T16:16:45Z"
+    },
+    {
+      "id": "48d3fde54430e3c6",
+      "filmSlug": "superthings-la-pelicula-en-catala",
+      "filmTitle": "Superthings La Pelicula",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-10-28",
+      "sessionTime": "17:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152353",
+      "pickerUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:16:57Z"
     },
     {
       "id": "c7f1da3eeb613c53",
@@ -2041,7 +2120,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4575",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:07:48Z"
+      "capturedAt": "2026-10-27T16:17:54Z"
     },
     {
       "id": "f3851cb4b4320f38",
@@ -2059,7 +2138,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "ca814f14746b191d",
@@ -2077,7 +2156,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "7904da54f36797d1",
@@ -2095,7 +2174,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "71cb452a61bc1737",
@@ -2113,7 +2192,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4894/p?cat-super-things",
       "sourceUrl": "https://www.catcines.cat//film-4894/p?cat-super-things",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-10-27T16:07:50Z"
+      "capturedAt": "2026-10-27T16:17:55Z"
     },
     {
       "id": "8c2ff69fa5314174",
@@ -2131,7 +2210,25 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:09Z"
+      "capturedAt": "2026-10-27T16:17:15Z"
+    },
+    {
+      "id": "adf2ec6f427aedb4",
+      "filmSlug": "mascotes-al-rescat-en-catala",
+      "filmTitle": "Mascotes Al Rescat",
+      "cinemaId": "wc-030",
+      "cinemaSlug": "jca-cinemes-alpicat",
+      "cinemaName": "JCA Cinemes Alpicat",
+      "municipiSlug": "alpicat",
+      "municipiName": "Alpicat",
+      "sessionDate": "2026-10-28",
+      "sessionTime": "18:10",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=310300",
+      "pickerUrl": "https://jcacinemes.com/cartellera/mascotes-al-rescat/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/mascotes-al-rescat/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:17:00Z"
     },
     {
       "id": "31e800a42948b406",
@@ -2149,7 +2246,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6032",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:28Z"
+      "capturedAt": "2026-10-27T16:16:33Z"
     },
     {
       "id": "26edf943aefe24d0",
@@ -2167,7 +2264,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "fd7543f2284759ba",
@@ -2185,7 +2282,25 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
+    },
+    {
+      "id": "27dbb521cda1a133",
+      "filmSlug": "escape-room-2-en-catala",
+      "filmTitle": "Escape Room 2",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-10-28",
+      "sessionTime": "18:50",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152352",
+      "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:16:57Z"
     },
     {
       "id": "be0f19f756bb4f02",
@@ -2203,7 +2318,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "558214617c26d98a",
@@ -2221,7 +2336,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:15Z"
+      "capturedAt": "2026-10-27T16:17:20Z"
     },
     {
       "id": "d6d5817114eda20e",
@@ -2239,7 +2354,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261028-2030",
       "sourceUrl": "https://espaitexas.koobin.cat/?action=PU_evento&Ev_id=8596",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:07:13Z"
+      "capturedAt": "2026-10-27T16:17:19Z"
     },
     {
       "id": "2ba7b42e1e3e019f",
@@ -2257,7 +2372,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261028-1800",
       "sourceUrl": "https://espaitexas.koobin.cat/?action=PU_evento&Ev_id=8373",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:50Z"
+      "capturedAt": "2026-10-27T16:16:56Z"
     },
     {
       "id": "fcc6ef6723d3ae71",
@@ -2275,7 +2390,7 @@
       "pickerUrl": "https://entrades.ateneucinema.cat/comprar/fh3AFqAwCL",
       "sourceUrl": "https://ateneucinema.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "5a187ea91d84507c",
@@ -2293,7 +2408,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:16Z"
+      "capturedAt": "2026-10-27T16:17:21Z"
     },
     {
       "id": "73ca02fe4890e32a",
@@ -2311,7 +2426,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/cronos/",
       "sourceUrl": "https://jcacinemes.com/cartellera/cronos/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-27T16:06:50Z"
+      "capturedAt": "2026-10-27T16:17:00Z"
     },
     {
       "id": "54889cf3eb92d4cb",
@@ -2329,7 +2444,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:15Z"
+      "capturedAt": "2026-10-27T16:17:22Z"
     },
     {
       "id": "c962b6e6457441d8",
@@ -2347,7 +2462,25 @@
       "pickerUrl": "https://www.cinemessantcugat.com/escape-room-2",
       "sourceUrl": "https://www.cinemessantcugat.com/escape-room-2",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:34Z"
+      "capturedAt": "2026-10-27T16:16:40Z"
+    },
+    {
+      "id": "ef7e2a73bec9973c",
+      "filmSlug": "escape-room-2-en-catala",
+      "filmTitle": "Escape Room 2",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-10-28",
+      "sessionTime": "22:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152439",
+      "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:16:57Z"
     },
     {
       "id": "4b9e3cad9706b422",
@@ -2365,7 +2498,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6504",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "1482456162b314b8",
@@ -2383,7 +2516,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:53Z"
+      "capturedAt": "2026-10-27T16:16:56Z"
     },
     {
       "id": "60567b32e8e96ec0",
@@ -2401,7 +2534,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93017",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-27T16:07:46Z"
+      "capturedAt": "2026-10-27T16:17:51Z"
     },
     {
       "id": "9495a6f15db322a9",
@@ -2419,7 +2552,7 @@
       "pickerUrl": "https://tickets.ocinearenys.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinearenys.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:49Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "68b3106f196f397d",
@@ -2437,7 +2570,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:56Z"
+      "capturedAt": "2026-10-27T16:16:59Z"
     },
     {
       "id": "a8757f87f1a6ee38",
@@ -2455,7 +2588,25 @@
       "pickerUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinepremiumlleida.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:57Z"
+      "capturedAt": "2026-10-27T16:17:03Z"
+    },
+    {
+      "id": "28fec2b51cbb0a81",
+      "filmSlug": "doraemon-aventures-al-mon-de-l-art-en-catala",
+      "filmTitle": "Doraemon Aventures Al Mon De L Art",
+      "cinemaId": "wc-030",
+      "cinemaSlug": "jca-cinemes-alpicat",
+      "cinemaName": "JCA Cinemes Alpicat",
+      "municipiSlug": "alpicat",
+      "municipiName": "Alpicat",
+      "sessionDate": "2026-10-29",
+      "sessionTime": "15:50",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=310303",
+      "pickerUrl": "https://jcacinemes.com/cartellera/doraemon_-aventures-al-mon-de-lart/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/doraemon_-aventures-al-mon-de-lart/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:17:00Z"
     },
     {
       "id": "5261cdbaa248b717",
@@ -2473,7 +2624,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "547e9a591ad53882",
@@ -2491,7 +2642,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "1ba616f7aba97e92",
@@ -2509,7 +2660,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "94b3eae75d7c7133",
@@ -2527,7 +2678,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:53Z"
+      "capturedAt": "2026-10-27T16:16:57Z"
     },
     {
       "id": "1f19c50af44d2117",
@@ -2545,7 +2696,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6006",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:28Z"
+      "capturedAt": "2026-10-27T16:16:33Z"
     },
     {
       "id": "4859fcdfa0171900",
@@ -2563,7 +2714,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6032",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:28Z"
+      "capturedAt": "2026-10-27T16:16:33Z"
     },
     {
       "id": "3feffcfec68adb25",
@@ -2581,7 +2732,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10891",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10891?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:16Z"
+      "capturedAt": "2026-10-27T16:17:21Z"
     },
     {
       "id": "6fb4184da975389d",
@@ -2599,7 +2750,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:09Z"
+      "capturedAt": "2026-10-27T16:17:15Z"
     },
     {
       "id": "4de26046c9d28cce",
@@ -2617,7 +2768,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "4ec602a20fbb9cd8",
@@ -2635,7 +2786,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:06:37Z"
+      "capturedAt": "2026-10-27T16:16:42Z"
     },
     {
       "id": "f2dd2c5433f0cede",
@@ -2653,7 +2804,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:21Z"
+      "capturedAt": "2026-10-27T16:17:26Z"
     },
     {
       "id": "a69de36dacdfebaa",
@@ -2671,7 +2822,25 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=92946",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-27T16:07:46Z"
+      "capturedAt": "2026-10-27T16:17:51Z"
+    },
+    {
+      "id": "f530479be16f5b6b",
+      "filmSlug": "superthings-la-pelicula-en-catala",
+      "filmTitle": "Superthings La Pelicula",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-10-29",
+      "sessionTime": "17:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152377",
+      "pickerUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:16:57Z"
     },
     {
       "id": "ca7deb205ff6e416",
@@ -2689,7 +2858,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4575",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:07:48Z"
+      "capturedAt": "2026-10-27T16:17:54Z"
     },
     {
       "id": "7938f3c7b923258e",
@@ -2707,7 +2876,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "75ad42494ccd4b0a",
@@ -2725,7 +2894,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "17f0f2b7904352fc",
@@ -2743,7 +2912,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "f9d97782c9a1b19e",
@@ -2761,7 +2930,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:06:36Z"
+      "capturedAt": "2026-10-27T16:16:42Z"
     },
     {
       "id": "1286010b7a2ec79a",
@@ -2779,7 +2948,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4894/p?cat-super-things",
       "sourceUrl": "https://www.catcines.cat//film-4894/p?cat-super-things",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-10-27T16:07:50Z"
+      "capturedAt": "2026-10-27T16:17:55Z"
     },
     {
       "id": "89001e8abd1e9825",
@@ -2797,7 +2966,25 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:09Z"
+      "capturedAt": "2026-10-27T16:17:15Z"
+    },
+    {
+      "id": "eab761b417e1df7d",
+      "filmSlug": "mascotes-al-rescat-en-catala",
+      "filmTitle": "Mascotes Al Rescat",
+      "cinemaId": "wc-030",
+      "cinemaSlug": "jca-cinemes-alpicat",
+      "cinemaName": "JCA Cinemes Alpicat",
+      "municipiSlug": "alpicat",
+      "municipiName": "Alpicat",
+      "sessionDate": "2026-10-29",
+      "sessionTime": "18:10",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=310304",
+      "pickerUrl": "https://jcacinemes.com/cartellera/mascotes-al-rescat/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/mascotes-al-rescat/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:17:00Z"
     },
     {
       "id": "256ae8b9e56b13ff",
@@ -2815,7 +3002,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "e9f0429fb726dc81",
@@ -2833,7 +3020,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "e8984186b0b2f9ff",
@@ -2851,7 +3038,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:06:46Z"
+      "capturedAt": "2026-10-27T16:16:51Z"
     },
     {
       "id": "0dfe866530f0a42c",
@@ -2869,7 +3056,25 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/suportant-el-paradis-vo-20261029-1845",
       "sourceUrl": "https://espaitexas.koobin.cat/?action=PU_evento&Ev_id=8496",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:07:23Z"
+      "capturedAt": "2026-10-27T16:17:29Z"
+    },
+    {
+      "id": "7f5587dfa8596117",
+      "filmSlug": "escape-room-2-en-catala",
+      "filmTitle": "Escape Room 2",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-10-29",
+      "sessionTime": "18:50",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152376",
+      "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:16:57Z"
     },
     {
       "id": "7a18b7033af40151",
@@ -2887,7 +3092,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/suportant-el-paradis/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-10-27T16:07:52Z"
+      "capturedAt": "2026-10-27T16:17:57Z"
     },
     {
       "id": "b5bd9c166d3856fa",
@@ -2905,7 +3110,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:06:40Z"
+      "capturedAt": "2026-10-27T16:16:45Z"
     },
     {
       "id": "58462cfc4015c5ed",
@@ -2923,7 +3128,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/escape-room-2",
       "sourceUrl": "https://www.cinemessantcugat.com/escape-room-2",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:34Z"
+      "capturedAt": "2026-10-27T16:16:40Z"
     },
     {
       "id": "0739f0304d80aa82",
@@ -2941,7 +3146,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "54c672211b9092d0",
@@ -2959,7 +3164,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:15Z"
+      "capturedAt": "2026-10-27T16:17:20Z"
     },
     {
       "id": "b456190103f0fc2c",
@@ -2977,7 +3182,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11045",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11045?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:20Z"
+      "capturedAt": "2026-10-27T16:17:25Z"
     },
     {
       "id": "0bbb5f26cd83ad03",
@@ -2995,7 +3200,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261029-2030",
       "sourceUrl": "https://espaitexas.koobin.cat/?action=PU_evento&Ev_id=8596",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:07:13Z"
+      "capturedAt": "2026-10-27T16:17:19Z"
     },
     {
       "id": "ceff944c1d4f9295",
@@ -3013,7 +3218,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:16Z"
+      "capturedAt": "2026-10-27T16:17:21Z"
     },
     {
       "id": "b75d3c397d527994",
@@ -3031,7 +3236,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/cronos/",
       "sourceUrl": "https://jcacinemes.com/cartellera/cronos/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-27T16:06:50Z"
+      "capturedAt": "2026-10-27T16:17:00Z"
     },
     {
       "id": "cab9ac03a812e8f5",
@@ -3049,7 +3254,25 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/cronos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:15Z"
+      "capturedAt": "2026-10-27T16:17:22Z"
+    },
+    {
+      "id": "96df728b54a18476",
+      "filmSlug": "escape-room-2-en-catala",
+      "filmTitle": "Escape Room 2",
+      "cinemaId": "wc-032",
+      "cinemaSlug": "jca-rambla",
+      "cinemaName": "JCA Cinemes Tarragona-Valls",
+      "municipiSlug": "valls",
+      "municipiName": "Valls",
+      "sessionDate": "2026-10-29",
+      "sessionTime": "22:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152440",
+      "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-10-27T16:16:57Z"
     },
     {
       "id": "c9697fb537e05b63",
@@ -3067,7 +3290,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6504",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "a0a22a07eb91b478",
@@ -3085,7 +3308,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:53Z"
+      "capturedAt": "2026-10-27T16:16:56Z"
     },
     {
       "id": "2a768a4efad30cd6",
@@ -3103,7 +3326,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "9864ac169db5bad3",
@@ -3121,7 +3344,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:09Z"
+      "capturedAt": "2026-10-27T16:17:15Z"
     },
     {
       "id": "7281d87f72fd2279",
@@ -3139,7 +3362,25 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:06Z"
+      "capturedAt": "2026-10-27T16:17:12Z"
+    },
+    {
+      "id": "a415430f23bf6954",
+      "filmSlug": "escape-room-2-en-catala",
+      "filmTitle": "Escape Room 2",
+      "cinemaId": "wc-051",
+      "cinemaSlug": "ocine-les-gavarres",
+      "cinemaName": "Ocine Les Gavarres",
+      "municipiSlug": "tarragona",
+      "municipiName": "Tarragona",
+      "sessionDate": "2026-10-30",
+      "sessionTime": "16:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
+      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
+      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10858?lang=ca",
+      "extractorType": "chain-ocine",
+      "capturedAt": "2026-10-27T16:17:21Z"
     },
     {
       "id": "58b76d32bcab551f",
@@ -3157,7 +3398,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:21Z"
+      "capturedAt": "2026-10-27T16:17:26Z"
     },
     {
       "id": "f9e36be1e7927ffc",
@@ -3175,7 +3416,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:13Z"
+      "capturedAt": "2026-10-27T16:17:19Z"
     },
     {
       "id": "edf7e2c236b0d3b9",
@@ -3193,7 +3434,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "65694d7e4f7bbdbc",
@@ -3211,7 +3452,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "0ebc15322edbf1de",
@@ -3229,7 +3470,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/suportant-el-paradis-vo-20261030-2000",
       "sourceUrl": "https://espaitexas.koobin.cat/?action=PU_evento&Ev_id=8494",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:07:23Z"
+      "capturedAt": "2026-10-27T16:17:29Z"
     },
     {
       "id": "a4b85d17e9443c3e",
@@ -3247,7 +3488,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "1efc3b5137c5c303",
@@ -3265,7 +3506,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:07:15Z"
+      "capturedAt": "2026-10-27T16:17:20Z"
     },
     {
       "id": "f2b8d5bac6a3bb78",
@@ -3283,7 +3524,7 @@
       "pickerUrl": "https://cinemaedison.koobin.com/ca/tramviatge-concert-del-tramvia-blanc",
       "sourceUrl": "https://cinemaedison.cat/cartellera/",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:25Z"
+      "capturedAt": "2026-10-27T16:16:31Z"
     },
     {
       "id": "0162e06ac0fc4daa",
@@ -3301,7 +3542,7 @@
       "pickerUrl": "https://tickets.ocinemagic.es/?idioma=ca#/DetallPelicula/11071",
       "sourceUrl": "https://tickets.ocinemagic.es/api/v1/pelicula/11071?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:57Z"
+      "capturedAt": "2026-10-27T16:17:04Z"
     },
     {
       "id": "ef6e6342baf71147",
@@ -3319,7 +3560,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "491ff29f7a68d413",
@@ -3337,7 +3578,7 @@
       "pickerUrl": "https://tickets.ocinevendrell.es/?idioma=ca#/DetallPelicula/11071",
       "sourceUrl": "https://tickets.ocinevendrell.es/api/v1/pelicula/11071?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:50Z"
+      "capturedAt": "2026-10-27T16:16:54Z"
     },
     {
       "id": "e600ffa0775296d2",
@@ -3355,7 +3596,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4670/p?cat-cinema-cinc-david-una-aventura-gegant",
       "sourceUrl": "https://www.catcines.cat//film-4670/p?cat-cinema-cinc-david-una-aventura-gegant",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-10-27T16:07:52Z"
+      "capturedAt": "2026-10-27T16:17:56Z"
     },
     {
       "id": "a396ce9327e37e78",
@@ -3373,7 +3614,7 @@
       "pickerUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/11071",
       "sourceUrl": "https://tickets.ocinepremiumlleida.es/api/v1/pelicula/11071?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:55Z"
+      "capturedAt": "2026-10-27T16:17:01Z"
     },
     {
       "id": "a10b91c0e6465799",
@@ -3391,7 +3632,7 @@
       "pickerUrl": "https://tickets.ocinevilaseca.es/?idioma=ca#/DetallPelicula/11071",
       "sourceUrl": "https://tickets.ocinevilaseca.es/api/v1/pelicula/11071?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:06:59Z"
+      "capturedAt": "2026-10-27T16:17:04Z"
     },
     {
       "id": "18a5e811d5fe71bb",
@@ -3409,7 +3650,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:09Z"
+      "capturedAt": "2026-10-27T16:17:15Z"
     },
     {
       "id": "f7810895d4cb5934",
@@ -3427,7 +3668,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:06Z"
+      "capturedAt": "2026-10-27T16:17:12Z"
     },
     {
       "id": "04fb951a9bd2cbed",
@@ -3445,7 +3686,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "e5c2e67c36584cbc",
@@ -3463,7 +3704,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-10-27T16:07:44Z"
+      "capturedAt": "2026-10-27T16:17:49Z"
     },
     {
       "id": "d86228cd2bc97360",
@@ -3481,7 +3722,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/barcelona/cinemacatalunya/lola-i-el-piano-trencaclosques-hora-blava/959/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/barcelona/cinemacatalunya/lola-i-el-piano-trencaclosques-hora-blava/959/",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:25Z"
+      "capturedAt": "2026-10-27T16:16:31Z"
     },
     {
       "id": "573e067d8ca3f040",
@@ -3499,7 +3740,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "f23f8850520b4a92",
@@ -3517,7 +3758,7 @@
       "pickerUrl": "https://circusa.com/ca/agramunt/",
       "sourceUrl": "https://circusa.com/ca/agramunt/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:35Z"
+      "capturedAt": "2026-10-27T16:17:41Z"
     },
     {
       "id": "8b3cc6de797e21d4",
@@ -3535,7 +3776,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4894/p?cat-super-things",
       "sourceUrl": "https://www.catcines.cat//film-4894/p?cat-super-things",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-10-27T16:07:50Z"
+      "capturedAt": "2026-10-27T16:17:55Z"
     },
     {
       "id": "d397ce035d49117f",
@@ -3553,7 +3794,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "c1286f2a5ea4dc36",
@@ -3571,7 +3812,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "6211f97905cf19d2",
@@ -3589,7 +3830,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "be5fc07fa2fef2b0",
@@ -3607,7 +3848,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "7884ac7510d63990",
@@ -3625,7 +3866,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "516e1e34a0a826f4",
@@ -3643,7 +3884,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "212a755898b373df",
@@ -3661,7 +3902,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4670/p?cat-cinema-cinc-david-una-aventura-gegant",
       "sourceUrl": "https://www.catcines.cat//film-4670/p?cat-cinema-cinc-david-una-aventura-gegant",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-10-27T16:07:52Z"
+      "capturedAt": "2026-10-27T16:17:56Z"
     },
     {
       "id": "0e8d9757f6941f7c",
@@ -3679,7 +3920,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:13Z"
+      "capturedAt": "2026-10-27T16:17:19Z"
     },
     {
       "id": "8c186234f1a3d232",
@@ -3697,7 +3938,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:09Z"
+      "capturedAt": "2026-10-27T16:17:15Z"
     },
     {
       "id": "279826ea6d177621",
@@ -3715,7 +3956,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-10-27T16:07:52Z"
+      "capturedAt": "2026-10-27T16:17:57Z"
     },
     {
       "id": "52f6fe5c8feea0ba",
@@ -3733,7 +3974,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:06Z"
+      "capturedAt": "2026-10-27T16:17:12Z"
     },
     {
       "id": "dffea37e57a780fd",
@@ -3751,7 +3992,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "8e0881fc4eda7090",
@@ -3769,7 +4010,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-10-27T16:07:44Z"
+      "capturedAt": "2026-10-27T16:17:49Z"
     },
     {
       "id": "0a4e81e6d97f12ca",
@@ -3787,7 +4028,7 @@
       "pickerUrl": "https://circusa.com/ca/agramunt/",
       "sourceUrl": "https://circusa.com/ca/agramunt/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:35Z"
+      "capturedAt": "2026-10-27T16:17:41Z"
     },
     {
       "id": "8b2026b32215b21f",
@@ -3805,7 +4046,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/lleida/salaajuntamentdelapaeria/super-mario-galaxy-la-pelicula/34/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/lleida/salaajuntamentdelapaeria/super-mario-galaxy-la-pelicula/34/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:39Z"
+      "capturedAt": "2026-10-27T16:17:45Z"
     },
     {
       "id": "6817122c3de3d6f9",
@@ -3823,7 +4064,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/lerida/cinemollerussacentrecultural/minions-amp-monsters/638/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/lerida/cinemollerussacentrecultural/minions-amp-monsters/638/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:45Z"
+      "capturedAt": "2026-10-27T16:17:50Z"
     },
     {
       "id": "f415d736e0b5328d",
@@ -3841,7 +4082,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/tarragona/cinecasalmontblanc/super-mario-galaxy-la-pelicula/64/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/tarragona/cinecasalmontblanc/super-mario-galaxy-la-pelicula/64/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:54Z"
+      "capturedAt": "2026-10-27T16:18:00Z"
     },
     {
       "id": "9918a767948d1c83",
@@ -3859,7 +4100,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/girona/cinemacomtalripoll/toy-story-5/56/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/girona/cinemacomtalripoll/toy-story-5/56/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:21Z"
+      "capturedAt": "2026-10-27T16:17:27Z"
     },
     {
       "id": "4cf1a3f970776822",
@@ -3877,7 +4118,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "560709466876bffe",
@@ -3895,7 +4136,7 @@
       "pickerUrl": "https://www.catcines.cat//film-4894/p?cat-super-things",
       "sourceUrl": "https://www.catcines.cat//film-4894/p?cat-super-things",
       "extractorType": "catcines-html",
-      "capturedAt": "2026-10-27T16:07:50Z"
+      "capturedAt": "2026-10-27T16:17:55Z"
     },
     {
       "id": "076d63b539892220",
@@ -3913,7 +4154,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "e369d87caf7b23d3",
@@ -3931,7 +4172,7 @@
       "pickerUrl": "https://circusa.com/ca/agramunt/",
       "sourceUrl": "https://circusa.com/ca/agramunt/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:35Z"
+      "capturedAt": "2026-10-27T16:17:41Z"
     },
     {
       "id": "f07367590065f660",
@@ -3949,7 +4190,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "ff65f49454d3be97",
@@ -3967,7 +4208,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "bbedccab1e522221",
@@ -3985,7 +4226,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:09Z"
+      "capturedAt": "2026-10-27T16:17:15Z"
     },
     {
       "id": "2d002804e167cc3f",
@@ -4003,7 +4244,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:06Z"
+      "capturedAt": "2026-10-27T16:17:12Z"
     },
     {
       "id": "94137c92506bf7bb",
@@ -4021,7 +4262,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-10-27T16:07:44Z"
+      "capturedAt": "2026-10-27T16:17:49Z"
     },
     {
       "id": "4e5cc503a6e77e7d",
@@ -4039,7 +4280,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:13Z"
+      "capturedAt": "2026-10-27T16:17:19Z"
     },
     {
       "id": "0751377faec68b95",
@@ -4057,7 +4298,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "acc81f69189dae97",
@@ -4075,7 +4316,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "b48961576e651b31",
@@ -4093,7 +4334,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/suportant-el-paradis-vo-20261102-2000",
       "sourceUrl": "https://espaitexas.koobin.cat/?action=PU_evento&Ev_id=8496",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:07:23Z"
+      "capturedAt": "2026-10-27T16:17:29Z"
     },
     {
       "id": "ad138b225163e62d",
@@ -4111,7 +4352,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "d6db7cf82d2a7daa",
@@ -4129,7 +4370,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "471a4f7140a32bb7",
@@ -4147,7 +4388,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "e6d365efe8ad0b86",
@@ -4165,7 +4406,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:09Z"
+      "capturedAt": "2026-10-27T16:17:15Z"
     },
     {
       "id": "0709aa676d9d46b1",
@@ -4183,7 +4424,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:06Z"
+      "capturedAt": "2026-10-27T16:17:12Z"
     },
     {
       "id": "125a51528c0f1e4c",
@@ -4201,7 +4442,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:13Z"
+      "capturedAt": "2026-10-27T16:17:19Z"
     },
     {
       "id": "0b39076b42eafe45",
@@ -4219,7 +4460,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "a41e22b662d06b5a",
@@ -4237,7 +4478,7 @@
       "pickerUrl": "https://cultura.gencat.cat/ca/actualitat/filmoteca/",
       "sourceUrl": "https://cultura.gencat.cat/web/.content/filmoteca/filmoteca-programacio-novembre-2026.pdf",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-10-27T16:07:54Z"
+      "capturedAt": "2026-10-27T16:18:00Z"
     },
     {
       "id": "f37b25ed38390baa",
@@ -4255,7 +4496,25 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
+    },
+    {
+      "id": "5abeebfe28ade17c",
+      "filmSlug": "indomita-llum-en-catala",
+      "filmTitle": "Indomita Llum",
+      "cinemaId": "wc-018",
+      "cinemaSlug": "cinemes-majestic",
+      "cinemaName": "Cinemes Majestic",
+      "municipiSlug": "tarrega",
+      "municipiName": "Tàrrega",
+      "sessionDate": "2026-11-03",
+      "sessionTime": "20:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://circusa.com/ca/tarrega/",
+      "pickerUrl": "https://circusa.com/ca/tarrega/",
+      "sourceUrl": "https://circusa.com/ca/tarrega/",
+      "extractorType": "ticketing-circusa",
+      "capturedAt": "2026-10-27T16:16:33Z"
     },
     {
       "id": "cecaa023c0268600",
@@ -4273,7 +4532,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "5a5acf5d307667c8",
@@ -4291,7 +4550,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "27ade67255de9000",
@@ -4309,7 +4568,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:09Z"
+      "capturedAt": "2026-10-27T16:17:15Z"
     },
     {
       "id": "756bb4b633efc7c0",
@@ -4327,7 +4586,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:06Z"
+      "capturedAt": "2026-10-27T16:17:12Z"
     },
     {
       "id": "c9c40161b7171cf1",
@@ -4345,7 +4604,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:13Z"
+      "capturedAt": "2026-10-27T16:17:19Z"
     },
     {
       "id": "f62e8ebeebfeb9e6",
@@ -4363,7 +4622,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "e486d46454e8a417",
@@ -4381,7 +4640,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "e81c8a313c76794b",
@@ -4399,7 +4658,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "87abb66a6d5914e4",
@@ -4417,7 +4676,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:06:48Z"
+      "capturedAt": "2026-10-27T16:16:53Z"
     },
     {
       "id": "7b7fac493550d82f",
@@ -4435,7 +4694,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:09Z"
+      "capturedAt": "2026-10-27T16:17:15Z"
     },
     {
       "id": "6b38ddf7ef97b550",
@@ -4453,7 +4712,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:06Z"
+      "capturedAt": "2026-10-27T16:17:12Z"
     },
     {
       "id": "3a2761973c3e5cf0",
@@ -4471,7 +4730,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:07:13Z"
+      "capturedAt": "2026-10-27T16:17:19Z"
     },
     {
       "id": "4fd903ec713d53c0",
@@ -4489,7 +4748,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "1a048069dcc02b97",
@@ -4507,7 +4766,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "8092237172836863",
@@ -4525,7 +4784,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:06:23Z"
+      "capturedAt": "2026-10-27T16:16:29Z"
     },
     {
       "id": "5938d130d4712728",
@@ -4543,7 +4802,7 @@
       "pickerUrl": "https://circusa.com/ca/guissona/",
       "sourceUrl": "https://circusa.com/ca/guissona/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:25Z"
+      "capturedAt": "2026-10-27T16:17:31Z"
     },
     {
       "id": "2634e6673f9d6e88",
@@ -4561,7 +4820,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/catalunya/itinerantscat/minions-amp-monsters-guissona/56/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/catalunya/itinerantscat/minions-amp-monsters-guissona/56/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:30Z"
+      "capturedAt": "2026-10-27T16:17:35Z"
     },
     {
       "id": "f866e2e5585fa1d9",
@@ -4579,7 +4838,7 @@
       "pickerUrl": "https://cinemamontgri.cat/escape-room-2/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-10-27T16:07:53Z"
+      "capturedAt": "2026-10-27T16:18:00Z"
     },
     {
       "id": "3aa1006725cf1f93",
@@ -4597,7 +4856,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/lleida/cinelalira/tadeo-jones-y-la-lampara-maravillosa/22/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/lleida/cinelalira/tadeo-jones-y-la-lampara-maravillosa/22/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:46Z"
+      "capturedAt": "2026-10-27T16:17:52Z"
     },
     {
       "id": "f71ea4614f0369c4",
@@ -4615,7 +4874,7 @@
       "pickerUrl": "https://cinemamontgri.cat/escape-room-2/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-10-27T16:07:53Z"
+      "capturedAt": "2026-10-27T16:18:00Z"
     },
     {
       "id": "ebdebf9485fe3bb6",
@@ -4633,7 +4892,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/catalunya/itinerantscat/la-bola-negra-guissona/57/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/catalunya/itinerantscat/la-bola-negra-guissona/57/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:29Z"
+      "capturedAt": "2026-10-27T16:17:35Z"
     },
     {
       "id": "4257b1565b9448e3",
@@ -4651,7 +4910,7 @@
       "pickerUrl": "https://cinemamontgri.cat/la-bola-negra-2/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-10-27T16:07:53Z"
+      "capturedAt": "2026-10-27T16:18:00Z"
     },
     {
       "id": "0c71e8347dade0e3",
@@ -4669,7 +4928,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/lleida/salaajuntamentdelapaeria/minions-amp-monsters/16/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/lleida/salaajuntamentdelapaeria/minions-amp-monsters/16/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:39Z"
+      "capturedAt": "2026-10-27T16:17:44Z"
     },
     {
       "id": "fb2c811df53e9bed",
@@ -4687,7 +4946,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/lerida/cinemollerussacentrecultural/tadeo-jones-y-la-lampara-maravillosa/650/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/lerida/cinemollerussacentrecultural/tadeo-jones-y-la-lampara-maravillosa/650/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:46Z"
+      "capturedAt": "2026-10-27T16:17:50Z"
     },
     {
       "id": "1f497b44945140ac",
@@ -4705,7 +4964,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/tarragona/cinecasalmontblanc/minions-amp-monsters/86/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/tarragona/cinecasalmontblanc/minions-amp-monsters/86/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:54Z"
+      "capturedAt": "2026-10-27T16:17:59Z"
     },
     {
       "id": "550aca1dd2e351bb",
@@ -4723,7 +4982,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/girona/cinemacomtalripoll/minions-amp-monsters/61/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/girona/cinemacomtalripoll/minions-amp-monsters/61/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:21Z"
+      "capturedAt": "2026-10-27T16:17:27Z"
     },
     {
       "id": "2b55aec4632c6d53",
@@ -4741,7 +5000,7 @@
       "pickerUrl": "https://cinemamontgri.cat/escape-room-2/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-10-27T16:07:53Z"
+      "capturedAt": "2026-10-27T16:18:00Z"
     },
     {
       "id": "b9e86274b00d6123",
@@ -4759,7 +5018,7 @@
       "pickerUrl": "https://cinemamontgri.cat/la-bola-negra-2/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-10-27T16:07:53Z"
+      "capturedAt": "2026-10-27T16:18:00Z"
     },
     {
       "id": "a377c30135f71fa8",
@@ -4777,7 +5036,7 @@
       "pickerUrl": "https://cinemamontgri.cat/la-bola-negra-2/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-10-27T16:07:53Z"
+      "capturedAt": "2026-10-27T16:18:00Z"
     },
     {
       "id": "e58fdaf3c3a787b5",
@@ -4795,7 +5054,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/220848/",
       "sourceUrl": "https://barcelona.cines-verdi.com/mala-bestia",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:07:37Z"
+      "capturedAt": "2026-10-27T16:17:39Z"
     },
     {
       "id": "f43e84b115c1b3bb",
@@ -4813,7 +5072,7 @@
       "pickerUrl": "https://www.cinemaesbarjo.cat/les-veus-del-riu-gambiaun-documental-de-laura-carrau-pascual/",
       "sourceUrl": "https://www.cinemaesbarjo.cat/les-veus-del-riu-gambiaun-documental-de-laura-carrau-pascual/",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:07:56Z"
+      "capturedAt": "2026-10-27T16:18:03Z"
     },
     {
       "id": "7ac994ecfbc34e2f",
@@ -4831,7 +5090,7 @@
       "pickerUrl": "https://www.cinemaesbarjo.cat/tanit-19-de-novembre-cicle-gaudi/",
       "sourceUrl": "https://www.cinemaesbarjo.cat/tanit-19-de-novembre-cicle-gaudi/",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:07:57Z"
+      "capturedAt": "2026-10-27T16:18:04Z"
     },
     {
       "id": "46e3205ce3025d55",
@@ -4849,7 +5108,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/221705/",
       "sourceUrl": "https://barcelona.cines-verdi.com/viva",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:07:35Z"
+      "capturedAt": "2026-10-27T16:17:37Z"
     },
     {
       "id": "2239b5926a4c11ad",
@@ -4867,7 +5126,7 @@
       "pickerUrl": "https://cinemamontgri.cat/lovella-shaun-missio-carbassa/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-10-27T16:07:53Z"
+      "capturedAt": "2026-10-27T16:18:01Z"
     },
     {
       "id": "89780856451999c6",
@@ -4885,7 +5144,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/lleida/cinelalira/super-mario-galaxy-la-pelicula/28/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/lleida/cinelalira/super-mario-galaxy-la-pelicula/28/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-10-27T16:07:46Z"
+      "capturedAt": "2026-10-27T16:17:52Z"
     },
     {
       "id": "7539cac18bac88d0",
@@ -4903,7 +5162,7 @@
       "pickerUrl": "https://cinemamontgri.cat/lovella-shaun-missio-carbassa/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-10-27T16:07:53Z"
+      "capturedAt": "2026-10-27T16:18:01Z"
     },
     {
       "id": "9c765f2990a00fc0",
@@ -4921,7 +5180,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/downriver-a-tiger-sessio/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-10-27T16:08:03Z"
+      "capturedAt": "2026-10-27T16:18:08Z"
     },
     {
       "id": "afb05110a2ac33f2",
@@ -4939,7 +5198,7 @@
       "pickerUrl": "https://cultura.gencat.cat/ca/actualitat/filmoteca/",
       "sourceUrl": "https://cultura.gencat.cat/web/.content/filmoteca/filmoteca-programacio-novembre-2026.pdf",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-10-27T16:07:54Z"
+      "capturedAt": "2026-10-27T16:18:01Z"
     },
     {
       "id": "c66b27eaf81b7057",
@@ -4957,7 +5216,7 @@
       "pickerUrl": "https://cinemamontgri.cat/el-gato-con-sombrero/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-10-27T16:07:54Z"
+      "capturedAt": "2026-10-27T16:18:01Z"
     },
     {
       "id": "54fcd9d9d9b69cc4",
@@ -4975,7 +5234,7 @@
       "pickerUrl": "https://cultura.gencat.cat/ca/actualitat/filmoteca/",
       "sourceUrl": "https://cultura.gencat.cat/web/.content/filmoteca/filmoteca-programacio-novembre-2026.pdf",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-10-27T16:07:54Z"
+      "capturedAt": "2026-10-27T16:18:01Z"
     },
     {
       "id": "28efc84dba1c9d69",
@@ -4993,7 +5252,7 @@
       "pickerUrl": "https://cinemamontgri.cat/el-gato-con-sombrero/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-10-27T16:07:54Z"
+      "capturedAt": "2026-10-27T16:18:01Z"
     },
     {
       "id": "a37e8a76825645af",
@@ -5011,7 +5270,7 @@
       "pickerUrl": "https://www.falset.org/sites/default/files/diapositives/documents/agenda_tardor_falset_26.pdf",
       "sourceUrl": "https://www.falset.org/sites/default/files/diapositives/documents/agenda_tardor_falset_26.pdf",
       "extractorType": "falset-pdf",
-      "capturedAt": "2026-10-27T16:07:23Z"
+      "capturedAt": "2026-10-27T16:17:29Z"
     },
     {
       "id": "2bd3508a86f7b2c7",
@@ -5029,7 +5288,7 @@
       "pickerUrl": "https://www.falset.org/sites/default/files/diapositives/documents/agenda_tardor_falset_26.pdf",
       "sourceUrl": "https://www.falset.org/sites/default/files/diapositives/documents/agenda_tardor_falset_26.pdf",
       "extractorType": "falset-pdf",
-      "capturedAt": "2026-10-27T16:07:23Z"
+      "capturedAt": "2026-10-27T16:17:29Z"
     },
     {
       "id": "ca3dec0e91e2b076",
@@ -5047,7 +5306,7 @@
       "pickerUrl": "https://cinemaedison.koobin.com/ca/ara-que-estem-junts---glosa-caustica-20261229-2000",
       "sourceUrl": "https://cinemaedison.cat/cartellera/",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:06:25Z"
+      "capturedAt": "2026-10-27T16:16:31Z"
     }
   ],
   "sourceIssues": [
