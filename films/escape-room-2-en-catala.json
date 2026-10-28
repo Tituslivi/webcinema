@@ -1,9 +1,9 @@
 {
   "slug": "escape-room-2-en-catala",
   "title": "Escape Room 2",
-  "sessionCount": 46,
-  "cinemaCount": 12,
-  "municipiCount": 11,
+  "sessionCount": 33,
+  "cinemaCount": 11,
+  "municipiCount": 10,
   "sessions": [
     {
       "id": "03a7babe0b73d699",
@@ -21,7 +21,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93011",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-27T16:17:51Z"
+      "capturedAt": "2026-10-28T05:31:24Z"
     },
     {
       "id": "fae36e956daa6035",
@@ -39,7 +39,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93012",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-27T16:17:51Z"
+      "capturedAt": "2026-10-28T05:31:24Z"
     },
     {
       "id": "3f4c4bbce7c35e96",
@@ -57,7 +57,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93013",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-27T16:17:51Z"
+      "capturedAt": "2026-10-28T05:31:24Z"
     },
     {
       "id": "fbe9e91dac17988f",
@@ -75,223 +75,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93014",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-27T16:17:51Z"
-    },
-    {
-      "id": "0e895a6eb6157fad",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-046",
-      "cinemaSlug": "ocine-arenys",
-      "cinemaName": "Ocine Arenys",
-      "municipiSlug": "arenys-de-mar",
-      "municipiName": "Arenys de Mar",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "15:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinearenys.es/?idioma=ca#/DetallPelicula/10858",
-      "pickerUrl": "https://tickets.ocinearenys.es/?idioma=ca#/DetallPelicula/10858",
-      "sourceUrl": "https://tickets.ocinearenys.es/api/v1/pelicula/10858?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:16:54Z"
-    },
-    {
-      "id": "58ee48cc4cc4bd01",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-054",
-      "cinemaSlug": "ocine-premium-lleida",
-      "cinemaName": "Ocine Premium Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "15:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/10858",
-      "pickerUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/10858",
-      "sourceUrl": "https://tickets.ocinepremiumlleida.es/api/v1/pelicula/10858?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:17:03Z"
-    },
-    {
-      "id": "4c94bcb3f9fc7231",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10858",
-      "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10858",
-      "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10858?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:16:57Z"
-    },
-    {
-      "id": "d64a157c693ec47a",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "17:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=279496",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:16:54Z"
-    },
-    {
-      "id": "a7050715b7da005f",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "17:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=141741&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:16:53Z"
-    },
-    {
-      "id": "36d30b18b4706a3d",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-004",
-      "cinemaSlug": "bages-centre",
-      "cinemaName": "Bages Centre",
-      "municipiSlug": "manresa",
-      "municipiName": "Manresa",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "18:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
-      "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
-      "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:16:29Z"
-    },
-    {
-      "id": "9c9406e9ccc2eb75",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "18:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152328",
-      "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-10-27T16:16:57Z"
-    },
-    {
-      "id": "0bca5d82637eb715",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-019",
-      "cinemaSlug": "cinemes-sant-cugat",
-      "cinemaName": "Cinemes Sant Cugat",
-      "municipiSlug": "sant-cugat-del-valles",
-      "municipiName": "Sant Cugat del Vallès",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "19:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=115183",
-      "pickerUrl": "https://www.cinemessantcugat.com/escape-room-2",
-      "sourceUrl": "https://www.cinemessantcugat.com/escape-room-2",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:16:40Z"
-    },
-    {
-      "id": "f9b5e3144bc3355c",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "20:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=279497",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:16:54Z"
-    },
-    {
-      "id": "52aa795e6f94cf2d",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "20:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10858?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:17:21Z"
-    },
-    {
-      "id": "b4aa686ba48b76ad",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "21:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:16:42Z"
-    },
-    {
-      "id": "6738f4164bde15c9",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "22:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152438",
-      "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-10-27T16:16:57Z"
+      "capturedAt": "2026-10-28T05:31:24Z"
     },
     {
       "id": "c20309e467563a9c",
@@ -309,25 +93,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93015",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-27T16:17:51Z"
-    },
-    {
-      "id": "007f29e515512775",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-10-27",
-      "sessionTime": "22:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2493463&sesion=79373",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-10-27T16:17:19Z"
+      "capturedAt": "2026-10-28T05:31:24Z"
     },
     {
       "id": "df723b1c3c7e751a",
@@ -345,7 +111,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93016",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-27T16:17:51Z"
+      "capturedAt": "2026-10-28T05:31:24Z"
     },
     {
       "id": "fc178032636c872f",
@@ -363,7 +129,7 @@
       "pickerUrl": "https://tickets.ocinearenys.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinearenys.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:16:54Z"
+      "capturedAt": "2026-10-28T05:30:28Z"
     },
     {
       "id": "94e73c8a39c4b3f6",
@@ -381,7 +147,7 @@
       "pickerUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinepremiumlleida.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:17:03Z"
+      "capturedAt": "2026-10-28T05:30:39Z"
     },
     {
       "id": "49da9e4d1e3ad328",
@@ -399,7 +165,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:16:53Z"
+      "capturedAt": "2026-10-28T05:30:27Z"
     },
     {
       "id": "7ad5d93872834c63",
@@ -417,7 +183,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:16:57Z"
+      "capturedAt": "2026-10-28T05:30:34Z"
     },
     {
       "id": "661d6e1c95f112ab",
@@ -435,7 +201,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:16:42Z"
+      "capturedAt": "2026-10-28T05:30:19Z"
     },
     {
       "id": "f3851cb4b4320f38",
@@ -453,7 +219,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:16:54Z"
+      "capturedAt": "2026-10-28T05:30:27Z"
     },
     {
       "id": "ca814f14746b191d",
@@ -471,7 +237,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:16:53Z"
+      "capturedAt": "2026-10-28T05:30:27Z"
     },
     {
       "id": "26edf943aefe24d0",
@@ -489,7 +255,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:16:29Z"
+      "capturedAt": "2026-10-28T05:30:02Z"
     },
     {
       "id": "27dbb521cda1a133",
@@ -507,7 +273,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
       "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-27T16:16:57Z"
+      "capturedAt": "2026-10-28T05:30:34Z"
     },
     {
       "id": "be0f19f756bb4f02",
@@ -525,7 +291,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:16:54Z"
+      "capturedAt": "2026-10-28T05:30:27Z"
     },
     {
       "id": "5a187ea91d84507c",
@@ -543,7 +309,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:17:21Z"
+      "capturedAt": "2026-10-28T05:30:56Z"
     },
     {
       "id": "c962b6e6457441d8",
@@ -561,7 +327,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/escape-room-2",
       "sourceUrl": "https://www.cinemessantcugat.com/escape-room-2",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:16:40Z"
+      "capturedAt": "2026-10-28T05:30:13Z"
     },
     {
       "id": "ef7e2a73bec9973c",
@@ -579,7 +345,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
       "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-27T16:16:57Z"
+      "capturedAt": "2026-10-28T05:30:34Z"
     },
     {
       "id": "60567b32e8e96ec0",
@@ -597,7 +363,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93017",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-10-27T16:17:51Z"
+      "capturedAt": "2026-10-28T05:31:24Z"
     },
     {
       "id": "9495a6f15db322a9",
@@ -615,7 +381,7 @@
       "pickerUrl": "https://tickets.ocinearenys.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinearenys.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:16:54Z"
+      "capturedAt": "2026-10-28T05:30:28Z"
     },
     {
       "id": "a8757f87f1a6ee38",
@@ -633,7 +399,7 @@
       "pickerUrl": "https://tickets.ocinepremiumlleida.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinepremiumlleida.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:17:03Z"
+      "capturedAt": "2026-10-28T05:30:39Z"
     },
     {
       "id": "5261cdbaa248b717",
@@ -651,7 +417,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:16:53Z"
+      "capturedAt": "2026-10-28T05:30:27Z"
     },
     {
       "id": "94b3eae75d7c7133",
@@ -669,7 +435,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:16:57Z"
+      "capturedAt": "2026-10-28T05:30:34Z"
     },
     {
       "id": "4ec602a20fbb9cd8",
@@ -687,7 +453,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-10-27T16:16:42Z"
+      "capturedAt": "2026-10-28T05:30:19Z"
     },
     {
       "id": "7938f3c7b923258e",
@@ -705,7 +471,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:16:54Z"
+      "capturedAt": "2026-10-28T05:30:27Z"
     },
     {
       "id": "75ad42494ccd4b0a",
@@ -723,7 +489,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-10-27T16:16:53Z"
+      "capturedAt": "2026-10-28T05:30:27Z"
     },
     {
       "id": "256ae8b9e56b13ff",
@@ -741,7 +507,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-10-27T16:16:29Z"
+      "capturedAt": "2026-10-28T05:30:02Z"
     },
     {
       "id": "7f5587dfa8596117",
@@ -759,7 +525,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
       "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-27T16:16:57Z"
+      "capturedAt": "2026-10-28T05:30:34Z"
     },
     {
       "id": "58462cfc4015c5ed",
@@ -777,7 +543,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/escape-room-2",
       "sourceUrl": "https://www.cinemessantcugat.com/escape-room-2",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:16:40Z"
+      "capturedAt": "2026-10-28T05:30:13Z"
     },
     {
       "id": "0739f0304d80aa82",
@@ -795,7 +561,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-10-27T16:16:54Z"
+      "capturedAt": "2026-10-28T05:30:27Z"
     },
     {
       "id": "ceff944c1d4f9295",
@@ -813,7 +579,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-10-27T16:17:21Z"
+      "capturedAt": "2026-10-28T05:30:56Z"
     },
     {
       "id": "96df728b54a18476",
@@ -831,7 +597,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
       "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-10-27T16:16:57Z"
+      "capturedAt": "2026-10-28T05:30:34Z"
     }
   ]
 }
