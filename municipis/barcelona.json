@@ -3,9 +3,9 @@
   "name": "Barcelona",
   "ineCode": "08019",
   "idescatCode": "080193",
-  "sessionCount": 23,
-  "filmCount": 8,
-  "cinemaCount": 8,
+  "sessionCount": 14,
+  "filmCount": 7,
+  "cinemaCount": 6,
   "sessions": [
     {
       "id": "279826ea6d177621",
@@ -23,169 +23,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-03T05:31:14Z"
-    },
-    {
-      "id": "eafb9b784eca2cac",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-03",
-      "sessionTime": "15:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=141985&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-03T05:30:27Z"
-    },
-    {
-      "id": "d6db7cf82d2a7daa",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-03",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=193712&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-03T05:30:27Z"
-    },
-    {
-      "id": "471a4f7140a32bb7",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-03",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=118358&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-03T05:30:27Z"
-    },
-    {
-      "id": "45e69e1d9a1bd174",
-      "filmSlug": "suportant-el-paradis-en-catala",
-      "filmTitle": "Suportant El Paradis",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-03",
-      "sessionTime": "16:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/suportant-el-paradis-vo-20261103-1615",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/suportant-el-paradis-vo-20261103-1615",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-03T05:30:11Z"
-    },
-    {
-      "id": "6e46d08dd7cf8d62",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-03",
-      "sessionTime": "16:25",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-03T05:30:25Z"
-    },
-    {
-      "id": "272bba8c9d1839bd",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-03",
-      "sessionTime": "17:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=141906&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-03T05:30:27Z"
-    },
-    {
-      "id": "07c02c111333ed13",
-      "filmSlug": "la-invasio-dels-barbars-en-catala",
-      "filmTitle": "La Invasio Dels Barbars",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-03",
-      "sessionTime": "18:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261103-1800",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261103-1800",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-03T05:30:13Z"
-    },
-    {
-      "id": "ce515977b40a94b5",
-      "filmSlug": "gracies-per-la-propina-en-catala",
-      "filmTitle": "Gracies Per La Propina",
-      "cinemaId": "wc-097",
-      "cinemaSlug": "filmoteca-de-catalunya",
-      "cinemaName": "Filmoteca de Catalunya",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-03",
-      "sessionTime": "18:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=983&codiCicle=14",
-      "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=983&codiCicle=14",
-      "sourceUrl": "https://www.filmoteca.cat/web/ca/film/gracies-la-propina",
-      "extractorType": "filmoteca-html",
-      "capturedAt": "2026-11-03T05:31:31Z"
-    },
-    {
-      "id": "46b638d4deebec98",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-03",
-      "sessionTime": "18:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261103-1815",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261103-1815",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-03T05:30:14Z"
+      "capturedAt": "2026-11-04T05:31:23Z"
     },
     {
       "id": "e14638dacb79ee8f",
@@ -203,7 +41,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261104-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-03T05:30:14Z"
+      "capturedAt": "2026-11-04T05:30:11Z"
     },
     {
       "id": "7aef6b807f6aebb8",
@@ -221,7 +59,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-03T05:30:27Z"
+      "capturedAt": "2026-11-04T05:30:24Z"
     },
     {
       "id": "5a5acf5d307667c8",
@@ -239,7 +77,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-03T05:30:27Z"
+      "capturedAt": "2026-11-04T05:30:24Z"
     },
     {
       "id": "ed6045cd360b81ae",
@@ -257,7 +95,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-03T05:30:25Z"
+      "capturedAt": "2026-11-04T05:30:22Z"
     },
     {
       "id": "f5ed71aff5a56b67",
@@ -275,7 +113,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-03T05:30:27Z"
+      "capturedAt": "2026-11-04T05:30:24Z"
     },
     {
       "id": "ca642370a77f259a",
@@ -293,7 +131,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261104-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-03T05:30:14Z"
+      "capturedAt": "2026-11-04T05:30:12Z"
     },
     {
       "id": "cf347bd4e0712f37",
@@ -311,7 +149,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/suportant-el-paradis-vo-20261104-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-03T05:30:14Z"
+      "capturedAt": "2026-11-04T05:30:14Z"
     },
     {
       "id": "87abb66a6d5914e4",
@@ -329,7 +167,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-03T05:30:27Z"
+      "capturedAt": "2026-11-04T05:30:24Z"
     },
     {
       "id": "d4a6eb50b3d8b0dd",
@@ -347,7 +185,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-03T05:30:25Z"
+      "capturedAt": "2026-11-04T05:30:22Z"
     },
     {
       "id": "5fb12f0f967c7042",
@@ -365,7 +203,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-03T05:30:27Z"
+      "capturedAt": "2026-11-04T05:30:24Z"
     },
     {
       "id": "ee69b37aa7a954de",
@@ -383,7 +221,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261105-1810",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-03T05:30:14Z"
+      "capturedAt": "2026-11-04T05:30:14Z"
     },
     {
       "id": "03a06f20a3ba1c3e",
@@ -401,7 +239,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-03T05:30:25Z"
+      "capturedAt": "2026-11-04T05:30:24Z"
     },
     {
       "id": "4cd4756e234f6927",
@@ -419,7 +257,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261105-2000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-03T05:30:14Z"
+      "capturedAt": "2026-11-04T05:30:14Z"
     }
   ]
 }
