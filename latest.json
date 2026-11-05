@@ -1,54 +1,44 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-04T05:33:42Z",
+  "generatedAt": "2026-11-05T05:34:00Z",
   "weekStart": "2026-10-30",
   "weekEnd": "2026-11-05",
   "source": {
-    "sessionsPath": "runs\\daily\\2026-11-04\\sessions.json",
-    "recordsTotal": 400,
+    "sessionsPath": "runs\\daily\\2026-11-05\\sessions.json",
+    "recordsTotal": 453,
     "skippedSources": 7,
-    "latestCapturedAt": "2026-11-04T05:31:24Z"
+    "latestCapturedAt": "2026-11-05T05:31:25Z"
   },
   "summary": {
-    "sessions": 62,
-    "films": 10,
+    "sessions": 41,
+    "films": 9,
     "cinemas": 16,
     "municipis": 11,
     "topFilms": [
       {
         "slug": "escape-room-2-en-catala",
         "title": "Escape Room 2",
-        "sessions": 22
+        "sessions": 14
       },
       {
         "slug": "superthings-la-pelicula-en-catala",
         "title": "Superthings La Pelicula",
-        "sessions": 18
-      },
-      {
-        "slug": "superthings-la-pel-licula-en-catala",
-        "title": "Superthings La Pel Licula",
-        "sessions": 6
-      },
-      {
-        "slug": "cronos-en-catala",
-        "title": "Cronos",
-        "sessions": 6
+        "sessions": 11
       },
       {
         "slug": "el-gato-con-sombrero-en-catala",
         "title": "El Gato Con Sombrero",
+        "sessions": 6
+      },
+      {
+        "slug": "superthings-la-pel-licula-en-catala",
+        "title": "Superthings La Pel Licula",
         "sessions": 3
       },
       {
-        "slug": "la-invasio-dels-barbars-en-catala",
-        "title": "La Invasio Dels Barbars",
-        "sessions": 2
-      },
-      {
-        "slug": "viatge-al-pais-dels-blancs-en-catala",
-        "title": "Viatge al país dels blancs",
-        "sessions": 2
+        "slug": "cronos-en-catala",
+        "title": "Cronos",
+        "sessions": 3
       },
       {
         "slug": "l-emilie-i-el-secret-de-les-tempestes-en-catala",
@@ -56,8 +46,13 @@
         "sessions": 1
       },
       {
-        "slug": "suportant-el-paradis-en-catala",
-        "title": "Suportant El Paradis",
+        "slug": "viatge-al-pais-dels-blancs-en-catala",
+        "title": "Viatge al país dels blancs",
+        "sessions": 1
+      },
+      {
+        "slug": "la-invasio-dels-barbars-en-catala",
+        "title": "La Invasio Dels Barbars",
         "sessions": 1
       },
       {
@@ -71,21 +66,21 @@
     {
       "slug": "cronos-en-catala",
       "title": "Cronos",
-      "sessionCount": 6,
+      "sessionCount": 3,
       "cinemaCount": 3,
       "municipiCount": 3
     },
     {
       "slug": "el-gato-con-sombrero-en-catala",
       "title": "El Gato Con Sombrero",
-      "sessionCount": 3,
+      "sessionCount": 6,
       "cinemaCount": 1,
       "municipiCount": 1
     },
     {
       "slug": "escape-room-2-en-catala",
       "title": "Escape Room 2",
-      "sessionCount": 22,
+      "sessionCount": 14,
       "cinemaCount": 7,
       "municipiCount": 7
     },
@@ -99,7 +94,7 @@
     {
       "slug": "la-invasio-dels-barbars-en-catala",
       "title": "La Invasio Dels Barbars",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "cinemaCount": 1,
       "municipiCount": 1
     },
@@ -113,28 +108,21 @@
     {
       "slug": "superthings-la-pel-licula-en-catala",
       "title": "Superthings La Pel Licula",
-      "sessionCount": 6,
+      "sessionCount": 3,
       "cinemaCount": 2,
       "municipiCount": 2
     },
     {
       "slug": "superthings-la-pelicula-en-catala",
       "title": "Superthings La Pelicula",
-      "sessionCount": 18,
-      "cinemaCount": 9,
-      "municipiCount": 8
-    },
-    {
-      "slug": "suportant-el-paradis-en-catala",
-      "title": "Suportant El Paradis",
-      "sessionCount": 1,
-      "cinemaCount": 1,
-      "municipiCount": 1
+      "sessionCount": 11,
+      "cinemaCount": 8,
+      "municipiCount": 7
     },
     {
       "slug": "viatge-al-pais-dels-blancs-en-catala",
       "title": "Viatge al país dels blancs",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "cinemaCount": 1,
       "municipiCount": 1
     }
@@ -146,8 +134,8 @@
       "name": "Cinemes Texas",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 5,
-      "filmCount": 3
+      "sessionCount": 2,
+      "filmCount": 2
     },
     {
       "cinemaId": "wc-024",
@@ -155,7 +143,7 @@
       "name": "Cinesa Diagonal Mar",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -173,7 +161,7 @@
       "name": "Mooby Bosque",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 3,
+      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -182,7 +170,7 @@
       "name": "Mooby Gran Sarrià",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -200,7 +188,7 @@
       "name": "Filmax Gran Via",
       "municipiSlug": "lhospitalet-de-llobregat",
       "municipiName": "L'Hospitalet de Llobregat",
-      "sessionCount": 3,
+      "sessionCount": 6,
       "filmCount": 1
     },
     {
@@ -218,7 +206,7 @@
       "name": "Bages Centre",
       "municipiSlug": "manresa",
       "municipiName": "Manresa",
-      "sessionCount": 6,
+      "sessionCount": 3,
       "filmCount": 2
     },
     {
@@ -227,7 +215,7 @@
       "name": "Cines Imperial",
       "municipiSlug": "sabadell",
       "municipiName": "Sabadell",
-      "sessionCount": 4,
+      "sessionCount": 2,
       "filmCount": 1
     },
     {
@@ -236,7 +224,7 @@
       "name": "Odeon Multicines Girona",
       "municipiSlug": "salt",
       "municipiName": "Salt",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -245,7 +233,7 @@
       "name": "Ocine Les Gavarres",
       "municipiSlug": "tarragona",
       "municipiName": "Tarragona",
-      "sessionCount": 6,
+      "sessionCount": 3,
       "filmCount": 3
     },
     {
@@ -254,7 +242,7 @@
       "name": "Cinesa Parc Vallès",
       "municipiSlug": "terrassa",
       "municipiName": "Terrassa",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -263,7 +251,7 @@
       "name": "JCA Cinemes Tarragona-Valls",
       "municipiSlug": "valls",
       "municipiName": "Valls",
-      "sessionCount": 4,
+      "sessionCount": 2,
       "filmCount": 2
     },
     {
@@ -272,8 +260,8 @@
       "name": "Multicines Sucre",
       "municipiSlug": "vic",
       "municipiName": "Vic",
-      "sessionCount": 5,
-      "filmCount": 3
+      "sessionCount": 2,
+      "filmCount": 2
     },
     {
       "cinemaId": "wc-059",
@@ -281,7 +269,7 @@
       "name": "Odeon Multicines Vilanova",
       "municipiSlug": "vilanova-i-la-geltru",
       "municipiName": "Vilanova i la Geltrú",
-      "sessionCount": 4,
+      "sessionCount": 2,
       "filmCount": 2
     }
   ],
@@ -291,8 +279,8 @@
       "name": "Barcelona",
       "ineCode": "08019",
       "idescatCode": "080193",
-      "sessionCount": 14,
-      "filmCount": 7,
+      "sessionCount": 7,
+      "filmCount": 6,
       "cinemaCount": 6
     },
     {
@@ -300,7 +288,7 @@
       "name": "L'Hospitalet de Llobregat",
       "ineCode": "08101",
       "idescatCode": "081017",
-      "sessionCount": 3,
+      "sessionCount": 6,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -318,7 +306,7 @@
       "name": "Manresa",
       "ineCode": "08113",
       "idescatCode": "081136",
-      "sessionCount": 6,
+      "sessionCount": 3,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -327,7 +315,7 @@
       "name": "Sabadell",
       "ineCode": "08187",
       "idescatCode": "081878",
-      "sessionCount": 4,
+      "sessionCount": 2,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -336,7 +324,7 @@
       "name": "Salt",
       "ineCode": "17155",
       "idescatCode": "171557",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -345,7 +333,7 @@
       "name": "Tarragona",
       "ineCode": "43148",
       "idescatCode": "431482",
-      "sessionCount": 6,
+      "sessionCount": 3,
       "filmCount": 3,
       "cinemaCount": 1
     },
@@ -354,7 +342,7 @@
       "name": "Terrassa",
       "ineCode": "08279",
       "idescatCode": "082798",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -363,7 +351,7 @@
       "name": "Valls",
       "ineCode": "43161",
       "idescatCode": "431613",
-      "sessionCount": 4,
+      "sessionCount": 2,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -372,8 +360,8 @@
       "name": "Vic",
       "ineCode": "08298",
       "idescatCode": "082981",
-      "sessionCount": 5,
-      "filmCount": 3,
+      "sessionCount": 2,
+      "filmCount": 2,
       "cinemaCount": 1
     },
     {
@@ -381,7 +369,7 @@
       "name": "Vilanova i la Geltrú",
       "ineCode": "08307",
       "idescatCode": "083073",
-      "sessionCount": 4,
+      "sessionCount": 2,
       "filmCount": 2,
       "cinemaCount": 1
     }
@@ -403,7 +391,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93398",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-04T05:31:24Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
       "id": "5f3ad91fe9de75b4",
@@ -421,7 +409,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93405",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-04T05:31:24Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
       "id": "d9a0686149e86b32",
@@ -439,7 +427,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93399",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-04T05:31:24Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
       "id": "d2e235a9044c59c2",
@@ -457,7 +445,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93400",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-04T05:31:24Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
       "id": "ddc00da088ea1c84",
@@ -475,7 +463,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93406",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-04T05:31:24Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
       "id": "279826ea6d177621",
@@ -493,7 +481,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/lemilie-i-el-secret-de-les-tempestes/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-04T05:31:23Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
       "id": "f3878a90bd1dc55c",
@@ -511,7 +499,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93401",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-04T05:31:24Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
       "id": "74cd485ed6b67831",
@@ -529,7 +517,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93407",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-04T05:31:24Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
       "id": "9dfd3ef7ff7876a4",
@@ -547,61 +535,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93402",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-04T05:31:24Z"
-    },
-    {
-      "id": "3cf863280137fb4e",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-029",
-      "cinemaSlug": "filmax-gran-via",
-      "cinemaName": "Filmax Gran Via",
-      "municipiSlug": "lhospitalet-de-llobregat",
-      "municipiName": "L'Hospitalet de Llobregat",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "05:08",
-      "languageLabel": "Català",
-      "bookingUrl": "https://filmax.admit-one.eu/seats/222126?imdbid=tt2321555",
-      "pickerUrl": "https://filmax.admit-one.eu/seats/222126?imdbid=tt2321555",
-      "sourceUrl": "https://cinesfilmax.com/el-gato-con-sombrero",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:14Z"
-    },
-    {
-      "id": "42e987ef74c595a4",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-029",
-      "cinemaSlug": "filmax-gran-via",
-      "cinemaName": "Filmax Gran Via",
-      "municipiSlug": "lhospitalet-de-llobregat",
-      "municipiName": "L'Hospitalet de Llobregat",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "05:08",
-      "languageLabel": "Català",
-      "bookingUrl": "https://filmax.admit-one.eu/seats/222138?imdbid=tt2321555",
-      "pickerUrl": "https://filmax.admit-one.eu/seats/222138?imdbid=tt2321555",
-      "sourceUrl": "https://cinesfilmax.com/el-gato-con-sombrero",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:14Z"
-    },
-    {
-      "id": "45fb648334983d48",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-029",
-      "cinemaSlug": "filmax-gran-via",
-      "cinemaName": "Filmax Gran Via",
-      "municipiSlug": "lhospitalet-de-llobregat",
-      "municipiName": "L'Hospitalet de Llobregat",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "05:08",
-      "languageLabel": "Català",
-      "bookingUrl": "https://filmax.admit-one.eu/seats/222189?imdbid=tt2321555",
-      "pickerUrl": "https://filmax.admit-one.eu/seats/222189?imdbid=tt2321555",
-      "sourceUrl": "https://cinesfilmax.com/el-gato-con-sombrero",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:14Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
       "id": "ada019ce2eab5b07",
@@ -619,151 +553,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93403",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-04T05:31:24Z"
-    },
-    {
-      "id": "d9da53d073f39f0b",
-      "filmSlug": "superthings-la-pel-licula-en-catala",
-      "filmTitle": "Superthings La Pel Licula",
-      "cinemaId": "wc-022",
-      "cinemaSlug": "cines-imperial",
-      "cinemaName": "Cines Imperial",
-      "municipiSlug": "sabadell",
-      "municipiName": "Sabadell",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "15:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6032",
-      "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6032",
-      "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-04T05:30:06Z"
-    },
-    {
-      "id": "e14638dacb79ee8f",
-      "filmSlug": "la-invasio-dels-barbars-en-catala",
-      "filmTitle": "La Invasio Dels Barbars",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "16:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261104-0000",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261104-0000",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:11Z"
-    },
-    {
-      "id": "7aef6b807f6aebb8",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=141984&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-04T05:30:24Z"
-    },
-    {
-      "id": "5a5acf5d307667c8",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-043",
-      "cinemaSlug": "mooby-gran-sarria",
-      "cinemaName": "Mooby Gran Sarrià",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-sarria.admit-one.eu/?p=tickets&perfCode=118384&language=cat&theatre=BAL-SARRIA",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-04T05:30:24Z"
-    },
-    {
-      "id": "27ade67255de9000",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2547014&sesion=79839",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-04T05:30:52Z"
-    },
-    {
-      "id": "756bb4b633efc7c0",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-058",
-      "cinemaSlug": "odeon-multicines-girona",
-      "cinemaName": "Odeon Multicines Girona",
-      "municipiSlug": "salt",
-      "municipiName": "Salt",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "16:15",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-girona/sesion?pid=2547014&sesion=85165",
-      "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
-      "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-04T05:30:48Z"
-    },
-    {
-      "id": "cbd2c6f0c6e49f7d",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "16:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10858?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-04T05:30:55Z"
-    },
-    {
-      "id": "ed6045cd360b81ae",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "16:25",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-04T05:30:22Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
       "id": "a98b72680004907e",
@@ -781,295 +571,115 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93404",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-04T05:31:24Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
-      "id": "83cd41d509d45b33",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "16:30",
+      "id": "67213d54a63d5ea1",
+      "filmSlug": "el-gato-con-sombrero-en-catala",
+      "filmTitle": "El Gato Con Sombrero",
+      "cinemaId": "wc-029",
+      "cinemaSlug": "filmax-gran-via",
+      "cinemaName": "Filmax Gran Via",
+      "municipiSlug": "lhospitalet-de-llobregat",
+      "municipiName": "L'Hospitalet de Llobregat",
+      "sessionDate": "2026-11-05",
+      "sessionTime": "05:07",
       "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11000?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-04T05:31:01Z"
-    },
-    {
-      "id": "c9c40161b7171cf1",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "16:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2493463&sesion=79815",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-04T05:30:55Z"
-    },
-    {
-      "id": "d5478458c158db8b",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "16:55",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-04T05:30:28Z"
-    },
-    {
-      "id": "f62e8ebeebfeb9e6",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-004",
-      "cinemaSlug": "bages-centre",
-      "cinemaName": "Bages Centre",
-      "municipiSlug": "manresa",
-      "municipiName": "Manresa",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "17:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
-      "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
-      "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-04T05:30:02Z"
-    },
-    {
-      "id": "f5ed71aff5a56b67",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "17:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=141929&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-04T05:30:24Z"
-    },
-    {
-      "id": "eb4398160adc5743",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "17:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152537",
-      "pickerUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-11-04T05:30:35Z"
-    },
-    {
-      "id": "2a6601e910416ca8",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "17:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=279852",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
+      "bookingUrl": "https://filmax.admit-one.eu/seats/222126?imdbid=tt2321555",
+      "pickerUrl": "https://filmax.admit-one.eu/seats/222126?imdbid=tt2321555",
+      "sourceUrl": "https://cinesfilmax.com/el-gato-con-sombrero",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:25Z"
+      "capturedAt": "2026-11-05T05:30:17Z"
     },
     {
-      "id": "4b041e81c2a21176",
-      "filmSlug": "superthings-la-pel-licula-en-catala",
-      "filmTitle": "Superthings La Pel Licula",
-      "cinemaId": "wc-022",
-      "cinemaSlug": "cines-imperial",
-      "cinemaName": "Cines Imperial",
-      "municipiSlug": "sabadell",
-      "municipiName": "Sabadell",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "18:00",
+      "id": "75b2fadb62c4cf07",
+      "filmSlug": "el-gato-con-sombrero-en-catala",
+      "filmTitle": "El Gato Con Sombrero",
+      "cinemaId": "wc-029",
+      "cinemaSlug": "filmax-gran-via",
+      "cinemaName": "Filmax Gran Via",
+      "municipiSlug": "lhospitalet-de-llobregat",
+      "municipiName": "L'Hospitalet de Llobregat",
+      "sessionDate": "2026-11-05",
+      "sessionTime": "05:07",
       "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6032",
-      "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6032",
-      "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-04T05:30:06Z"
-    },
-    {
-      "id": "ca642370a77f259a",
-      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
-      "filmTitle": "Viatge al país dels blancs",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "18:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261104-1815",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261104-1815",
-      "sourceUrl": "https://espaitexas.cat",
+      "bookingUrl": "https://filmax.admit-one.eu/seats/222138?imdbid=tt2321555",
+      "pickerUrl": "https://filmax.admit-one.eu/seats/222138?imdbid=tt2321555",
+      "sourceUrl": "https://cinesfilmax.com/el-gato-con-sombrero",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:12Z"
+      "capturedAt": "2026-11-05T05:30:17Z"
     },
     {
-      "id": "e486d46454e8a417",
-      "filmSlug": "superthings-la-pel-licula-en-catala",
-      "filmTitle": "Superthings La Pel Licula",
-      "cinemaId": "wc-004",
-      "cinemaSlug": "bages-centre",
-      "cinemaName": "Bages Centre",
-      "municipiSlug": "manresa",
-      "municipiName": "Manresa",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "18:20",
+      "id": "50af45caf222157c",
+      "filmSlug": "el-gato-con-sombrero-en-catala",
+      "filmTitle": "El Gato Con Sombrero",
+      "cinemaId": "wc-029",
+      "cinemaSlug": "filmax-gran-via",
+      "cinemaName": "Filmax Gran Via",
+      "municipiSlug": "lhospitalet-de-llobregat",
+      "municipiName": "L'Hospitalet de Llobregat",
+      "sessionDate": "2026-11-05",
+      "sessionTime": "05:07",
       "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
-      "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
-      "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-04T05:30:02Z"
-    },
-    {
-      "id": "f964d8f8ba26fd19",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "18:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=279865",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
+      "bookingUrl": "https://filmax.admit-one.eu/seats/222189?imdbid=tt2321555",
+      "pickerUrl": "https://filmax.admit-one.eu/seats/222189?imdbid=tt2321555",
+      "sourceUrl": "https://cinesfilmax.com/el-gato-con-sombrero",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:25Z"
+      "capturedAt": "2026-11-05T05:30:17Z"
     },
     {
-      "id": "d2bf692d5e700803",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "20:00",
+      "id": "62a239e25ab43bd4",
+      "filmSlug": "el-gato-con-sombrero-en-catala",
+      "filmTitle": "El Gato Con Sombrero",
+      "cinemaId": "wc-029",
+      "cinemaSlug": "filmax-gran-via",
+      "cinemaName": "Filmax Gran Via",
+      "municipiSlug": "lhospitalet-de-llobregat",
+      "municipiName": "L'Hospitalet de Llobregat",
+      "sessionDate": "2026-11-05",
+      "sessionTime": "05:07",
       "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=279850",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
+      "bookingUrl": "https://filmax.admit-one.eu/seats/222226?imdbid=tt2321555",
+      "pickerUrl": "https://filmax.admit-one.eu/seats/222226?imdbid=tt2321555",
+      "sourceUrl": "https://cinesfilmax.com/el-gato-con-sombrero",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:25Z"
+      "capturedAt": "2026-11-05T05:30:17Z"
     },
     {
-      "id": "cf347bd4e0712f37",
-      "filmSlug": "suportant-el-paradis-en-catala",
-      "filmTitle": "Suportant El Paradis",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "20:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/suportant-el-paradis-vo-20261104-2030",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/suportant-el-paradis-vo-20261104-2030",
-      "sourceUrl": "https://espaitexas.cat",
+      "id": "c0bd94712599dd46",
+      "filmSlug": "el-gato-con-sombrero-en-catala",
+      "filmTitle": "El Gato Con Sombrero",
+      "cinemaId": "wc-029",
+      "cinemaSlug": "filmax-gran-via",
+      "cinemaName": "Filmax Gran Via",
+      "municipiSlug": "lhospitalet-de-llobregat",
+      "municipiName": "L'Hospitalet de Llobregat",
+      "sessionDate": "2026-11-05",
+      "sessionTime": "05:07",
+      "languageLabel": "Català",
+      "bookingUrl": "https://filmax.admit-one.eu/seats/222282?imdbid=tt2321555",
+      "pickerUrl": "https://filmax.admit-one.eu/seats/222282?imdbid=tt2321555",
+      "sourceUrl": "https://cinesfilmax.com/el-gato-con-sombrero",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:14Z"
+      "capturedAt": "2026-11-05T05:30:17Z"
     },
     {
-      "id": "4fffd50dd448d9da",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "20:45",
+      "id": "3d89cc41c132a7f3",
+      "filmSlug": "el-gato-con-sombrero-en-catala",
+      "filmTitle": "El Gato Con Sombrero",
+      "cinemaId": "wc-029",
+      "cinemaSlug": "filmax-gran-via",
+      "cinemaName": "Filmax Gran Via",
+      "municipiSlug": "lhospitalet-de-llobregat",
+      "municipiName": "L'Hospitalet de Llobregat",
+      "sessionDate": "2026-11-05",
+      "sessionTime": "05:07",
       "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152539",
-      "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-11-04T05:30:35Z"
-    },
-    {
-      "id": "e81c8a313c76794b",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-004",
-      "cinemaSlug": "bages-centre",
-      "cinemaName": "Bages Centre",
-      "municipiSlug": "manresa",
-      "municipiName": "Manresa",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "22:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
-      "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
-      "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-04T05:30:02Z"
-    },
-    {
-      "id": "4a0d3e69908c768e",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-11-04",
-      "sessionTime": "22:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-04T05:30:54Z"
+      "bookingUrl": "https://filmax.admit-one.eu/seats/222311?imdbid=tt2321555",
+      "pickerUrl": "https://filmax.admit-one.eu/seats/222311?imdbid=tt2321555",
+      "sourceUrl": "https://cinesfilmax.com/el-gato-con-sombrero",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-05T05:30:17Z"
     },
     {
       "id": "49b70b36339b9296",
@@ -1087,7 +697,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93397",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-04T05:31:24Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
       "id": "0e7e76d7efafd142",
@@ -1105,7 +715,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6032",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-04T05:30:06Z"
+      "capturedAt": "2026-11-05T05:30:06Z"
     },
     {
       "id": "87abb66a6d5914e4",
@@ -1123,7 +733,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-04T05:30:24Z"
+      "capturedAt": "2026-11-05T05:30:27Z"
     },
     {
       "id": "7b7fac493550d82f",
@@ -1141,7 +751,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-04T05:30:52Z"
+      "capturedAt": "2026-11-05T05:30:57Z"
     },
     {
       "id": "6b38ddf7ef97b550",
@@ -1159,7 +769,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-04T05:30:48Z"
+      "capturedAt": "2026-11-05T05:30:51Z"
     },
     {
       "id": "b5a8305c949be48a",
@@ -1177,7 +787,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-04T05:30:55Z"
+      "capturedAt": "2026-11-05T05:30:36Z"
     },
     {
       "id": "d4a6eb50b3d8b0dd",
@@ -1195,7 +805,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-04T05:30:22Z"
+      "capturedAt": "2026-11-05T05:30:21Z"
     },
     {
       "id": "8b4474c82009fc7a",
@@ -1213,7 +823,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11000",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11000?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-04T05:31:01Z"
+      "capturedAt": "2026-11-05T05:30:43Z"
     },
     {
       "id": "3a2761973c3e5cf0",
@@ -1231,7 +841,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/escape-room-2",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-04T05:30:55Z"
+      "capturedAt": "2026-11-05T05:30:59Z"
     },
     {
       "id": "4fd903ec713d53c0",
@@ -1249,7 +859,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-04T05:30:02Z"
+      "capturedAt": "2026-11-05T05:30:02Z"
     },
     {
       "id": "5fb12f0f967c7042",
@@ -1267,7 +877,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-04T05:30:24Z"
+      "capturedAt": "2026-11-05T05:30:27Z"
     },
     {
       "id": "3a18fd9fe112afa2",
@@ -1285,7 +895,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
       "sourceUrl": "https://jcacinemes.com/cartellera/superthings_-la-pelicula/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-04T05:30:35Z"
+      "capturedAt": "2026-11-05T05:30:41Z"
     },
     {
       "id": "f7e61ef63e883bc1",
@@ -1303,7 +913,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6032",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-04T05:30:06Z"
+      "capturedAt": "2026-11-05T05:30:06Z"
     },
     {
       "id": "ee69b37aa7a954de",
@@ -1321,7 +931,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261105-1810",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:14Z"
+      "capturedAt": "2026-11-05T05:30:13Z"
     },
     {
       "id": "1a048069dcc02b97",
@@ -1339,7 +949,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-04T05:30:02Z"
+      "capturedAt": "2026-11-05T05:30:02Z"
     },
     {
       "id": "03a06f20a3ba1c3e",
@@ -1357,7 +967,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-04T05:30:24Z"
+      "capturedAt": "2026-11-05T05:30:25Z"
     },
     {
       "id": "26df31b897703a92",
@@ -1375,7 +985,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-04T05:30:28Z"
+      "capturedAt": "2026-11-05T05:30:27Z"
     },
     {
       "id": "31774f9e8bee4920",
@@ -1393,7 +1003,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:25Z"
+      "capturedAt": "2026-11-05T05:30:27Z"
     },
     {
       "id": "4cd4756e234f6927",
@@ -1411,7 +1021,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261105-2000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:14Z"
+      "capturedAt": "2026-11-05T05:30:17Z"
     },
     {
       "id": "7acf8885fd9019ad",
@@ -1429,7 +1039,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93336",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-04T05:31:24Z"
+      "capturedAt": "2026-11-05T05:31:25Z"
     },
     {
       "id": "8d067031888a4746",
@@ -1447,7 +1057,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-04T05:30:25Z"
+      "capturedAt": "2026-11-05T05:30:27Z"
     },
     {
       "id": "6db203a8503b3dfd",
@@ -1465,7 +1075,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
       "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-04T05:30:35Z"
+      "capturedAt": "2026-11-05T05:30:41Z"
     },
     {
       "id": "8092237172836863",
@@ -1483,7 +1093,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-04T05:30:02Z"
+      "capturedAt": "2026-11-05T05:30:02Z"
     },
     {
       "id": "29adcd1e106a535e",
@@ -1501,7 +1111,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-04T05:30:54Z"
+      "capturedAt": "2026-11-05T05:30:35Z"
     }
   ],
   "sourceIssues": [
