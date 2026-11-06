@@ -1,0 +1,47 @@
+{
+  "cinemaId": "wc-009",
+  "slug": "cine-yelmo-premium-castelldefels",
+  "name": "Cine Yelmo Premium Castelldefels",
+  "municipiSlug": "castelldefels",
+  "municipiName": "Castelldefels",
+  "sessionCount": 2,
+  "filmCount": 1,
+  "sessions": [
+    {
+      "id": "8a98dab8beaf12d2",
+      "filmSlug": "el-gato-con-sombrero-en-catala",
+      "filmTitle": "El Gato Con Sombrero",
+      "cinemaId": "wc-009",
+      "cinemaSlug": "cine-yelmo-premium-castelldefels",
+      "cinemaName": "Cine Yelmo Premium Castelldefels",
+      "municipiSlug": "castelldefels",
+      "municipiName": "Castelldefels",
+      "sessionDate": "2026-11-07",
+      "sessionTime": "15:45",
+      "languageLabel": "Català",
+      "bookingUrl": "https://cineyelmo.com/es?cinema=premium-castelldefels-barcelona",
+      "pickerUrl": "https://cineyelmo.com/es?cinema=premium-castelldefels-barcelona",
+      "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
+      "extractorType": "chain-yelmo",
+      "capturedAt": "2026-11-06T05:30:05Z"
+    },
+    {
+      "id": "3426e6965b9a99ab",
+      "filmSlug": "el-gato-con-sombrero-en-catala",
+      "filmTitle": "El Gato Con Sombrero",
+      "cinemaId": "wc-009",
+      "cinemaSlug": "cine-yelmo-premium-castelldefels",
+      "cinemaName": "Cine Yelmo Premium Castelldefels",
+      "municipiSlug": "castelldefels",
+      "municipiName": "Castelldefels",
+      "sessionDate": "2026-11-08",
+      "sessionTime": "15:45",
+      "languageLabel": "Català",
+      "bookingUrl": "https://cineyelmo.com/es?cinema=premium-castelldefels-barcelona",
+      "pickerUrl": "https://cineyelmo.com/es?cinema=premium-castelldefels-barcelona",
+      "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
+      "extractorType": "chain-yelmo",
+      "capturedAt": "2026-11-06T05:30:05Z"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "cinemaId": "wc-006",
+  "slug": "cine-yelmo-abrera",
+  "name": "Cine Yelmo Abrera",
+  "municipiSlug": "abrera",
+  "municipiName": "Abrera",
+  "sessionCount": 2,
+  "filmCount": 1,
+  "sessions": [
+    {
+      "id": "b898e7b93b3a75b3",
+      "filmSlug": "el-gato-con-sombrero-en-catala",
+      "filmTitle": "El Gato Con Sombrero",
+      "cinemaId": "wc-006",
+      "cinemaSlug": "cine-yelmo-abrera",
+      "cinemaName": "Cine Yelmo Abrera",
+      "municipiSlug": "abrera",
+      "municipiName": "Abrera",
+      "sessionDate": "2026-11-07",
+      "sessionTime": "16:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://cineyelmo.com/es?cinema=abrera-barcelona",
+      "pickerUrl": "https://cineyelmo.com/es?cinema=abrera-barcelona",
+      "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
+      "extractorType": "chain-yelmo",
+      "capturedAt": "2026-11-06T05:30:04Z"
+    },
+    {
+      "id": "96bb2c719fb62997",
+      "filmSlug": "el-gato-con-sombrero-en-catala",
+      "filmTitle": "El Gato Con Sombrero",
+      "cinemaId": "wc-006",
+      "cinemaSlug": "cine-yelmo-abrera",
+      "cinemaName": "Cine Yelmo Abrera",
+      "municipiSlug": "abrera",
+      "municipiName": "Abrera",
+      "sessionDate": "2026-11-08",
+      "sessionTime": "16:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://cineyelmo.com/es?cinema=abrera-barcelona",
+      "pickerUrl": "https://cineyelmo.com/es?cinema=abrera-barcelona",
+      "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
+      "extractorType": "chain-yelmo",
+      "capturedAt": "2026-11-06T05:30:04Z"
+    }
+  ]
+}
