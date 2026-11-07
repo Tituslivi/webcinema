@@ -3,190 +3,10 @@
   "name": "Barcelona",
   "ineCode": "08019",
   "idescatCode": "080193",
-  "sessionCount": 75,
-  "filmCount": 4,
-  "cinemaCount": 7,
+  "sessionCount": 83,
+  "filmCount": 9,
+  "cinemaCount": 8,
   "sessions": [
-    {
-      "id": "bc8ccc3c794a8b59",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-011",
-      "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
-      "cinemaName": "Cine Yelmo Westfield La Maquinista",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-06",
-      "sessionTime": "15:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
-      "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
-      "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-06T05:30:06Z"
-    },
-    {
-      "id": "a9583c0993abd8e2",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-06",
-      "sessionTime": "16:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:16Z"
-    },
-    {
-      "id": "193991d938b1ac54",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-06",
-      "sessionTime": "16:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
-    },
-    {
-      "id": "73df0cc8ae3620b5",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-06",
-      "sessionTime": "17:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
-    },
-    {
-      "id": "c26858cf1921b72e",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-06",
-      "sessionTime": "17:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
-    },
-    {
-      "id": "02f4f753fea9addc",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-06",
-      "sessionTime": "18:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
-    },
-    {
-      "id": "32701160c00b2909",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-06",
-      "sessionTime": "18:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142002&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
-    },
-    {
-      "id": "490952d235039291",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-06",
-      "sessionTime": "19:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=193872&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
-    },
-    {
-      "id": "fff56a9c615fdf2c",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-06",
-      "sessionTime": "19:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
-    },
-    {
-      "id": "ed2b8f2d04980317",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-06",
-      "sessionTime": "20:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
-    },
     {
       "id": "8c4d2ef970a6312d",
       "filmSlug": "el-gato-con-sombrero-en-catala",
@@ -203,7 +23,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "fc7f72a842682e6b",
@@ -221,7 +41,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "02acaf4380e75f7f",
@@ -239,7 +59,25 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-06T05:30:06Z"
+      "capturedAt": "2026-11-07T05:30:05Z"
+    },
+    {
+      "id": "f81c807f6f602ad8",
+      "filmSlug": "la-invasio-dels-barbars-en-catala",
+      "filmTitle": "La Invasio Dels Barbars",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-07",
+      "sessionTime": "16:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261107-0000",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261107-0000",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:06Z"
     },
     {
       "id": "5ddf7e9651f00fba",
@@ -257,7 +95,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:16Z"
+      "capturedAt": "2026-11-07T05:30:16Z"
     },
     {
       "id": "ef6f73bed6469bfa",
@@ -273,9 +111,9 @@
       "languageLabel": "Doblada al català",
       "bookingUrl": "https://espaitexas.koobin.cat/ca/bob-i-bobek-dob.-cat-20261107-1615",
       "pickerUrl": "https://espaitexas.koobin.cat/ca/bob-i-bobek-dob.-cat-20261107-1615",
-      "sourceUrl": "https://espaitexas.koobin.cat/?action=PU_evento&Ev_id=8672",
+      "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-06T05:34:25Z"
+      "capturedAt": "2026-11-07T05:30:06Z"
     },
     {
       "id": "f270d322a2793062",
@@ -293,7 +131,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "d47bdea620c564d9",
@@ -311,7 +149,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "384ad256256c0e0e",
@@ -329,7 +167,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
     },
     {
       "id": "5cf3803f28c2a797",
@@ -347,7 +185,43 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
+    },
+    {
+      "id": "1a79f614086fd221",
+      "filmSlug": "cronos-en-catala",
+      "filmTitle": "Cronos",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-07",
+      "sessionTime": "18:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261107-1800",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261107-1800",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:06Z"
+    },
+    {
+      "id": "3b11ad4a68b37793",
+      "filmSlug": "tanit-en-catala",
+      "filmTitle": "Tanit",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-07",
+      "sessionTime": "18:10",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/tanit-vo-20261107-1810",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/tanit-vo-20261107-1810",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:06Z"
     },
     {
       "id": "7b87b3955278bc04",
@@ -365,7 +239,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
+      "capturedAt": "2026-11-07T05:30:25Z"
     },
     {
       "id": "0176ead881d1063b",
@@ -383,7 +257,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
+      "capturedAt": "2026-11-07T05:30:25Z"
     },
     {
       "id": "733206c9d9e4c403",
@@ -401,7 +275,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "1612eb912c4413a8",
@@ -419,7 +293,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
+    },
+    {
+      "id": "fc0198bd273c6a6a",
+      "filmSlug": "11-en-catala",
+      "filmTitle": "11",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-07",
+      "sessionTime": "21:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261107-0000",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261107-0000",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:06Z"
     },
     {
       "id": "6edca92d246e9121",
@@ -437,7 +329,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "45ed786aa0989600",
@@ -455,7 +347,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "bebeead3b7b92030",
@@ -473,7 +365,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
+      "capturedAt": "2026-11-07T05:30:25Z"
     },
     {
       "id": "da37f8182383840a",
@@ -491,7 +383,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
     },
     {
       "id": "88abb3fea1ad9bc3",
@@ -509,7 +401,25 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-06T05:30:06Z"
+      "capturedAt": "2026-11-07T05:30:05Z"
+    },
+    {
+      "id": "941e93e353b5a83d",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-08",
+      "sessionTime": "16:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261108-1600",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261108-1600",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "012f3114ca547df2",
@@ -527,7 +437,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:16Z"
+      "capturedAt": "2026-11-07T05:30:16Z"
     },
     {
       "id": "ffd95ec9adba2834",
@@ -543,9 +453,9 @@
       "languageLabel": "Doblada al català",
       "bookingUrl": "https://espaitexas.koobin.cat/ca/bob-i-bobek-dob.-cat-20261108-1615",
       "pickerUrl": "https://espaitexas.koobin.cat/ca/bob-i-bobek-dob.-cat-20261108-1615",
-      "sourceUrl": "https://espaitexas.koobin.cat/?action=PU_evento&Ev_id=8672",
+      "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-06T05:34:25Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "1fb5cb872556d03c",
@@ -563,7 +473,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "e25f248ee7cbb66d",
@@ -581,7 +491,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "ed2833ac8b464c3f",
@@ -599,7 +509,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
+    },
+    {
+      "id": "56fdc6e65f2b9b41",
+      "filmSlug": "cronos-en-catala",
+      "filmTitle": "Cronos",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-08",
+      "sessionTime": "18:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261108-1800",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261108-1800",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "16cd54b2f88aa6ca",
@@ -617,7 +545,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
+    },
+    {
+      "id": "c7e560f23898bae6",
+      "filmSlug": "la-invasio-dels-barbars-en-catala",
+      "filmTitle": "La Invasio Dels Barbars",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-08",
+      "sessionTime": "18:15",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261108-0000",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261108-0000",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "9dd75bbffa66ea57",
@@ -635,7 +581,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
+      "capturedAt": "2026-11-07T05:30:25Z"
     },
     {
       "id": "75324c551b552a4c",
@@ -653,7 +599,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
+      "capturedAt": "2026-11-07T05:30:25Z"
     },
     {
       "id": "58938ca2e38ea5d1",
@@ -671,7 +617,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
+    },
+    {
+      "id": "4c46a8f05a6fd1a3",
+      "filmSlug": "11-en-catala",
+      "filmTitle": "11",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-08",
+      "sessionTime": "20:30",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261108-0000",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261108-0000",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "6ad2ac144cc75291",
@@ -689,7 +653,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
     },
     {
       "id": "e33259f8dcd4f4c5",
@@ -707,7 +671,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-06T05:30:06Z"
+      "capturedAt": "2026-11-07T05:30:05Z"
     },
     {
       "id": "9498f0907dfee1af",
@@ -725,7 +689,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:16Z"
+      "capturedAt": "2026-11-07T05:30:16Z"
     },
     {
       "id": "b2b1f6ad263a0392",
@@ -743,7 +707,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "ddc0c0fc655f45bc",
@@ -761,7 +725,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "1d8348954bf1ec84",
@@ -779,7 +743,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
     },
     {
       "id": "7ce9fe18089796ab",
@@ -797,7 +761,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
+      "capturedAt": "2026-11-07T05:30:25Z"
     },
     {
       "id": "47bd4a147e6c319b",
@@ -815,7 +779,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "a4d2bb522b666e2a",
@@ -833,7 +797,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
+    },
+    {
+      "id": "25fe94c48c9e6c11",
+      "filmSlug": "11-en-catala",
+      "filmTitle": "11",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-09",
+      "sessionTime": "20:30",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261109-0000",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261109-0000",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "c806d49e9690afb8",
@@ -851,7 +833,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
     },
     {
       "id": "f5a216a9ea8da543",
@@ -869,7 +851,25 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-06T05:30:06Z"
+      "capturedAt": "2026-11-07T05:30:05Z"
+    },
+    {
+      "id": "77af91042e0fce8c",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-10",
+      "sessionTime": "16:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261110-1600",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261110-1600",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "a21ad46111af520b",
@@ -887,7 +887,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:16Z"
+      "capturedAt": "2026-11-07T05:30:16Z"
     },
     {
       "id": "4a506b476901ff21",
@@ -905,7 +905,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
+    },
+    {
+      "id": "53c137364e800fb2",
+      "filmSlug": "cronos-en-catala",
+      "filmTitle": "Cronos",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-10",
+      "sessionTime": "18:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261110-1800",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261110-1800",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "0b56ed7bc6b6247a",
@@ -923,7 +941,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
+    },
+    {
+      "id": "9ad385cb4ee638c6",
+      "filmSlug": "la-invasio-dels-barbars-en-catala",
+      "filmTitle": "La Invasio Dels Barbars",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-10",
+      "sessionTime": "18:15",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261110-0000",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261110-0000",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "514d2a94ce6c75df",
@@ -941,7 +977,25 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
+      "capturedAt": "2026-11-07T05:30:25Z"
+    },
+    {
+      "id": "31cabcb27f02598a",
+      "filmSlug": "femenino-singular-en-catala",
+      "filmTitle": "Femenino Singular",
+      "cinemaId": "wc-017",
+      "cinemaSlug": "cinemes-girona",
+      "cinemaName": "Cinemes Girona",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-10",
+      "sessionTime": "19:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://girona.admit-one.eu/?p=tickets&perfCode=41197&language=ESP",
+      "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
+      "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:06Z"
     },
     {
       "id": "a2b99a88405bb650",
@@ -959,7 +1013,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
+      "capturedAt": "2026-11-07T05:30:25Z"
     },
     {
       "id": "f55f4ab7073fd272",
@@ -977,7 +1031,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "6c3fae1f4dd09186",
@@ -995,7 +1049,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
+    },
+    {
+      "id": "35a876a8774ca7b3",
+      "filmSlug": "11-en-catala",
+      "filmTitle": "11",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-10",
+      "sessionTime": "20:30",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261110-0000",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261110-0000",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "210cba48692a7054",
@@ -1013,7 +1085,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
     },
     {
       "id": "4b9595fce6f8cf6c",
@@ -1031,7 +1103,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-06T05:30:06Z"
+      "capturedAt": "2026-11-07T05:30:05Z"
     },
     {
       "id": "e47fbc55febc03d3",
@@ -1049,7 +1121,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:16Z"
+      "capturedAt": "2026-11-07T05:30:16Z"
     },
     {
       "id": "c91d58bfc51f94c2",
@@ -1067,7 +1139,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "6c81e29146bd04e0",
@@ -1085,7 +1157,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:08Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "07201204bd02767a",
@@ -1103,7 +1175,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
     },
     {
       "id": "da97aaf64ac8643a",
@@ -1121,7 +1193,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
+      "capturedAt": "2026-11-07T05:30:25Z"
     },
     {
       "id": "222cd32776dbacb6",
@@ -1139,7 +1211,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
+      "capturedAt": "2026-11-07T05:30:25Z"
     },
     {
       "id": "cbb48081be31d1c6",
@@ -1157,7 +1229,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:07Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "76c7a3f168cfd5cf",
@@ -1175,7 +1247,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:08Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "c10a6b30b8850f8d",
@@ -1193,7 +1265,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:10Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
     },
     {
       "id": "7daae4047013a342",
@@ -1211,7 +1283,25 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-06T05:30:06Z"
+      "capturedAt": "2026-11-07T05:30:05Z"
+    },
+    {
+      "id": "714b2c360a0530da",
+      "filmSlug": "la-invasio-dels-barbars-en-catala",
+      "filmTitle": "La Invasio Dels Barbars",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-12",
+      "sessionTime": "16:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261112-0000",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261112-0000",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "8020151d5d6dd514",
@@ -1229,7 +1319,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:16Z"
+      "capturedAt": "2026-11-07T05:30:16Z"
     },
     {
       "id": "74e6e27301566f65",
@@ -1247,7 +1337,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:08Z"
+      "capturedAt": "2026-11-07T05:30:08Z"
     },
     {
       "id": "03729fafe86169a0",
@@ -1265,7 +1355,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:08Z"
+      "capturedAt": "2026-11-07T05:30:07Z"
+    },
+    {
+      "id": "874a947b6df07bc9",
+      "filmSlug": "cronos-en-catala",
+      "filmTitle": "Cronos",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-12",
+      "sessionTime": "18:05",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261112-1805",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261112-1805",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "46aafa8ded03aa3f",
@@ -1283,7 +1391,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:11Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
+    },
+    {
+      "id": "e7bbb5f899c8c6c5",
+      "filmSlug": "viatge-al-pais-dels-blancs-en-catala",
+      "filmTitle": "Viatge al país dels blancs",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-12",
+      "sessionTime": "18:15",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261112-1815",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261112-1815",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     },
     {
       "id": "a3278b321b01cb1c",
@@ -1301,7 +1427,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
+      "capturedAt": "2026-11-07T05:30:25Z"
     },
     {
       "id": "221c89c29ea06df6",
@@ -1319,7 +1445,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-06T05:30:26Z"
+      "capturedAt": "2026-11-07T05:30:25Z"
     },
     {
       "id": "2ad315221f9b3c5d",
@@ -1337,7 +1463,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:08Z"
+      "capturedAt": "2026-11-07T05:30:08Z"
     },
     {
       "id": "1c4e39e140db99f6",
@@ -1355,7 +1481,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-06T05:30:11Z"
+      "capturedAt": "2026-11-07T05:30:11Z"
+    },
+    {
+      "id": "5f79ddca5a353852",
+      "filmSlug": "11-en-catala",
+      "filmTitle": "11",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-12",
+      "sessionTime": "21:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261112-0000",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261112-0000",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-07T05:30:07Z"
     }
   ]
 }
