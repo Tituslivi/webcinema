@@ -1,28 +1,10 @@
 {
   "slug": "escape-room-2-en-catala",
   "title": "Escape Room 2",
-  "sessionCount": 28,
+  "sessionCount": 23,
   "cinemaCount": 6,
   "municipiCount": 6,
   "sessions": [
-    {
-      "id": "6153e42c4c7d98d6",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-11-07",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152637",
-      "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-11-07T05:30:38Z"
-    },
     {
       "id": "f866e2e5585fa1d9",
       "filmSlug": "escape-room-2-en-catala",
@@ -39,25 +21,7 @@
       "pickerUrl": "https://cinemamontgri.cat/escape-room-2/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-07T05:31:30Z"
-    },
-    {
-      "id": "7b87b3955278bc04",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-07",
-      "sessionTime": "18:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142040&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:31:26Z"
     },
     {
       "id": "f71ea4614f0369c4",
@@ -75,61 +39,7 @@
       "pickerUrl": "https://cinemamontgri.cat/escape-room-2/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-07T05:31:30Z"
-    },
-    {
-      "id": "2b38f1e960be8dfe",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-11-07",
-      "sessionTime": "20:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=279931",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-07T05:30:25Z"
-    },
-    {
-      "id": "0f600e62956525f5",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-11-07",
-      "sessionTime": "22:25",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=279965",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-07T05:30:25Z"
-    },
-    {
-      "id": "0251c6600be67ef4",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-004",
-      "cinemaSlug": "bages-centre",
-      "cinemaName": "Bages Centre",
-      "municipiSlug": "manresa",
-      "municipiName": "Manresa",
-      "sessionDate": "2026-11-07",
-      "sessionTime": "22:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
-      "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
-      "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-07T05:30:02Z"
+      "capturedAt": "2026-11-08T05:31:26Z"
     },
     {
       "id": "ae5481833d107ef6",
@@ -147,7 +57,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10858",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10858?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-07T05:30:54Z"
+      "capturedAt": "2026-11-08T05:30:33Z"
     },
     {
       "id": "c3ccd7a0a8b8c18f",
@@ -165,7 +75,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
       "sourceUrl": "https://jcacinemes.com/cartellera/escape-room-2/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-07T05:30:38Z"
+      "capturedAt": "2026-11-08T05:30:37Z"
     },
     {
       "id": "2b55aec4632c6d53",
@@ -183,7 +93,7 @@
       "pickerUrl": "https://cinemamontgri.cat/escape-room-2/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-07T05:31:30Z"
+      "capturedAt": "2026-11-08T05:31:26Z"
     },
     {
       "id": "9dd75bbffa66ea57",
@@ -201,7 +111,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:24Z"
     },
     {
       "id": "3b295527ba9a7ac2",
@@ -219,7 +129,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:25Z"
     },
     {
       "id": "0c98166577ee43c2",
@@ -237,7 +147,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:25Z"
     },
     {
       "id": "ae816006bc0d4629",
@@ -255,7 +165,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-07T05:30:02Z"
+      "capturedAt": "2026-11-08T05:30:02Z"
     },
     {
       "id": "804f7d0e0d9e6aac",
@@ -273,7 +183,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:25Z"
     },
     {
       "id": "7ce9fe18089796ab",
@@ -291,7 +201,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:24Z"
     },
     {
       "id": "b9329536d5f9622f",
@@ -309,7 +219,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:25Z"
     },
     {
       "id": "d4aeeed7036fabfb",
@@ -327,7 +237,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-07T05:30:02Z"
+      "capturedAt": "2026-11-08T05:30:02Z"
     },
     {
       "id": "b9c061bbc036d6e6",
@@ -345,7 +255,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:25Z"
     },
     {
       "id": "514d2a94ce6c75df",
@@ -363,7 +273,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:24Z"
     },
     {
       "id": "bb40e7eafefed25e",
@@ -381,7 +291,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:25Z"
     },
     {
       "id": "f7ef1f48b23ad571",
@@ -399,7 +309,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:25Z"
     },
     {
       "id": "da97aaf64ac8643a",
@@ -417,7 +327,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:24Z"
     },
     {
       "id": "b387ff590ca657a3",
@@ -435,7 +345,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:25Z"
     },
     {
       "id": "874b453d46bb45b4",
@@ -453,7 +363,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6551",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-07T05:30:02Z"
+      "capturedAt": "2026-11-08T05:30:02Z"
     },
     {
       "id": "c927bfc1ff1079d9",
@@ -471,7 +381,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:25Z"
     },
     {
       "id": "a3278b321b01cb1c",
@@ -489,7 +399,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:24Z"
     },
     {
       "id": "a1902c089dda8bf9",
@@ -507,7 +417,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-07T05:30:25Z"
+      "capturedAt": "2026-11-08T05:30:25Z"
     }
   ]
 }
