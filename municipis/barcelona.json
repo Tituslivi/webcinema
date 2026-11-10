@@ -3,190 +3,10 @@
   "name": "Barcelona",
   "ineCode": "08019",
   "idescatCode": "080193",
-  "sessionCount": 47,
+  "sessionCount": 36,
   "filmCount": 7,
   "cinemaCount": 8,
   "sessions": [
-    {
-      "id": "e33259f8dcd4f4c5",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-011",
-      "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
-      "cinemaName": "Cine Yelmo Westfield La Maquinista",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-09",
-      "sessionTime": "15:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
-      "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
-      "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-09T05:30:06Z"
-    },
-    {
-      "id": "9498f0907dfee1af",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-09",
-      "sessionTime": "16:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:13Z"
-    },
-    {
-      "id": "b2b1f6ad263a0392",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-09",
-      "sessionTime": "16:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
-    },
-    {
-      "id": "ddc0c0fc655f45bc",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-09",
-      "sessionTime": "17:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
-    },
-    {
-      "id": "1d8348954bf1ec84",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-09",
-      "sessionTime": "18:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:09Z"
-    },
-    {
-      "id": "7ce9fe18089796ab",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-09",
-      "sessionTime": "18:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142092&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-09T05:30:21Z"
-    },
-    {
-      "id": "47bd4a147e6c319b",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-09",
-      "sessionTime": "19:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
-    },
-    {
-      "id": "a4d2bb522b666e2a",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-09",
-      "sessionTime": "19:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
-    },
-    {
-      "id": "25fe94c48c9e6c11",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-09",
-      "sessionTime": "20:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261109-0000",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261109-0000",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-09T05:30:05Z"
-    },
-    {
-      "id": "c806d49e9690afb8",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-09",
-      "sessionTime": "20:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:09Z"
-    },
     {
       "id": "f5a216a9ea8da543",
       "filmSlug": "el-gato-con-sombrero-en-catala",
@@ -203,7 +23,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-09T05:30:06Z"
+      "capturedAt": "2026-11-10T05:30:05Z"
     },
     {
       "id": "77af91042e0fce8c",
@@ -221,7 +41,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261110-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-09T05:30:06Z"
+      "capturedAt": "2026-11-10T05:30:06Z"
     },
     {
       "id": "a21ad46111af520b",
@@ -239,7 +59,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:14Z"
+      "capturedAt": "2026-11-10T05:30:21Z"
     },
     {
       "id": "4a506b476901ff21",
@@ -257,7 +77,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
+      "capturedAt": "2026-11-10T05:30:08Z"
     },
     {
       "id": "53c137364e800fb2",
@@ -275,7 +95,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261110-1800",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-09T05:30:06Z"
+      "capturedAt": "2026-11-10T05:30:06Z"
     },
     {
       "id": "0b56ed7bc6b6247a",
@@ -293,7 +113,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:09Z"
+      "capturedAt": "2026-11-10T05:30:17Z"
     },
     {
       "id": "9ad385cb4ee638c6",
@@ -311,25 +131,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261110-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-09T05:30:06Z"
-    },
-    {
-      "id": "514d2a94ce6c75df",
-      "filmSlug": "escape-room-2-en-catala",
-      "filmTitle": "Escape Room 2",
-      "cinemaId": "wc-041",
-      "cinemaSlug": "mooby-bosque",
-      "cinemaName": "Mooby Bosque",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-10",
-      "sessionTime": "18:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142170&language=cat&theatre=BAL-BOSQUE",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-09T05:30:21Z"
+      "capturedAt": "2026-11-10T05:30:06Z"
     },
     {
       "id": "31cabcb27f02598a",
@@ -347,25 +149,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "sourceUrl": "https://www.cinemesgirona.cat/femenino-singular",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-09T05:30:06Z"
-    },
-    {
-      "id": "a2b99a88405bb650",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-10",
-      "sessionTime": "19:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=193941&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-09T05:30:21Z"
+      "capturedAt": "2026-11-10T05:30:06Z"
     },
     {
       "id": "f55f4ab7073fd272",
@@ -383,7 +167,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
+      "capturedAt": "2026-11-10T05:30:08Z"
     },
     {
       "id": "6c3fae1f4dd09186",
@@ -401,7 +185,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
+      "capturedAt": "2026-11-10T05:30:08Z"
     },
     {
       "id": "35a876a8774ca7b3",
@@ -419,7 +203,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261110-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-09T05:30:06Z"
+      "capturedAt": "2026-11-10T05:30:06Z"
     },
     {
       "id": "210cba48692a7054",
@@ -437,7 +221,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:09Z"
+      "capturedAt": "2026-11-10T05:30:17Z"
+    },
+    {
+      "id": "764bd8c3ab272c8d",
+      "filmSlug": "escape-room-2-en-catala",
+      "filmTitle": "Escape Room 2",
+      "cinemaId": "wc-041",
+      "cinemaSlug": "mooby-bosque",
+      "cinemaName": "Mooby Bosque",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-10",
+      "sessionTime": "21:10",
+      "languageLabel": "Català",
+      "bookingUrl": "https://moobycinemas-bosque.admit-one.eu/?p=tickets&perfCode=142170&language=cat&theatre=BAL-BOSQUE",
+      "pickerUrl": "https://www.moobycinemas.com",
+      "sourceUrl": "https://www.moobycinemas.com",
+      "extractorType": "chain-mooby",
+      "capturedAt": "2026-11-10T05:30:25Z"
     },
     {
       "id": "4b9595fce6f8cf6c",
@@ -455,7 +257,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-09T05:30:06Z"
+      "capturedAt": "2026-11-10T05:30:05Z"
     },
     {
       "id": "e47fbc55febc03d3",
@@ -473,7 +275,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:14Z"
+      "capturedAt": "2026-11-10T05:30:21Z"
     },
     {
       "id": "c91d58bfc51f94c2",
@@ -491,7 +293,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
+      "capturedAt": "2026-11-10T05:30:08Z"
     },
     {
       "id": "6c81e29146bd04e0",
@@ -509,7 +311,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
+      "capturedAt": "2026-11-10T05:30:08Z"
     },
     {
       "id": "07201204bd02767a",
@@ -527,7 +329,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:09Z"
+      "capturedAt": "2026-11-10T05:30:17Z"
     },
     {
       "id": "da97aaf64ac8643a",
@@ -545,7 +347,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-09T05:30:21Z"
+      "capturedAt": "2026-11-10T05:30:25Z"
     },
     {
       "id": "222cd32776dbacb6",
@@ -563,7 +365,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-09T05:30:21Z"
+      "capturedAt": "2026-11-10T05:30:25Z"
     },
     {
       "id": "cbb48081be31d1c6",
@@ -581,7 +383,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
+      "capturedAt": "2026-11-10T05:30:08Z"
     },
     {
       "id": "76c7a3f168cfd5cf",
@@ -599,7 +401,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
+      "capturedAt": "2026-11-10T05:30:08Z"
     },
     {
       "id": "c10a6b30b8850f8d",
@@ -617,7 +419,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:09Z"
+      "capturedAt": "2026-11-10T05:30:17Z"
     },
     {
       "id": "7daae4047013a342",
@@ -635,7 +437,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-09T05:30:06Z"
+      "capturedAt": "2026-11-10T05:30:05Z"
     },
     {
       "id": "714b2c360a0530da",
@@ -653,7 +455,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261112-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-09T05:30:06Z"
+      "capturedAt": "2026-11-10T05:30:06Z"
     },
     {
       "id": "8020151d5d6dd514",
@@ -671,7 +473,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:14Z"
+      "capturedAt": "2026-11-10T05:30:21Z"
+    },
+    {
+      "id": "0c85a4bdcfdb157f",
+      "filmSlug": "el-gato-con-sombrero-en-catala",
+      "filmTitle": "El Gato Con Sombrero",
+      "cinemaId": "wc-023",
+      "cinemaSlug": "cinesa-diagonal",
+      "cinemaName": "Cinesa Diagonal",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-12",
+      "sessionTime": "17:05",
+      "languageLabel": "Català",
+      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
+      "extractorType": "chain-cinesa",
+      "capturedAt": "2026-11-10T05:30:08Z"
     },
     {
       "id": "74e6e27301566f65",
@@ -689,25 +509,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
-    },
-    {
-      "id": "03729fafe86169a0",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-12",
-      "sessionTime": "17:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
+      "capturedAt": "2026-11-10T05:30:08Z"
     },
     {
       "id": "874a947b6df07bc9",
@@ -725,7 +527,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261112-1805",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-09T05:30:06Z"
+      "capturedAt": "2026-11-10T05:30:06Z"
     },
     {
       "id": "46aafa8ded03aa3f",
@@ -743,7 +545,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:09Z"
+      "capturedAt": "2026-11-10T05:30:17Z"
     },
     {
       "id": "e7bbb5f899c8c6c5",
@@ -761,7 +563,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/viatge-al-pais-dels-blancs-vo-20261112-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-09T05:30:06Z"
+      "capturedAt": "2026-11-10T05:30:06Z"
     },
     {
       "id": "a3278b321b01cb1c",
@@ -779,7 +581,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-09T05:30:21Z"
+      "capturedAt": "2026-11-10T05:30:25Z"
     },
     {
       "id": "221c89c29ea06df6",
@@ -797,7 +599,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-09T05:30:21Z"
+      "capturedAt": "2026-11-10T05:30:25Z"
     },
     {
       "id": "2ad315221f9b3c5d",
@@ -815,7 +617,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:07Z"
+      "capturedAt": "2026-11-10T05:30:08Z"
     },
     {
       "id": "1c4e39e140db99f6",
@@ -833,7 +635,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-09T05:30:09Z"
+      "capturedAt": "2026-11-10T05:30:17Z"
     },
     {
       "id": "5f79ddca5a353852",
@@ -851,7 +653,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261112-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-09T05:30:06Z"
+      "capturedAt": "2026-11-10T05:30:06Z"
     }
   ]
 }
