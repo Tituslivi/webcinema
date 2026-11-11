@@ -1,0 +1,47 @@
+{
+  "slug": "sabadell",
+  "name": "Sabadell",
+  "ineCode": "08187",
+  "idescatCode": "081878",
+  "sessionCount": 2,
+  "filmCount": 1,
+  "cinemaCount": 1,
+  "sessions": [
+    {
+      "id": "b65033b2ff55fe0c",
+      "filmSlug": "el-gat-amb-barret-en-catala",
+      "filmTitle": "El Gat Amb Barret",
+      "cinemaId": "wc-022",
+      "cinemaSlug": "cines-imperial",
+      "cinemaName": "Cines Imperial",
+      "municipiSlug": "sabadell",
+      "municipiName": "Sabadell",
+      "sessionDate": "2026-11-12",
+      "sessionTime": "17:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6045",
+      "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6045",
+      "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
+      "extractorType": "ticketing-webtpv",
+      "capturedAt": "2026-11-11T05:30:07Z"
+    },
+    {
+      "id": "35ce27c30681403f",
+      "filmSlug": "el-gat-amb-barret-en-catala",
+      "filmTitle": "El Gat Amb Barret",
+      "cinemaId": "wc-022",
+      "cinemaSlug": "cines-imperial",
+      "cinemaName": "Cines Imperial",
+      "municipiSlug": "sabadell",
+      "municipiName": "Sabadell",
+      "sessionDate": "2026-11-12",
+      "sessionTime": "19:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6045",
+      "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6045",
+      "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
+      "extractorType": "ticketing-webtpv",
+      "capturedAt": "2026-11-11T05:30:07Z"
+    }
+  ]
+}
