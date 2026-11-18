@@ -1,7 +1,7 @@
 {
   "slug": "11-en-catala",
   "title": "11",
-  "sessionCount": 32,
+  "sessionCount": 23,
   "cinemaCount": 11,
   "municipiCount": 11,
   "sessions": [
@@ -21,7 +21,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94028",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-17T05:31:19Z"
+      "capturedAt": "2026-11-18T05:33:27Z"
     },
     {
       "id": "c490b2c2b2bfeeff",
@@ -39,7 +39,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94029",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-17T05:31:19Z"
+      "capturedAt": "2026-11-18T05:33:27Z"
     },
     {
       "id": "b56fa8633e7f881b",
@@ -57,7 +57,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94030",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-17T05:31:19Z"
+      "capturedAt": "2026-11-18T05:33:27Z"
     },
     {
       "id": "28713a8a1f401d03",
@@ -75,7 +75,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94033",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-17T05:31:19Z"
+      "capturedAt": "2026-11-18T05:33:27Z"
     },
     {
       "id": "f3383cbe0b263410",
@@ -93,169 +93,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=93995",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-17T05:31:19Z"
-    },
-    {
-      "id": "2456f4deef7c0991",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-048",
-      "cinemaSlug": "ocine-el-vendrell",
-      "cinemaName": "Ocine El Vendrell",
-      "municipiSlug": "el-vendrell",
-      "municipiName": "El Vendrell",
-      "sessionDate": "2026-11-17",
-      "sessionTime": "15:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinevendrell.es/?idioma=ca#/DetallPelicula/11117",
-      "pickerUrl": "https://tickets.ocinevendrell.es/?idioma=ca#/DetallPelicula/11117",
-      "sourceUrl": "https://tickets.ocinevendrell.es/api/v1/pelicula/11117?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-17T05:30:24Z"
-    },
-    {
-      "id": "7a7846c617b8554d",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-050",
-      "cinemaSlug": "ocine-granollers",
-      "cinemaName": "Ocine Granollers",
-      "municipiSlug": "granollers",
-      "municipiName": "Granollers",
-      "sessionDate": "2026-11-17",
-      "sessionTime": "15:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegranollers.es/?idioma=ca#/DetallPelicula/11117",
-      "pickerUrl": "https://tickets.ocinegranollers.es/?idioma=ca#/DetallPelicula/11117",
-      "sourceUrl": "https://tickets.ocinegranollers.es/api/v1/pelicula/11117?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-17T05:30:27Z"
-    },
-    {
-      "id": "7ae9176a2a51f552",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-11-17",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11117",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11117",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11117?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-17T05:30:29Z"
-    },
-    {
-      "id": "e25676ae3e7def4f",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-11-17",
-      "sessionTime": "16:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-17T05:30:14Z"
-    },
-    {
-      "id": "5a078e31f8d5689b",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-11-17",
-      "sessionTime": "19:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=280353",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-17T05:30:24Z"
-    },
-    {
-      "id": "4b06b851e10ac519",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-11-17",
-      "sessionTime": "20:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152833",
-      "pickerUrl": "https://jcacinemes.com/cartellera/11/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/11/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-11-17T05:30:29Z"
-    },
-    {
-      "id": "e43e9b23551bb4f9",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-17",
-      "sessionTime": "20:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261117-0000",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261117-0000",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-17T05:30:06Z"
-    },
-    {
-      "id": "fdfd02c7bb9ab1bc",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-058",
-      "cinemaSlug": "odeon-multicines-girona",
-      "cinemaName": "Odeon Multicines Girona",
-      "municipiSlug": "salt",
-      "municipiName": "Salt",
-      "sessionDate": "2026-11-17",
-      "sessionTime": "22:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-girona/sesion?pid=2582019&sesion=85598",
-      "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/11",
-      "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/11",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-17T05:30:45Z"
-    },
-    {
-      "id": "e79d557718c2ecac",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-019",
-      "cinemaSlug": "cinemes-sant-cugat",
-      "cinemaName": "Cinemes Sant Cugat",
-      "municipiSlug": "sant-cugat-del-valles",
-      "municipiName": "Sant Cugat del Vallès",
-      "sessionDate": "2026-11-17",
-      "sessionTime": "22:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/?p=tickets&s=SANTCUGAT&perfCode=115541",
-      "pickerUrl": "https://www.cinemessantcugat.com/11",
-      "sourceUrl": "https://www.cinemessantcugat.com/11",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-17T05:30:12Z"
+      "capturedAt": "2026-11-18T05:33:27Z"
     },
     {
       "id": "11b6a7b2c7e28829",
@@ -273,7 +111,7 @@
       "pickerUrl": "https://tickets.ocinevendrell.es/?idioma=ca#/DetallPelicula/11117",
       "sourceUrl": "https://tickets.ocinevendrell.es/api/v1/pelicula/11117?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-17T05:30:24Z"
+      "capturedAt": "2026-11-18T05:31:44Z"
     },
     {
       "id": "36f09211b971c5ab",
@@ -291,7 +129,7 @@
       "pickerUrl": "https://tickets.ocinegranollers.es/?idioma=ca#/DetallPelicula/11117",
       "sourceUrl": "https://tickets.ocinegranollers.es/api/v1/pelicula/11117?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-17T05:30:27Z"
+      "capturedAt": "2026-11-18T05:31:52Z"
     },
     {
       "id": "13ad56297c523fb8",
@@ -309,7 +147,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11117",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11117?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-17T05:30:29Z"
+      "capturedAt": "2026-11-18T05:31:55Z"
     },
     {
       "id": "47c5eb3fa74d57c0",
@@ -327,7 +165,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-17T05:30:14Z"
+      "capturedAt": "2026-11-18T05:30:59Z"
     },
     {
       "id": "47968f555fccfeb4",
@@ -345,7 +183,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-17T05:30:24Z"
+      "capturedAt": "2026-11-18T05:31:39Z"
     },
     {
       "id": "cb1e72d17c023a2e",
@@ -363,7 +201,7 @@
       "pickerUrl": "https://cinemaribes.es/mapasesion2023.php",
       "sourceUrl": "https://cinemaribes.es/",
       "extractorType": "ticketing-taquilla81",
-      "capturedAt": "2026-11-17T05:31:22Z"
+      "capturedAt": "2026-11-18T05:33:32Z"
     },
     {
       "id": "5f1266eb43fb6ea2",
@@ -381,7 +219,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/11/",
       "sourceUrl": "https://jcacinemes.com/cartellera/11/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-17T05:30:29Z"
+      "capturedAt": "2026-11-18T05:31:30Z"
     },
     {
       "id": "9b1c5019ee66fe1a",
@@ -399,7 +237,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261118-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-17T05:30:07Z"
+      "capturedAt": "2026-11-18T05:30:16Z"
     },
     {
       "id": "af77002f99c75296",
@@ -417,7 +255,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94031",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-17T05:31:19Z"
+      "capturedAt": "2026-11-18T05:33:27Z"
     },
     {
       "id": "db5352d04a6f39df",
@@ -435,7 +273,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/11",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/11",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-17T05:30:45Z"
+      "capturedAt": "2026-11-18T05:32:53Z"
     },
     {
       "id": "121b19151cce4a16",
@@ -453,7 +291,7 @@
       "pickerUrl": "https://www.cinemessantcugat.com/11",
       "sourceUrl": "https://www.cinemessantcugat.com/11",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-17T05:30:12Z"
+      "capturedAt": "2026-11-18T05:30:18Z"
     },
     {
       "id": "75bc4826a173ae5d",
@@ -471,7 +309,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94032",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-17T05:31:19Z"
+      "capturedAt": "2026-11-18T05:33:27Z"
     },
     {
       "id": "d6089165d9b1fece",
@@ -489,7 +327,7 @@
       "pickerUrl": "https://tickets.ocinevendrell.es/?idioma=ca#/DetallPelicula/11117",
       "sourceUrl": "https://tickets.ocinevendrell.es/api/v1/pelicula/11117?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-17T05:30:24Z"
+      "capturedAt": "2026-11-18T05:31:44Z"
     },
     {
       "id": "b619d02878aad85b",
@@ -507,7 +345,7 @@
       "pickerUrl": "https://tickets.ocinegranollers.es/?idioma=ca#/DetallPelicula/11117",
       "sourceUrl": "https://tickets.ocinegranollers.es/api/v1/pelicula/11117?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-17T05:30:27Z"
+      "capturedAt": "2026-11-18T05:31:52Z"
     },
     {
       "id": "4202ff374130e93b",
@@ -525,7 +363,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11117",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11117?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-17T05:30:29Z"
+      "capturedAt": "2026-11-18T05:31:55Z"
     },
     {
       "id": "db2c77adfc41e611",
@@ -543,7 +381,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-17T05:30:14Z"
+      "capturedAt": "2026-11-18T05:30:59Z"
     },
     {
       "id": "a2af59f3f360a2c3",
@@ -561,7 +399,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-17T05:30:24Z"
+      "capturedAt": "2026-11-18T05:31:39Z"
     },
     {
       "id": "6543af6fa7da4037",
@@ -579,7 +417,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/11",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/11",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-17T05:30:45Z"
+      "capturedAt": "2026-11-18T05:32:53Z"
     }
   ]
 }
