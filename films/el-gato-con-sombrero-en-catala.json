@@ -1,154 +1,10 @@
 {
   "slug": "el-gato-con-sombrero-en-catala",
   "title": "El Gato Con Sombrero",
-  "sessionCount": 17,
+  "sessionCount": 9,
   "cinemaCount": 9,
   "municipiCount": 8,
   "sessions": [
-    {
-      "id": "fda8ad20e0cd137f",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-11-18",
-      "sessionTime": "15:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10863",
-      "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10863",
-      "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10863?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-18T05:31:49Z"
-    },
-    {
-      "id": "e6ac8f4f120d75a3",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-11-18",
-      "sessionTime": "15:55",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-18T05:31:57Z"
-    },
-    {
-      "id": "3d4e3d7999feda90",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-055",
-      "cinemaSlug": "ocine-roquetes",
-      "cinemaName": "Ocine Roquetes",
-      "municipiSlug": "roquetes",
-      "municipiName": "Roquetes",
-      "sessionDate": "2026-11-18",
-      "sessionTime": "16:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10863",
-      "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10863",
-      "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10863?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-18T05:32:44Z"
-    },
-    {
-      "id": "6a8b3ccdd5d7123c",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-058",
-      "cinemaSlug": "odeon-multicines-girona",
-      "cinemaName": "Odeon Multicines Girona",
-      "municipiSlug": "salt",
-      "municipiName": "Salt",
-      "sessionDate": "2026-11-18",
-      "sessionTime": "17:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-girona/sesion?pid=2570542&sesion=85527",
-      "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/el-gato-con-sombrero",
-      "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/el-gato-con-sombrero",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-18T05:32:54Z"
-    },
-    {
-      "id": "24eae6282e53816b",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-11-18",
-      "sessionTime": "17:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2570542&sesion=80343",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/el-gato-con-sombrero",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/el-gato-con-sombrero",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-18T05:32:56Z"
-    },
-    {
-      "id": "db69d1a450607631",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-18",
-      "sessionTime": "17:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-18T05:30:26Z"
-    },
-    {
-      "id": "49a5cf0c55f54fc3",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-11-18",
-      "sessionTime": "17:25",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152902",
-      "pickerUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-11-18T05:31:29Z"
-    },
-    {
-      "id": "c4e665e7d2a92126",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-18",
-      "sessionTime": "21:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-18T05:30:54Z"
-    },
     {
       "id": "c40c4f67e1f2c0ad",
       "filmSlug": "el-gato-con-sombrero-en-catala",
@@ -165,7 +21,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-18T05:31:49Z"
+      "capturedAt": "2026-11-19T05:30:29Z"
     },
     {
       "id": "16addbb69413a88d",
@@ -183,7 +39,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-18T05:31:57Z"
+      "capturedAt": "2026-11-19T05:30:34Z"
     },
     {
       "id": "01db4765f748a4ab",
@@ -201,7 +57,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-18T05:32:44Z"
+      "capturedAt": "2026-11-19T05:30:36Z"
     },
     {
       "id": "1c8f3999b25f95ae",
@@ -219,7 +75,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/el-gato-con-sombrero",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/el-gato-con-sombrero",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-18T05:32:54Z"
+      "capturedAt": "2026-11-19T05:30:49Z"
     },
     {
       "id": "7a5ecc5599ebd936",
@@ -237,7 +93,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/el-gato-con-sombrero",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/el-gato-con-sombrero",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-18T05:32:56Z"
+      "capturedAt": "2026-11-19T05:30:52Z"
     },
     {
       "id": "8dc3a37c52c1efc4",
@@ -255,7 +111,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-18T05:30:26Z"
+      "capturedAt": "2026-11-19T05:30:08Z"
     },
     {
       "id": "b96bc24d3eedbe7f",
@@ -273,7 +129,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "sourceUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-18T05:31:29Z"
+      "capturedAt": "2026-11-19T05:30:30Z"
     },
     {
       "id": "cf6d457ed7d57b24",
@@ -291,7 +147,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "sourceUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-18T05:31:29Z"
+      "capturedAt": "2026-11-19T05:30:37Z"
     },
     {
       "id": "8d0fb572eeac57cc",
@@ -309,7 +165,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-18T05:30:54Z"
+      "capturedAt": "2026-11-19T05:30:13Z"
     }
   ]
 }
