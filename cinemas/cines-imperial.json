@@ -4,26 +4,44 @@
   "name": "Cines Imperial",
   "municipiSlug": "sabadell",
   "municipiName": "Sabadell",
-  "sessionCount": 1,
+  "sessionCount": 2,
   "filmCount": 1,
   "sessions": [
     {
-      "id": "110c91766162f9fc",
-      "filmSlug": "el-gat-amb-barret-en-catala",
-      "filmTitle": "El Gat Amb Barret",
+      "id": "232391cebdb99644",
+      "filmSlug": "minions-monsters-en-catala",
+      "filmTitle": "Minions & Monsters",
       "cinemaId": "wc-022",
       "cinemaSlug": "cines-imperial",
       "cinemaName": "Cines Imperial",
       "municipiSlug": "sabadell",
       "municipiName": "Sabadell",
-      "sessionDate": "2026-11-19",
-      "sessionTime": "17:00",
+      "sessionDate": "2026-11-21",
+      "sessionTime": "16:00",
       "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6045",
-      "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6045",
+      "bookingUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/5905",
+      "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/5905",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-19T05:30:06Z"
+      "capturedAt": "2026-11-20T05:30:06Z"
+    },
+    {
+      "id": "1aba2d66120e4445",
+      "filmSlug": "minions-monsters-en-catala",
+      "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-022",
+      "cinemaSlug": "cines-imperial",
+      "cinemaName": "Cines Imperial",
+      "municipiSlug": "sabadell",
+      "municipiName": "Sabadell",
+      "sessionDate": "2026-11-22",
+      "sessionTime": "16:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/5905",
+      "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/5905",
+      "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
+      "extractorType": "ticketing-webtpv",
+      "capturedAt": "2026-11-20T05:30:06Z"
     }
   ]
 }
