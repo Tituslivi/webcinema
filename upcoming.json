@@ -1,19 +1,19 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-20T05:33:18Z",
-  "weekStart": "2026-11-20",
-  "weekEnd": "2026-12-29",
+  "generatedAt": "2026-11-21T05:33:23Z",
+  "weekStart": "2026-11-21",
+  "weekEnd": "2027-01-16",
   "source": {
-    "sessionsPath": "runs\\daily\\2026-11-20\\sessions.json",
-    "recordsTotal": 232,
-    "skippedSources": 6,
-    "latestCapturedAt": "2026-11-20T05:31:38Z"
+    "sessionsPath": "runs\\daily\\2026-11-21\\sessions.json",
+    "recordsTotal": 220,
+    "skippedSources": 5,
+    "latestCapturedAt": "2026-11-21T05:31:30Z"
   },
   "summary": {
-    "sessions": 215,
-    "films": 35,
-    "cinemas": 36,
-    "municipis": 32,
+    "sessions": 200,
+    "films": 39,
+    "cinemas": 37,
+    "municipis": 33,
     "topFilms": [
       {
         "slug": "hechizo-bienvenidos-a-hexe-en-catala",
@@ -23,47 +23,47 @@
       {
         "slug": "willow-y-las-guardianas-de-los-4-elementos-en-catala",
         "title": "Willow Y Las Guardianas De Los 4 Elementos",
-        "sessions": 24
+        "sessions": 21
       },
       {
         "slug": "willow-i-les-guardianes-dels-quatre-elements-en-catala",
         "title": "Willow I Les Guardianes Dels Quatre Elements",
-        "sessions": 23
+        "sessions": 20
       },
       {
         "slug": "el-gato-con-sombrero-en-catala",
         "title": "El Gato Con Sombrero",
-        "sessions": 15
+        "sessions": 13
       },
       {
         "slug": "cronos-en-catala",
         "title": "Cronos",
-        "sessions": 10
+        "sessions": 9
       },
       {
-        "slug": "sucia-per-que-no-vas-fer-res-en-catala",
-        "title": "Sucia Per Que No Vas Fer Res",
-        "sessions": 9
+        "slug": "minions-monsters-en-catala",
+        "title": "Minions & Monsters",
+        "sessions": 8
       },
       {
         "slug": "sucia-en-catala",
         "title": "Sucia",
-        "sessions": 8
+        "sessions": 7
       },
       {
-        "slug": "11-en-catala",
-        "title": "11",
+        "slug": "sucia-per-que-no-vas-fer-res-en-catala",
+        "title": "Sucia Per Que No Vas Fer Res",
         "sessions": 7
+      },
+      {
+        "slug": "el-gat-amb-barret-en-catala",
+        "title": "El Gat Amb Barret",
+        "sessions": 6
       },
       {
         "slug": "superthings-la-pelicula-en-catala",
         "title": "Superthings La Pelicula",
-        "sessions": 7
-      },
-      {
-        "slug": "bestia-en-catala",
-        "title": "Bestia",
-        "sessions": 7
+        "sessions": 6
       }
     ]
   },
@@ -85,7 +85,7 @@
     {
       "slug": "11-en-catala",
       "title": "11",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "cinemaCount": 2,
       "municipiCount": 2
     },
@@ -99,16 +99,30 @@
     {
       "slug": "bestia-en-catala",
       "title": "Bestia",
-      "sessionCount": 7,
+      "sessionCount": 6,
+      "cinemaCount": 1,
+      "municipiCount": 1
+    },
+    {
+      "slug": "buffalo-en-catala",
+      "title": "Buffalo",
+      "sessionCount": 1,
       "cinemaCount": 1,
       "municipiCount": 1
     },
     {
       "slug": "cronos-en-catala",
       "title": "Cronos",
-      "sessionCount": 10,
+      "sessionCount": 9,
       "cinemaCount": 2,
       "municipiCount": 2
+    },
+    {
+      "slug": "dc-lliga-de-supermascotes-en-catala",
+      "title": "Dc Lliga De Supermascotes",
+      "sessionCount": 1,
+      "cinemaCount": 1,
+      "municipiCount": 1
     },
     {
       "slug": "dones-muntanya-en-catala",
@@ -134,7 +148,7 @@
     {
       "slug": "el-gato-con-sombrero-en-catala",
       "title": "El Gato Con Sombrero",
-      "sessionCount": 15,
+      "sessionCount": 13,
       "cinemaCount": 3,
       "municipiCount": 3
     },
@@ -160,8 +174,8 @@
       "municipiCount": 6
     },
     {
-      "slug": "l-olivia-i-el-terratremol-invisible-en-catala",
-      "title": "L Olivia I El Terratremol Invisible",
+      "slug": "hospital-de-campanya-en-catala",
+      "title": "Hospital De Campanya",
       "sessionCount": 1,
       "cinemaCount": 1,
       "municipiCount": 1
@@ -176,7 +190,7 @@
     {
       "slug": "la-carn-en-catala",
       "title": "La Carn",
-      "sessionCount": 6,
+      "sessionCount": 4,
       "cinemaCount": 2,
       "municipiCount": 1
     },
@@ -197,7 +211,7 @@
     {
       "slug": "la-violinista-en-catala",
       "title": "La Violinista",
-      "sessionCount": 6,
+      "sessionCount": 5,
       "cinemaCount": 1,
       "municipiCount": 1
     },
@@ -218,9 +232,16 @@
     {
       "slug": "minions-monsters-en-catala",
       "title": "Minions & Monsters",
-      "sessionCount": 7,
-      "cinemaCount": 5,
-      "municipiCount": 5
+      "sessionCount": 8,
+      "cinemaCount": 6,
+      "municipiCount": 6
+    },
+    {
+      "slug": "momies-en-catala",
+      "title": "Momies",
+      "sessionCount": 1,
+      "cinemaCount": 1,
+      "municipiCount": 1
     },
     {
       "slug": "onze-en-catala",
@@ -232,7 +253,7 @@
     {
       "slug": "quan-un-riu-esdeve-el-mar-en-catala",
       "title": "Quan Un Riu Esdeve El Mar",
-      "sessionCount": 5,
+      "sessionCount": 4,
       "cinemaCount": 1,
       "municipiCount": 1
     },
@@ -246,14 +267,14 @@
     {
       "slug": "sucia-en-catala",
       "title": "Sucia",
-      "sessionCount": 8,
+      "sessionCount": 7,
       "cinemaCount": 2,
       "municipiCount": 2
     },
     {
       "slug": "sucia-per-que-no-vas-fer-res-en-catala",
       "title": "Sucia Per Que No Vas Fer Res",
-      "sessionCount": 9,
+      "sessionCount": 7,
       "cinemaCount": 2,
       "municipiCount": 2
     },
@@ -274,7 +295,7 @@
     {
       "slug": "superthings-la-pelicula-en-catala",
       "title": "Superthings La Pelicula",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "cinemaCount": 1,
       "municipiCount": 1
     },
@@ -286,9 +307,16 @@
       "municipiCount": 1
     },
     {
+      "slug": "una-pel-licula-de-minecraft-en-catala",
+      "title": "Una Pel Licula De Minecraft",
+      "sessionCount": 1,
+      "cinemaCount": 1,
+      "municipiCount": 1
+    },
+    {
       "slug": "willow-i-les-guardianes-dels-quatre-elements-en-catala",
       "title": "Willow I Les Guardianes Dels Quatre Elements",
-      "sessionCount": 23,
+      "sessionCount": 20,
       "cinemaCount": 5,
       "municipiCount": 5
     },
@@ -302,14 +330,14 @@
     {
       "slug": "willow-y-las-guardianas-de-los-4-elementos-en-catala",
       "title": "Willow Y Las Guardianas De Los 4 Elementos",
-      "sessionCount": 24,
+      "sessionCount": 21,
       "cinemaCount": 4,
       "municipiCount": 4
     },
     {
       "slug": "willow-y-las-guardianas-de-los-cuatro-elementos-en-catala",
       "title": "Willow Y Las Guardianas De Los Cuatro Elementos",
-      "sessionCount": 4,
+      "sessionCount": 3,
       "cinemaCount": 1,
       "municipiCount": 1
     }
@@ -321,8 +349,8 @@
       "name": "JCA Cinemes Alpicat",
       "municipiSlug": "alpicat",
       "municipiName": "Alpicat",
-      "sessionCount": 14,
-      "filmCount": 2
+      "sessionCount": 16,
+      "filmCount": 6
     },
     {
       "cinemaId": "wc-002",
@@ -348,7 +376,7 @@
       "name": "Cinemes Texas",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 29,
+      "sessionCount": 26,
       "filmCount": 9
     },
     {
@@ -384,7 +412,7 @@
       "name": "Zumzeig Cinecooperativa",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 10,
+      "sessionCount": 8,
       "filmCount": 3
     },
     {
@@ -393,8 +421,8 @@
       "name": "Cinema Esbarjo",
       "municipiSlug": "cardedeu",
       "municipiName": "Cardedeu",
-      "sessionCount": 2,
-      "filmCount": 2
+      "sessionCount": 1,
+      "filmCount": 1
     },
     {
       "cinemaId": "wc-035",
@@ -465,7 +493,7 @@
       "name": "Screenbox Lleida",
       "municipiSlug": "lleida",
       "municipiName": "Lleida",
-      "sessionCount": 12,
+      "sessionCount": 10,
       "filmCount": 2
     },
     {
@@ -501,8 +529,17 @@
       "name": "Cines Olot",
       "municipiSlug": "olot",
       "municipiName": "Olot",
-      "sessionCount": 11,
+      "sessionCount": 10,
       "filmCount": 3
+    },
+    {
+      "cinemaId": "wc-021",
+      "slug": "cines-axion-reus",
+      "name": "Cines AXION Reus",
+      "municipiSlug": "reus",
+      "municipiName": "Reus",
+      "sessionCount": 1,
+      "filmCount": 1
     },
     {
       "cinemaId": "wc-055",
@@ -528,7 +565,7 @@
       "name": "Odeon Multicines Girona",
       "municipiSlug": "salt",
       "municipiName": "Salt",
-      "sessionCount": 14,
+      "sessionCount": 12,
       "filmCount": 2
     },
     {
@@ -537,7 +574,7 @@
       "name": "CineBaix",
       "municipiSlug": "sant-feliu-de-llobregat",
       "municipiName": "Sant Feliu de Llobregat",
-      "sessionCount": 6,
+      "sessionCount": 5,
       "filmCount": 2
     },
     {
@@ -573,7 +610,7 @@
       "name": "Ocine Les Gavarres",
       "municipiSlug": "tarragona",
       "municipiName": "Tarragona",
-      "sessionCount": 29,
+      "sessionCount": 26,
       "filmCount": 4
     },
     {
@@ -582,7 +619,7 @@
       "name": "Cinesa Parc Vallès",
       "municipiSlug": "terrassa",
       "municipiName": "Terrassa",
-      "sessionCount": 10,
+      "sessionCount": 9,
       "filmCount": 2
     },
     {
@@ -609,7 +646,7 @@
       "name": "JCA Cinemes Tarragona-Valls",
       "municipiSlug": "valls",
       "municipiName": "Valls",
-      "sessionCount": 6,
+      "sessionCount": 5,
       "filmCount": 1
     },
     {
@@ -618,7 +655,7 @@
       "name": "Multicines Sucre",
       "municipiSlug": "vic",
       "municipiName": "Vic",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "filmCount": 1
     },
     {
@@ -627,8 +664,8 @@
       "name": "Sala Zazie",
       "municipiSlug": "vilafranca-del-penedes",
       "municipiName": "Vilafranca del Penedès",
-      "sessionCount": 2,
-      "filmCount": 2
+      "sessionCount": 3,
+      "filmCount": 3
     },
     {
       "cinemaId": "wc-059",
@@ -636,7 +673,7 @@
       "name": "Odeon Multicines Vilanova",
       "municipiSlug": "vilanova-i-la-geltru",
       "municipiName": "Vilanova i la Geltrú",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "filmCount": 1
     }
   ],
@@ -646,8 +683,8 @@
       "name": "Alpicat",
       "ineCode": "25023",
       "idescatCode": "250236",
-      "sessionCount": 14,
-      "filmCount": 2,
+      "sessionCount": 16,
+      "filmCount": 6,
       "cinemaCount": 1
     },
     {
@@ -673,7 +710,7 @@
       "name": "Barcelona",
       "ineCode": "08019",
       "idescatCode": "080193",
-      "sessionCount": 49,
+      "sessionCount": 44,
       "filmCount": 13,
       "cinemaCount": 5
     },
@@ -682,8 +719,8 @@
       "name": "Cardedeu",
       "ineCode": "08046",
       "idescatCode": "080462",
-      "sessionCount": 2,
-      "filmCount": 2,
+      "sessionCount": 1,
+      "filmCount": 1,
       "cinemaCount": 1
     },
     {
@@ -754,7 +791,7 @@
       "name": "Lleida",
       "ineCode": "25120",
       "idescatCode": "251207",
-      "sessionCount": 12,
+      "sessionCount": 10,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -790,8 +827,17 @@
       "name": "Olot",
       "ineCode": "17114",
       "idescatCode": "171143",
-      "sessionCount": 11,
+      "sessionCount": 10,
       "filmCount": 3,
+      "cinemaCount": 1
+    },
+    {
+      "slug": "reus",
+      "name": "Reus",
+      "ineCode": "43123",
+      "idescatCode": "431233",
+      "sessionCount": 1,
+      "filmCount": 1,
       "cinemaCount": 1
     },
     {
@@ -817,7 +863,7 @@
       "name": "Salt",
       "ineCode": "17155",
       "idescatCode": "171557",
-      "sessionCount": 14,
+      "sessionCount": 12,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -826,7 +872,7 @@
       "name": "Sant Feliu de Llobregat",
       "ineCode": "08211",
       "idescatCode": "082114",
-      "sessionCount": 6,
+      "sessionCount": 5,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -862,7 +908,7 @@
       "name": "Tarragona",
       "ineCode": "43148",
       "idescatCode": "431482",
-      "sessionCount": 29,
+      "sessionCount": 26,
       "filmCount": 4,
       "cinemaCount": 1
     },
@@ -871,7 +917,7 @@
       "name": "Terrassa",
       "ineCode": "08279",
       "idescatCode": "082798",
-      "sessionCount": 10,
+      "sessionCount": 9,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -898,7 +944,7 @@
       "name": "Valls",
       "ineCode": "43161",
       "idescatCode": "431613",
-      "sessionCount": 6,
+      "sessionCount": 5,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -907,7 +953,7 @@
       "name": "Vic",
       "ineCode": "08298",
       "idescatCode": "082981",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -916,8 +962,8 @@
       "name": "Vilafranca del Penedès",
       "ineCode": "08305",
       "idescatCode": "083054",
-      "sessionCount": 2,
-      "filmCount": 2,
+      "sessionCount": 3,
+      "filmCount": 3,
       "cinemaCount": 1
     },
     {
@@ -925,372 +971,12 @@
       "name": "Vilanova i la Geltrú",
       "ineCode": "08307",
       "idescatCode": "083073",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "filmCount": 1,
       "cinemaCount": 1
     }
   ],
   "sessions": [
-    {
-      "id": "73725f8f5016d153",
-      "filmSlug": "sucia-en-catala",
-      "filmTitle": "Sucia",
-      "cinemaId": "wc-086",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "12:10",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94164",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94164",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-20T05:31:19Z"
-    },
-    {
-      "id": "66d9287c02f91a9f",
-      "filmSlug": "11-en-catala",
-      "filmTitle": "11",
-      "cinemaId": "wc-086",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "13:55",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94404",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94404",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-20T05:31:19Z"
-    },
-    {
-      "id": "49da24519f091dfa",
-      "filmSlug": "willow-i-les-guardianes-dels-quatre-elements-en-catala",
-      "filmTitle": "Willow I Les Guardianes Dels Quatre Elements",
-      "cinemaId": "wc-030",
-      "cinemaSlug": "jca-cinemes-alpicat",
-      "cinemaName": "JCA Cinemes Alpicat",
-      "municipiSlug": "alpicat",
-      "municipiName": "Alpicat",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "15:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=311744",
-      "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:38Z"
-    },
-    {
-      "id": "9b70fd4ea5e302d9",
-      "filmSlug": "cronos-en-catala",
-      "filmTitle": "Cronos",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "15:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:31Z"
-    },
-    {
-      "id": "476e91fb20918860",
-      "filmSlug": "willow-y-las-guardianas-de-los-4-elementos-en-catala",
-      "filmTitle": "Willow Y Las Guardianas De Los 4 Elementos",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "15:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11216",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11216",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11216?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:38Z"
-    },
-    {
-      "id": "0626fce3ab60e963",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "15:55",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
-    },
-    {
-      "id": "e8cd8d4e02ecc5b7",
-      "filmSlug": "la-violinista-en-catala",
-      "filmTitle": "La Violinista",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "16:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261120-1600",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261120-1600",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:05Z"
-    },
-    {
-      "id": "2fc64ee2d317a01e",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-058",
-      "cinemaSlug": "odeon-multicines-girona",
-      "cinemaName": "Odeon Multicines Girona",
-      "municipiSlug": "salt",
-      "municipiName": "Salt",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-girona/sesion?pid=2547014&sesion=85768",
-      "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
-      "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
-    },
-    {
-      "id": "28fbad3fb51a77b4",
-      "filmSlug": "willow-y-las-guardianas-de-los-4-elementos-en-catala",
-      "filmTitle": "Willow Y Las Guardianas De Los 4 Elementos",
-      "cinemaId": "wc-058",
-      "cinemaSlug": "odeon-multicines-girona",
-      "cinemaName": "Odeon Multicines Girona",
-      "municipiSlug": "salt",
-      "municipiName": "Salt",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-girona/sesion?pid=2599809&sesion=85764",
-      "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
-      "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
-    },
-    {
-      "id": "0bca4d0a2fd4bfac",
-      "filmSlug": "willow-y-las-guardianas-de-los-4-elementos-en-catala",
-      "filmTitle": "Willow Y Las Guardianas De Los 4 Elementos",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2599809&sesion=80663",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:49Z"
-    },
-    {
-      "id": "63b41b307d8b1027",
-      "filmSlug": "sucia-per-que-no-vas-fer-res-en-catala",
-      "filmTitle": "Sucia Per Que No Vas Fer Res",
-      "cinemaId": "wc-084",
-      "cinemaSlug": "cinebaix",
-      "cinemaName": "CineBaix",
-      "municipiSlug": "sant-feliu-de-llobregat",
-      "municipiName": "Sant Feliu de Llobregat",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "16:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://cinebaixtaquilla81.com/",
-      "pickerUrl": "https://cinebaixtaquilla81.com/",
-      "sourceUrl": "https://cinebaix.com",
-      "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-20T05:31:19Z"
-    },
-    {
-      "id": "50a19b0b10e4a684",
-      "filmSlug": "willow-y-las-guardianas-de-los-cuatro-elementos-en-catala",
-      "filmTitle": "Willow Y Las Guardianas De Los Cuatro Elementos",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "16:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:29Z"
-    },
-    {
-      "id": "e7cc2d07a3d8dc6c",
-      "filmSlug": "willow-i-les-guardianes-dels-quatre-elements-en-catala",
-      "filmTitle": "Willow I Les Guardianes Dels Quatre Elements",
-      "cinemaId": "wc-088",
-      "cinemaSlug": "cines-olot",
-      "cinemaName": "Cines Olot",
-      "municipiSlug": "olot",
-      "municipiName": "Olot",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "17:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4600",
-      "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4600",
-      "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
-    },
-    {
-      "id": "a7fd497a95f18843",
-      "filmSlug": "willow-i-les-guardianes-dels-quatre-elements-en-catala",
-      "filmTitle": "Willow I Les Guardianes Dels Quatre Elements",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "17:25",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=152934",
-      "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:32Z"
-    },
-    {
-      "id": "7c1c7ba253214f76",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-030",
-      "cinemaSlug": "jca-cinemes-alpicat",
-      "cinemaName": "JCA Cinemes Alpicat",
-      "municipiSlug": "alpicat",
-      "municipiName": "Alpicat",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "17:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=311693",
-      "pickerUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:37Z"
-    },
-    {
-      "id": "6eb5405539342a49",
-      "filmSlug": "sucia-per-que-no-vas-fer-res-en-catala",
-      "filmTitle": "Sucia Per Que No Vas Fer Res",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "18:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261120-1800",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261120-1800",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:08Z"
-    },
-    {
-      "id": "a4572fdebbc7f6b7",
-      "filmSlug": "la-carn-en-catala",
-      "filmTitle": "La Carn",
-      "cinemaId": "wc-085",
-      "cinemaSlug": "zumzeig-cinecooperativa",
-      "cinemaName": "Zumzeig Cinecooperativa",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "19:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.zumzeigcine.coop/cinema/films/la-carn-1/",
-      "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-carn-1/",
-      "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
-      "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-20T05:31:37Z"
-    },
-    {
-      "id": "819ffccecf70ef39",
-      "filmSlug": "bestia-en-catala",
-      "filmTitle": "Bestia",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "20:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=280611",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:21Z"
-    },
-    {
-      "id": "3fdb9f0bfa5e7b35",
-      "filmSlug": "la-carn-en-catala",
-      "filmTitle": "La Carn",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "20:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-carn-vo-20261120-2030",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/la-carn-vo-20261120-2030",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:08Z"
-    },
-    {
-      "id": "42725c7472195269",
-      "filmSlug": "quan-un-riu-esdeve-el-mar-en-catala",
-      "filmTitle": "Quan Un Riu Esdeve El Mar",
-      "cinemaId": "wc-085",
-      "cinemaSlug": "zumzeig-cinecooperativa",
-      "cinemaName": "Zumzeig Cinecooperativa",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-20",
-      "sessionTime": "20:30",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.zumzeigcine.coop/cinema/films/quan-un-riu-esdeve-el-mar/",
-      "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/quan-un-riu-esdeve-el-mar/",
-      "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
-      "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-20T05:31:37Z"
-    },
     {
       "id": "351a58089bcec6c8",
       "filmSlug": "willow-y-las-guardianas-de-los-4-elementos-en-catala",
@@ -1307,7 +993,7 @@
       "pickerUrl": "https://tickets.ocinemagic.es/?idioma=ca#/DetallPelicula/11216",
       "sourceUrl": "https://tickets.ocinemagic.es/api/v1/pelicula/11216?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:31:24Z"
+      "capturedAt": "2026-11-21T05:31:25Z"
     },
     {
       "id": "1ba4ee6ce99cc8c7",
@@ -1325,7 +1011,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "fddb74fe694c32e7",
@@ -1343,7 +1029,7 @@
       "pickerUrl": "https://www.cinealhambra.com",
       "sourceUrl": "https://www.cinealhambra.com",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:04Z"
+      "capturedAt": "2026-11-21T05:30:04Z"
     },
     {
       "id": "8fb763d4c0d87b18",
@@ -1361,7 +1047,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4589",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
+      "capturedAt": "2026-11-21T05:31:17Z"
     },
     {
       "id": "2836edb4d63fb984",
@@ -1379,7 +1065,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:31Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "a40bf1c76a3b7d83",
@@ -1397,7 +1083,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11216",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11216?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:39Z"
     },
     {
       "id": "46fcc997e66f7823",
@@ -1415,7 +1101,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:33Z"
     },
     {
       "id": "48f7a5eeda392e70",
@@ -1433,7 +1119,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261121-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:09Z"
+      "capturedAt": "2026-11-21T05:30:05Z"
     },
     {
       "id": "f90602aa4a520eac",
@@ -1451,7 +1137,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261121-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:08Z"
+      "capturedAt": "2026-11-21T05:30:05Z"
     },
     {
       "id": "472113b39549e3e0",
@@ -1469,7 +1155,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4488",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
+      "capturedAt": "2026-11-21T05:31:17Z"
     },
     {
       "id": "d676210bcd927e2d",
@@ -1487,7 +1173,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4600",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
+      "capturedAt": "2026-11-21T05:31:17Z"
     },
     {
       "id": "232391cebdb99644",
@@ -1505,7 +1191,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/5905",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:30:06Z"
+      "capturedAt": "2026-11-21T05:30:06Z"
     },
     {
       "id": "f460c6752e541a58",
@@ -1523,7 +1209,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
+      "capturedAt": "2026-11-21T05:30:42Z"
     },
     {
       "id": "d2ae3314a9bb3fea",
@@ -1541,7 +1227,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
+      "capturedAt": "2026-11-21T05:30:42Z"
     },
     {
       "id": "e1d962bd15e93aeb",
@@ -1559,7 +1245,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:49Z"
+      "capturedAt": "2026-11-21T05:30:46Z"
     },
     {
       "id": "fbaa7268eab643c8",
@@ -1577,7 +1263,25 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:30:02Z"
+      "capturedAt": "2026-11-21T05:30:02Z"
+    },
+    {
+      "id": "37d26c8a6c470299",
+      "filmSlug": "minions-monsters-en-catala",
+      "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-021",
+      "cinemaSlug": "cines-axion-reus",
+      "cinemaName": "Cines AXION Reus",
+      "municipiSlug": "reus",
+      "municipiName": "Reus",
+      "sessionDate": "2026-11-21",
+      "sessionTime": "16:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://reus.cinesaxion.com/index?pag=cartelera",
+      "pickerUrl": "https://reus.cinesaxion.com/index?pag=cartelera",
+      "sourceUrl": "https://reus.cinesaxion.com/index?pag=cartelera",
+      "extractorType": "ticketing-reserva-portal",
+      "capturedAt": "2026-11-21T05:30:09Z"
     },
     {
       "id": "1f24e196dd9ebf47",
@@ -1595,7 +1299,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:15Z"
     },
     {
       "id": "fda2c5625673fcb3",
@@ -1613,7 +1317,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94414",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:16Z"
     },
     {
       "id": "2239b5926a4c11ad",
@@ -1631,7 +1335,7 @@
       "pickerUrl": "https://cinemamontgri.cat/lovella-shaun-missio-carbassa/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-20T05:31:23Z"
+      "capturedAt": "2026-11-21T05:31:22Z"
     },
     {
       "id": "cb3a6df9e19b67ec",
@@ -1649,7 +1353,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:30Z"
     },
     {
       "id": "b220390f35c06710",
@@ -1667,7 +1371,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "sourceUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "d5e5d25344ce241c",
@@ -1685,7 +1389,7 @@
       "pickerUrl": "https://circusa.com/ca/mollerussa/",
       "sourceUrl": "https://circusa.com/ca/mollerussa/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-20T05:31:12Z"
+      "capturedAt": "2026-11-21T05:31:10Z"
     },
     {
       "id": "95d06668060acfbb",
@@ -1703,7 +1407,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4600",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
+      "capturedAt": "2026-11-21T05:31:17Z"
     },
     {
       "id": "ac1ddcbff586d727",
@@ -1721,7 +1425,7 @@
       "pickerUrl": "https://circusa.com/ca/tremp/",
       "sourceUrl": "https://circusa.com/ca/tremp/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-20T05:31:15Z"
+      "capturedAt": "2026-11-21T05:31:14Z"
     },
     {
       "id": "33be6d4e77d339b9",
@@ -1739,7 +1443,7 @@
       "pickerUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16341/minions--monsters",
       "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16341/minions--monsters",
       "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-11-20T05:30:02Z"
+      "capturedAt": "2026-11-21T05:30:02Z"
     },
     {
       "id": "1779d9e82ed950f4",
@@ -1757,7 +1461,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261121-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:09Z"
+      "capturedAt": "2026-11-21T05:30:06Z"
     },
     {
       "id": "f1bb3ba7cc145960",
@@ -1775,7 +1479,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/catalunya/itinerantscat/minions-amp-monsters-santa-coloma-de-queralt/60/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/catalunya/itinerantscat/minions-amp-monsters-santa-coloma-de-queralt/60/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-20T05:30:58Z"
+      "capturedAt": "2026-11-21T05:30:56Z"
     },
     {
       "id": "0403f30468243c76",
@@ -1793,7 +1497,7 @@
       "pickerUrl": "https://circusa.com/ca/santa-coloma-de-queralt/",
       "sourceUrl": "https://circusa.com/ca/santa-coloma-de-queralt/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-20T05:31:02Z"
+      "capturedAt": "2026-11-21T05:31:00Z"
     },
     {
       "id": "f5447c63b4269e52",
@@ -1811,7 +1515,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-carn-1/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-20T05:31:37Z"
+      "capturedAt": "2026-11-21T05:31:29Z"
     },
     {
       "id": "95fe158ca25f4884",
@@ -1829,7 +1533,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:15Z"
     },
     {
       "id": "b4450334bb919cf2",
@@ -1847,7 +1551,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:21Z"
+      "capturedAt": "2026-11-21T05:30:22Z"
     },
     {
       "id": "6d9823a4a02e42f7",
@@ -1865,7 +1569,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261121-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:09Z"
+      "capturedAt": "2026-11-21T05:30:06Z"
     },
     {
       "id": "46b8cbb4feb187e2",
@@ -1883,7 +1587,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261121-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:09Z"
+      "capturedAt": "2026-11-21T05:30:09Z"
     },
     {
       "id": "22c8cb27fe461ca8",
@@ -1901,7 +1605,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/quan-un-riu-esdeve-el-mar/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-20T05:31:37Z"
+      "capturedAt": "2026-11-21T05:31:29Z"
     },
     {
       "id": "5fa3fad7e26f4b26",
@@ -1919,7 +1623,7 @@
       "pickerUrl": "https://circusa.com/ca/solsona/",
       "sourceUrl": "https://circusa.com/ca/solsona/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-20T05:31:17Z"
+      "capturedAt": "2026-11-21T05:31:15Z"
     },
     {
       "id": "64e1682702447f44",
@@ -1937,7 +1641,7 @@
       "pickerUrl": "https://cinemaribes.es/mapasesion2023.php",
       "sourceUrl": "https://cinemaribes.es/",
       "extractorType": "ticketing-taquilla81",
-      "capturedAt": "2026-11-20T05:31:23Z"
+      "capturedAt": "2026-11-21T05:31:20Z"
     },
     {
       "id": "f883ee2dbd81b9ec",
@@ -1955,7 +1659,7 @@
       "pickerUrl": "https://tickets.ocinemagic.es/?idioma=ca#/DetallPelicula/11216",
       "sourceUrl": "https://tickets.ocinemagic.es/api/v1/pelicula/11216?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:31:24Z"
+      "capturedAt": "2026-11-21T05:31:25Z"
     },
     {
       "id": "140e41ab9da4fc42",
@@ -1973,7 +1677,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:30:02Z"
+      "capturedAt": "2026-11-21T05:30:02Z"
     },
     {
       "id": "65f2c4e5e4950225",
@@ -1991,7 +1695,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11216",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11216?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:39Z"
     },
     {
       "id": "854e67b3a8e1d204",
@@ -2009,7 +1713,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94405",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:16Z"
     },
     {
       "id": "fb328483affe97d6",
@@ -2027,7 +1731,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "ffa0e62d2ec04619",
@@ -2045,7 +1749,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4589",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
+      "capturedAt": "2026-11-21T05:31:17Z"
     },
     {
       "id": "56e78503456ed7dc",
@@ -2063,7 +1767,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:31Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "001d1b83a08699c3",
@@ -2081,7 +1785,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11216",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11216?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:39Z"
     },
     {
       "id": "1190449d8f6570dc",
@@ -2099,7 +1803,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:33Z"
     },
     {
       "id": "3cf7cf0e03eaa352",
@@ -2117,7 +1821,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261122-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:09Z"
+      "capturedAt": "2026-11-21T05:30:09Z"
     },
     {
       "id": "8df410db9d61963b",
@@ -2135,7 +1839,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261122-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:09Z"
+      "capturedAt": "2026-11-21T05:30:09Z"
     },
     {
       "id": "58e046c2cdfd50db",
@@ -2153,7 +1857,7 @@
       "pickerUrl": "https://www.cinealhambra.com",
       "sourceUrl": "https://www.cinealhambra.com",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:04Z"
+      "capturedAt": "2026-11-21T05:30:04Z"
     },
     {
       "id": "542a0c8f4f2796ec",
@@ -2171,7 +1875,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4488",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
+      "capturedAt": "2026-11-21T05:31:17Z"
     },
     {
       "id": "5adc46df09313c2c",
@@ -2189,7 +1893,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4600",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
+      "capturedAt": "2026-11-21T05:31:17Z"
     },
     {
       "id": "1aba2d66120e4445",
@@ -2207,7 +1911,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/5905",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:30:06Z"
+      "capturedAt": "2026-11-21T05:30:06Z"
     },
     {
       "id": "3b10b1940cace448",
@@ -2225,7 +1929,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
+      "capturedAt": "2026-11-21T05:30:42Z"
     },
     {
       "id": "30aa6761e993e18d",
@@ -2243,7 +1947,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
+      "capturedAt": "2026-11-21T05:30:42Z"
     },
     {
       "id": "87514276a0d10ac5",
@@ -2261,7 +1965,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:49Z"
+      "capturedAt": "2026-11-21T05:30:46Z"
     },
     {
       "id": "c9ab10bfb545b384",
@@ -2279,7 +1983,7 @@
       "pickerUrl": "https://tickets.cinesbagescentre.com:5443/?idioma=ca#/DetallPelicula/6569",
       "sourceUrl": "https://tickets.cinesbagescentre.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:30:02Z"
+      "capturedAt": "2026-11-21T05:30:02Z"
     },
     {
       "id": "2c92fb81ab377a5a",
@@ -2297,7 +2001,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:15Z"
     },
     {
       "id": "c1ae60e54a43a3e6",
@@ -2315,7 +2019,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:30Z"
+      "capturedAt": "2026-11-21T05:30:30Z"
     },
     {
       "id": "e7475337d1afea37",
@@ -2333,7 +2037,7 @@
       "pickerUrl": "https://circusa.com/ca/mollerussa/",
       "sourceUrl": "https://circusa.com/ca/mollerussa/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-20T05:31:12Z"
+      "capturedAt": "2026-11-21T05:31:10Z"
     },
     {
       "id": "4d4a0dbac5fe3f49",
@@ -2351,7 +2055,7 @@
       "pickerUrl": "https://circusa.com/ca/montblanc/",
       "sourceUrl": "https://circusa.com/ca/montblanc/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-20T05:31:22Z"
+      "capturedAt": "2026-11-21T05:31:20Z"
     },
     {
       "id": "ae32d5b09813202c",
@@ -2369,7 +2073,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:15Z"
     },
     {
       "id": "fad4fae30c54e47b",
@@ -2387,7 +2091,7 @@
       "pickerUrl": "https://circusa.com/ca/solsona/",
       "sourceUrl": "https://circusa.com/ca/solsona/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-20T05:31:17Z"
+      "capturedAt": "2026-11-21T05:31:15Z"
     },
     {
       "id": "7539cac18bac88d0",
@@ -2405,7 +2109,7 @@
       "pickerUrl": "https://cinemamontgri.cat/lovella-shaun-missio-carbassa/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-20T05:31:23Z"
+      "capturedAt": "2026-11-21T05:31:22Z"
     },
     {
       "id": "f07b2ea06c819cfb",
@@ -2423,7 +2127,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:30Z"
     },
     {
       "id": "e2f7040b6b81509f",
@@ -2441,7 +2145,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "sourceUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "dca7b3322247cb1b",
@@ -2459,7 +2163,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4600",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
+      "capturedAt": "2026-11-21T05:31:17Z"
     },
     {
       "id": "0232ee983d20fe7c",
@@ -2477,7 +2181,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261122-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:09Z"
+      "capturedAt": "2026-11-21T05:30:09Z"
     },
     {
       "id": "d3656c9d45958fe7",
@@ -2495,7 +2199,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:21Z"
+      "capturedAt": "2026-11-21T05:30:22Z"
     },
     {
       "id": "cfddb2c2368237bc",
@@ -2513,7 +2217,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261122-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:09Z"
+      "capturedAt": "2026-11-21T05:30:09Z"
     },
     {
       "id": "b9f0f429effab765",
@@ -2531,7 +2235,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261122-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:09Z"
+      "capturedAt": "2026-11-21T05:30:09Z"
     },
     {
       "id": "5bdacfdeb887de99",
@@ -2549,7 +2253,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94415",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:16Z"
     },
     {
       "id": "3e72c1db9406b54a",
@@ -2567,7 +2271,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94416",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:16Z"
     },
     {
       "id": "17fe7cb1df19856b",
@@ -2585,7 +2289,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "bfd67cd23a09306b",
@@ -2603,7 +2307,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:31Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "c3f7feac20f40c9d",
@@ -2621,7 +2325,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11216",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11216?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:39Z"
     },
     {
       "id": "77d732cb1b5acfb7",
@@ -2639,7 +2343,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:33Z"
     },
     {
       "id": "cbbbc17fa10d613c",
@@ -2657,7 +2361,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261123-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:09Z"
+      "capturedAt": "2026-11-21T05:30:09Z"
     },
     {
       "id": "001e3f6c670bb44f",
@@ -2675,7 +2379,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261123-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:09Z"
+      "capturedAt": "2026-11-21T05:30:09Z"
     },
     {
       "id": "75c2e1b89424b3b6",
@@ -2693,7 +2397,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
+      "capturedAt": "2026-11-21T05:30:42Z"
     },
     {
       "id": "74e340b1505d001b",
@@ -2711,7 +2415,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
+      "capturedAt": "2026-11-21T05:30:42Z"
     },
     {
       "id": "3e96a69474b04764",
@@ -2729,7 +2433,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:49Z"
+      "capturedAt": "2026-11-21T05:30:46Z"
     },
     {
       "id": "b1a8074869a4cbcd",
@@ -2747,7 +2451,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:15Z"
     },
     {
       "id": "1dd7e1df805b529d",
@@ -2765,7 +2469,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "sourceUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "3e63d61337212785",
@@ -2783,7 +2487,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-carn-1/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-20T05:31:37Z"
+      "capturedAt": "2026-11-21T05:31:29Z"
     },
     {
       "id": "7f224230eb19bc7e",
@@ -2801,7 +2505,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:21Z"
+      "capturedAt": "2026-11-21T05:30:22Z"
     },
     {
       "id": "d94b4e5351829459",
@@ -2819,7 +2523,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261123-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "29aed7cad8d80651",
@@ -2837,7 +2541,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/quan-un-riu-esdeve-el-mar/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-20T05:31:37Z"
+      "capturedAt": "2026-11-21T05:31:29Z"
     },
     {
       "id": "557ee5bf1c07d05e",
@@ -2855,7 +2559,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94408",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:16Z"
     },
     {
       "id": "d0e7decf7fb8f81f",
@@ -2873,7 +2577,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94406",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:16Z"
     },
     {
       "id": "f3cd4b9bb371ba44",
@@ -2891,7 +2595,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "86920c25e6f71f55",
@@ -2909,7 +2613,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:31Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "96f2bec2bc504a91",
@@ -2927,7 +2631,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11216",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11216?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:39Z"
     },
     {
       "id": "542da2aef2799f80",
@@ -2945,7 +2649,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:33Z"
     },
     {
       "id": "3002c2368909e25e",
@@ -2963,7 +2667,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261124-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "93c5860ea963a633",
@@ -2981,7 +2685,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
+      "capturedAt": "2026-11-21T05:30:42Z"
     },
     {
       "id": "cd99b4cd0ccae8e4",
@@ -2999,7 +2703,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
+      "capturedAt": "2026-11-21T05:30:42Z"
     },
     {
       "id": "d23c86f97f9cf3c3",
@@ -3017,7 +2721,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:49Z"
+      "capturedAt": "2026-11-21T05:30:46Z"
     },
     {
       "id": "7e3322acdf4daf83",
@@ -3035,7 +2739,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:30Z"
+      "capturedAt": "2026-11-21T05:30:30Z"
     },
     {
       "id": "a998c436e62c9bd3",
@@ -3053,7 +2757,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94417",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:16Z"
     },
     {
       "id": "ded55e45ec8115d2",
@@ -3071,7 +2775,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:30Z"
     },
     {
       "id": "2e602553543b75c7",
@@ -3089,7 +2793,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "sourceUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "518f50a576c5b09d",
@@ -3107,7 +2811,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261124-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "80e18b361840e4e3",
@@ -3125,7 +2829,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/la-carn-1/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-20T05:31:37Z"
+      "capturedAt": "2026-11-21T05:31:29Z"
     },
     {
       "id": "7a997a195c6314c4",
@@ -3143,7 +2847,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:21Z"
+      "capturedAt": "2026-11-21T05:30:22Z"
     },
     {
       "id": "c2c61359fc8601d4",
@@ -3161,7 +2865,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-carn-vo-20261124-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "512cb5e280e42f52",
@@ -3179,7 +2883,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261124-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "c0861dd4da31c224",
@@ -3197,7 +2901,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/quan-un-riu-esdeve-el-mar/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-20T05:31:37Z"
+      "capturedAt": "2026-11-21T05:31:29Z"
     },
     {
       "id": "564d977f2b6d031c",
@@ -3215,7 +2919,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94418",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:16Z"
     },
     {
       "id": "9d2a6912e9049177",
@@ -3233,7 +2937,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94407",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:16Z"
     },
     {
       "id": "3b685192a09371db",
@@ -3251,7 +2955,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "abee382c2967d9bb",
@@ -3269,7 +2973,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:31Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "f4f226cd997e6568",
@@ -3287,7 +2991,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11216",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11216?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:39Z"
     },
     {
       "id": "31ca906a234a83c3",
@@ -3305,7 +3009,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:33Z"
     },
     {
       "id": "9f21c8d45997a78d",
@@ -3323,7 +3027,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
+      "capturedAt": "2026-11-21T05:30:42Z"
     },
     {
       "id": "40a0a4626cff85ff",
@@ -3341,7 +3045,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
+      "capturedAt": "2026-11-21T05:30:42Z"
     },
     {
       "id": "3a9a8cb47095cbe1",
@@ -3359,7 +3063,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:49Z"
+      "capturedAt": "2026-11-21T05:30:46Z"
     },
     {
       "id": "16606baff0a37f61",
@@ -3377,7 +3081,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4600",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
+      "capturedAt": "2026-11-21T05:31:17Z"
     },
     {
       "id": "2fcf568093a599e9",
@@ -3395,7 +3099,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:30Z"
     },
     {
       "id": "42fd29d43d34c1fc",
@@ -3413,7 +3117,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "sourceUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "4f2e3f167fabff09",
@@ -3431,7 +3135,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/les-culpables-vo-20261125-1800",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "2f398786941b6b22",
@@ -3449,7 +3153,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261125-1815",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "d20ea40ff1dc31d8",
@@ -3467,7 +3171,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:17Z"
+      "capturedAt": "2026-11-21T05:30:17Z"
     },
     {
       "id": "815cbbbbe706e8a1",
@@ -3485,7 +3189,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:21Z"
+      "capturedAt": "2026-11-21T05:30:22Z"
     },
     {
       "id": "f6c3cbe451af1313",
@@ -3503,7 +3207,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261125-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "fc1aa137f35513f3",
@@ -3521,7 +3225,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/quan-un-riu-esdeve-el-mar/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-20T05:31:37Z"
+      "capturedAt": "2026-11-21T05:31:29Z"
     },
     {
       "id": "4944b419e595afd4",
@@ -3539,7 +3243,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "c7652649820777d8",
@@ -3557,7 +3261,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:31Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "ba0d75930b6e33d8",
@@ -3575,7 +3279,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11216",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11216?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:38Z"
+      "capturedAt": "2026-11-21T05:30:39Z"
     },
     {
       "id": "6151528161991d08",
@@ -3593,7 +3297,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:33Z"
     },
     {
       "id": "5a9f326edd2fbe59",
@@ -3611,7 +3315,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261126-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "469e3b4d5039a813",
@@ -3629,7 +3333,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261126-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "e0cb5d0a1180464f",
@@ -3647,7 +3351,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/superthings-la-pelicula",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
+      "capturedAt": "2026-11-21T05:30:42Z"
     },
     {
       "id": "35ae6fe3438eb87f",
@@ -3665,7 +3369,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:49Z"
+      "capturedAt": "2026-11-21T05:30:46Z"
     },
     {
       "id": "566b36af4a14e489",
@@ -3683,7 +3387,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:30Z"
+      "capturedAt": "2026-11-21T05:30:30Z"
     },
     {
       "id": "eaabb1095c0525e2",
@@ -3701,7 +3405,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4600",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
+      "capturedAt": "2026-11-21T05:31:17Z"
     },
     {
       "id": "8c695a8d9e150fd9",
@@ -3719,7 +3423,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "sourceUrl": "https://jcacinemes.com/cartellera/willow-i-les-guardianes-dels-quatre-elements/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:30Z"
     },
     {
       "id": "4365ba6c93f963ae",
@@ -3737,7 +3441,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "sourceUrl": "https://jcacinemes.com/cartellera/el-gato-con-sombrero/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "2c0b2e92baa78644",
@@ -3755,7 +3459,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-20T05:30:47Z"
+      "capturedAt": "2026-11-21T05:30:42Z"
     },
     {
       "id": "a113ae68b8127f89",
@@ -3773,7 +3477,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94117",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-20T05:31:19Z"
+      "capturedAt": "2026-11-21T05:31:16Z"
     },
     {
       "id": "074dfd118b887991",
@@ -3791,7 +3495,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:21Z"
+      "capturedAt": "2026-11-21T05:30:22Z"
     },
     {
       "id": "629aa46d68712365",
@@ -3809,7 +3513,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261126-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "8f3c6e54a965bea8",
@@ -3827,7 +3531,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "4c0c45a5e86be3aa",
@@ -3845,7 +3549,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:41Z"
+      "capturedAt": "2026-11-21T05:30:41Z"
     },
     {
       "id": "b5c9cd75cde2af31",
@@ -3863,7 +3567,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:24Z"
+      "capturedAt": "2026-11-21T05:30:23Z"
     },
     {
       "id": "a6e762fef0d45d3b",
@@ -3881,7 +3585,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:24Z"
+      "capturedAt": "2026-11-21T05:30:24Z"
     },
     {
       "id": "f249326097f78c17",
@@ -3899,7 +3603,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:36Z"
     },
     {
       "id": "b6eb70fd8f295525",
@@ -3917,7 +3621,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:24Z"
+      "capturedAt": "2026-11-21T05:30:23Z"
     },
     {
       "id": "f2b3971eb9bd63a0",
@@ -3935,7 +3639,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:24Z"
+      "capturedAt": "2026-11-21T05:30:24Z"
     },
     {
       "id": "7c868ba10425fb45",
@@ -3953,7 +3657,7 @@
       "pickerUrl": "https://www.cinemalacalandria.com/sessions/cartellera/el-gato-con-sombrero",
       "sourceUrl": "https://www.cinemalacalandria.com/sessions/cartellera/el-gato-con-sombrero",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:21Z"
+      "capturedAt": "2026-11-21T05:30:22Z"
     },
     {
       "id": "5fd5813e15a55a04",
@@ -3971,7 +3675,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "0b3b23ce18a47ee0",
@@ -3989,7 +3693,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:41Z"
+      "capturedAt": "2026-11-21T05:30:41Z"
     },
     {
       "id": "c583946335adca56",
@@ -4007,7 +3711,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:24Z"
+      "capturedAt": "2026-11-21T05:30:23Z"
     },
     {
       "id": "c1452729b4cfa078",
@@ -4025,7 +3729,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:24Z"
+      "capturedAt": "2026-11-21T05:30:24Z"
     },
     {
       "id": "444060c3e00181dd",
@@ -4043,7 +3747,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=101",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ernest-i-celestine-contes-dhivern-0",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-11-20T05:31:31Z"
+      "capturedAt": "2026-11-21T05:31:29Z"
     },
     {
       "id": "00951eac8a87bc74",
@@ -4061,7 +3765,25 @@
       "pickerUrl": "https://cinemamontgri.cat/el-gato-con-sombrero/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-20T05:31:23Z"
+      "capturedAt": "2026-11-21T05:31:22Z"
+    },
+    {
+      "id": "ce4f612825d63f83",
+      "filmSlug": "hospital-de-campanya-en-catala",
+      "filmTitle": "Hospital De Campanya",
+      "cinemaId": "wc-064",
+      "cinemaSlug": "sala-zazie",
+      "cinemaName": "Sala Zazie",
+      "municipiSlug": "vilafranca-del-penedes",
+      "municipiName": "Vilafranca del Penedès",
+      "sessionDate": "2026-11-28",
+      "sessionTime": "17:30",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://cineclubvila.cat/film/hospital-de-campanya/2026-11-28/",
+      "pickerUrl": "https://cineclubvila.cat/film/hospital-de-campanya/2026-11-28/",
+      "sourceUrl": "https://www.cineclubvila.cat",
+      "extractorType": "cineclubvila-html",
+      "capturedAt": "2026-11-21T05:31:14Z"
     },
     {
       "id": "39f5800a790d052e",
@@ -4079,7 +3801,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:36Z"
     },
     {
       "id": "968fed0ecded9fbd",
@@ -4097,7 +3819,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:24Z"
+      "capturedAt": "2026-11-21T05:30:23Z"
     },
     {
       "id": "c07220dab096a329",
@@ -4115,7 +3837,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:24Z"
+      "capturedAt": "2026-11-21T05:30:24Z"
     },
     {
       "id": "963b88ac6e616ea5",
@@ -4133,7 +3855,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "a968dd284ced0578",
@@ -4151,7 +3873,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:41Z"
+      "capturedAt": "2026-11-21T05:30:41Z"
     },
     {
       "id": "1664b10f339d38c1",
@@ -4169,7 +3891,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:24Z"
+      "capturedAt": "2026-11-21T05:30:23Z"
     },
     {
       "id": "2cdb013f8ce9d59c",
@@ -4187,7 +3909,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:24Z"
+      "capturedAt": "2026-11-21T05:30:24Z"
     },
     {
       "id": "f7a10365ecbecf35",
@@ -4205,7 +3927,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=102",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ernest-i-celestine-contes-dhivern-0",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-11-20T05:31:31Z"
+      "capturedAt": "2026-11-21T05:31:29Z"
     },
     {
       "id": "0752fc090b908371",
@@ -4223,7 +3945,7 @@
       "pickerUrl": "https://cinemamontgri.cat/el-gato-con-sombrero/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-20T05:31:23Z"
+      "capturedAt": "2026-11-21T05:31:22Z"
     },
     {
       "id": "235e73058f415e51",
@@ -4241,7 +3963,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:36Z"
     },
     {
       "id": "c71c921088ec568e",
@@ -4259,7 +3981,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:24Z"
+      "capturedAt": "2026-11-21T05:30:23Z"
     },
     {
       "id": "bc56617b2dbeb19d",
@@ -4277,7 +3999,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-20T05:30:24Z"
+      "capturedAt": "2026-11-21T05:30:24Z"
     },
     {
       "id": "4877c190644b3517",
@@ -4295,7 +4017,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "a1d324d77a68eedb",
@@ -4313,7 +4035,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:41Z"
+      "capturedAt": "2026-11-21T05:30:41Z"
     },
     {
       "id": "55f36f60eeea4a43",
@@ -4331,7 +4053,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:36Z"
     },
     {
       "id": "62f329ad52c71d5d",
@@ -4349,7 +4071,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "d29fe07cea818d94",
@@ -4367,7 +4089,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:41Z"
+      "capturedAt": "2026-11-21T05:30:41Z"
     },
     {
       "id": "666549c5347515a0",
@@ -4385,7 +4107,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:36Z"
     },
     {
       "id": "e97aae8ad71e9437",
@@ -4403,7 +4125,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/dones-muntanya/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-20T05:31:38Z"
+      "capturedAt": "2026-11-21T05:31:30Z"
     },
     {
       "id": "7ca87b699c093e09",
@@ -4421,7 +4143,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261201-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "48d6384279adaed1",
@@ -4439,7 +4161,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "c034cf1053f761fd",
@@ -4457,7 +4179,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:41Z"
+      "capturedAt": "2026-11-21T05:30:41Z"
     },
     {
       "id": "7a080db156b35520",
@@ -4475,7 +4197,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:36Z"
     },
     {
       "id": "0d042398a04f961a",
@@ -4493,7 +4215,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261202-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:10Z"
     },
     {
       "id": "fe80c9da1ed85f19",
@@ -4511,7 +4233,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:32Z"
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "6cb08caee8e69043",
@@ -4529,7 +4251,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:41Z"
+      "capturedAt": "2026-11-21T05:30:41Z"
     },
     {
       "id": "a6b9b396734a35ac",
@@ -4547,7 +4269,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-20T05:30:37Z"
+      "capturedAt": "2026-11-21T05:30:36Z"
     },
     {
       "id": "edda919a9e67745b",
@@ -4565,7 +4287,7 @@
       "pickerUrl": "https://www.cinemaesbarjo.cat/un-altre-home-10-11-i-12-dabril/",
       "sourceUrl": "https://www.cinemaesbarjo.cat/un-altre-home-10-11-i-12-dabril/",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:31:27Z"
+      "capturedAt": "2026-11-21T05:31:24Z"
     },
     {
       "id": "0c29fe6428ce4298",
@@ -4583,7 +4305,7 @@
       "pickerUrl": "https://www.cinemalacalandria.com/sessions/cartellera/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://www.cinemalacalandria.com/sessions/cartellera/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:23Z"
+      "capturedAt": "2026-11-21T05:30:23Z"
     },
     {
       "id": "3b3fdeb05b580d1f",
@@ -4601,7 +4323,7 @@
       "pickerUrl": "https://www.cinemalacalandria.com/sessions/cartellera/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://www.cinemalacalandria.com/sessions/cartellera/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:23Z"
+      "capturedAt": "2026-11-21T05:30:23Z"
     },
     {
       "id": "72fc5a13d4d7397b",
@@ -4619,7 +4341,7 @@
       "pickerUrl": "https://circusa.com/ca/guissona/",
       "sourceUrl": "https://circusa.com/ca/guissona/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-20T05:30:54Z"
+      "capturedAt": "2026-11-21T05:30:53Z"
     },
     {
       "id": "eb4d6c6f14710ce6",
@@ -4637,7 +4359,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/catalunya/itinerantscat/willow-i-les-guardianes-dels-quatre-elements-guissona/61/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/catalunya/itinerantscat/willow-i-les-guardianes-dels-quatre-elements-guissona/61/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-20T05:30:58Z"
+      "capturedAt": "2026-11-21T05:30:57Z"
     },
     {
       "id": "a37e8a76825645af",
@@ -4655,7 +4377,7 @@
       "pickerUrl": "https://www.falset.org/sites/default/files/diapositives/documents/agenda_tardor_falset_26.pdf",
       "sourceUrl": "https://www.falset.org/sites/default/files/diapositives/documents/agenda_tardor_falset_26.pdf",
       "extractorType": "falset-pdf",
-      "capturedAt": "2026-11-20T05:30:51Z"
+      "capturedAt": "2026-11-21T05:30:48Z"
     },
     {
       "id": "a40b2729dd5c47ad",
@@ -4673,7 +4395,7 @@
       "pickerUrl": "https://cineclubvila.cat/film/10a-edicio-festival-omnium-de-cinema-sessio-1/2026-12-05/",
       "sourceUrl": "https://www.cineclubvila.cat",
       "extractorType": "cineclubvila-html",
-      "capturedAt": "2026-11-20T05:31:24Z"
+      "capturedAt": "2026-11-21T05:31:23Z"
     },
     {
       "id": "2bd3508a86f7b2c7",
@@ -4691,7 +4413,7 @@
       "pickerUrl": "https://www.falset.org/sites/default/files/diapositives/documents/agenda_tardor_falset_26.pdf",
       "sourceUrl": "https://www.falset.org/sites/default/files/diapositives/documents/agenda_tardor_falset_26.pdf",
       "extractorType": "falset-pdf",
-      "capturedAt": "2026-11-20T05:30:51Z"
+      "capturedAt": "2026-11-21T05:30:48Z"
     },
     {
       "id": "b2b641241186300c",
@@ -4709,7 +4431,7 @@
       "pickerUrl": "https://cineclubvila.cat/film/10a-edicio-festival-omnium-de-cinema-sessio-2/2026-12-06/",
       "sourceUrl": "https://www.cineclubvila.cat",
       "extractorType": "cineclubvila-html",
-      "capturedAt": "2026-11-20T05:31:27Z"
+      "capturedAt": "2026-11-21T05:31:26Z"
     },
     {
       "id": "16a2d45519f093cd",
@@ -4727,7 +4449,7 @@
       "pickerUrl": "https://www.cinemalacalandria.com/sessions/cartellera/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://www.cinemalacalandria.com/sessions/cartellera/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:23Z"
+      "capturedAt": "2026-11-21T05:30:23Z"
     },
     {
       "id": "9993e751a68c08e6",
@@ -4745,7 +4467,25 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/eixam-vo-20261210-2000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:11Z"
+      "capturedAt": "2026-11-21T05:30:11Z"
+    },
+    {
+      "id": "9cda3fc958a85517",
+      "filmSlug": "momies-en-catala",
+      "filmTitle": "Momies",
+      "cinemaId": "wc-030",
+      "cinemaSlug": "jca-cinemes-alpicat",
+      "cinemaName": "JCA Cinemes Alpicat",
+      "municipiSlug": "alpicat",
+      "municipiName": "Alpicat",
+      "sessionDate": "2026-12-12",
+      "sessionTime": "18:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=312038",
+      "pickerUrl": "https://jcacinemes.com/cartellera/momies-(cinc)/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/momies-(cinc)/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "cbedfa18ea80bfe5",
@@ -4763,25 +4503,25 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=109",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ernest-i-celestine-contes-dhivern-0",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-11-20T05:31:31Z"
+      "capturedAt": "2026-11-21T05:31:29Z"
     },
     {
-      "id": "12db060c4df873c4",
-      "filmSlug": "l-olivia-i-el-terratremol-invisible-en-catala",
-      "filmTitle": "L Olivia I El Terratremol Invisible",
-      "cinemaId": "wc-098",
-      "cinemaSlug": "cinema-esbarjo-cardedeu",
-      "cinemaName": "Cinema Esbarjo",
-      "municipiSlug": "cardedeu",
-      "municipiName": "Cardedeu",
-      "sessionDate": "2026-12-17",
-      "sessionTime": "20:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://www.cinemaesbarjo.cat/lolivia-i-el-terratremol-invisible-17-de-desembre-cicle-gaudi/",
-      "pickerUrl": "https://www.cinemaesbarjo.cat/lolivia-i-el-terratremol-invisible-17-de-desembre-cicle-gaudi/",
-      "sourceUrl": "https://www.cinemaesbarjo.cat/lolivia-i-el-terratremol-invisible-17-de-desembre-cicle-gaudi/",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:31:27Z"
+      "id": "088f06d477ae6e4c",
+      "filmSlug": "buffalo-en-catala",
+      "filmTitle": "Buffalo",
+      "cinemaId": "wc-030",
+      "cinemaSlug": "jca-cinemes-alpicat",
+      "cinemaName": "JCA Cinemes Alpicat",
+      "municipiSlug": "alpicat",
+      "municipiName": "Alpicat",
+      "sessionDate": "2026-12-28",
+      "sessionTime": "18:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=312039",
+      "pickerUrl": "https://jcacinemes.com/cartellera/buffalo-kids-(cinc)/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/buffalo-kids-(cinc)/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-11-21T05:30:32Z"
     },
     {
       "id": "ca3dec0e91e2b076",
@@ -4799,15 +4539,46 @@
       "pickerUrl": "https://cinemaedison.koobin.com/ca/ara-que-estem-junts---glosa-caustica-20261229-2000",
       "sourceUrl": "https://cinemaedison.cat/cartellera/",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-20T05:30:04Z"
+      "capturedAt": "2026-11-21T05:30:04Z"
+    },
+    {
+      "id": "a3112c670f94ce3a",
+      "filmSlug": "dc-lliga-de-supermascotes-en-catala",
+      "filmTitle": "Dc Lliga De Supermascotes",
+      "cinemaId": "wc-030",
+      "cinemaSlug": "jca-cinemes-alpicat",
+      "cinemaName": "JCA Cinemes Alpicat",
+      "municipiSlug": "alpicat",
+      "municipiName": "Alpicat",
+      "sessionDate": "2027-01-04",
+      "sessionTime": "18:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=312040",
+      "pickerUrl": "https://jcacinemes.com/cartellera/dc-lliga-de-supermascotes-(cinc)/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/dc-lliga-de-supermascotes-(cinc)/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-11-21T05:30:32Z"
+    },
+    {
+      "id": "2722530c2c989c9d",
+      "filmSlug": "una-pel-licula-de-minecraft-en-catala",
+      "filmTitle": "Una Pel Licula De Minecraft",
+      "cinemaId": "wc-030",
+      "cinemaSlug": "jca-cinemes-alpicat",
+      "cinemaName": "JCA Cinemes Alpicat",
+      "municipiSlug": "alpicat",
+      "municipiName": "Alpicat",
+      "sessionDate": "2027-01-16",
+      "sessionTime": "18:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=312041",
+      "pickerUrl": "https://jcacinemes.com/cartellera/una-pel·licula-de-minecraft-(cinc)/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/una-pel·licula-de-minecraft-(cinc)/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-11-21T05:30:32Z"
     }
   ],
   "sourceIssues": [
-    {
-      "slug": "cinema-malda",
-      "extractorType": "malda-html",
-      "reason": "error: Maldà: day outside the stated programme week"
-    },
     {
       "slug": "cinemes-girona",
       "extractorType": "html-static",

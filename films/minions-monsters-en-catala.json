@@ -1,9 +1,9 @@
 {
   "slug": "minions-monsters-en-catala",
   "title": "Minions & Monsters",
-  "sessionCount": 7,
-  "cinemaCount": 5,
-  "municipiCount": 5,
+  "sessionCount": 8,
+  "cinemaCount": 6,
+  "municipiCount": 6,
   "sessions": [
     {
       "id": "472113b39549e3e0",
@@ -21,7 +21,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4488",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
+      "capturedAt": "2026-11-21T05:31:17Z"
     },
     {
       "id": "232391cebdb99644",
@@ -39,7 +39,25 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/5905",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:30:06Z"
+      "capturedAt": "2026-11-21T05:30:06Z"
+    },
+    {
+      "id": "37d26c8a6c470299",
+      "filmSlug": "minions-monsters-en-catala",
+      "filmTitle": "Minions & Monsters",
+      "cinemaId": "wc-021",
+      "cinemaSlug": "cines-axion-reus",
+      "cinemaName": "Cines AXION Reus",
+      "municipiSlug": "reus",
+      "municipiName": "Reus",
+      "sessionDate": "2026-11-21",
+      "sessionTime": "16:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://reus.cinesaxion.com/index?pag=cartelera",
+      "pickerUrl": "https://reus.cinesaxion.com/index?pag=cartelera",
+      "sourceUrl": "https://reus.cinesaxion.com/index?pag=cartelera",
+      "extractorType": "ticketing-reserva-portal",
+      "capturedAt": "2026-11-21T05:30:09Z"
     },
     {
       "id": "33be6d4e77d339b9",
@@ -57,7 +75,7 @@
       "pickerUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16341/minions--monsters",
       "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16341/minions--monsters",
       "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-11-20T05:30:02Z"
+      "capturedAt": "2026-11-21T05:30:02Z"
     },
     {
       "id": "f1bb3ba7cc145960",
@@ -75,7 +93,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/catalunya/itinerantscat/minions-amp-monsters-santa-coloma-de-queralt/60/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/catalunya/itinerantscat/minions-amp-monsters-santa-coloma-de-queralt/60/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-20T05:30:58Z"
+      "capturedAt": "2026-11-21T05:30:56Z"
     },
     {
       "id": "0403f30468243c76",
@@ -93,7 +111,7 @@
       "pickerUrl": "https://circusa.com/ca/santa-coloma-de-queralt/",
       "sourceUrl": "https://circusa.com/ca/santa-coloma-de-queralt/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-20T05:31:02Z"
+      "capturedAt": "2026-11-21T05:31:00Z"
     },
     {
       "id": "542a0c8f4f2796ec",
@@ -111,7 +129,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4488",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:31:21Z"
+      "capturedAt": "2026-11-21T05:31:17Z"
     },
     {
       "id": "1aba2d66120e4445",
@@ -129,7 +147,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/5905",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-20T05:30:06Z"
+      "capturedAt": "2026-11-21T05:30:06Z"
     }
   ]
 }
