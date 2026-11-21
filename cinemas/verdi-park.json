@@ -1,0 +1,47 @@
+{
+  "cinemaId": "wc-066",
+  "slug": "verdi-park",
+  "name": "Verdi Park",
+  "municipiSlug": "barcelona",
+  "municipiName": "Barcelona",
+  "sessionCount": 2,
+  "filmCount": 2,
+  "sessions": [
+    {
+      "id": "d509d2530f1aa705",
+      "filmSlug": "viva-en-catala",
+      "filmTitle": "Viva",
+      "cinemaId": "wc-066",
+      "cinemaSlug": "verdi-park",
+      "cinemaName": "Verdi Park",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-21",
+      "sessionTime": "12:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/221705/",
+      "pickerUrl": "https://verdibcn.admit-one.eu/seats/221705/",
+      "sourceUrl": "https://barcelona.cines-verdi.com/viva",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-21T09:10:45Z"
+    },
+    {
+      "id": "a6c7aebf60001da9",
+      "filmSlug": "la-vida-es-verdi-en-catala",
+      "filmTitle": "La vida és Verdi",
+      "cinemaId": "wc-066",
+      "cinemaSlug": "verdi-park",
+      "cinemaName": "Verdi Park",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-11-24",
+      "sessionTime": "20:20",
+      "languageLabel": "Català",
+      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222553/",
+      "pickerUrl": "https://verdibcn.admit-one.eu/seats/222553/",
+      "sourceUrl": "https://barcelona.cines-verdi.com/la-vida-es-verdi",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-21T09:10:51Z"
+    }
+  ]
+}
