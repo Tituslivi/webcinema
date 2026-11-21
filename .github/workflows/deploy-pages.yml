@@ -11,6 +11,7 @@ on:
   workflow_dispatch:
 
 permissions:
+  actions: read
   contents: read
   pages: write
   id-token: write
@@ -27,20 +28,53 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
+    env:
+      PAGES_ARTIFACT_NAME: github-pages-${{ github.run_attempt }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7.0.1
+        with:
+          persist-credentials: false
 
       - name: Setup Pages
-        uses: actions/configure-pages@v5
+        uses: actions/configure-pages@v6.0.0
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        id: upload
+        uses: actions/upload-pages-artifact@v5.0.0
         with:
           # Publica tot el repo tal qual: /manifest.json, /latest.json,
           # /cinemas/…, etc. Les URL no canvien.
           path: '.'
+          name: ${{ env.PAGES_ARTIFACT_NAME }}
+          include-hidden-files: true
+
+      # L'índex d'artefactes pot trigar a reflectir la pujada. Cada intent
+      # té un nom propi perquè l'índex també conserva intents anteriors.
+      - name: Wait for the uploaded artifact
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+          EXPECTED_ARTIFACT_ID: ${{ steps.upload.outputs.artifact_id }}
+        run: |
+          if [[ -z "$EXPECTED_ARTIFACT_ID" ]]; then
+            echo '::error::The upload did not return an artifact ID.'
+            exit 1
+          fi
+          endpoint="repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?name=$PAGES_ARTIFACT_NAME"
+          for delay in 0 1 2 4 8 15; do
+            sleep "$delay"
+            if visible_id=$(gh api "$endpoint" --jq '.artifacts[] | select(.expired == false) | .id') \
+              && [[ "$visible_id" == "$EXPECTED_ARTIFACT_ID" ]]; then
+              echo "Artifact $PAGES_ARTIFACT_NAME ($visible_id) is visible."
+              exit 0
+            fi
+          done
+          echo "::error::Artifact $PAGES_ARTIFACT_NAME ($EXPECTED_ARTIFACT_ID) did not become visible."
+          exit 1
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5.0.1
+        with:
+          artifact_name: ${{ env.PAGES_ARTIFACT_NAME }}
