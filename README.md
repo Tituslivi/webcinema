@@ -86,9 +86,12 @@ navegador de qualsevol domini.
 ## Cadència i qualitat
 
 - Actualització **diària** (el gran recanvi de cartellera és divendres).
-- Les dades s'extreuen automàticament de les webs dels cinemes i poden
+- Les dades s'extreuen automàticament i poden
   contenir errors o quedar desfasades si un cinema canvia la programació:
   confirmeu sempre l'horari a l'enllaç de compra (`bookingUrl`).
+- `sourceUrl` identifica la cartellera consultada. Les sessions de Kinépolis
+  Splau i Mataró Parc es llegeixen a [Kovu](https://kovufilms.com/ca/cines) i
+  `bookingUrl` apunta a la taquilla oficial de cada passi.
 - El camp `generatedAt` de cada fitxer indica el moment de l'extracció.
 - `sourceIssues` llista les fonts que no s'han pogut consultar aquell dia.
 
