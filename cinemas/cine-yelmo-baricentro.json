@@ -1,0 +1,47 @@
+{
+  "cinemaId": "wc-007",
+  "slug": "cine-yelmo-baricentro",
+  "name": "Cine Yelmo Baricentro",
+  "municipiSlug": "barbera-del-valles",
+  "municipiName": "Barberà del Vallès",
+  "sessionCount": 2,
+  "filmCount": 1,
+  "sessions": [
+    {
+      "id": "69b40ed165ed44fd",
+      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
+      "filmTitle": "Hechizo Bienvenidos A Hexe",
+      "cinemaId": "wc-007",
+      "cinemaSlug": "cine-yelmo-baricentro",
+      "cinemaName": "Cine Yelmo Baricentro",
+      "municipiSlug": "barbera-del-valles",
+      "municipiName": "Barberà del Vallès",
+      "sessionDate": "2026-11-28",
+      "sessionTime": "16:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://cineyelmo.com/es?cinema=baricentro-barcelona",
+      "pickerUrl": "https://cineyelmo.com/es?cinema=baricentro-barcelona",
+      "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
+      "extractorType": "chain-yelmo",
+      "capturedAt": "2026-11-27T05:30:04Z"
+    },
+    {
+      "id": "f9d92d2af1ea0b98",
+      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
+      "filmTitle": "Hechizo Bienvenidos A Hexe",
+      "cinemaId": "wc-007",
+      "cinemaSlug": "cine-yelmo-baricentro",
+      "cinemaName": "Cine Yelmo Baricentro",
+      "municipiSlug": "barbera-del-valles",
+      "municipiName": "Barberà del Vallès",
+      "sessionDate": "2026-11-29",
+      "sessionTime": "16:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://cineyelmo.com/es?cinema=baricentro-barcelona",
+      "pickerUrl": "https://cineyelmo.com/es?cinema=baricentro-barcelona",
+      "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
+      "extractorType": "chain-yelmo",
+      "capturedAt": "2026-11-27T05:30:04Z"
+    }
+  ]
+}

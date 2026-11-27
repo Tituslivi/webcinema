@@ -1,12 +1,12 @@
 {
   "slug": "cronos-en-catala",
   "title": "Cronos",
-  "sessionCount": 2,
+  "sessionCount": 4,
   "cinemaCount": 2,
   "municipiCount": 2,
   "sessions": [
     {
-      "id": "c7652649820777d8",
+      "id": "6b6a3e4064bc6624",
       "filmSlug": "cronos-en-catala",
       "filmTitle": "Cronos",
       "cinemaId": "wc-051",
@@ -14,17 +14,17 @@
       "cinemaName": "Ocine Les Gavarres",
       "municipiSlug": "tarragona",
       "municipiName": "Tarragona",
-      "sessionDate": "2026-11-26",
-      "sessionTime": "15:50",
+      "sessionDate": "2026-11-29",
+      "sessionTime": "12:15",
       "languageLabel": "Català",
       "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-26T05:30:31Z"
+      "capturedAt": "2026-11-27T05:30:49Z"
     },
     {
-      "id": "5a9f326edd2fbe59",
+      "id": "29e24e6beeeb8c95",
       "filmSlug": "cronos-en-catala",
       "filmTitle": "Cronos",
       "cinemaId": "wc-020",
@@ -32,14 +32,50 @@
       "cinemaName": "Cinemes Texas",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionDate": "2026-11-26",
+      "sessionDate": "2026-11-30",
       "sessionTime": "16:00",
       "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261126-1600",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261126-1600",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261130-1600",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261130-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-26T05:30:06Z"
+      "capturedAt": "2026-11-27T05:30:10Z"
+    },
+    {
+      "id": "0a55b10bdde2972e",
+      "filmSlug": "cronos-en-catala",
+      "filmTitle": "Cronos",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-12-02",
+      "sessionTime": "16:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261202-1600",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261202-1600",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-27T05:30:10Z"
+    },
+    {
+      "id": "389da35d2afdfa04",
+      "filmSlug": "cronos-en-catala",
+      "filmTitle": "Cronos",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-12-03",
+      "sessionTime": "16:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261203-1600",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261203-1600",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-27T05:30:12Z"
     }
   ]
 }

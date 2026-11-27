@@ -1,12 +1,30 @@
 {
   "slug": "dones-muntanya-en-catala",
   "title": "Dones Muntanya",
-  "sessionCount": 1,
-  "cinemaCount": 1,
+  "sessionCount": 3,
+  "cinemaCount": 2,
   "municipiCount": 1,
   "sessions": [
     {
-      "id": "629aa46d68712365",
+      "id": "e97aae8ad71e9437",
+      "filmSlug": "dones-muntanya-en-catala",
+      "filmTitle": "Dones Muntanya",
+      "cinemaId": "wc-085",
+      "cinemaSlug": "zumzeig-cinecooperativa",
+      "cinemaName": "Zumzeig Cinecooperativa",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-12-01",
+      "sessionTime": "19:00",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://www.zumzeigcine.coop/cinema/films/dones-muntanya/",
+      "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/dones-muntanya/",
+      "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
+      "extractorType": "zumzeig-html",
+      "capturedAt": "2026-11-27T05:31:29Z"
+    },
+    {
+      "id": "7ca87b699c093e09",
       "filmSlug": "dones-muntanya-en-catala",
       "filmTitle": "Dones Muntanya",
       "cinemaId": "wc-020",
@@ -14,14 +32,32 @@
       "cinemaName": "Cinemes Texas",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionDate": "2026-11-26",
+      "sessionDate": "2026-12-01",
       "sessionTime": "20:30",
       "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261126-2030",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261126-2030",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261201-2030",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261201-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-26T05:30:08Z"
+      "capturedAt": "2026-11-27T05:30:12Z"
+    },
+    {
+      "id": "0d042398a04f961a",
+      "filmSlug": "dones-muntanya-en-catala",
+      "filmTitle": "Dones Muntanya",
+      "cinemaId": "wc-020",
+      "cinemaSlug": "cinemes-texas",
+      "cinemaName": "Cinemes Texas",
+      "municipiSlug": "barcelona",
+      "municipiName": "Barcelona",
+      "sessionDate": "2026-12-02",
+      "sessionTime": "20:30",
+      "languageLabel": "VO en català",
+      "bookingUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261202-2030",
+      "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261202-2030",
+      "sourceUrl": "https://espaitexas.cat",
+      "extractorType": "html-static",
+      "capturedAt": "2026-11-27T05:30:12Z"
     }
   ]
 }
