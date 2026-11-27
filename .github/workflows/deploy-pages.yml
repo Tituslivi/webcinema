@@ -2,19 +2,14 @@ name: Deploy static content to Pages
 
 # Desplega el contingut estàtic (JSON de sessions) a GitHub Pages.
 # El repo és una API JSON pura amb .nojekyll: no cal Jekyll, només
-# empaquetar l'arrel i publicar-la via l'acció oficial deploy-pages.
-# Substitueix la canonada legacy "Deploy from a branch", que és fràgil.
+# empaquetar l'arrel i publicar-la via l'API de GitHub Pages.
 
 on:
   push:
     branches: [main]
   workflow_dispatch:
 
-permissions:
-  actions: read
-  contents: read
-  pages: write
-  id-token: write
+permissions: {}
 
 # Un sol desplegament concurrent; no cancel·lem el que ja corre per no
 # deixar el lloc a mig publicar.
@@ -23,13 +18,13 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+  upload:
     runs-on: ubuntu-latest
-    env:
-      PAGES_ARTIFACT_NAME: github-pages-${{ github.run_attempt }}
+    permissions:
+      contents: read
+      pages: read
+    outputs:
+      artifact_id: ${{ steps.upload.outputs.artifact_id }}
     steps:
       - name: Checkout
         uses: actions/checkout@v7.0.1
@@ -46,35 +41,104 @@ jobs:
           # Publica tot el repo tal qual: /manifest.json, /latest.json,
           # /cinemas/…, etc. Les URL no canvien.
           path: '.'
-          name: ${{ env.PAGES_ARTIFACT_NAME }}
+          name: github-pages-${{ github.run_attempt }}
           include-hidden-files: true
 
-      # L'índex d'artefactes pot trigar a reflectir la pujada. Cada intent
-      # té un nom propi perquè l'índex també conserva intents anteriors.
-      - name: Wait for the uploaded artifact
-        shell: bash
-        env:
-          GH_TOKEN: ${{ github.token }}
-          EXPECTED_ARTIFACT_ID: ${{ steps.upload.outputs.artifact_id }}
-        run: |
-          if [[ -z "$EXPECTED_ARTIFACT_ID" ]]; then
-            echo '::error::The upload did not return an artifact ID.'
-            exit 1
-          fi
-          endpoint="repos/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID/artifacts?name=$PAGES_ARTIFACT_NAME"
-          for delay in 0 1 2 4 8 15; do
-            sleep "$delay"
-            if visible_id=$(gh api "$endpoint" --jq '.artifacts[] | select(.expired == false) | .id') \
-              && [[ "$visible_id" == "$EXPECTED_ARTIFACT_ID" ]]; then
-              echo "Artifact $PAGES_ARTIFACT_NAME ($visible_id) is visible."
-              exit 0
-            fi
-          done
-          echo "::error::Artifact $PAGES_ARTIFACT_NAME ($EXPECTED_ARTIFACT_ID) did not become visible."
-          exit 1
-
+  deploy:
+    needs: upload
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v5.0.1
+        uses: actions/github-script@v9.0.0
+        env:
+          PAGES_ARTIFACT_ID: ${{ needs.upload.outputs.artifact_id }}
         with:
-          artifact_name: ${{ env.PAGES_ARTIFACT_NAME }}
+          retries: 0
+          script: |
+            const { setTimeout: delay } = require('node:timers/promises')
+            const artifactId = Number(process.env.PAGES_ARTIFACT_ID)
+            if (!Number.isSafeInteger(artifactId) || artifactId <= 0) {
+              throw new Error('The upload did not return a valid Pages artifact ID.')
+            }
+
+            // El llistat intern que consulta deploy-pages pot ometre artefactes
+            // acabats de pujar (actions/deploy-pages#451). Pages accepta l'ID directe.
+            const route = '/repos/{owner}/{repo}/pages/deployments'
+            const { data: deployment } = await github.request(`POST ${route}`, {
+              ...context.repo,
+              artifact_id: artifactId,
+              pages_build_version: context.sha,
+              oidc_token: await core.getIDToken(),
+              request: { signal: AbortSignal.timeout(20_000) },
+            })
+            const deploymentId = deployment.id || context.sha
+            const deploymentRoute = `${route}/{pages_deployment_id}`
+            const deploymentParams = { ...context.repo, pages_deployment_id: deploymentId }
+            core.info(`Created Pages deployment ${deploymentId} from artifact ${artifactId}.`)
+
+            async function cancelDeployment() {
+              try {
+                await github.request(`POST ${deploymentRoute}/cancel`, {
+                  ...deploymentParams,
+                  request: { signal: AbortSignal.timeout(5_000) },
+                })
+              } catch (error) {
+                core.warning(`Could not cancel Pages deployment ${deploymentId}: ${error.message}`)
+              }
+            }
+
+            const cancelOnSignal = async () => {
+              await cancelDeployment()
+              process.exit(1)
+            }
+            process.once('SIGINT', cancelOnSignal)
+            process.once('SIGTERM', cancelOnSignal)
+
+            const failureStatuses = new Set([
+              'deployment_failed', 'deployment_content_failed',
+              'deployment_cancelled', 'deployment_lost',
+            ])
+            const deadline = Date.now() + 10 * 60_000
+            let lastStatus
+            try {
+              for (let waitMs = 5_000; Date.now() < deadline; waitMs = Math.min(waitMs * 2, 30_000)) {
+                let status
+                try {
+                  const { data } = await github.request(`GET ${deploymentRoute}`, {
+                    ...deploymentParams,
+                    request: { signal: AbortSignal.timeout(10_000) },
+                  })
+                  status = data.status
+                } catch (error) {
+                  const code = error.status
+                  if (code && code < 500 && ![404, 408, 429].includes(code)) throw error
+                  core.warning(`Could not read Pages deployment status: ${error.message}`)
+                }
+                if (status === 'succeed') {
+                  core.setOutput('page_url', deployment.page_url)
+                  core.info(`GitHub Pages deployed ${context.sha} successfully.`)
+                  return
+                }
+                if (failureStatuses.has(status)) {
+                  throw new Error(`Pages deployment ${deploymentId} failed with status ${status}.`)
+                }
+                if (status && status !== lastStatus) {
+                  core.info(`Pages deployment status: ${status}`)
+                  lastStatus = status
+                }
+                await delay(Math.max(0, Math.min(waitMs, deadline - Date.now())))
+              }
+              await cancelDeployment()
+              throw new Error(`Timed out waiting for Pages deployment ${deploymentId}.`)
+            } finally {
+              process.removeListener('SIGINT', cancelOnSignal)
+              process.removeListener('SIGTERM', cancelOnSignal)
+            }
