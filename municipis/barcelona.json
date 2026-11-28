@@ -3,262 +3,10 @@
   "name": "Barcelona",
   "ineCode": "08019",
   "idescatCode": "080193",
-  "sessionCount": 113,
+  "sessionCount": 99,
   "filmCount": 9,
   "cinemaCount": 10,
   "sessions": [
-    {
-      "id": "b2d77b1f7b48aaed",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-011",
-      "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
-      "cinemaName": "Cine Yelmo Westfield La Maquinista",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "15:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
-      "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
-      "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
-    },
-    {
-      "id": "42b48b1022fbadfe",
-      "filmSlug": "sucia-per-que-no-vas-fer-res-en-catala",
-      "filmTitle": "Sucia Per Que No Vas Fer Res",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261127-0000",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261127-0000",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:09Z"
-    },
-    {
-      "id": "51c995a1310602e7",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222854/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/222854/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
-    },
-    {
-      "id": "9b3107bf47169df7",
-      "filmSlug": "la-violinista-en-catala",
-      "filmTitle": "La Violinista",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261127-1615",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261127-1615",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:09Z"
-    },
-    {
-      "id": "8c7edac0fc4f4aef",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
-    },
-    {
-      "id": "b5c9cd75cde2af31",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
-    },
-    {
-      "id": "e61bcc68730c5ff3",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "18:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
-    },
-    {
-      "id": "f73208a6cd248eb2",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "18:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=194751&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
-    },
-    {
-      "id": "f5dc53f512201ee1",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "19:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
-    },
-    {
-      "id": "b6eb70fd8f295525",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "19:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
-    },
-    {
-      "id": "567f52bd9d4cc49b",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "21:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
-    },
-    {
-      "id": "65343924d3f7c151",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "22:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
-    },
-    {
-      "id": "fec8258a107322f3",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "22:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
-    },
-    {
-      "id": "17d179a48061e0d7",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "22:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
-    },
     {
       "id": "ece9f6f5d9e5a3f3",
       "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
@@ -275,7 +23,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/223105/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "ec31b9b04c9fe433",
@@ -293,7 +41,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "f4e23bfe16aae902",
@@ -311,7 +59,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "8330488f1914a2d4",
@@ -329,7 +77,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "ac98763fec90819f",
@@ -347,7 +95,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "53a90fa0cfd0183a",
@@ -365,7 +113,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261128-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:09Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "75eef68060f22a89",
@@ -383,7 +131,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/222884/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "c8b515074015857b",
@@ -401,7 +149,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "c583946335adca56",
@@ -419,7 +167,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "444060c3e00181dd",
@@ -437,7 +185,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=101",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ernest-i-celestine-contes-dhivern-0",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-11-27T05:31:36Z"
+      "capturedAt": "2026-11-28T05:31:26Z"
     },
     {
       "id": "d035e6fdbeae46e8",
@@ -455,7 +203,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "b28778da3cb59b81",
@@ -473,7 +221,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "cd3f7aa01c654f28",
@@ -491,7 +239,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "968fed0ecded9fbd",
@@ -509,7 +257,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "fa467cc779092d09",
@@ -527,7 +275,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "1a44fdbe557d527f",
@@ -545,7 +293,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "1691ee280feb2a5e",
@@ -563,7 +311,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "59986705e3553ad5",
@@ -581,7 +329,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "e1ca4b17ffcfb692",
@@ -599,7 +347,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/223104/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "65fc915fc6b4c5c1",
@@ -617,7 +365,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "2ae874442ecfb35d",
@@ -635,7 +383,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "c62607b4ca5f36fa",
@@ -653,7 +401,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "c503c34e2b0b3d7b",
@@ -671,7 +419,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "5d4aaeddc5f1e20a",
@@ -689,7 +437,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "1ab01478ce6da09d",
@@ -707,7 +455,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/222923/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "3fb974902d66a948",
@@ -725,7 +473,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "1664b10f339d38c1",
@@ -743,7 +491,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "f7a10365ecbecf35",
@@ -761,7 +509,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=102",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ernest-i-celestine-contes-dhivern-0",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-11-27T05:31:36Z"
+      "capturedAt": "2026-11-28T05:31:26Z"
     },
     {
       "id": "e8f1ccc103385b70",
@@ -779,7 +527,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261129-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:09Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "92b1d93bf7db27b2",
@@ -797,7 +545,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "3d5d9610d1a12d24",
@@ -815,7 +563,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "10be52a5e0f99a40",
@@ -833,7 +581,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "c71c921088ec568e",
@@ -851,7 +599,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "c265f7ec704070a0",
@@ -869,7 +617,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261129-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "90be4be08751e269",
@@ -887,7 +635,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "7f896d9c4b090b9d",
@@ -905,7 +653,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "3afd959889e73b90",
@@ -923,7 +671,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "a7e19e22fab4e2b5",
@@ -941,7 +689,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "c8e8df386efbcc86",
@@ -959,7 +707,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "29e24e6beeeb8c95",
@@ -977,7 +725,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261130-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "216fac778077ee75",
@@ -995,7 +743,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/222953/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "f7ab5429fae8542b",
@@ -1013,7 +761,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261130-1615",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "58884136045df0c4",
@@ -1031,7 +779,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "d5d1c2f3aeef27df",
@@ -1049,7 +797,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "88d542ad0cf686c0",
@@ -1067,7 +815,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "406f2e738f45aebd",
@@ -1085,7 +833,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "f81bc7c788fa0b1e",
@@ -1103,7 +851,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "6b48e25eac68e0b9",
@@ -1121,7 +869,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "3cafa407d7d98f01",
@@ -1139,7 +887,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "a7ad2909b73189a0",
@@ -1157,7 +905,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "04e821d67744d7b1",
@@ -1175,7 +923,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "a63e66b14223196a",
@@ -1193,7 +941,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "fe803f0a5946ec53",
@@ -1211,7 +959,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "0f7ffd65592b8ac7",
@@ -1229,7 +977,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261201-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "aec880e1569ecfca",
@@ -1247,7 +995,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/223053/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "f589969aef508e00",
@@ -1265,7 +1013,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "sourceUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "5e7ad7338d653b09",
@@ -1283,7 +1031,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "dc7d94e1cdf3383a",
@@ -1301,7 +1049,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "ae864f0faa1283f6",
@@ -1319,7 +1067,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "c99562334fa54d25",
@@ -1337,7 +1085,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "e97aae8ad71e9437",
@@ -1355,7 +1103,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/dones-muntanya/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-27T05:31:29Z"
+      "capturedAt": "2026-11-28T05:31:20Z"
     },
     {
       "id": "98bdc3f6dda9039c",
@@ -1373,7 +1121,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "e1a1b4c641258d7a",
@@ -1391,7 +1139,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "7ca87b699c093e09",
@@ -1409,7 +1157,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261201-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:12Z"
+      "capturedAt": "2026-11-28T05:30:12Z"
     },
     {
       "id": "2857aab7398bc623",
@@ -1427,7 +1175,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261201-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:10Z"
     },
     {
       "id": "5f255274440492b6",
@@ -1445,7 +1193,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "1e76869d548d62c1",
@@ -1463,7 +1211,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "7b8d7b97c466013d",
@@ -1481,7 +1229,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "7f756423eb8f197b",
@@ -1499,7 +1247,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "08b4af7167d65d4e",
@@ -1517,7 +1265,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "0a55b10bdde2972e",
@@ -1535,7 +1283,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261202-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:10Z"
     },
     {
       "id": "c293d41f6c30adc1",
@@ -1553,7 +1301,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/223016/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "91d0d7dadf2e6897",
@@ -1571,7 +1319,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "a69bd4a64c3f9d5d",
@@ -1589,7 +1337,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "d1d2f78294bf235f",
@@ -1607,7 +1355,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "d8564e10cc0c4c01",
@@ -1625,7 +1373,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261202-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:10Z"
     },
     {
       "id": "db1c6b308ea21f00",
@@ -1643,7 +1391,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "565be9f96c0f2067",
@@ -1661,7 +1409,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "a1b1da94cea3a7b9",
@@ -1679,7 +1427,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "0d042398a04f961a",
@@ -1697,7 +1445,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261202-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:12Z"
+      "capturedAt": "2026-11-28T05:30:12Z"
     },
     {
       "id": "ae57e137d36912df",
@@ -1715,7 +1463,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "c044d9ed1e691545",
@@ -1733,7 +1481,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "b65434b940140041",
@@ -1751,7 +1499,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "fcea1c623f71ee4c",
@@ -1769,7 +1517,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "7ceb16993dfab875",
@@ -1787,7 +1535,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "389da35d2afdfa04",
@@ -1805,7 +1553,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261203-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:12Z"
+      "capturedAt": "2026-11-28T05:30:12Z"
     },
     {
       "id": "0575bdc70c36ea37",
@@ -1823,7 +1571,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261203-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:12Z"
+      "capturedAt": "2026-11-28T05:30:12Z"
     },
     {
       "id": "4b8b89870c987b28",
@@ -1841,7 +1589,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/223009/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "d30780617bf1dd23",
@@ -1859,7 +1607,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "4a9b1a85679db270",
@@ -1877,7 +1625,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "b811ba92f8417390",
@@ -1895,7 +1643,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261203-1745",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:12Z"
+      "capturedAt": "2026-11-28T05:30:12Z"
     },
     {
       "id": "dbc28cebb2a1dd81",
@@ -1913,7 +1661,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "9c5ec5cb32ad058b",
@@ -1931,7 +1679,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "ece03d4b2b65891a",
@@ -1949,7 +1697,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "0a7c7453a62439d6",
@@ -1967,7 +1715,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "bde779a9845dce45",
@@ -1985,7 +1733,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "447b97dbb4468fd3",
@@ -2003,7 +1751,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "2d69f63ff4c2e03f",
@@ -2021,7 +1769,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "ac7e3700ff819a48",
@@ -2039,7 +1787,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     }
   ]
 }

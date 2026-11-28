@@ -1,49 +1,44 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-11-27T05:34:03Z",
-  "weekStart": "2026-11-27",
+  "generatedAt": "2026-11-28T05:32:20Z",
+  "weekStart": "2026-11-28",
   "weekEnd": "2027-01-17",
   "source": {
-    "sessionsPath": "runs\\daily\\2026-11-27\\sessions.json",
-    "recordsTotal": 420,
+    "sessionsPath": "runs\\daily\\2026-11-28\\sessions.json",
+    "recordsTotal": 378,
     "skippedSources": 2,
-    "latestCapturedAt": "2026-11-27T05:31:36Z"
+    "latestCapturedAt": "2026-11-28T05:31:26Z"
   },
   "summary": {
-    "sessions": 407,
-    "films": 36,
-    "cinemas": 48,
-    "municipis": 38,
+    "sessions": 362,
+    "films": 39,
+    "cinemas": 49,
+    "municipis": 39,
     "topFilms": [
       {
         "slug": "hechizo-bienvenidos-a-hexe-en-catala",
         "title": "Hechizo Bienvenidos A Hexe",
-        "sessions": 225
+        "sessions": 199
       },
       {
         "slug": "encanteri-benvinguts-a-hexe-en-catala",
         "title": "Encanteri Benvinguts A Hexe",
-        "sessions": 45
+        "sessions": 36
       },
       {
         "slug": "sanguine-en-catala",
         "title": "Sanguine",
-        "sessions": 24
+        "sessions": 21
       },
       {
         "slug": "el-gato-con-sombrero-en-catala",
         "title": "El Gato Con Sombrero",
-        "sessions": 21
+        "sessions": 19
       },
       {
         "slug": "redencion-en-catala",
         "title": "Redencion",
-        "sessions": 11
-      },
-      {
-        "slug": "willow-y-las-guardianas-de-los-4-elementos-en-catala",
-        "title": "Willow Y Las Guardianas De Los 4 Elementos",
-        "sessions": 8
+        "sessions": 9
       },
       {
         "slug": "el-gat-amb-barret-en-catala",
@@ -51,14 +46,19 @@
         "sessions": 7
       },
       {
-        "slug": "sucia-en-catala",
-        "title": "Sucia",
-        "sessions": 6
+        "slug": "willow-y-las-guardianas-de-los-4-elementos-en-catala",
+        "title": "Willow Y Las Guardianas De Los 4 Elementos",
+        "sessions": 7
       },
       {
         "slug": "un-arbre-es-un-arbre-en-catala",
         "title": "Un Arbre Es Un Arbre",
         "sessions": 6
+      },
+      {
+        "slug": "sucia-en-catala",
+        "title": "Sucia",
+        "sessions": 5
       },
       {
         "slug": "encanteri-en-catala",
@@ -92,6 +92,13 @@
     {
       "slug": "ara-que-estem-junts-glosa-caustica-en-catala",
       "title": "Ara Que Estem Junts Glosa Caustica",
+      "sessionCount": 1,
+      "cinemaCount": 1,
+      "municipiCount": 1
+    },
+    {
+      "slug": "buffalo-en-catala",
+      "title": "Buffalo",
       "sessionCount": 1,
       "cinemaCount": 1,
       "municipiCount": 1
@@ -141,7 +148,7 @@
     {
       "slug": "el-gato-con-sombrero-en-catala",
       "title": "El Gato Con Sombrero",
-      "sessionCount": 21,
+      "sessionCount": 19,
       "cinemaCount": 4,
       "municipiCount": 4
     },
@@ -162,7 +169,7 @@
     {
       "slug": "encanteri-benvinguts-a-hexe-en-catala",
       "title": "Encanteri Benvinguts A Hexe",
-      "sessionCount": 45,
+      "sessionCount": 36,
       "cinemaCount": 4,
       "municipiCount": 4
     },
@@ -183,9 +190,9 @@
     {
       "slug": "hechizo-bienvenidos-a-hexe-en-catala",
       "title": "Hechizo Bienvenidos A Hexe",
-      "sessionCount": 225,
-      "cinemaCount": 25,
-      "municipiCount": 19
+      "sessionCount": 199,
+      "cinemaCount": 24,
+      "municipiCount": 18
     },
     {
       "slug": "hospital-de-campanya-en-catala",
@@ -218,7 +225,7 @@
     {
       "slug": "la-violinista-en-catala",
       "title": "La Violinista",
-      "sessionCount": 2,
+      "sessionCount": 1,
       "cinemaCount": 1,
       "municipiCount": 1
     },
@@ -246,35 +253,42 @@
     {
       "slug": "redencion-en-catala",
       "title": "Redencion",
-      "sessionCount": 11,
+      "sessionCount": 9,
       "cinemaCount": 3,
       "municipiCount": 3
     },
     {
       "slug": "sanguine-en-catala",
       "title": "Sanguine",
-      "sessionCount": 24,
+      "sessionCount": 21,
       "cinemaCount": 6,
       "municipiCount": 6
     },
     {
       "slug": "sucia-en-catala",
       "title": "Sucia",
-      "sessionCount": 6,
+      "sessionCount": 5,
       "cinemaCount": 1,
       "municipiCount": 1
     },
     {
       "slug": "sucia-per-que-no-vas-fer-res-en-catala",
       "title": "Sucia Per Que No Vas Fer Res",
-      "sessionCount": 4,
+      "sessionCount": 3,
+      "cinemaCount": 1,
+      "municipiCount": 1
+    },
+    {
+      "slug": "super-mario-galaxy-la-pellicula-en-catala",
+      "title": "Super Mario Galaxy: La pel·lícula",
+      "sessionCount": 1,
       "cinemaCount": 1,
       "municipiCount": 1
     },
     {
       "slug": "superthings-la-pelicula-en-catala",
       "title": "Superthings La Pelicula",
-      "sessionCount": 4,
+      "sessionCount": 3,
       "cinemaCount": 1,
       "municipiCount": 1
     },
@@ -289,6 +303,13 @@
       "slug": "un-arbre-es-un-arbre-en-catala",
       "title": "Un Arbre Es Un Arbre",
       "sessionCount": 6,
+      "cinemaCount": 1,
+      "municipiCount": 1
+    },
+    {
+      "slug": "una-pel-licula-de-minecraft-en-catala",
+      "title": "Una Pel Licula De Minecraft",
+      "sessionCount": 1,
       "cinemaCount": 1,
       "municipiCount": 1
     },
@@ -309,14 +330,14 @@
     {
       "slug": "willow-y-las-guardianas-de-los-4-elementos-en-catala",
       "title": "Willow Y Las Guardianas De Los 4 Elementos",
-      "sessionCount": 8,
+      "sessionCount": 7,
       "cinemaCount": 2,
       "municipiCount": 2
     },
     {
       "slug": "willow-y-las-guardianas-de-los-cuatro-elementos-en-catala",
       "title": "Willow Y Las Guardianas De Los Cuatro Elementos",
-      "sessionCount": 3,
+      "sessionCount": 2,
       "cinemaCount": 1,
       "municipiCount": 1
     }
@@ -347,7 +368,7 @@
       "municipiSlug": "alpicat",
       "municipiName": "Alpicat",
       "sessionCount": 4,
-      "filmCount": 3
+      "filmCount": 4
     },
     {
       "cinemaId": "wc-002",
@@ -355,7 +376,7 @@
       "name": "Amposta Cinemes",
       "municipiSlug": "amposta",
       "municipiName": "Amposta",
-      "sessionCount": 10,
+      "sessionCount": 8,
       "filmCount": 2
     },
     {
@@ -373,7 +394,7 @@
       "name": "Cine Yelmo Westfield La Maquinista",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "filmCount": 1
     },
     {
@@ -391,7 +412,7 @@
       "name": "Cinemes Texas",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 17,
+      "sessionCount": 15,
       "filmCount": 7
     },
     {
@@ -400,7 +421,7 @@
       "name": "Cinesa Diagonal",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 23,
+      "sessionCount": 20,
       "filmCount": 1
     },
     {
@@ -409,7 +430,7 @@
       "name": "Cinesa Diagonal Mar",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 23,
+      "sessionCount": 20,
       "filmCount": 1
     },
     {
@@ -418,7 +439,7 @@
       "name": "Cinesa Som Multiespai",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 21,
+      "sessionCount": 18,
       "filmCount": 1
     },
     {
@@ -436,7 +457,7 @@
       "name": "Mooby Arenas de Barcelona",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 11,
+      "sessionCount": 10,
       "filmCount": 2
     },
     {
@@ -445,7 +466,7 @@
       "name": "Verdi Barcelona",
       "municipiSlug": "barcelona",
       "municipiName": "Barcelona",
-      "sessionCount": 9,
+      "sessionCount": 8,
       "filmCount": 1
     },
     {
@@ -481,7 +502,7 @@
       "name": "Ocine Platja d'Aro",
       "municipiSlug": "castell-daro-platja-daro-i-sagaro",
       "municipiName": "Castell d'Aro, Platja d'Aro i s'Agaró",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "filmCount": 1
     },
     {
@@ -499,7 +520,7 @@
       "name": "Kinepolis Full Barcelona",
       "municipiSlug": "cornella-de-llobregat",
       "municipiName": "Cornellà de Llobregat",
-      "sessionCount": 25,
+      "sessionCount": 26,
       "filmCount": 2
     },
     {
@@ -526,7 +547,7 @@
       "name": "Ocine Girona",
       "municipiSlug": "girona",
       "municipiName": "Girona",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "filmCount": 1
     },
     {
@@ -553,7 +574,7 @@
       "name": "Filmax Gran Via",
       "municipiSlug": "lhospitalet-de-llobregat",
       "municipiName": "L'Hospitalet de Llobregat",
-      "sessionCount": 6,
+      "sessionCount": 5,
       "filmCount": 1
     },
     {
@@ -580,7 +601,7 @@
       "name": "Screenbox Lleida",
       "municipiSlug": "lleida",
       "municipiName": "Lleida",
-      "sessionCount": 10,
+      "sessionCount": 9,
       "filmCount": 3
     },
     {
@@ -589,7 +610,7 @@
       "name": "Kinepolis Mataró Parc",
       "municipiSlug": "mataro",
       "municipiName": "Mataró",
-      "sessionCount": 18,
+      "sessionCount": 15,
       "filmCount": 4
     },
     {
@@ -616,7 +637,16 @@
       "name": "Cines Olot",
       "municipiSlug": "olot",
       "municipiName": "Olot",
-      "sessionCount": 15,
+      "sessionCount": 12,
+      "filmCount": 1
+    },
+    {
+      "cinemaId": "wc-021",
+      "slug": "cines-axion-reus",
+      "name": "Cines AXION Reus",
+      "municipiSlug": "reus",
+      "municipiName": "Reus",
+      "sessionCount": 1,
       "filmCount": 1
     },
     {
@@ -625,7 +655,7 @@
       "name": "Ocine Roquetes",
       "municipiSlug": "roquetes",
       "municipiName": "Roquetes",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "filmCount": 1
     },
     {
@@ -634,7 +664,7 @@
       "name": "Cines Imperial",
       "municipiSlug": "sabadell",
       "municipiName": "Sabadell",
-      "sessionCount": 14,
+      "sessionCount": 12,
       "filmCount": 1
     },
     {
@@ -643,7 +673,7 @@
       "name": "Odeon Multicines Girona",
       "municipiSlug": "salt",
       "municipiName": "Salt",
-      "sessionCount": 15,
+      "sessionCount": 13,
       "filmCount": 3
     },
     {
@@ -661,7 +691,7 @@
       "name": "CineBaix",
       "municipiSlug": "sant-feliu-de-llobregat",
       "municipiName": "Sant Feliu de Llobregat",
-      "sessionCount": 14,
+      "sessionCount": 11,
       "filmCount": 2
     },
     {
@@ -688,7 +718,7 @@
       "name": "Ocine Les Gavarres",
       "municipiSlug": "tarragona",
       "municipiName": "Tarragona",
-      "sessionCount": 16,
+      "sessionCount": 14,
       "filmCount": 4
     },
     {
@@ -697,7 +727,7 @@
       "name": "Cinesa Parc Vallès",
       "municipiSlug": "terrassa",
       "municipiName": "Terrassa",
-      "sessionCount": 27,
+      "sessionCount": 23,
       "filmCount": 2
     },
     {
@@ -715,7 +745,7 @@
       "name": "Cinemes Majestic",
       "municipiSlug": "tarrega",
       "municipiName": "Tàrrega",
-      "sessionCount": 5,
+      "sessionCount": 4,
       "filmCount": 2
     },
     {
@@ -724,7 +754,7 @@
       "name": "JCA Cinemes Tarragona-Valls",
       "municipiSlug": "valls",
       "municipiName": "Valls",
-      "sessionCount": 13,
+      "sessionCount": 11,
       "filmCount": 1
     },
     {
@@ -733,7 +763,7 @@
       "name": "Multicines Sucre",
       "municipiSlug": "vic",
       "municipiName": "Vic",
-      "sessionCount": 11,
+      "sessionCount": 10,
       "filmCount": 1
     },
     {
@@ -751,7 +781,7 @@
       "name": "Odeon Multicines Vilanova",
       "municipiSlug": "vilanova-i-la-geltru",
       "municipiName": "Vilanova i la Geltrú",
-      "sessionCount": 22,
+      "sessionCount": 19,
       "filmCount": 4
     }
   ],
@@ -780,7 +810,7 @@
       "ineCode": "25023",
       "idescatCode": "250236",
       "sessionCount": 4,
-      "filmCount": 3,
+      "filmCount": 4,
       "cinemaCount": 1
     },
     {
@@ -788,7 +818,7 @@
       "name": "Amposta",
       "ineCode": "43014",
       "idescatCode": "430141",
-      "sessionCount": 10,
+      "sessionCount": 8,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -806,7 +836,7 @@
       "name": "Barcelona",
       "ineCode": "08019",
       "idescatCode": "080193",
-      "sessionCount": 121,
+      "sessionCount": 107,
       "filmCount": 11,
       "cinemaCount": 10
     },
@@ -833,7 +863,7 @@
       "name": "Castell d'Aro, Platja d'Aro i s'Agaró",
       "ineCode": "17048",
       "idescatCode": "170486",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -851,7 +881,7 @@
       "name": "Cornellà de Llobregat",
       "ineCode": "08073",
       "idescatCode": "080734",
-      "sessionCount": 25,
+      "sessionCount": 26,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -878,7 +908,7 @@
       "name": "Girona",
       "ineCode": "17079",
       "idescatCode": "170792",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -905,7 +935,7 @@
       "name": "L'Hospitalet de Llobregat",
       "ineCode": "08101",
       "idescatCode": "081017",
-      "sessionCount": 6,
+      "sessionCount": 5,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -932,7 +962,7 @@
       "name": "Lleida",
       "ineCode": "25120",
       "idescatCode": "251207",
-      "sessionCount": 10,
+      "sessionCount": 9,
       "filmCount": 3,
       "cinemaCount": 1
     },
@@ -941,7 +971,7 @@
       "name": "Mataró",
       "ineCode": "08121",
       "idescatCode": "081213",
-      "sessionCount": 18,
+      "sessionCount": 15,
       "filmCount": 4,
       "cinemaCount": 1
     },
@@ -968,7 +998,16 @@
       "name": "Olot",
       "ineCode": "17114",
       "idescatCode": "171143",
-      "sessionCount": 15,
+      "sessionCount": 12,
+      "filmCount": 1,
+      "cinemaCount": 1
+    },
+    {
+      "slug": "reus",
+      "name": "Reus",
+      "ineCode": "43123",
+      "idescatCode": "431233",
+      "sessionCount": 1,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -977,7 +1016,7 @@
       "name": "Roquetes",
       "ineCode": "43133",
       "idescatCode": "431331",
-      "sessionCount": 7,
+      "sessionCount": 6,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -986,7 +1025,7 @@
       "name": "Sabadell",
       "ineCode": "08187",
       "idescatCode": "081878",
-      "sessionCount": 14,
+      "sessionCount": 12,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -995,7 +1034,7 @@
       "name": "Salt",
       "ineCode": "17155",
       "idescatCode": "171557",
-      "sessionCount": 15,
+      "sessionCount": 13,
       "filmCount": 3,
       "cinemaCount": 1
     },
@@ -1013,7 +1052,7 @@
       "name": "Sant Feliu de Llobregat",
       "ineCode": "08211",
       "idescatCode": "082114",
-      "sessionCount": 14,
+      "sessionCount": 11,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -1031,7 +1070,7 @@
       "name": "Tarragona",
       "ineCode": "43148",
       "idescatCode": "431482",
-      "sessionCount": 18,
+      "sessionCount": 16,
       "filmCount": 4,
       "cinemaCount": 2
     },
@@ -1040,7 +1079,7 @@
       "name": "Terrassa",
       "ineCode": "08279",
       "idescatCode": "082798",
-      "sessionCount": 27,
+      "sessionCount": 23,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -1058,7 +1097,7 @@
       "name": "Tàrrega",
       "ineCode": "25217",
       "idescatCode": "252173",
-      "sessionCount": 5,
+      "sessionCount": 4,
       "filmCount": 2,
       "cinemaCount": 1
     },
@@ -1067,7 +1106,7 @@
       "name": "Valls",
       "ineCode": "43161",
       "idescatCode": "431613",
-      "sessionCount": 13,
+      "sessionCount": 11,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -1076,7 +1115,7 @@
       "name": "Vic",
       "ineCode": "08298",
       "idescatCode": "082981",
-      "sessionCount": 11,
+      "sessionCount": 10,
       "filmCount": 1,
       "cinemaCount": 1
     },
@@ -1094,948 +1133,12 @@
       "name": "Vilanova i la Geltrú",
       "ineCode": "08307",
       "idescatCode": "083073",
-      "sessionCount": 22,
+      "sessionCount": 19,
       "filmCount": 4,
       "cinemaCount": 1
     }
   ],
   "sessions": [
-    {
-      "id": "24de971d38dc3f98",
-      "filmSlug": "sucia-en-catala",
-      "filmTitle": "Sucia",
-      "cinemaId": "wc-086",
-      "cinemaSlug": "screenbox-lleida",
-      "cinemaName": "Screenbox Lleida",
-      "municipiSlug": "lleida",
-      "municipiName": "Lleida",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "14:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94734",
-      "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94734",
-      "sourceUrl": "https://www.screenbox.cat/programacio",
-      "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-27T05:31:22Z"
-    },
-    {
-      "id": "b2d77b1f7b48aaed",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-011",
-      "cinemaSlug": "cine-yelmo-westfield-la-maquinista",
-      "cinemaName": "Cine Yelmo Westfield La Maquinista",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "15:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
-      "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
-      "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
-      "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
-    },
-    {
-      "id": "42b48b1022fbadfe",
-      "filmSlug": "sucia-per-que-no-vas-fer-res-en-catala",
-      "filmTitle": "Sucia Per Que No Vas Fer Res",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:00",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261127-0000",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261127-0000",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:09Z"
-    },
-    {
-      "id": "51c995a1310602e7",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-065",
-      "cinemaSlug": "verdi-barcelona",
-      "cinemaName": "Verdi Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://verdibcn.admit-one.eu/seats/222854/",
-      "pickerUrl": "https://verdibcn.admit-one.eu/seats/222854/",
-      "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
-    },
-    {
-      "id": "8f3c6e54a965bea8",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-049",
-      "cinemaSlug": "ocine-girona",
-      "cinemaName": "Ocine Girona",
-      "municipiSlug": "girona",
-      "municipiName": "Girona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
-      "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
-      "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:26Z"
-    },
-    {
-      "id": "4c0c45a5e86be3aa",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:51Z"
-    },
-    {
-      "id": "01030546251839e6",
-      "filmSlug": "willow-y-las-guardianas-de-los-4-elementos-en-catala",
-      "filmTitle": "Willow Y Las Guardianas De Los 4 Elementos",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2599809&sesion=81150",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:46Z"
-    },
-    {
-      "id": "9b3107bf47169df7",
-      "filmSlug": "la-violinista-en-catala",
-      "filmTitle": "La Violinista",
-      "cinemaId": "wc-020",
-      "cinemaSlug": "cinemes-texas",
-      "cinemaName": "Cinemes Texas",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:15",
-      "languageLabel": "VO en català",
-      "bookingUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261127-1615",
-      "pickerUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261127-1615",
-      "sourceUrl": "https://espaitexas.cat",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:09Z"
-    },
-    {
-      "id": "99f3425876b9d3bd",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-030",
-      "cinemaSlug": "jca-cinemes-alpicat",
-      "cinemaName": "JCA Cinemes Alpicat",
-      "municipiSlug": "alpicat",
-      "municipiName": "Alpicat",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=312383",
-      "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:47Z"
-    },
-    {
-      "id": "8c7edac0fc4f4aef",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
-    },
-    {
-      "id": "b5c9cd75cde2af31",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
-    },
-    {
-      "id": "43d43b55a1f2da5a",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-033",
-      "cinemaSlug": "kinepolis-full-barcelona",
-      "cinemaName": "Kinepolis Full Barcelona",
-      "municipiSlug": "cornella-de-llobregat",
-      "municipiName": "Cornellà de Llobregat",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://kinepolis.es/direct-vista-redirect/258991/0/PFULL/0",
-      "pickerUrl": "https://kinepolis.es/direct-vista-redirect/258991/0/PFULL/0",
-      "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
-      "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
-    },
-    {
-      "id": "8a4ddc66c23b5443",
-      "filmSlug": "encanteri-benvinguts-a-hexe-en-catala",
-      "filmTitle": "Encanteri Benvinguts A Hexe",
-      "cinemaId": "wc-022",
-      "cinemaSlug": "cines-imperial",
-      "cinemaName": "Cines Imperial",
-      "municipiSlug": "sabadell",
-      "municipiName": "Sabadell",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
-      "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
-      "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
-    },
-    {
-      "id": "a6e762fef0d45d3b",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
-    },
-    {
-      "id": "5c1f7c0da5c52b63",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-033",
-      "cinemaSlug": "kinepolis-full-barcelona",
-      "cinemaName": "Kinepolis Full Barcelona",
-      "municipiSlug": "cornella-de-llobregat",
-      "municipiName": "Cornellà de Llobregat",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:45",
-      "languageLabel": "Català",
-      "bookingUrl": "https://kinepolis.es/direct-vista-redirect/260228/0/PFULL/0",
-      "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260228/0/PFULL/0",
-      "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
-      "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
-    },
-    {
-      "id": "fa750eb2a4c417a1",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:50",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2592818&sesion=80926",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:44Z"
-    },
-    {
-      "id": "c97300b6dd55c70f",
-      "filmSlug": "superthings-la-pelicula-en-catala",
-      "filmTitle": "Superthings La Pelicula",
-      "cinemaId": "wc-034",
-      "cinemaSlug": "kinepolis-mataro-parc",
-      "cinemaName": "Kinepolis Mataró Parc",
-      "municipiSlug": "mataro",
-      "municipiName": "Mataró",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "16:55",
-      "languageLabel": "Català",
-      "bookingUrl": "https://kinepolis.es/direct-vista-redirect/70076/0/ESMAT/0",
-      "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70076/0/ESMAT/0",
-      "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
-      "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
-    },
-    {
-      "id": "89a3e871b865b2b9",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-053",
-      "cinemaSlug": "ocine-platja-daro",
-      "cinemaName": "Ocine Platja d'Aro",
-      "municipiSlug": "castell-daro-platja-daro-i-sagaro",
-      "municipiName": "Castell d'Aro, Platja d'Aro i s'Agaró",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10900",
-      "pickerUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10900",
-      "sourceUrl": "https://tickets.ocineplatjadaro.es/api/v1/pelicula/10900?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:30Z"
-    },
-    {
-      "id": "c848eac74376ee8c",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-029",
-      "cinemaSlug": "filmax-gran-via",
-      "cinemaName": "Filmax Gran Via",
-      "municipiSlug": "lhospitalet-de-llobregat",
-      "municipiName": "L'Hospitalet de Llobregat",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://filmax.admit-one.eu/?p=tickets&perfCode=223226",
-      "pickerUrl": "https://www.cinesfilmax.com/cartelera",
-      "sourceUrl": "https://www.cinesfilmax.com/cartelera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:14Z"
-    },
-    {
-      "id": "8a861660551033db",
-      "filmSlug": "willow-y-las-guardianas-de-los-cuatro-elementos-en-catala",
-      "filmTitle": "Willow Y Las Guardianas De Los Cuatro Elementos",
-      "cinemaId": "wc-034",
-      "cinemaSlug": "kinepolis-mataro-parc",
-      "cinemaName": "Kinepolis Mataró Parc",
-      "municipiSlug": "mataro",
-      "municipiName": "Mataró",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://kinepolis.es/direct-vista-redirect/70077/0/ESMAT/0",
-      "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70077/0/ESMAT/0",
-      "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
-      "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
-    },
-    {
-      "id": "755658efa2c1a27c",
-      "filmSlug": "encanteri-benvinguts-a-hexe-en-catala",
-      "filmTitle": "Encanteri Benvinguts A Hexe",
-      "cinemaId": "wc-088",
-      "cinemaSlug": "cines-olot",
-      "cinemaName": "Cines Olot",
-      "municipiSlug": "olot",
-      "municipiName": "Olot",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
-      "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
-      "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
-    },
-    {
-      "id": "1571f37a2b6d57a8",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-055",
-      "cinemaSlug": "ocine-roquetes",
-      "cinemaName": "Ocine Roquetes",
-      "municipiSlug": "roquetes",
-      "municipiName": "Roquetes",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "17:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
-      "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
-      "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:33Z"
-    },
-    {
-      "id": "5dc51f5ab9d249e8",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-058",
-      "cinemaSlug": "odeon-multicines-girona",
-      "cinemaName": "Odeon Multicines Girona",
-      "municipiSlug": "salt",
-      "municipiName": "Salt",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "17:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-girona/sesion?pid=2592818&sesion=85972",
-      "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
-      "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
-    },
-    {
-      "id": "531cfb2f16bb8b16",
-      "filmSlug": "encanteri-benvinguts-a-hexe-en-catala",
-      "filmTitle": "Encanteri Benvinguts A Hexe",
-      "cinemaId": "wc-084",
-      "cinemaSlug": "cinebaix",
-      "cinemaName": "CineBaix",
-      "municipiSlug": "sant-feliu-de-llobregat",
-      "municipiName": "Sant Feliu de Llobregat",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "17:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://cinebaixtaquilla81.com/",
-      "pickerUrl": "https://cinebaixtaquilla81.com/",
-      "sourceUrl": "https://cinebaix.com",
-      "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
-    },
-    {
-      "id": "f0db5aa296051a1f",
-      "filmSlug": "el-gato-con-sombrero-en-catala",
-      "filmTitle": "El Gato Con Sombrero",
-      "cinemaId": "wc-051",
-      "cinemaSlug": "ocine-les-gavarres",
-      "cinemaName": "Ocine Les Gavarres",
-      "municipiSlug": "tarragona",
-      "municipiName": "Tarragona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "17:15",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
-      "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
-      "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
-      "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:50Z"
-    },
-    {
-      "id": "cfc0cd2485147f54",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "17:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=153098",
-      "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
-    },
-    {
-      "id": "afd3226dd564309e",
-      "filmSlug": "redencion-en-catala",
-      "filmTitle": "Redencion",
-      "cinemaId": "wc-002",
-      "cinemaSlug": "amposta-cinemes",
-      "cinemaName": "Amposta Cinemes",
-      "municipiSlug": "amposta",
-      "municipiName": "Amposta",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "17:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://www.compraentradas.com/Sesion/55/cinemes-amposta-11-sales/redencion/215086/1",
-      "pickerUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
-      "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
-      "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-11-27T05:30:02Z"
-    },
-    {
-      "id": "e0c3d67cb0a591ad",
-      "filmSlug": "encanteri-benvinguts-a-hexe-en-catala",
-      "filmTitle": "Encanteri Benvinguts A Hexe",
-      "cinemaId": "wc-018",
-      "cinemaSlug": "cinemes-majestic",
-      "cinemaName": "Cinemes Majestic",
-      "municipiSlug": "tarrega",
-      "municipiName": "Tàrrega",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "18:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.reservaentradas.com/sesiones/lleida/cinemesmajestic/hechizo-bienvenidos-a-hexe/1626/",
-      "pickerUrl": "https://circusa.com/ca/tarrega/",
-      "sourceUrl": "https://circusa.com/ca/tarrega/",
-      "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:30:06Z"
-    },
-    {
-      "id": "e61bcc68730c5ff3",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "18:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
-    },
-    {
-      "id": "f73208a6cd248eb2",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-037",
-      "cinemaSlug": "mooby-arenas-de-barcelona",
-      "cinemaName": "Mooby Arenas de Barcelona",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "18:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://moobycinemas-arenas.admit-one.eu/?p=tickets&perfCode=194751&language=cat&theatre=BAL-ARENAS",
-      "pickerUrl": "https://www.moobycinemas.com",
-      "sourceUrl": "https://www.moobycinemas.com",
-      "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
-    },
-    {
-      "id": "4e3abf4aaa7ba39c",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-034",
-      "cinemaSlug": "kinepolis-mataro-parc",
-      "cinemaName": "Kinepolis Mataró Parc",
-      "municipiSlug": "mataro",
-      "municipiName": "Mataró",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "18:30",
-      "languageLabel": "Català",
-      "bookingUrl": "https://kinepolis.es/direct-vista-redirect/69688/0/ESMAT/0",
-      "pickerUrl": "https://kinepolis.es/direct-vista-redirect/69688/0/ESMAT/0",
-      "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
-      "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
-    },
-    {
-      "id": "5e77b0a57e0af515",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-030",
-      "cinemaSlug": "jca-cinemes-alpicat",
-      "cinemaName": "JCA Cinemes Alpicat",
-      "municipiSlug": "alpicat",
-      "municipiName": "Alpicat",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "18:50",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=312384",
-      "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:47Z"
-    },
-    {
-      "id": "972099553c5429ea",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-033",
-      "cinemaSlug": "kinepolis-full-barcelona",
-      "cinemaName": "Kinepolis Full Barcelona",
-      "municipiSlug": "cornella-de-llobregat",
-      "municipiName": "Cornellà de Llobregat",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "19:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://kinepolis.es/direct-vista-redirect/258992/0/PFULL/0",
-      "pickerUrl": "https://kinepolis.es/direct-vista-redirect/258992/0/PFULL/0",
-      "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
-      "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
-    },
-    {
-      "id": "bee36eeb9bf419b4",
-      "filmSlug": "encanteri-benvinguts-a-hexe-en-catala",
-      "filmTitle": "Encanteri Benvinguts A Hexe",
-      "cinemaId": "wc-088",
-      "cinemaSlug": "cines-olot",
-      "cinemaName": "Cines Olot",
-      "municipiSlug": "olot",
-      "municipiName": "Olot",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "19:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
-      "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
-      "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
-    },
-    {
-      "id": "264d178d7eaed0f0",
-      "filmSlug": "encanteri-benvinguts-a-hexe-en-catala",
-      "filmTitle": "Encanteri Benvinguts A Hexe",
-      "cinemaId": "wc-022",
-      "cinemaSlug": "cines-imperial",
-      "cinemaName": "Cines Imperial",
-      "municipiSlug": "sabadell",
-      "municipiName": "Sabadell",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "19:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
-      "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
-      "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
-    },
-    {
-      "id": "f5dc53f512201ee1",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "19:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
-    },
-    {
-      "id": "b6eb70fd8f295525",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "19:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
-    },
-    {
-      "id": "f2b3971eb9bd63a0",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "19:05",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
-    },
-    {
-      "id": "54acca6302ddfba7",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-032",
-      "cinemaSlug": "jca-rambla",
-      "cinemaName": "JCA Cinemes Tarragona-Valls",
-      "municipiSlug": "valls",
-      "municipiName": "Valls",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "19:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://jcacinemes-valls.admit-one.eu/?p=tickets&perfCode=153099",
-      "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
-      "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
-      "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
-    },
-    {
-      "id": "d22169e2b60595c6",
-      "filmSlug": "encanteri-benvinguts-a-hexe-en-catala",
-      "filmTitle": "Encanteri Benvinguts A Hexe",
-      "cinemaId": "wc-084",
-      "cinemaSlug": "cinebaix",
-      "cinemaName": "CineBaix",
-      "municipiSlug": "sant-feliu-de-llobregat",
-      "municipiName": "Sant Feliu de Llobregat",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "19:15",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://cinebaixtaquilla81.com/",
-      "pickerUrl": "https://cinebaixtaquilla81.com/",
-      "sourceUrl": "https://cinebaix.com",
-      "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
-    },
-    {
-      "id": "4cf497049c60fe97",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-045",
-      "cinemaSlug": "multicines-sucre",
-      "cinemaName": "Multicines Sucre",
-      "municipiSlug": "vic",
-      "municipiName": "Vic",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "19:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.onlinecinematickets.com/index.php?s=SUCREVIC&p=tickets&perfCode=280860",
-      "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
-      "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:19Z"
-    },
-    {
-      "id": "2621f88183bd2318",
-      "filmSlug": "redencion-en-catala",
-      "filmTitle": "Redencion",
-      "cinemaId": "wc-002",
-      "cinemaSlug": "amposta-cinemes",
-      "cinemaName": "Amposta Cinemes",
-      "municipiSlug": "amposta",
-      "municipiName": "Amposta",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "20:15",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://www.compraentradas.com/Sesion/55/cinemes-amposta-11-sales/redencion/215133/1",
-      "pickerUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
-      "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
-      "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-11-27T05:30:02Z"
-    },
-    {
-      "id": "567f52bd9d4cc49b",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "21:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
-    },
-    {
-      "id": "92e90cea2c6fcaf7",
-      "filmSlug": "encanteri-benvinguts-a-hexe-en-catala",
-      "filmTitle": "Encanteri Benvinguts A Hexe",
-      "cinemaId": "wc-088",
-      "cinemaSlug": "cines-olot",
-      "cinemaName": "Cines Olot",
-      "municipiSlug": "olot",
-      "municipiName": "Olot",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "21:00",
-      "languageLabel": "Català",
-      "bookingUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
-      "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
-      "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
-      "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
-    },
-    {
-      "id": "43924e9dd97a3736",
-      "filmSlug": "encanteri-benvinguts-a-hexe-en-catala",
-      "filmTitle": "Encanteri Benvinguts A Hexe",
-      "cinemaId": "wc-084",
-      "cinemaSlug": "cinebaix",
-      "cinemaName": "CineBaix",
-      "municipiSlug": "sant-feliu-de-llobregat",
-      "municipiName": "Sant Feliu de Llobregat",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "21:30",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://cinebaixtaquilla81.com/",
-      "pickerUrl": "https://cinebaixtaquilla81.com/",
-      "sourceUrl": "https://cinebaix.com",
-      "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
-    },
-    {
-      "id": "dcf3ce9b33c39eb2",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "21:35",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
-    },
-    {
-      "id": "7f2d80424f9789e6",
-      "filmSlug": "sanguine-en-catala",
-      "filmTitle": "Sanguine",
-      "cinemaId": "wc-059",
-      "cinemaSlug": "odeon-multicines-vilanova",
-      "cinemaName": "Odeon Multicines Vilanova",
-      "municipiSlug": "vilanova-i-la-geltru",
-      "municipiName": "Vilanova i la Geltrú",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "21:45",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-vilanova/sesion?pid=2614089&sesion=80892",
-      "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
-      "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:43Z"
-    },
-    {
-      "id": "ef337393c706da45",
-      "filmSlug": "sanguine-en-catala",
-      "filmTitle": "Sanguine",
-      "cinemaId": "wc-058",
-      "cinemaSlug": "odeon-multicines-girona",
-      "cinemaName": "Odeon Multicines Girona",
-      "municipiSlug": "salt",
-      "municipiName": "Salt",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "22:00",
-      "languageLabel": "Doblada al català",
-      "bookingUrl": "https://odeonmulticines.com/odeon-girona/sesion?pid=2614089&sesion=85988",
-      "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
-      "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
-      "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
-    },
-    {
-      "id": "65343924d3f7c151",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-023",
-      "cinemaSlug": "cinesa-diagonal",
-      "cinemaName": "Cinesa Diagonal",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "22:10",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
-    },
-    {
-      "id": "fec8258a107322f3",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-024",
-      "cinemaSlug": "cinesa-diagonal-mar",
-      "cinemaName": "Cinesa Diagonal Mar",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "22:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
-    },
-    {
-      "id": "17d179a48061e0d7",
-      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
-      "filmTitle": "Hechizo Bienvenidos A Hexe",
-      "cinemaId": "wc-028",
-      "cinemaSlug": "cinesa-som-multiespai",
-      "cinemaName": "Cinesa Som Multiespai",
-      "municipiSlug": "barcelona",
-      "municipiName": "Barcelona",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "22:20",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
-    },
-    {
-      "id": "fc8b424a02cfb0c8",
-      "filmSlug": "sanguine-en-catala",
-      "filmTitle": "Sanguine",
-      "cinemaId": "wc-027",
-      "cinemaSlug": "cinesa-parc-valles",
-      "cinemaName": "Cinesa Parc Vallès",
-      "municipiSlug": "terrassa",
-      "municipiName": "Terrassa",
-      "sessionDate": "2026-11-27",
-      "sessionTime": "22:40",
-      "languageLabel": "Català",
-      "bookingUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
-      "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:24Z"
-    },
     {
       "id": "7c1af41e3b46d92e",
       "filmSlug": "sanguine-en-catala",
@@ -2052,7 +1155,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94670",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:10Z"
     },
     {
       "id": "010925fc9ce19024",
@@ -2070,7 +1173,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260555/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "a59a65b1b7457a8c",
@@ -2088,7 +1191,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/258989/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "ece9f6f5d9e5a3f3",
@@ -2106,7 +1209,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/223105/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "ec31b9b04c9fe433",
@@ -2124,7 +1227,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "f4e23bfe16aae902",
@@ -2142,7 +1245,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "c1cf12c484559121",
@@ -2160,7 +1263,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260556/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "57acb2e66ad0ee61",
@@ -2178,7 +1281,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/258990/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "8e49ae944d3ad913",
@@ -2196,7 +1299,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94735",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-27T05:31:22Z"
+      "capturedAt": "2026-11-28T05:31:10Z"
     },
     {
       "id": "ed1336e273838a68",
@@ -2214,7 +1317,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:19Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "c721983e30cdeccb",
@@ -2232,7 +1335,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70058/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "32fcd1dd0fb96fad",
@@ -2250,7 +1353,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70044/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "8330488f1914a2d4",
@@ -2268,7 +1371,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "fd2720e0d1884023",
@@ -2286,7 +1389,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
+      "capturedAt": "2026-11-28T05:30:27Z"
     },
     {
       "id": "ac98763fec90819f",
@@ -2304,7 +1407,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "75e84a1ec4fe7218",
@@ -2322,7 +1425,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=premium-castelldefels-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:04Z"
+      "capturedAt": "2026-11-28T05:30:05Z"
     },
     {
       "id": "27bea97d04db2186",
@@ -2340,7 +1443,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=abrera-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:04Z"
+      "capturedAt": "2026-11-28T05:30:04Z"
     },
     {
       "id": "066b1228a039d397",
@@ -2358,7 +1461,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=premium-sant-cugat-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "69b40ed165ed44fd",
@@ -2376,7 +1479,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=baricentro-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:04Z"
+      "capturedAt": "2026-11-28T05:30:05Z"
     },
     {
       "id": "53a90fa0cfd0183a",
@@ -2394,7 +1497,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261128-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:09Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "75eef68060f22a89",
@@ -2412,7 +1515,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/222884/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "7c868ba10425fb45",
@@ -2430,7 +1533,7 @@
       "pickerUrl": "https://www.cinemalacalandria.com/sessions/cartellera/el-gato-con-sombrero",
       "sourceUrl": "https://www.cinemalacalandria.com/sessions/cartellera/el-gato-con-sombrero",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:19Z"
+      "capturedAt": "2026-11-28T05:30:20Z"
     },
     {
       "id": "5fd5813e15a55a04",
@@ -2448,7 +1551,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:26Z"
+      "capturedAt": "2026-11-28T05:30:25Z"
     },
     {
       "id": "8683a761073a44ca",
@@ -2466,7 +1569,7 @@
       "pickerUrl": "https://www.cinealhambra.com",
       "sourceUrl": "https://www.cinealhambra.com",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:04Z"
+      "capturedAt": "2026-11-28T05:30:04Z"
     },
     {
       "id": "088b028e7f2bbe97",
@@ -2484,7 +1587,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/69674/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "a60be22885eae0aa",
@@ -2502,7 +1605,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=parc-central-tarragona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:05Z"
     },
     {
       "id": "0b3b23ce18a47ee0",
@@ -2520,7 +1623,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:51Z"
+      "capturedAt": "2026-11-28T05:30:49Z"
     },
     {
       "id": "61c2f7d93eb94e17",
@@ -2538,7 +1641,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:46Z"
+      "capturedAt": "2026-11-28T05:30:45Z"
     },
     {
       "id": "67b1629f80dd0e15",
@@ -2556,7 +1659,25 @@
       "pickerUrl": "https://www.cinesfilmax.com/cartelera",
       "sourceUrl": "https://www.cinesfilmax.com/cartelera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:14Z"
+      "capturedAt": "2026-11-28T05:30:14Z"
+    },
+    {
+      "id": "f1e83c7b4123dfed",
+      "filmSlug": "super-mario-galaxy-la-pellicula-en-catala",
+      "filmTitle": "Super Mario Galaxy: La pel·lícula",
+      "cinemaId": "wc-021",
+      "cinemaSlug": "cines-axion-reus",
+      "cinemaName": "Cines AXION Reus",
+      "municipiSlug": "reus",
+      "municipiName": "Reus",
+      "sessionDate": "2026-11-28",
+      "sessionTime": "16:15",
+      "languageLabel": "Català",
+      "bookingUrl": "https://reus.cinesaxion.com/index?pag=cartelera",
+      "pickerUrl": "https://reus.cinesaxion.com/index?pag=cartelera",
+      "sourceUrl": "https://reus.cinesaxion.com/index?pag=cartelera",
+      "extractorType": "ticketing-reserva-portal",
+      "capturedAt": "2026-11-28T05:30:10Z"
     },
     {
       "id": "79d93bc87ee42f22",
@@ -2574,7 +1695,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:09Z"
     },
     {
       "id": "c8b515074015857b",
@@ -2592,7 +1713,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "c583946335adca56",
@@ -2610,7 +1731,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "dc9c0582d0c57b8e",
@@ -2628,7 +1749,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/258987/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "e11762261ead9bed",
@@ -2646,7 +1767,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "6e623a867f8effc1",
@@ -2664,7 +1785,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:09Z"
     },
     {
       "id": "c1452729b4cfa078",
@@ -2682,7 +1803,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "cd6ea2cc7fba3a65",
@@ -2700,7 +1821,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260087/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "5f841c857262650e",
@@ -2718,7 +1839,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:44Z"
+      "capturedAt": "2026-11-28T05:30:40Z"
     },
     {
       "id": "444060c3e00181dd",
@@ -2736,7 +1857,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=101",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ernest-i-celestine-contes-dhivern-0",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-11-27T05:31:36Z"
+      "capturedAt": "2026-11-28T05:31:26Z"
     },
     {
       "id": "20b680e88e891161",
@@ -2754,7 +1875,7 @@
       "pickerUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineplatjadaro.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:30Z"
+      "capturedAt": "2026-11-28T05:30:30Z"
     },
     {
       "id": "123e7e4b9828c4cb",
@@ -2772,7 +1893,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:12Z"
     },
     {
       "id": "080bf77d848a5f6b",
@@ -2790,7 +1911,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:33Z"
+      "capturedAt": "2026-11-28T05:30:33Z"
     },
     {
       "id": "d3720d5b5ca68583",
@@ -2808,7 +1929,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
+      "capturedAt": "2026-11-28T05:30:40Z"
     },
     {
       "id": "00951eac8a87bc74",
@@ -2826,7 +1947,7 @@
       "pickerUrl": "https://cinemamontgri.cat/el-gato-con-sombrero/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-27T05:31:30Z"
+      "capturedAt": "2026-11-28T05:31:18Z"
     },
     {
       "id": "d2e1740dcf06e36d",
@@ -2844,7 +1965,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:50Z"
+      "capturedAt": "2026-11-28T05:30:49Z"
     },
     {
       "id": "8543d74834b061b6",
@@ -2862,7 +1983,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
+      "capturedAt": "2026-11-28T05:30:27Z"
     },
     {
       "id": "ce4f612825d63f83",
@@ -2880,7 +2001,7 @@
       "pickerUrl": "https://cineclubvila.cat/film/hospital-de-campanya/2026-11-28/",
       "sourceUrl": "https://www.cineclubvila.cat",
       "extractorType": "cineclubvila-html",
-      "capturedAt": "2026-11-27T05:31:07Z"
+      "capturedAt": "2026-11-28T05:30:54Z"
     },
     {
       "id": "89fb33d0bef9be3e",
@@ -2898,7 +2019,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:19Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "16a31e4bfc9733fd",
@@ -2916,7 +2037,7 @@
       "pickerUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16554/manual-para-superheroes--la-mascara-roja",
       "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16554/manual-para-superheroes--la-mascara-roja",
       "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-11-27T05:30:04Z"
+      "capturedAt": "2026-11-28T05:30:04Z"
     },
     {
       "id": "d7788d64939f4e3f",
@@ -2934,7 +2055,7 @@
       "pickerUrl": "https://circusa.com/ca/mollerussa/",
       "sourceUrl": "https://circusa.com/ca/mollerussa/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:31:20Z"
+      "capturedAt": "2026-11-28T05:31:08Z"
     },
     {
       "id": "d035e6fdbeae46e8",
@@ -2952,7 +2073,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "b28778da3cb59b81",
@@ -2970,7 +2091,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "be9b69f08cfa6094",
@@ -2988,7 +2109,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/69675/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "5693e12d53ae173b",
@@ -3006,7 +2127,7 @@
       "pickerUrl": "https://circusa.com/ca/solsona/",
       "sourceUrl": "https://circusa.com/ca/solsona/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:13Z"
     },
     {
       "id": "2ca5e02600e3fe48",
@@ -3024,7 +2145,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:09Z"
     },
     {
       "id": "f58f85959870580d",
@@ -3042,7 +2163,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/258988/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "fb032933ac679d5d",
@@ -3060,7 +2181,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:12Z"
     },
     {
       "id": "39681dd775dff49e",
@@ -3078,7 +2199,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "cd3f7aa01c654f28",
@@ -3096,7 +2217,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "968fed0ecded9fbd",
@@ -3114,7 +2235,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "c07220dab096a329",
@@ -3132,7 +2253,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "ea6a2c24b49feeab",
@@ -3150,7 +2271,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
+      "capturedAt": "2026-11-28T05:30:27Z"
     },
     {
       "id": "c9846b01b40806e6",
@@ -3168,7 +2289,7 @@
       "pickerUrl": "https://circusa.com/ca/tarrega/",
       "sourceUrl": "https://circusa.com/ca/tarrega/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:09Z"
     },
     {
       "id": "ad676c9f1bc689eb",
@@ -3186,7 +2307,7 @@
       "pickerUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-11-27T05:30:03Z"
+      "capturedAt": "2026-11-28T05:30:02Z"
     },
     {
       "id": "b719ed70d53e3f47",
@@ -3204,7 +2325,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:19Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "c5584fa4b0847763",
@@ -3222,7 +2343,7 @@
       "pickerUrl": "https://circusa.com/ca/agramunt/",
       "sourceUrl": "https://circusa.com/ca/agramunt/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:31:12Z"
+      "capturedAt": "2026-11-28T05:31:00Z"
     },
     {
       "id": "fa467cc779092d09",
@@ -3240,7 +2361,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "917c71589dc1efed",
@@ -3258,7 +2379,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:12Z"
     },
     {
       "id": "d47d9e92a2517484",
@@ -3276,7 +2397,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:09Z"
     },
     {
       "id": "fb7251db0bbe7d0d",
@@ -3294,7 +2415,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "6c7500dee45434d9",
@@ -3312,7 +2433,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:43Z"
+      "capturedAt": "2026-11-28T05:30:39Z"
     },
     {
       "id": "ebd631cba2a45c72",
@@ -3330,7 +2451,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
+      "capturedAt": "2026-11-28T05:30:39Z"
     },
     {
       "id": "1a44fdbe557d527f",
@@ -3348,7 +2469,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "1691ee280feb2a5e",
@@ -3366,7 +2487,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "59986705e3553ad5",
@@ -3384,7 +2505,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "674548dbd25208ce",
@@ -3402,7 +2523,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:12Z"
     },
     {
       "id": "cb38e10fa7178f13",
@@ -3420,7 +2541,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260569/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "db809495479f672f",
@@ -3438,7 +2559,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/258985/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "e1ca4b17ffcfb692",
@@ -3456,7 +2577,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/223104/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "ff353821353690eb",
@@ -3474,7 +2595,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:19Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "06a599311d2389e9",
@@ -3492,7 +2613,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70099/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "65fc915fc6b4c5c1",
@@ -3510,7 +2631,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "cfe01c23b649ea58",
@@ -3528,7 +2649,7 @@
       "pickerUrl": "https://www.cinealhambra.com",
       "sourceUrl": "https://www.cinealhambra.com",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:04Z"
+      "capturedAt": "2026-11-28T05:30:04Z"
     },
     {
       "id": "4d6a13d1569d09c8",
@@ -3546,7 +2667,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/69740/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "f6b30913f83c7dc6",
@@ -3564,7 +2685,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94736",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-27T05:31:22Z"
+      "capturedAt": "2026-11-28T05:31:10Z"
     },
     {
       "id": "6b6a3e4064bc6624",
@@ -3582,7 +2703,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10592",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10592?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:49Z"
+      "capturedAt": "2026-11-28T05:30:47Z"
     },
     {
       "id": "270ed25f75f98196",
@@ -3600,7 +2721,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/11216",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/11216?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:55Z"
+      "capturedAt": "2026-11-28T05:30:54Z"
     },
     {
       "id": "2ae874442ecfb35d",
@@ -3618,7 +2739,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "c62607b4ca5f36fa",
@@ -3636,7 +2757,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "55503d3239a1a3b4",
@@ -3654,7 +2775,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "5241396542a17ab8",
@@ -3672,7 +2793,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260791/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "573c408c91f8c70a",
@@ -3690,7 +2811,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/258986/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "11de9bb1e029ac10",
@@ -3708,7 +2829,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70096/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "aa3fef6454fa4e4d",
@@ -3726,7 +2847,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70083/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "c503c34e2b0b3d7b",
@@ -3744,7 +2865,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "a435d285938009da",
@@ -3762,7 +2883,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=premium-sant-cugat-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "5e42bdbe5a7966f7",
@@ -3780,7 +2901,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
+      "capturedAt": "2026-11-28T05:30:27Z"
     },
     {
       "id": "5d4aaeddc5f1e20a",
@@ -3798,7 +2919,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "1f98c504c640d18c",
@@ -3816,7 +2937,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=premium-castelldefels-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:04Z"
+      "capturedAt": "2026-11-28T05:30:05Z"
     },
     {
       "id": "b4d876337ba03a8e",
@@ -3834,7 +2955,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=abrera-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:04Z"
+      "capturedAt": "2026-11-28T05:30:04Z"
     },
     {
       "id": "f9d92d2af1ea0b98",
@@ -3852,7 +2973,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=baricentro-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:04Z"
+      "capturedAt": "2026-11-28T05:30:05Z"
     },
     {
       "id": "1ab01478ce6da09d",
@@ -3870,7 +2991,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/222923/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "963b88ac6e616ea5",
@@ -3888,7 +3009,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:26Z"
+      "capturedAt": "2026-11-28T05:30:25Z"
     },
     {
       "id": "c7544ca8e208367e",
@@ -3906,7 +3027,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=parc-central-tarragona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:05Z"
     },
     {
       "id": "a968dd284ced0578",
@@ -3924,7 +3045,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:51Z"
+      "capturedAt": "2026-11-28T05:30:49Z"
     },
     {
       "id": "950e986a27a9141e",
@@ -3942,7 +3063,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:46Z"
+      "capturedAt": "2026-11-28T05:30:45Z"
     },
     {
       "id": "e37d36c653cc3a29",
@@ -3960,7 +3081,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:09Z"
     },
     {
       "id": "3fb974902d66a948",
@@ -3978,7 +3099,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "1664b10f339d38c1",
@@ -3996,7 +3117,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "4c768b16ea2ae1b1",
@@ -4014,7 +3135,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/258983/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "f92ad3bdea62da3b",
@@ -4032,7 +3153,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "a49c91788e6cc54e",
@@ -4050,7 +3171,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:09Z"
     },
     {
       "id": "2cdb013f8ce9d59c",
@@ -4068,7 +3189,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "05828382347117c4",
@@ -4086,7 +3207,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260165/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "db2ffc4b1dcaf5d8",
@@ -4104,7 +3225,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:44Z"
+      "capturedAt": "2026-11-28T05:30:40Z"
     },
     {
       "id": "3bd92e6d8f2017c5",
@@ -4122,7 +3243,7 @@
       "pickerUrl": "https://circusa.com/ca/agramunt/",
       "sourceUrl": "https://circusa.com/ca/agramunt/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:31:12Z"
+      "capturedAt": "2026-11-28T05:31:00Z"
     },
     {
       "id": "f7a10365ecbecf35",
@@ -4140,7 +3261,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=102",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ernest-i-celestine-contes-dhivern-0",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-11-27T05:31:36Z"
+      "capturedAt": "2026-11-28T05:31:26Z"
     },
     {
       "id": "1d8c6d5b656eb24d",
@@ -4158,7 +3279,7 @@
       "pickerUrl": "https://circusa.com/ca/bellpuig/",
       "sourceUrl": "https://circusa.com/ca/bellpuig/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:31:17Z"
+      "capturedAt": "2026-11-28T05:31:05Z"
     },
     {
       "id": "77900d72a6ceb8a8",
@@ -4176,7 +3297,7 @@
       "pickerUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineplatjadaro.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:30Z"
+      "capturedAt": "2026-11-28T05:30:30Z"
     },
     {
       "id": "3eb1b75c11cf7066",
@@ -4194,7 +3315,7 @@
       "pickerUrl": "https://circusa.com/ca/montblanc/",
       "sourceUrl": "https://circusa.com/ca/montblanc/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:31:29Z"
+      "capturedAt": "2026-11-28T05:31:19Z"
     },
     {
       "id": "67a9ef5ebab9e2f6",
@@ -4212,7 +3333,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:12Z"
     },
     {
       "id": "1999e01138e77c61",
@@ -4230,7 +3351,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:33Z"
+      "capturedAt": "2026-11-28T05:30:33Z"
     },
     {
       "id": "abbd39b8d30fe641",
@@ -4248,7 +3369,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
+      "capturedAt": "2026-11-28T05:30:40Z"
     },
     {
       "id": "0752fc090b908371",
@@ -4266,7 +3387,7 @@
       "pickerUrl": "https://cinemamontgri.cat/el-gato-con-sombrero/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-27T05:31:30Z"
+      "capturedAt": "2026-11-28T05:31:18Z"
     },
     {
       "id": "9da4ca50c705e8ee",
@@ -4284,7 +3405,7 @@
       "pickerUrl": "https://circusa.com/ca/tarrega/",
       "sourceUrl": "https://circusa.com/ca/tarrega/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:09Z"
     },
     {
       "id": "b6a11d05c7534066",
@@ -4302,7 +3423,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:50Z"
+      "capturedAt": "2026-11-28T05:30:49Z"
     },
     {
       "id": "353ed9b9148afa52",
@@ -4320,7 +3441,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
+      "capturedAt": "2026-11-28T05:30:27Z"
     },
     {
       "id": "29f3607a789b87b7",
@@ -4338,7 +3459,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/69741/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "9f186f120175ba89",
@@ -4356,7 +3477,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:19Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "e8f1ccc103385b70",
@@ -4374,7 +3495,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261129-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:09Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "d59d6031d0d04611",
@@ -4392,7 +3513,7 @@
       "pickerUrl": "https://www.cinesfilmax.com/cartelera",
       "sourceUrl": "https://www.cinesfilmax.com/cartelera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:14Z"
+      "capturedAt": "2026-11-28T05:30:14Z"
     },
     {
       "id": "92b1d93bf7db27b2",
@@ -4410,7 +3531,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "3d5d9610d1a12d24",
@@ -4428,7 +3549,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "b37658feef686889",
@@ -4446,7 +3567,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:09Z"
     },
     {
       "id": "3f1cbd8de823363f",
@@ -4464,7 +3585,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/258984/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "ef1db4902cb4fd49",
@@ -4482,7 +3603,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:12Z"
     },
     {
       "id": "befdb9ea79099419",
@@ -4500,7 +3621,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "10be52a5e0f99a40",
@@ -4518,7 +3639,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "c71c921088ec568e",
@@ -4536,7 +3657,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "bc56617b2dbeb19d",
@@ -4554,7 +3675,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "83f933ddc97cd8e2",
@@ -4572,7 +3693,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
+      "capturedAt": "2026-11-28T05:30:27Z"
     },
     {
       "id": "8e3c54f7c08fbc16",
@@ -4590,7 +3711,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:19Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "7ca9073c0eac2749",
@@ -4608,7 +3729,7 @@
       "pickerUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-11-27T05:30:03Z"
+      "capturedAt": "2026-11-28T05:30:03Z"
     },
     {
       "id": "c265f7ec704070a0",
@@ -4626,7 +3747,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/11-vo-20261129-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "90be4be08751e269",
@@ -4644,7 +3765,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "120481fecb4a30c1",
@@ -4662,7 +3783,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:09Z"
     },
     {
       "id": "46d98a1c34cce0bf",
@@ -4680,7 +3801,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "6c48919f51f6b345",
@@ -4698,7 +3819,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:43Z"
+      "capturedAt": "2026-11-28T05:30:39Z"
     },
     {
       "id": "f76522c04378119c",
@@ -4716,7 +3837,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
+      "capturedAt": "2026-11-28T05:30:39Z"
     },
     {
       "id": "7f896d9c4b090b9d",
@@ -4734,7 +3855,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "3afd959889e73b90",
@@ -4752,7 +3873,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "a7e19e22fab4e2b5",
@@ -4770,7 +3891,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "bc1ebd0fb9a4896d",
@@ -4788,7 +3909,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:24Z"
+      "capturedAt": "2026-11-28T05:30:23Z"
     },
     {
       "id": "f52205a64f61bd20",
@@ -4806,7 +3927,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94737",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-27T05:31:22Z"
+      "capturedAt": "2026-11-28T05:31:10Z"
     },
     {
       "id": "c8e8df386efbcc86",
@@ -4824,7 +3945,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "29e24e6beeeb8c95",
@@ -4842,7 +3963,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261130-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "216fac778077ee75",
@@ -4860,7 +3981,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/222953/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "2cab08df9f73bf36",
@@ -4878,7 +3999,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260582/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "4877c190644b3517",
@@ -4896,7 +4017,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:26Z"
+      "capturedAt": "2026-11-28T05:30:25Z"
     },
     {
       "id": "a1d324d77a68eedb",
@@ -4914,7 +4035,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:51Z"
+      "capturedAt": "2026-11-28T05:30:49Z"
     },
     {
       "id": "695d6b47f4525b74",
@@ -4932,7 +4053,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:46Z"
+      "capturedAt": "2026-11-28T05:30:45Z"
     },
     {
       "id": "f7ab5429fae8542b",
@@ -4950,7 +4071,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-violinista-vo-20261130-1615",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "58884136045df0c4",
@@ -4968,7 +4089,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "fd368ce13757247e",
@@ -4986,7 +4107,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "5bd776771de64e1a",
@@ -5004,7 +4125,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "5fc56a3dbc696417",
@@ -5022,7 +4143,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:44Z"
+      "capturedAt": "2026-11-28T05:30:40Z"
     },
     {
       "id": "71fa5f60ffe5ee9d",
@@ -5040,7 +4161,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70121/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "d5d1c2f3aeef27df",
@@ -5058,7 +4179,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "e7484bf0a86fb419",
@@ -5076,7 +4197,25 @@
       "pickerUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineplatjadaro.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:30Z"
+      "capturedAt": "2026-11-28T05:30:30Z"
+    },
+    {
+      "id": "a8051e6437ebb907",
+      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
+      "filmTitle": "Hechizo Bienvenidos A Hexe",
+      "cinemaId": "wc-033",
+      "cinemaSlug": "kinepolis-full-barcelona",
+      "cinemaName": "Kinepolis Full Barcelona",
+      "municipiSlug": "cornella-de-llobregat",
+      "municipiName": "Cornellà de Llobregat",
+      "sessionDate": "2026-11-30",
+      "sessionTime": "17:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://kinepolis.es/direct-vista-redirect/260587/0/PFULL/0",
+      "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260587/0/PFULL/0",
+      "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
+      "extractorType": "kinepolis-kovu",
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "9affa3c30b010026",
@@ -5094,7 +4233,7 @@
       "pickerUrl": "https://www.cinesfilmax.com/cartelera",
       "sourceUrl": "https://www.cinesfilmax.com/cartelera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:14Z"
+      "capturedAt": "2026-11-28T05:30:14Z"
     },
     {
       "id": "f7bb92732bcec62d",
@@ -5112,7 +4251,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70201/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "cbc99fc9d02b71cb",
@@ -5130,7 +4269,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:33Z"
+      "capturedAt": "2026-11-28T05:30:33Z"
     },
     {
       "id": "4cfb8a9e65ee75e3",
@@ -5148,7 +4287,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
+      "capturedAt": "2026-11-28T05:30:40Z"
     },
     {
       "id": "970427444776295f",
@@ -5166,7 +4305,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:09Z"
     },
     {
       "id": "7a8af3556d09c2a2",
@@ -5184,7 +4323,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:50Z"
+      "capturedAt": "2026-11-28T05:30:49Z"
     },
     {
       "id": "88d542ad0cf686c0",
@@ -5202,7 +4341,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "406f2e738f45aebd",
@@ -5220,7 +4359,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "4f973dbafc6f1312",
@@ -5238,7 +4377,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94671",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:10Z"
     },
     {
       "id": "7220babaa1f12efa",
@@ -5256,7 +4395,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "f81bc7c788fa0b1e",
@@ -5274,7 +4413,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "16a05417e6ceb4cd",
@@ -5292,7 +4431,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "a203aefe864c06db",
@@ -5310,7 +4449,25 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:09Z"
+    },
+    {
+      "id": "3f41c4ede8924463",
+      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
+      "filmTitle": "Hechizo Bienvenidos A Hexe",
+      "cinemaId": "wc-033",
+      "cinemaSlug": "kinepolis-full-barcelona",
+      "cinemaName": "Kinepolis Full Barcelona",
+      "municipiSlug": "cornella-de-llobregat",
+      "municipiName": "Cornellà de Llobregat",
+      "sessionDate": "2026-11-30",
+      "sessionTime": "19:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://kinepolis.es/direct-vista-redirect/260586/0/PFULL/0",
+      "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260586/0/PFULL/0",
+      "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
+      "extractorType": "kinepolis-kovu",
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "6b48e25eac68e0b9",
@@ -5328,7 +4485,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "1e54b8c866e980e8",
@@ -5346,7 +4503,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:19Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "5fdc5483ff8dac4c",
@@ -5364,7 +4521,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/redencion",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/redencion",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:38Z"
+      "capturedAt": "2026-11-28T05:30:38Z"
     },
     {
       "id": "2560dedb17f1d173",
@@ -5382,7 +4539,7 @@
       "pickerUrl": "https://circusa.com/ca/tarrega/",
       "sourceUrl": "https://circusa.com/ca/tarrega/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:09Z"
     },
     {
       "id": "9bc37b01a8364af3",
@@ -5400,7 +4557,7 @@
       "pickerUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-11-27T05:30:03Z"
+      "capturedAt": "2026-11-28T05:30:03Z"
     },
     {
       "id": "3cafa407d7d98f01",
@@ -5418,7 +4575,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "9a09071c3809d216",
@@ -5436,7 +4593,7 @@
       "pickerUrl": "https://circusa.com/ca/mollerussa/",
       "sourceUrl": "https://circusa.com/ca/mollerussa/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:31:20Z"
+      "capturedAt": "2026-11-28T05:31:08Z"
     },
     {
       "id": "dd56f87d4a8f3073",
@@ -5454,7 +4611,7 @@
       "pickerUrl": "https://cinebaixtaquilla81.com/",
       "sourceUrl": "https://cinebaix.com",
       "extractorType": "cinebaix-html",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:09Z"
     },
     {
       "id": "819591852bd345c8",
@@ -5472,7 +4629,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "277b4fe7f19bd44f",
@@ -5490,7 +4647,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/redencion",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/redencion",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:43Z"
+      "capturedAt": "2026-11-28T05:30:38Z"
     },
     {
       "id": "8550b510b1fac562",
@@ -5508,7 +4665,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:43Z"
+      "capturedAt": "2026-11-28T05:30:39Z"
     },
     {
       "id": "29cd6c484fa4cc6d",
@@ -5526,7 +4683,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
+      "capturedAt": "2026-11-28T05:30:39Z"
     },
     {
       "id": "a7ad2909b73189a0",
@@ -5544,7 +4701,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "04e821d67744d7b1",
@@ -5562,7 +4719,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "a63e66b14223196a",
@@ -5580,7 +4737,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "fe803f0a5946ec53",
@@ -5598,7 +4755,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "0f7ffd65592b8ac7",
@@ -5616,7 +4773,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261201-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "aec880e1569ecfca",
@@ -5634,7 +4791,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/223053/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "5352415396e502cb",
@@ -5652,7 +4809,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260593/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "62f329ad52c71d5d",
@@ -5670,7 +4827,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:26Z"
+      "capturedAt": "2026-11-28T05:30:25Z"
     },
     {
       "id": "d29fe07cea818d94",
@@ -5688,7 +4845,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:51Z"
+      "capturedAt": "2026-11-28T05:30:49Z"
     },
     {
       "id": "77f03d035d74c85f",
@@ -5706,7 +4863,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:46Z"
+      "capturedAt": "2026-11-28T05:30:45Z"
     },
     {
       "id": "f589969aef508e00",
@@ -5724,7 +4881,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "sourceUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "5e7ad7338d653b09",
@@ -5742,7 +4899,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "04ce8ad534d38d11",
@@ -5760,7 +4917,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "49e9208d15b1a5fc",
@@ -5778,7 +4935,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "0dad8aa3dec9d256",
@@ -5796,7 +4953,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:44Z"
+      "capturedAt": "2026-11-28T05:30:40Z"
     },
     {
       "id": "dc7d94e1cdf3383a",
@@ -5814,7 +4971,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "fcb813aefce0ec8f",
@@ -5832,7 +4989,25 @@
       "pickerUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineplatjadaro.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:30Z"
+      "capturedAt": "2026-11-28T05:30:30Z"
+    },
+    {
+      "id": "35d3469eb2b7834c",
+      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
+      "filmTitle": "Hechizo Bienvenidos A Hexe",
+      "cinemaId": "wc-033",
+      "cinemaSlug": "kinepolis-full-barcelona",
+      "cinemaName": "Kinepolis Full Barcelona",
+      "municipiSlug": "cornella-de-llobregat",
+      "municipiName": "Cornellà de Llobregat",
+      "sessionDate": "2026-12-01",
+      "sessionTime": "17:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://kinepolis.es/direct-vista-redirect/260599/0/PFULL/0",
+      "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260599/0/PFULL/0",
+      "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
+      "extractorType": "kinepolis-kovu",
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "e8e3f34de90ffa76",
@@ -5850,7 +5025,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70204/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "f696df627655ab22",
@@ -5868,7 +5043,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:33Z"
+      "capturedAt": "2026-11-28T05:30:33Z"
     },
     {
       "id": "b1bd47b6dc0612dd",
@@ -5886,7 +5061,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
+      "capturedAt": "2026-11-28T05:30:40Z"
     },
     {
       "id": "ae864f0faa1283f6",
@@ -5904,7 +5079,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "bb05e20d1aadfe54",
@@ -5922,7 +5097,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:50Z"
+      "capturedAt": "2026-11-28T05:30:49Z"
     },
     {
       "id": "85e35ecca954128e",
@@ -5940,7 +5115,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
+      "capturedAt": "2026-11-28T05:30:27Z"
     },
     {
       "id": "c99562334fa54d25",
@@ -5958,7 +5133,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "e97aae8ad71e9437",
@@ -5976,7 +5151,7 @@
       "pickerUrl": "https://www.zumzeigcine.coop/cinema/films/dones-muntanya/",
       "sourceUrl": "https://www.zumzeigcine.coop/cinema/calendari/",
       "extractorType": "zumzeig-html",
-      "capturedAt": "2026-11-27T05:31:29Z"
+      "capturedAt": "2026-11-28T05:31:20Z"
     },
     {
       "id": "140f7738f43b3172",
@@ -5994,7 +5169,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "98bdc3f6dda9039c",
@@ -6012,7 +5187,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "23837d519e8497ba",
@@ -6030,7 +5205,25 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
+    },
+    {
+      "id": "2cc8343576b5ddf2",
+      "filmSlug": "hechizo-bienvenidos-a-hexe-en-catala",
+      "filmTitle": "Hechizo Bienvenidos A Hexe",
+      "cinemaId": "wc-033",
+      "cinemaSlug": "kinepolis-full-barcelona",
+      "cinemaName": "Kinepolis Full Barcelona",
+      "municipiSlug": "cornella-de-llobregat",
+      "municipiName": "Cornellà de Llobregat",
+      "sessionDate": "2026-12-01",
+      "sessionTime": "19:30",
+      "languageLabel": "Català",
+      "bookingUrl": "https://kinepolis.es/direct-vista-redirect/260600/0/PFULL/0",
+      "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260600/0/PFULL/0",
+      "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
+      "extractorType": "kinepolis-kovu",
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "e1a1b4c641258d7a",
@@ -6048,7 +5241,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "453d58444f1a8db7",
@@ -6066,7 +5259,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:19Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "a6d3aa15ad5a7654",
@@ -6084,7 +5277,7 @@
       "pickerUrl": "https://circusa.com/ca/tarrega/",
       "sourceUrl": "https://circusa.com/ca/tarrega/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:09Z"
     },
     {
       "id": "c5a537f729985743",
@@ -6102,7 +5295,7 @@
       "pickerUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-11-27T05:30:03Z"
+      "capturedAt": "2026-11-28T05:30:03Z"
     },
     {
       "id": "7ca87b699c093e09",
@@ -6120,7 +5313,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261201-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:12Z"
+      "capturedAt": "2026-11-28T05:30:12Z"
     },
     {
       "id": "2857aab7398bc623",
@@ -6138,7 +5331,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261201-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:10Z"
     },
     {
       "id": "5f255274440492b6",
@@ -6156,7 +5349,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "2c4c9f4557541199",
@@ -6174,7 +5367,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "04dd6c7599a2efc0",
@@ -6192,7 +5385,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:43Z"
+      "capturedAt": "2026-11-28T05:30:39Z"
     },
     {
       "id": "3d73eff910065436",
@@ -6210,7 +5403,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
+      "capturedAt": "2026-11-28T05:30:39Z"
     },
     {
       "id": "1e76869d548d62c1",
@@ -6228,7 +5421,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "7b8d7b97c466013d",
@@ -6246,7 +5439,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "7f756423eb8f197b",
@@ -6264,7 +5457,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "07731e74e6a28af7",
@@ -6282,7 +5475,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:24Z"
+      "capturedAt": "2026-11-28T05:30:23Z"
     },
     {
       "id": "d4820181ec4f0853",
@@ -6300,7 +5493,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94738",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-27T05:31:22Z"
+      "capturedAt": "2026-11-28T05:31:10Z"
     },
     {
       "id": "08b4af7167d65d4e",
@@ -6318,7 +5511,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "0a55b10bdde2972e",
@@ -6336,7 +5529,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261202-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:10Z"
     },
     {
       "id": "c293d41f6c30adc1",
@@ -6354,7 +5547,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/223016/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "9554650912094a27",
@@ -6372,7 +5565,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260641/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "48d6384279adaed1",
@@ -6390,7 +5583,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:26Z"
+      "capturedAt": "2026-11-28T05:30:25Z"
     },
     {
       "id": "c034cf1053f761fd",
@@ -6408,7 +5601,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:51Z"
+      "capturedAt": "2026-11-28T05:30:49Z"
     },
     {
       "id": "cafc7caf93d018b9",
@@ -6426,7 +5619,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:46Z"
+      "capturedAt": "2026-11-28T05:30:45Z"
     },
     {
       "id": "91d0d7dadf2e6897",
@@ -6444,7 +5637,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "5d19ac9965481c4e",
@@ -6462,7 +5655,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "164b0ee5cc0c3e28",
@@ -6480,7 +5673,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "f5fa2cbbd006d151",
@@ -6498,7 +5691,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70174/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "b4678b13be46b20a",
@@ -6516,7 +5709,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:44Z"
+      "capturedAt": "2026-11-28T05:30:40Z"
     },
     {
       "id": "a69bd4a64c3f9d5d",
@@ -6534,7 +5727,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "7bffb9dbb717036c",
@@ -6552,7 +5745,7 @@
       "pickerUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineplatjadaro.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:30Z"
+      "capturedAt": "2026-11-28T05:30:30Z"
     },
     {
       "id": "f5aabcb1850267ca",
@@ -6570,7 +5763,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260647/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "1c977f1477b38afa",
@@ -6588,7 +5781,7 @@
       "pickerUrl": "https://www.cinesfilmax.com/cartelera",
       "sourceUrl": "https://www.cinesfilmax.com/cartelera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:14Z"
+      "capturedAt": "2026-11-28T05:30:14Z"
     },
     {
       "id": "1e2505dd821e13ff",
@@ -6606,7 +5799,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70206/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "faab3e6c4bd910df",
@@ -6624,7 +5817,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:12Z"
     },
     {
       "id": "db2df4fb96405162",
@@ -6642,7 +5835,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:33Z"
+      "capturedAt": "2026-11-28T05:30:33Z"
     },
     {
       "id": "fcb6975dc4f5ec62",
@@ -6660,7 +5853,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
+      "capturedAt": "2026-11-28T05:30:40Z"
     },
     {
       "id": "fd829db6b3b5a1df",
@@ -6678,7 +5871,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:50Z"
+      "capturedAt": "2026-11-28T05:30:49Z"
     },
     {
       "id": "1fb8d83c4540f289",
@@ -6696,7 +5889,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
+      "capturedAt": "2026-11-28T05:30:27Z"
     },
     {
       "id": "a301943efa974430",
@@ -6714,7 +5907,7 @@
       "pickerUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-11-27T05:30:03Z"
+      "capturedAt": "2026-11-28T05:30:03Z"
     },
     {
       "id": "d1d2f78294bf235f",
@@ -6732,7 +5925,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "d8564e10cc0c4c01",
@@ -6750,7 +5943,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261202-0000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:10Z"
+      "capturedAt": "2026-11-28T05:30:10Z"
     },
     {
       "id": "db1c6b308ea21f00",
@@ -6768,7 +5961,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "7e4b5fb0abf91540",
@@ -6786,7 +5979,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:12Z"
     },
     {
       "id": "bde686c2030480a7",
@@ -6804,7 +5997,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "565be9f96c0f2067",
@@ -6822,7 +6015,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "ecbef2386d30ee7b",
@@ -6840,7 +6033,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "df4597058c18b37e",
@@ -6858,7 +6051,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
+      "capturedAt": "2026-11-28T05:30:27Z"
     },
     {
       "id": "5ce6614b5eaeb7cf",
@@ -6876,7 +6069,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260648/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "a1b1da94cea3a7b9",
@@ -6894,7 +6087,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "1c294f146595dbc3",
@@ -6912,7 +6105,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:19Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "586c4fd3511eda0e",
@@ -6930,7 +6123,7 @@
       "pickerUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-11-27T05:30:03Z"
+      "capturedAt": "2026-11-28T05:30:03Z"
     },
     {
       "id": "0d042398a04f961a",
@@ -6948,7 +6141,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/dones-muntanya-vo-20261202-2030",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:12Z"
+      "capturedAt": "2026-11-28T05:30:12Z"
     },
     {
       "id": "ae57e137d36912df",
@@ -6966,7 +6159,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "6de48aa206a7f009",
@@ -6984,7 +6177,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:12Z"
     },
     {
       "id": "befe1e6af59f5e63",
@@ -7002,7 +6195,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "ba572859c7a300f0",
@@ -7020,7 +6213,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:43Z"
+      "capturedAt": "2026-11-28T05:30:39Z"
     },
     {
       "id": "7e9d7e9b53398eea",
@@ -7038,7 +6231,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
+      "capturedAt": "2026-11-28T05:30:39Z"
     },
     {
       "id": "c044d9ed1e691545",
@@ -7056,7 +6249,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "b65434b940140041",
@@ -7074,7 +6267,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "fcea1c623f71ee4c",
@@ -7092,7 +6285,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "4209507e34b42261",
@@ -7110,7 +6303,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:25Z"
+      "capturedAt": "2026-11-28T05:30:23Z"
     },
     {
       "id": "675590c7dd53f78c",
@@ -7128,7 +6321,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94739",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-27T05:31:22Z"
+      "capturedAt": "2026-11-28T05:31:10Z"
     },
     {
       "id": "7ceb16993dfab875",
@@ -7146,7 +6339,7 @@
       "pickerUrl": "https://cineyelmo.com/es?cinema=westfield-la-maquinista-barcelona",
       "sourceUrl": "https://api-g.cinepolis.com/v2/billboards/graphql",
       "extractorType": "chain-yelmo",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "389da35d2afdfa04",
@@ -7164,7 +6357,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/cronos-vo-20261203-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:12Z"
+      "capturedAt": "2026-11-28T05:30:12Z"
     },
     {
       "id": "0575bdc70c36ea37",
@@ -7182,7 +6375,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/la-invasio-dels-barbars-vo-20261203-1600",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:12Z"
+      "capturedAt": "2026-11-28T05:30:12Z"
     },
     {
       "id": "4b8b89870c987b28",
@@ -7200,7 +6393,7 @@
       "pickerUrl": "https://verdibcn.admit-one.eu/seats/223009/",
       "sourceUrl": "https://barcelona.cines-verdi.com/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:43Z"
     },
     {
       "id": "a6888f60da9bb0cb",
@@ -7218,7 +6411,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260691/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "fe80c9da1ed85f19",
@@ -7236,7 +6429,7 @@
       "pickerUrl": "https://tickets.ocinegirona.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegirona.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:26Z"
+      "capturedAt": "2026-11-28T05:30:25Z"
     },
     {
       "id": "6cb08caee8e69043",
@@ -7254,7 +6447,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:51Z"
+      "capturedAt": "2026-11-28T05:30:49Z"
     },
     {
       "id": "237e5a1abad1ee77",
@@ -7272,7 +6465,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/willow-y-las-guardianas-de-los-4-elementos",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:46Z"
+      "capturedAt": "2026-11-28T05:30:45Z"
     },
     {
       "id": "1febc4c1b5989606",
@@ -7290,7 +6483,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94669",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:10Z"
     },
     {
       "id": "d30780617bf1dd23",
@@ -7308,7 +6501,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "2774aabbae50b37e",
@@ -7326,7 +6519,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "954e712f4820a42b",
@@ -7344,7 +6537,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "5a6a3a93e296b600",
@@ -7362,7 +6555,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/hechizo-bienvenidos-a-hexe",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:44Z"
+      "capturedAt": "2026-11-28T05:30:40Z"
     },
     {
       "id": "4a9b1a85679db270",
@@ -7380,7 +6573,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "ea9e8bdc591dbe4b",
@@ -7398,7 +6591,7 @@
       "pickerUrl": "https://tickets.ocineplatjadaro.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineplatjadaro.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:30Z"
+      "capturedAt": "2026-11-28T05:30:30Z"
     },
     {
       "id": "5552208937416f39",
@@ -7416,7 +6609,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260697/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "e7e235ee5a75712b",
@@ -7434,7 +6627,7 @@
       "pickerUrl": "https://www.cinesfilmax.com/cartelera",
       "sourceUrl": "https://www.cinesfilmax.com/cartelera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:14Z"
+      "capturedAt": "2026-11-28T05:30:14Z"
     },
     {
       "id": "09cc0af78e9a5fa6",
@@ -7452,7 +6645,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/70215/0/ESMAT/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-mataro",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:17Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "5b1d8854986e0423",
@@ -7470,7 +6663,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:12Z"
     },
     {
       "id": "d36da22d05b2743f",
@@ -7488,7 +6681,7 @@
       "pickerUrl": "https://tickets.ocineroquetes.es/?idioma=ca#/DetallPelicula/10900",
       "sourceUrl": "https://tickets.ocineroquetes.es/api/v1/pelicula/10900?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:33Z"
+      "capturedAt": "2026-11-28T05:30:33Z"
     },
     {
       "id": "678373a4c5c6bbc3",
@@ -7506,7 +6699,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/hechizo-bienvenidos-a-hexe",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
+      "capturedAt": "2026-11-28T05:30:40Z"
     },
     {
       "id": "200cba79485ca643",
@@ -7524,7 +6717,7 @@
       "pickerUrl": "https://tickets.ocinegavarres.es/?idioma=ca#/DetallPelicula/10863",
       "sourceUrl": "https://tickets.ocinegavarres.es/api/v1/pelicula/10863?lang=ca",
       "extractorType": "chain-ocine",
-      "capturedAt": "2026-11-27T05:30:50Z"
+      "capturedAt": "2026-11-28T05:30:49Z"
     },
     {
       "id": "16ad62dff4728f8a",
@@ -7542,7 +6735,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
+      "capturedAt": "2026-11-28T05:30:27Z"
     },
     {
       "id": "b811ba92f8417390",
@@ -7560,7 +6753,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/sucia.-per-que-no-vas-fer-res-vo-20261203-1745",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:12Z"
+      "capturedAt": "2026-11-28T05:30:12Z"
     },
     {
       "id": "dbc28cebb2a1dd81",
@@ -7578,7 +6771,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "9c5ec5cb32ad058b",
@@ -7596,7 +6789,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "ecc5c2f231040f27",
@@ -7614,7 +6807,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:12Z"
     },
     {
       "id": "b023d23d74e549b4",
@@ -7632,7 +6825,7 @@
       "pickerUrl": "https://tickets.cinesimperial.com:5443/?idioma=ca#/DetallPelicula/6079",
       "sourceUrl": "https://tickets.cinesimperial.com:5443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:30:06Z"
+      "capturedAt": "2026-11-28T05:30:06Z"
     },
     {
       "id": "ece03d4b2b65891a",
@@ -7650,7 +6843,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "f6905f558eacef54",
@@ -7668,7 +6861,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "d43e6bfe8ca42902",
@@ -7686,7 +6879,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "sourceUrl": "https://jcacinemes.com/cartellera/hechizo_-bienvenidos-a-hexe/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:38Z"
+      "capturedAt": "2026-11-28T05:30:27Z"
     },
     {
       "id": "f3f289f260791bf0",
@@ -7704,7 +6897,7 @@
       "pickerUrl": "https://kinepolis.es/direct-vista-redirect/260698/0/PFULL/0",
       "sourceUrl": "https://kovufilms.com/ca/cines/kinepolis-splau",
       "extractorType": "kinepolis-kovu",
-      "capturedAt": "2026-11-27T05:30:16Z"
+      "capturedAt": "2026-11-28T05:30:18Z"
     },
     {
       "id": "0a7c7453a62439d6",
@@ -7722,7 +6915,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "ebb5ebc9ae0ffe6f",
@@ -7740,7 +6933,7 @@
       "pickerUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "sourceUrl": "https://www.sucrecines.com/es/vic/cartellera",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:19Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "edda919a9e67745b",
@@ -7758,7 +6951,7 @@
       "pickerUrl": "https://www.cinemaesbarjo.cat/un-altre-home-10-11-i-12-dabril/",
       "sourceUrl": "https://www.cinemaesbarjo.cat/un-altre-home-10-11-i-12-dabril/",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:31:32Z"
+      "capturedAt": "2026-11-28T05:31:20Z"
     },
     {
       "id": "d49710fd4c216f56",
@@ -7776,7 +6969,7 @@
       "pickerUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "sourceUrl": "https://www.compraentradas.com/PeliculaCine/55/cinemes-amposta-11-sales/16776/redencion",
       "extractorType": "ticketing-compraentradas",
-      "capturedAt": "2026-11-27T05:30:04Z"
+      "capturedAt": "2026-11-28T05:30:04Z"
     },
     {
       "id": "bde779a9845dce45",
@@ -7794,7 +6987,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "7c76a9bed3efa400",
@@ -7812,7 +7005,7 @@
       "pickerUrl": "https://tickets.cinesolot.cat:8443/?idioma=ca#/DetallPelicula/4607",
       "sourceUrl": "https://tickets.cinesolot.cat:8443/api/v1/sessions",
       "extractorType": "ticketing-webtpv",
-      "capturedAt": "2026-11-27T05:31:24Z"
+      "capturedAt": "2026-11-28T05:31:12Z"
     },
     {
       "id": "0f0bbabb175df71a",
@@ -7830,7 +7023,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:11Z"
+      "capturedAt": "2026-11-28T05:30:11Z"
     },
     {
       "id": "952d4db30f6796e1",
@@ -7848,7 +7041,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
       "sourceUrl": "https://odeonmulticines.com/odeon-vilanova/producto/sanguine",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:43Z"
+      "capturedAt": "2026-11-28T05:30:39Z"
     },
     {
       "id": "5f142121416f4bb2",
@@ -7866,7 +7059,7 @@
       "pickerUrl": "https://screenbox.koobin.cat/?action=PU_evento&Ev_id=94488",
       "sourceUrl": "https://www.screenbox.cat/programacio",
       "extractorType": "screenbox-mixed",
-      "capturedAt": "2026-11-27T05:31:21Z"
+      "capturedAt": "2026-11-28T05:31:10Z"
     },
     {
       "id": "91353dad81f96528",
@@ -7884,7 +7077,7 @@
       "pickerUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
       "sourceUrl": "https://odeonmulticines.com/odeon-girona/producto/sanguine",
       "extractorType": "chain-odeon",
-      "capturedAt": "2026-11-27T05:30:39Z"
+      "capturedAt": "2026-11-28T05:30:39Z"
     },
     {
       "id": "447b97dbb4468fd3",
@@ -7902,7 +7095,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Diagonal",
       "sourceUrl": "https://www.cinesa.es/Cines/Diagonal",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "2d69f63ff4c2e03f",
@@ -7920,7 +7113,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "sourceUrl": "https://www.cinesa.es/Cines/diagonal-mar",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:08Z"
     },
     {
       "id": "ac7e3700ff819a48",
@@ -7938,7 +7131,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "sourceUrl": "https://www.cinesa.es/Cines/SOM-Multiespai",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:13Z"
+      "capturedAt": "2026-11-28T05:30:13Z"
     },
     {
       "id": "b7c411818164a667",
@@ -7956,7 +7149,7 @@
       "pickerUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "sourceUrl": "https://www.cinesa.es/Cines/Parc-Valles",
       "extractorType": "chain-cinesa",
-      "capturedAt": "2026-11-27T05:30:25Z"
+      "capturedAt": "2026-11-28T05:30:23Z"
     },
     {
       "id": "b417a2c4239c127f",
@@ -7974,7 +7167,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "sourceUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "0c29fe6428ce4298",
@@ -7992,7 +7185,7 @@
       "pickerUrl": "https://www.cinemalacalandria.com/sessions/cartellera/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://www.cinemalacalandria.com/sessions/cartellera/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:20Z"
+      "capturedAt": "2026-11-28T05:30:21Z"
     },
     {
       "id": "3b3fdeb05b580d1f",
@@ -8010,7 +7203,7 @@
       "pickerUrl": "https://www.cinemalacalandria.com/sessions/cartellera/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://www.cinemalacalandria.com/sessions/cartellera/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:20Z"
+      "capturedAt": "2026-11-28T05:30:21Z"
     },
     {
       "id": "72fc5a13d4d7397b",
@@ -8028,7 +7221,7 @@
       "pickerUrl": "https://circusa.com/ca/guissona/",
       "sourceUrl": "https://circusa.com/ca/guissona/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:31:02Z"
+      "capturedAt": "2026-11-28T05:30:50Z"
     },
     {
       "id": "eb4d6c6f14710ce6",
@@ -8046,7 +7239,7 @@
       "pickerUrl": "https://www.reservaentradas.com/sesiones/catalunya/itinerantscat/willow-i-les-guardianes-dels-quatre-elements-guissona/61/",
       "sourceUrl": "https://www.reservaentradas.com/sesiones/catalunya/itinerantscat/willow-i-les-guardianes-dels-quatre-elements-guissona/61/",
       "extractorType": "ticketing-circusa",
-      "capturedAt": "2026-11-27T05:31:06Z"
+      "capturedAt": "2026-11-28T05:30:54Z"
     },
     {
       "id": "a37e8a76825645af",
@@ -8064,7 +7257,7 @@
       "pickerUrl": "https://www.falset.org/sites/default/files/diapositives/documents/agenda_tardor_falset_26.pdf",
       "sourceUrl": "https://www.falset.org/sites/default/files/diapositives/documents/agenda_tardor_falset_26.pdf",
       "extractorType": "falset-pdf",
-      "capturedAt": "2026-11-27T05:30:57Z"
+      "capturedAt": "2026-11-28T05:30:46Z"
     },
     {
       "id": "a40b2729dd5c47ad",
@@ -8082,7 +7275,7 @@
       "pickerUrl": "https://cineclubvila.cat/film/10a-edicio-festival-omnium-de-cinema-sessio-1/2026-12-05/",
       "sourceUrl": "https://www.cineclubvila.cat",
       "extractorType": "cineclubvila-html",
-      "capturedAt": "2026-11-27T05:31:14Z"
+      "capturedAt": "2026-11-28T05:31:02Z"
     },
     {
       "id": "d98f0d22cf1ea6f1",
@@ -8100,7 +7293,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "sourceUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "2bd3508a86f7b2c7",
@@ -8118,7 +7311,7 @@
       "pickerUrl": "https://www.falset.org/sites/default/files/diapositives/documents/agenda_tardor_falset_26.pdf",
       "sourceUrl": "https://www.falset.org/sites/default/files/diapositives/documents/agenda_tardor_falset_26.pdf",
       "extractorType": "falset-pdf",
-      "capturedAt": "2026-11-27T05:30:57Z"
+      "capturedAt": "2026-11-28T05:30:46Z"
     },
     {
       "id": "b2b641241186300c",
@@ -8136,7 +7329,7 @@
       "pickerUrl": "https://cineclubvila.cat/film/10a-edicio-festival-omnium-de-cinema-sessio-2/2026-12-06/",
       "sourceUrl": "https://www.cineclubvila.cat",
       "extractorType": "cineclubvila-html",
-      "capturedAt": "2026-11-27T05:31:15Z"
+      "capturedAt": "2026-11-28T05:31:03Z"
     },
     {
       "id": "edd7cc44764f152e",
@@ -8154,7 +7347,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "sourceUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "16a2d45519f093cd",
@@ -8172,7 +7365,7 @@
       "pickerUrl": "https://www.cinemalacalandria.com/sessions/cartellera/hechizo-bienvenidos-a-hexe",
       "sourceUrl": "https://www.cinemalacalandria.com/sessions/cartellera/hechizo-bienvenidos-a-hexe",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:20Z"
+      "capturedAt": "2026-11-28T05:30:21Z"
     },
     {
       "id": "ff72925603ee128e",
@@ -8190,7 +7383,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "sourceUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "9993e751a68c08e6",
@@ -8208,7 +7401,7 @@
       "pickerUrl": "https://espaitexas.koobin.cat/ca/eixam-vo-20261210-2000",
       "sourceUrl": "https://espaitexas.cat",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:12Z"
+      "capturedAt": "2026-11-28T05:30:12Z"
     },
     {
       "id": "9cda3fc958a85517",
@@ -8226,7 +7419,7 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/momies-(cinc)/",
       "sourceUrl": "https://jcacinemes.com/cartellera/momies-(cinc)/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:47Z"
+      "capturedAt": "2026-11-28T05:30:29Z"
     },
     {
       "id": "cbedfa18ea80bfe5",
@@ -8244,7 +7437,7 @@
       "pickerUrl": "https://euromus.cultura.gencat.cat/filmoteca/venda/index.jsp?lang=1&nom_cache=FILMOTECA&property=FILMOTECA&codiActiv=959&codiCicle=109",
       "sourceUrl": "https://www.filmoteca.cat/web/ca/film/ernest-i-celestine-contes-dhivern-0",
       "extractorType": "filmoteca-html",
-      "capturedAt": "2026-11-27T05:31:36Z"
+      "capturedAt": "2026-11-28T05:31:26Z"
     },
     {
       "id": "6c81e1ed6de14faf",
@@ -8262,7 +7455,7 @@
       "pickerUrl": "https://www.moobycinemas.com",
       "sourceUrl": "https://www.moobycinemas.com",
       "extractorType": "chain-mooby",
-      "capturedAt": "2026-11-27T05:30:18Z"
+      "capturedAt": "2026-11-28T05:30:19Z"
     },
     {
       "id": "be7bb027e6f75c87",
@@ -8280,7 +7473,7 @@
       "pickerUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "sourceUrl": "https://www.cinemesgirona.cat/un-arbre-es-un-arbre",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:07Z"
+      "capturedAt": "2026-11-28T05:30:07Z"
     },
     {
       "id": "1419f1b051b881c0",
@@ -8298,7 +7491,7 @@
       "pickerUrl": "https://cinemamontgri.cat/encanteri/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-27T05:31:33Z"
+      "capturedAt": "2026-11-28T05:31:20Z"
     },
     {
       "id": "1846a5232b122050",
@@ -8316,7 +7509,7 @@
       "pickerUrl": "https://cinemamontgri.cat/encanteri/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-27T05:31:33Z"
+      "capturedAt": "2026-11-28T05:31:20Z"
     },
     {
       "id": "bdc3b74eef0071f2",
@@ -8334,7 +7527,7 @@
       "pickerUrl": "https://cinemamontgri.cat/encanteri/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-27T05:31:33Z"
+      "capturedAt": "2026-11-28T05:31:20Z"
     },
     {
       "id": "e5c642562cd933e1",
@@ -8352,7 +7545,25 @@
       "pickerUrl": "https://cinemamontgri.cat/encanteri/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-27T05:31:33Z"
+      "capturedAt": "2026-11-28T05:31:20Z"
+    },
+    {
+      "id": "088f06d477ae6e4c",
+      "filmSlug": "buffalo-en-catala",
+      "filmTitle": "Buffalo",
+      "cinemaId": "wc-030",
+      "cinemaSlug": "jca-cinemes-alpicat",
+      "cinemaName": "JCA Cinemes Alpicat",
+      "municipiSlug": "alpicat",
+      "municipiName": "Alpicat",
+      "sessionDate": "2026-12-28",
+      "sessionTime": "18:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=312039",
+      "pickerUrl": "https://jcacinemes.com/cartellera/buffalo-kids-(cinc)/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/buffalo-kids-(cinc)/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-11-28T05:30:31Z"
     },
     {
       "id": "cda86f28e867f3b9",
@@ -8370,7 +7581,7 @@
       "pickerUrl": "https://cinemamontgri.cat/encanteri/",
       "sourceUrl": "https://cinemamontgri.cat/programacio/",
       "extractorType": "cinema-montgri-html",
-      "capturedAt": "2026-11-27T05:31:33Z"
+      "capturedAt": "2026-11-28T05:31:20Z"
     },
     {
       "id": "ca3dec0e91e2b076",
@@ -8388,7 +7599,7 @@
       "pickerUrl": "https://cinemaedison.koobin.com/ca/ara-que-estem-junts---glosa-caustica-20261229-2000",
       "sourceUrl": "https://cinemaedison.cat/cartellera/",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:05Z"
     },
     {
       "id": "a3112c670f94ce3a",
@@ -8406,7 +7617,25 @@
       "pickerUrl": "https://jcacinemes.com/cartellera/dc-lliga-de-supermascotes-(cinc)/",
       "sourceUrl": "https://jcacinemes.com/cartellera/dc-lliga-de-supermascotes-(cinc)/",
       "extractorType": "chain-jca",
-      "capturedAt": "2026-11-27T05:30:47Z"
+      "capturedAt": "2026-11-28T05:30:30Z"
+    },
+    {
+      "id": "2722530c2c989c9d",
+      "filmSlug": "una-pel-licula-de-minecraft-en-catala",
+      "filmTitle": "Una Pel Licula De Minecraft",
+      "cinemaId": "wc-030",
+      "cinemaSlug": "jca-cinemes-alpicat",
+      "cinemaName": "JCA Cinemes Alpicat",
+      "municipiSlug": "alpicat",
+      "municipiName": "Alpicat",
+      "sessionDate": "2027-01-16",
+      "sessionTime": "18:00",
+      "languageLabel": "Català",
+      "bookingUrl": "https://jcacinemes-alpicat.admit-one.eu/?p=tickets&perfCode=312041",
+      "pickerUrl": "https://jcacinemes.com/cartellera/una-pel·licula-de-minecraft-(cinc)/",
+      "sourceUrl": "https://jcacinemes.com/cartellera/una-pel·licula-de-minecraft-(cinc)/",
+      "extractorType": "chain-jca",
+      "capturedAt": "2026-11-28T05:30:30Z"
     },
     {
       "id": "3abb22cde1c98abb",
@@ -8424,7 +7653,7 @@
       "pickerUrl": "https://cinemaedison.koobin.com/sondheim",
       "sourceUrl": "https://cinemaedison.cat/cartellera/",
       "extractorType": "html-static",
-      "capturedAt": "2026-11-27T05:30:05Z"
+      "capturedAt": "2026-11-28T05:30:05Z"
     }
   ],
   "sourceIssues": [
